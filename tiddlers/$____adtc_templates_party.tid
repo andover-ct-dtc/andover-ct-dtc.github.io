@@ -1,0 +1,11 @@
+created: 20230817190037957
+modified: 20230821021558572
+revision: 0
+tags: $:/tags/ViewTemplate
+title: $:/_/adtc/templates/party
+type: text/vnd.tiddlywiki
+
+<$list filter="[<currentTiddler>tag[Party]first[]]" variable="_">
+<h2>Members</h2>
+<<list-links filter:"[tag[People]party<currentTiddler>!is[draft]]" >>
+</$list>

@@ -1,0 +1,15 @@
+caption: Article V: Terms, Duties, Changes
+created: 20230819024854731
+doc-subtype: article
+full-title: Article V: ADTC Terms of Office, Duties of Offices, Changes in Office
+modified: 20230819030832533
+revision: 0
+tags: Bylaws
+title: Bylaws/Article V
+type: text/vnd.tiddlywiki
+
+!! Article V: ADTC Terms of Office, Duties of Offices, Changes in Office
+
+<$list filter="[tag<currentTiddler>!has[draft.of]]">
+<$transclude tiddler=<<currentTiddler>> mode="block"/>
+</$list>

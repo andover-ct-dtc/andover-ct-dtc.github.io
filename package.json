@@ -1,0 +1,28 @@
+{
+  "name": "andover-ct-dems",
+  "version": "0.2.0",
+  "description": "Notes for the Andover (CT) Democratic Town Committee",
+  "main": "index.js",
+  "scripts": {
+    "pkg": "cross-var echo Package $npm_package_version",
+    "build": "cross-var tiddlywiki . --output docs/latest --build index",
+    "release": "cross-var tiddlywiki . --output docs --build index && cross-var shx mkdir -p docs/$npm_package_version && cross-var shx cp docs/index.html docs/$npm_package_version/index.html",
+    "start": "tiddlywiki . --listen port=7420"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andover-ct-dtc/andover-ct-dtc.github.io.git"
+  },
+  "keywords": [
+    "Andover", "Democrats",
+    "Town Committee"
+  ],
+  "author": "Scott Sauyet",
+  "license": "MIT",
+  "homepage": "https://dtc.andoverct.info",
+  "devDependencies": {
+    "cross-var": "^1.1.0",
+    "shx": "^0.3.4",
+    "tiddlywiki": "^5.3.1"
+  }
+}

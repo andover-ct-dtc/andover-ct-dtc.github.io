@@ -1,0 +1,10 @@
+created: 20230817203604668
+modified: 20230821195618248
+revision: 1
+tags: Data
+title: People
+type: text/vnd.tiddlywiki
+
+<$let compare-by-last-name="[{!!last-name}] [{!!first-name}] +[join[, ]]">
+
+<<list-links filter:[tag<currentTiddler>sortsub:string<compare-by-last-name>] >>
