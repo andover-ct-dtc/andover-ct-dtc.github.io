@@ -1,6 +1,6 @@
 {
   "name": "andover-ct-dems",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Notes for the Andover (CT) Democratic Town Committee",
   "main": "index.js",
   "scripts": {
