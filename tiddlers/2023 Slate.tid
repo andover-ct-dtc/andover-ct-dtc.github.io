@@ -1,6 +1,5 @@
-created: 20230821020704733
-modified: 20230822131441549
-revision: 0
+created: 20230823184446659
+modified: 20230823220800130
 tags: TableOfContents
 title: 2023 Slate
 type: text/vnd.tiddlywiki
@@ -11,7 +10,7 @@ type: text/vnd.tiddlywiki
   </thead>
   <tbody>
 <$list filter='[tag[Elected Positions]org-type[elected]]' variable="pos">
-  <tr><th>{{{ [<pos>get[title]] }}}</th><$list filter="[tag[Party]] :filter[all[tiddlers]tag[Candidacy]party<currentTiddler>]" variable="party"><td class={{{ [<party>get[title]] }}}><<list-links filter:"[tag[Candidacy]!has[draft.of]party<party>organization<pos>] :map[get[name]] +[sort[last-name]]" >></td></$list></tr>
+  <tr><th>{{{ [<pos>get[title]] }}}</th><$list filter="[tag[Party]] :filter[all[tiddlers]tag[Candidacy]party<currentTiddler>]" variable="party"><td class={{{ [<party>get[title]] }}}><$list filter="[tag[Candidacy]!has[draft.of]party<party>organization<pos>] :map[get[name]] +[sort[last-name]]" ><$link>{{{ [<currentTiddler>] }}} <$list filter="[<currentTiddler>has[avatar]]"><$image class="mini avatar" source={{{ [<currentTiddler>get[avatar]] }}} /></$list></$link><br/></$list></td></$list></tr>
 </$list>
   </tbody>
 </table>

@@ -1,9 +1,0 @@
-caption: Parties
-created: 20230817192843626
-modified: 20230821195654679
-revision: 1
-tags: Data
-title: Party
-type: text/vnd.tiddlywiki
-
-<<list-links filter:[tag<currentTiddler>] >>

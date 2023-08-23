@@ -1,8 +1,0 @@
-created: 20230113141655339
-modified: 20230818133816006
-revision: 0
-tags: $:/tags/Macro
-title: $:/_/adtc/macros/docs
-type: text/vnd.tiddlywiki
-
-\define icon(_) <span class="doc-icon">{{$_$}}</span>

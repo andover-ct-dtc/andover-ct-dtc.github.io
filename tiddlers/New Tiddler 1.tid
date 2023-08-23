@@ -1,0 +1,13 @@
+created: 20230823125647552
+modified: 20230823150535030
+revision: 4
+tags: 
+title: New Tiddler 1
+
+[img class="round" [GerryCreme.jpg]]
+
+<style>
+img.round {
+  border-radius: 50%
+}
+</style>

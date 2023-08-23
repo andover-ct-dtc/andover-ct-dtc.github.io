@@ -24,3 +24,7 @@ table.candidates td.Independent, table.party tr.Independent td {background: #f8e
 table.candidates th.Democratic {background: #90c9f8;}
 table.candidates th.Republican {background: #fcc;}
 table.candidates th.Independent {background: #d8ccd8;}
+
+div.avatar {float: right; margin-top: -1em;}
+div.avatar img {border-radius: 50%; width: 150px; border: 2px solid #ccc}
+img.mini.avatar {border-radius: 50%; width: 2em; border: 1px solid #ccc; vertical-align: middle;}
