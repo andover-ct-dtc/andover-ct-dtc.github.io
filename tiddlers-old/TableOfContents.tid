@@ -1,0 +1,15 @@
+caption: Contents
+created: 20180926191321993
+list: Welcome [[2023 Slate]] Campaign Data Organizations Party Legal Miscellaneous
+list-before: $:/core/ui/SideBar/Open
+modified: 20230821195636043
+revision: 1
+tags: $:/tags/SideBar
+title: TableOfContents
+type: text/vnd.tiddlywiki
+
+<div class="tc-table-of-contents">
+
+<<toc-selective-expandable 'TableOfContents' exclude:"[has[excludeTOC]]">>
+
+</div>

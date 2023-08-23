@@ -1,0 +1,14 @@
+caption: Article VI: By-Laws and Amendments
+created: 20230819031011313
+doc-subtype: article
+modified: 20230819031110282
+revision: 0
+tags: Bylaws
+title: Bylaws/Article VI
+type: text/vnd.tiddlywiki
+
+!! Article VI: By-Laws and Amendments
+
+<$list filter="[tag<currentTiddler>!has[draft.of]]">
+<$transclude tiddler=<<currentTiddler>> mode="block"/>
+</$list>

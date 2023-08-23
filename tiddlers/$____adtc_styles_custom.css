@@ -18,9 +18,9 @@ div[data-tiddler-title^="Bylaws"] .tc-tiddler-body h3  {font-weight: 600;}
 table.candidates ul {list-style: none; padding-left: 0;}
 table.candidates td, table.candidates th {border: 1px solid #ccc; text-align: left;}
 table.candidates thead th {font-size: 1.25em; padding: .5em;}
-table.candidates td.Democratic {background: #C8E4FA;}
-table.candidates td.Republican {background: #fee;}
-table.candidates td.Independent {background: #f8eef8;}
+table.candidates td.Democratic, table.party tr.Democratic td {background: #C8E4FA;}
+table.candidates td.Republican, table.party tr.Republican td {background: #fee;}
+table.candidates td.Independent, table.party tr.Independent td {background: #f8eef8;}
 table.candidates th.Democratic {background: #90c9f8;}
 table.candidates th.Republican {background: #fcc;}
 table.candidates th.Independent {background: #d8ccd8;}
