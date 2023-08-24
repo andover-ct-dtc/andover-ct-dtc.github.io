@@ -1,11 +1,11 @@
 created: 20230817203604668
-modified: 20230823233554697
+modified: 20230824223320393
 tags: Data TableOfContents
 title: People
 type: text/vnd.tiddlywiki
 
-<$let compare-by-last-name="[{!!last-name}] [{!!first-name}] +[join[, ]]">
+<$let by-last="[{!!last-name}] [{!!first-name}] +[join[, ]]">
 
 <div style="column-width: 12em">
-<<list-links filter:[tag<currentTiddler>sortsub:string<compare-by-last-name>] >>
+<<list-links filter:[tag<currentTiddler>sortsub:string<by-last>] >>
 </div>
