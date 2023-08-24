@@ -1,16 +1,19 @@
 created: 20230824001224099
-modified: 20230824001244834
+modified: 20230824021221640
 title: Women Candidates
 type: text/vnd.tiddlywiki
 
 <$let compare-by-last-name="[{!!last-name}] [{!!first-name}] +[join[, ]]">
 
 <hr/>
-<$list filter="[[Linda L. Armstrong]] [[Anne Crème]] [[Louise Goodwin]] [[Caitlin Greenhouse]] [[Kim Hawes]] [[Shannon Louden]] [[Emily Timrick]] +[sortsub:string<compare-by-last-name>]">
+<$list filter="[[Linda L. Armstrong]] [[Anne Crème]] [[Louise Goodwin]] [[Caitlin Greenhouse]] [[Kirsten Erlandsen]] [[Kim Hawes]] [[Shannon Louden]] [[Annmarie Daigle]] [[Emily Timrick]] [[Catherine Crème]] [[Carol Lee]] +[sortsub:string<compare-by-last-name>]">
   <h2><$link /></h2>
+   <$list filter="[<currentTiddler>has[text]]">
   <$list filter="[<currentTiddler>has[avatar]" variable="_">
   <div class="avatar"><$image source={{{ [<currentTiddler>get[avatar]] }}} /></div>
   </$list>
   <$transclude mode="block"/>
+  </$list>
+  <$list filter="[<currentTiddler>!has[text]]">@@color:red;(need bio)@@</$list>
   <hr/>
 </$list>
