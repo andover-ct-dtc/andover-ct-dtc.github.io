@@ -1,0 +1,21 @@
+created: 20230824003531699
+modified: 20230824012725835
+tags: 
+title: CandidateBioNotes
+type: text/vnd.tiddlywiki
+
+<$let compare-by-last-name="[{!!last-name}] [{!!first-name}] +[join[, ]]">
+
+<hr/>
+<$list filter="[tag[Candidacy]] :map[{!!name}] :filter[party[Democratic]] +[unique[]] +[sortsub:string<compare-by-last-name>]">
+  <h2><$link /></h2>
+  @@color:red;<$text text={{{ [{BioNotes}] +[jsonget{!!title}] }}}/>@@
+  <$list filter="[<currentTiddler>has[text]]">
+  <$list filter="[<currentTiddler>has[avatar]" variable="_">
+  <div class="avatar"><$image source={{{ [<currentTiddler>get[avatar]] }}} /></div>
+  </$list>
+  <$transclude mode="block"/>
+  </$list>
+  <$list filter="[<currentTiddler>!has[text]]">(need bio)</$list>
+  <hr/>
+</$list>

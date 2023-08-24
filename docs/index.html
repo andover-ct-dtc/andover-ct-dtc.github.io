@@ -255,6 +255,8 @@ Error message and password prompt
 
 <li>Annmarie Daigle</li>
 
+<li>BioNotes</li>
+
 <li>Bios</li>
 
 <li>Board of Assessment Appeals</li>
@@ -444,6 +446,8 @@ Error message and password prompt
 <li>Candidacy/8</li>
 
 <li>Candidacy/9</li>
+
+<li>CandidateBioNotes</li>
 
 <li>Carol Barton</li>
 
@@ -875,7 +879,9 @@ Error message and password prompt
 
 {"title":"Annmarie Daigle","created":"20230818154651227","email":"annie2004daigle@yahoo.com","first-name":"Annmarie","last-name":"Daigle","modified":"20230818154651227","party":"Democratic","revision":"0","tags":"People","type":"text/vnd.tiddlywiki","bag":"default"},
 
-{"title":"Bios","created":"20230823230439072","modified":"20230824001214642","tags":"","type":"text/vnd.tiddlywiki","text":"\u003C$let compare-by-last-name=\"[{!!last-name}] [{!!first-name}] +[join[, ]]\">\n\n\u003Chr/>\n\u003C$list filter=\"[all[tiddlers]tag[People]] :filter[has[text]] +[sortsub:string\u003Ccompare-by-last-name>]\">\n  \u003Ch2>\u003C$link />\u003C/h2>\n  \u003C$list filter=\"[\u003CcurrentTiddler>has[avatar]\" variable=\"_\">\n  \u003Cdiv class=\"avatar\">\u003C$image source={{{ [\u003CcurrentTiddler>get[avatar]] }}} />\u003C/div>\n  \u003C/$list>\n  \u003C$transclude mode=\"block\"/>\n  \u003Chr/>\n\u003C/$list>\n","revision":"0","bag":"default"},
+{"text":"{\n  \"Linda L. Armstrong\": \"Too short. No personal notes or political experience listed.\",\n  \"Brian Briggs\": \"This one is great.  It could serve as a model for others.  But the photo should be a headshot.\",\n  \"Anne Crème\": \"This is not really a political bio.  It's also argumentative.  Fine for the Rivereast, but probably not here (or in a brochure.)\",\n  \"Patrick Dougherty\": \"This is merely a placeholder.  We need a biography.\",\n  \"Louise Goodwin\": \"Too short.  And \\\"we're happy to endorse...\\\" probably does not belong\",\n  \"Caitlin Greenhouse\": \"This is a fine biography.  If there's any political experience, we should list it.\",\n  \"Kim Hawes\": \"A little short.  And \\\"we're lucky to have her as a candidate\\\" is probably out of place here\",\n  \"Shannon Louden\": \"Far too short\",\n  \"Scott Sauyet\": \"This one is fine.  (Okay, so I wrote it; sue me! 😃)\",\n  \"Emily Timrick\": \"This one is great for the website.  For a brochure, we might need to remove the bottom bullet list.\",\n  \"John Tyczkowski\": \"I think this one is successfully reduced from his résumé-style entry.  But he will need to review.\"\n}","type":"application/json","created":"20230824010539098","modified":"20230824013819660","tags":"","title":"BioNotes","revision":"0","bag":"default"},
+
+{"title":"Bios","created":"20230823230439072","modified":"20230824003528381","tags":"","type":"text/vnd.tiddlywiki","text":"\u003C$let compare-by-last-name=\"[{!!last-name}] [{!!first-name}] +[join[, ]]\">\n\n\u003Chr/>\n\u003C$list filter=\"[all[tiddlers]tag[People]] :filter[has[text]] +[sortsub:string\u003Ccompare-by-last-name>]\">\n  \u003Ch2>\u003C$link />\u003C/h2>\n  \u003C$list filter=\"[\u003CcurrentTiddler>has[avatar]\" variable=\"_\">\n  \u003Cdiv class=\"avatar\">\u003C$image source={{{ [\u003CcurrentTiddler>get[avatar]] }}} />\u003C/div>\n  \u003C/$list>\n  \u003C$transclude mode=\"block\"/>\n  \u003Chr/>\n\u003C/$list>\n","revision":"0","bag":"default"},
 
 {"title":"Board of Assessment Appeals","abbreviation":"BOAA","created":"20230816202911237","modified":"20230821203348891","org-type":"elected","revision":"0","tags":"[[Elected Positions]]","type":"text/vnd.tiddlywiki","bag":"default"},
 
@@ -1064,6 +1070,8 @@ Error message and password prompt
 {"title":"Candidacy/8","caption":"BOE - Caitlin Greenhouse (D)","contest":"2023-General","created":"20230821202714532","modified":"20230821202714532","name":"Caitlin Greenhouse","organization":"Board of Education","party":"Democratic","revision":"0","tags":"Candidacy","type":"text/vnd.tiddlywiki","bag":"default"},
 
 {"title":"Candidacy/9","caption":"BOE - Shannon Louden (D)","contest":"2023-General","created":"20230821202714531","modified":"20230821202714531","name":"Shannon Louden","organization":"Board of Education","party":"Democratic","revision":"0","tags":"Candidacy","type":"text/vnd.tiddlywiki","bag":"default"},
+
+{"title":"CandidateBioNotes","created":"20230824003531699","modified":"20230824012725835","tags":"","type":"text/vnd.tiddlywiki","text":"\u003C$let compare-by-last-name=\"[{!!last-name}] [{!!first-name}] +[join[, ]]\">\n\n\u003Chr/>\n\u003C$list filter=\"[tag[Candidacy]] :map[{!!name}] :filter[party[Democratic]] +[unique[]] +[sortsub:string\u003Ccompare-by-last-name>]\">\n  \u003Ch2>\u003C$link />\u003C/h2>\n  @@color:red;\u003C$text text={{{ [{BioNotes}] +[jsonget{!!title}] }}}/>@@\n  \u003C$list filter=\"[\u003CcurrentTiddler>has[text]]\">\n  \u003C$list filter=\"[\u003CcurrentTiddler>has[avatar]\" variable=\"_\">\n  \u003Cdiv class=\"avatar\">\u003C$image source={{{ [\u003CcurrentTiddler>get[avatar]] }}} />\u003C/div>\n  \u003C/$list>\n  \u003C$transclude mode=\"block\"/>\n  \u003C/$list>\n  \u003C$list filter=\"[\u003CcurrentTiddler>!has[text]]\">(need bio)\u003C/$list>\n  \u003Chr/>\n\u003C/$list>\n","revision":"0","bag":"default"},
 
 {"title":"Carol Barton","created":"20230820012700262","first-name":"Carol","last-name":"Barton","modified":"20230820012802931","party":"Republican","revision":"0","tags":"People","type":"text/vnd.tiddlywiki","bag":"default"},
 
@@ -1325,7 +1333,7 @@ Error message and password prompt
 
 {"title":"Scott Person","created":"20230817175112833","email":"sperson@andoverct.org","first-name":"Scott","last-name":"Person","modified":"20230818022553597","party":"Democratic","revision":"0","tags":"People","type":"text/vnd.tiddlywiki","bag":"default"},
 
-{"title":"Scott Sauyet","avatar":"ScottSauyet.jpg","created":"20230818154651221","email":"scott@sauyet.com","first-name":"Scott","last-name":"Sauyet","modified":"20230823151039813","party":"Democratic","revision":"0","tags":"People","type":"text/vnd.tiddlywiki","text":"Scott has served on the Andover Board of Education, The Capital Improvement and Planning Commission, and the Democratic Town Committee.  He was a founding member of the Andover Website Committee.\n\nScott raised two wonderful children in town, through Andover Elementary and RHAM, and is a brand new grandfather!  He has lived in Andover over 25 years.\n\nHe is from a family of educators and is a passionate believer in public education.  He has a BA and an MA in math from Wesleyan University and works as a computer programmer by trade.","bag":"default"},
+{"title":"Scott Sauyet","avatar":"ScottSauyet.jpg","created":"20230818154651221","email":"scott@sauyet.com","first-name":"Scott","last-name":"Sauyet","modified":"20230824013004961","party":"Democratic","tags":"People","type":"text/vnd.tiddlywiki","text":"Scott has served on the Andover Board of Education, The Capital Improvement and Planning Commission, and the Democratic Town Committee.  He was a founding member of the Andover Website Committee.\n\nScott raised two wonderful children in town, through Andover Elementary and RHAM, and is a brand new grandfather!  He has lived in Andover over 25 years.\n\n> //\"Andover has been a great place to live and raise my children.  I'm looking forward to giving back to the community again.\"//\n\nHe is from a family of educators and is a passionate believer in public education.  He has a BA and an MA in math from Wesleyan University and works as a computer programmer by trade.","revision":"0","bag":"default"},
 
 {"title":"Scott Yeomans","created":"20230817175112794","email":"","first-name":"Scott","last-name":"Yeomans","modified":"20230823152755539","party":"Democratic","revision":"0","tags":"People","type":"text/vnd.tiddlywiki","text":"Scott has lived in Andover for most of his life and is chair of the Andover Historical Society. Scott is our town historian. He manages the Museum of Andover History, hosts andoverconnecticut.homestead.com, and is the author of a book entitled, //A Historic Look at Andover, Connecticut//.","bag":"default"},
 
