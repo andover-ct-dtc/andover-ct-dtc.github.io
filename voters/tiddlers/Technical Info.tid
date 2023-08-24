@@ -1,0 +1,53 @@
+created: 20230824200427058
+modified: 20230824203205612
+revision: 1
+tags: TableOfContents
+title: Technical Info
+type: text/vnd.tiddlywiki
+
+!! Setup:
+
+I imported the data from [[spreadsheet|Andover VAN D, U, I.xlsx]] from the state by `File >Save As` and choosing to save it as a `Text (Tab delimited)` file.  I pasted the resulting text as the variable `input` in the following code, removed two extraneous lines (the second and the last), and ran the code, stored the results in `voters.json`, and dragged this file into the wiki.
+
+```js
+console.clear()
+
+const input = `First Name	Last Name	EMAIL	Street #	Street	ST2	dover	Age	Gender	Party	Phone #	Cell	DTC Member	Called Y/N
+David	Ackerman	ackermandcea@yahoo.com	12	Bear	Swamp	6232	65	M	D	546-7349			
+Barbara	Adams	adamsb61@comcast.net	61	Hutchinson		6232	57	F	D	202-3280			
+John	Allen	js.allen@comcast.net	18	Wood	Fern	6232	52	M	D	729-2712	8607292712		
+Eric	Anderson		40	Wheeling		6232	52	M	D	367-7806	8608572407		
+Thomas	Anderson	thomasmanderson@cs.com	34	Wheeling		6232	85	M	D	796-2664			
+Linda	Armstrong	linda.armstrong@uconn.edu	52	Jurovaty		6232	61	F	D	377-1985			
+`
+
+const tsv2arr = ( 
+  tsv, [headers, ...rows] = tsv.split('\n').filter(r => r.trim()).map((r => r.split('\t')))
+) => rows.map((r) => Object.fromEntries(r.map((c, i) => [headers[i], c])))
+
+const formatPhone = (p, c = p.replace(/\D/g, '')) => 
+  p.length < 4 ? `` : `${c.slice(0, 3)}-${c.slice(3, 6)}-${c.slice(6)}`
+
+const time = Date.now()
+
+const tids = (input) => tsv2arr(input).map((r, i, a) => ({
+    title: name,
+    tags: `Person ${r.Party == 'I' ? 'Independent' : r.Party == 'U' ? 'Unaffiliated' : 'Democratic'}`,
+    created: new Date(time + a.length - i).toISOString().replace(/\D/g, ''),
+    modified: new Date(time + a.length - i).toISOString().replace(/\D/g, ''),
+    'first-name': r['First Name'],
+    'last-name': r['Last Name'],
+    party: r.Party == 'I' ? 'Independent' : r.Party == 'U' ? 'Unaffiliated' : 'Democratic',
+    email: r.EMAIL,
+    phone: formatPhone(r.Cell || (r['Phone #'] ? '860-' + r['Phone #'] : '')),
+    address: `${r['Street #']} ${r.Street} ${r.ST2}` .trim(),
+    age: r.Age,
+    gender: r.Gender == 'M' ? 'Male' : r.Gender == 'F' ? 'Female' : 'Unknown',
+})).sort((
+  a, b, 
+  x = `${a['last-name']}, ${a['first-name']}`,
+  y = `${b['last-name']}, ${b['first-name']}`
+) => x < y ? -1 : x > y ? 1 : 0)
+
+console.log(JSON.stringify(tids(input), null, 4))
+```

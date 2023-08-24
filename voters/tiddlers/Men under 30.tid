@@ -1,0 +1,8 @@
+created: 20230824203427061
+modified: 20230824203508956
+revision: 1
+tags: [[More Queries]]
+title: Men under 30
+type: text/vnd.tiddlywiki
+
+<<email "[tag[Person]gender[Male]] :filter[get[age]compare:number:lt[30]]">>

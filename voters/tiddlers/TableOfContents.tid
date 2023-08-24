@@ -1,0 +1,15 @@
+caption: Contents
+created: 20180926191321993
+list: Everyone Democrats Independents [[Unaffiliated Voters]] [[More Queries]] Person
+list-before: $:/core/ui/SideBar/Open
+modified: 20230824203144457
+revision: 1
+tags: $:/tags/SideBar
+title: TableOfContents
+type: text/vnd.tiddlywiki
+
+<div class="tc-table-of-contents">
+
+<<toc-selective-expandable 'TableOfContents'>>
+
+</div>

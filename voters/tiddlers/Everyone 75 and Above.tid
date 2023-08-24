@@ -1,0 +1,8 @@
+created: 20230824185055737
+modified: 20230824191448126
+revision: 0
+tags: [[More Queries]]
+title: Everyone 75 and Above
+type: text/vnd.tiddlywiki
+
+<<email "[tag[Person]] :filter[get[age]compare:number:gteq[75]]">>

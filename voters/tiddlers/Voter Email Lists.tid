@@ -1,0 +1,23 @@
+created: 20230824191520370
+modified: 20230824203350001
+revision: 3
+tags: 
+title: Voter Email Lists
+type: text/vnd.tiddlywiki
+
+This is to make it easy to collect subsets of the state voter lists.
+
+You can use the `copy to clipboard` links to get the list of emails for 
+
+* [[Democrats]]
+* [[Independents]] 
+* [[Unaffiliated voters|Unaffiliated]]
+* or for [[Everyone]] on the list with an email.  
+
+But we can also easily create more detailed queries, such as these:
+
+{{More Queries}}
+
+And additional ones will be easy to add.
+
+The data was [[imported|Technical Info]] from a [[spreadsheet|Andover VAN D, U, I.xlsx]] supplied by the state to the DTC.
