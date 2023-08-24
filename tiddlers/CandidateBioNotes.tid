@@ -1,5 +1,5 @@
 created: 20230824003531699
-modified: 20230824012725835
+modified: 20230824020102178
 tags: 
 title: CandidateBioNotes
 type: text/vnd.tiddlywiki
@@ -16,6 +16,6 @@ type: text/vnd.tiddlywiki
   </$list>
   <$transclude mode="block"/>
   </$list>
-  <$list filter="[<currentTiddler>!has[text]]">(need bio)</$list>
+  <$list filter="[<currentTiddler>!has[text]]">@@color:red;(need bio)@@</$list>
   <hr/>
 </$list>
