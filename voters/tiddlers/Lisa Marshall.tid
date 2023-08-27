@@ -1,13 +1,15 @@
 address: 191 Lake
 age: 55
-created: 20230824202109524
+created: 20230825125402320
 email: lisamarshall9@comcast.net
 first-name: Lisa
 gender: Female
 last-name: Marshall
-modified: 20230824203046329
+modified: 20230825125402320
 party: Unaffiliated
 phone: 717-315-3014
-revision: 3
+revision: 0
+street: Lake
 tags: Person Unaffiliated
 title: Lisa Marshall
+type: text/vnd.tiddlywiki

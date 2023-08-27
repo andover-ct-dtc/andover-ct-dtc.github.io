@@ -1,0 +1,15 @@
+caption: Streets
+created: 20230825130155957
+modified: 20230826153851905
+street-names: [[Aspinall]] [[Bailey]] [[Bausola]] [[Bear Swamp]] [[Birch]] [[Boston Hill]] [[Brown]] [[Bunker Hill]] [[Burnap Brook]] [[Center]] [[Chesterbrook]] [[Cone]] [[Dogwood]] [[East]] [[Erdoni]] [[Gilead]] [[Hebron]] [[Hendee]] [[Hickory Hill]] [[Hutchinson]] [[Jurovaty]] [[Kingsley]] [[Lake]] [[Lakeside]] [[Lakeview]] [[Long Hill]] [[Mathieson]] [[Merritt Valley]] [[Oak Farms]] [[Old Coventry]] [[Old Farms]] [[Parker Bridge]] [[Pine Ridge]] [[PO Box]] [[Ridge]] [[Rose]] [[Route 6]] [[Route 87]] [[School]] [[Shadblow]] [[Shoddy Mill]] [[Skinner Hill]] [[Stanley]] [[Sunset]] [[Times Farm]] [[Townsend]] [[Wales]] [[West Street Ext]] [[Wheeling]] [[Windrush]] [[Wood Fern]] [[Woodside]]
+tags: Data
+title: Street
+type: text/vnd.tiddlywiki
+
+<$let by-last ="[{!!last-name}] [{!!first-name}] +[join[, ]]">
+
+<$list filter="[tag[Person]get[street]unique[]] +[sort[]]" variable="street">
+<details><summary>{{{ [<street>] }}}</summary><<list-links "[tag[Person]] :filter[get[street]match<street>] +[sortsub:string<by-last>]" >></details>
+</$list>
+
+</$let>

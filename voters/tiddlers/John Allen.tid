@@ -1,13 +1,15 @@
 address: 18 Wood Fern
 age: 52
-created: 20230824202109773
+created: 20230825125402569
 email: js.allen@comcast.net
 first-name: John
 gender: Male
 last-name: Allen
-modified: 20230824202109773
+modified: 20230825125402569
 party: Democratic
 phone: 860-729-2712
-revision: 1
+revision: 0
+street: Wood Fern
 tags: Person Democratic
 title: John Allen
+type: text/vnd.tiddlywiki

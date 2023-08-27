@@ -1,13 +1,15 @@
 address: 110 Cone
 age: 76
-created: 20230824202109586
+created: 20230825125402382
 email: churneyfarm@comcast.net
 first-name: Joan
 gender: Female
 last-name: Churney
-modified: 20230824203046328
+modified: 20230825125402382
 party: Unaffiliated
 phone: 
-revision: 3
+revision: 0
+street: Cone
 tags: Person Unaffiliated
 title: Joan Churney
+type: text/vnd.tiddlywiki

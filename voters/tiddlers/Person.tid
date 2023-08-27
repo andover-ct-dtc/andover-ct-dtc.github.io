@@ -1,7 +1,9 @@
 caption: People
-created: 20230824184433765
-modified: 20230824184446940
+created: 20230825155232528
+modified: 20230825155530334
 revision: 0
-tags: TableOfContents
+tags: Data
 title: Person
 type: text/vnd.tiddlywiki
+
+<<people "[tag[Person]]" >>

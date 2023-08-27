@@ -1,13 +1,13 @@
 created: 20230824200427058
-modified: 20230824203205612
-revision: 1
+modified: 20230825134730303
+revision: 0
 tags: TableOfContents
 title: Technical Info
 type: text/vnd.tiddlywiki
 
 !! Setup:
 
-I imported the data from [[spreadsheet|Andover VAN D, U, I.xlsx]] from the state by `File >Save As` and choosing to save it as a `Text (Tab delimited)` file.  I pasted the resulting text as the variable `input` in the following code, removed two extraneous lines (the second and the last), and ran the code, stored the results in `voters.json`, and dragged this file into the wiki.
+I imported the data from [[spreadsheet|Andover VAN D, U, I.xlsx]] from the state by `File > Save As` and choosing to save it as a `Text (Tab delimited)` file.  I pasted the text from the resulting file as the variable `input` in the following code, removed two extraneous lines (the second and the last), and ran the code, stored the results in `voters.json`, and dragged this file into the wiki.
 
 ```js
 console.clear()
@@ -41,6 +41,7 @@ const tids = (input) => tsv2arr(input).map((r, i, a) => ({
     email: r.EMAIL,
     phone: formatPhone(r.Cell || (r['Phone #'] ? '860-' + r['Phone #'] : '')),
     address: `${r['Street #']} ${r.Street} ${r.ST2}` .trim(),
+    street: r.Street == 'Box' ? 'PO Box' : `${r.Street} ${r.ST2}` .trim(),
     age: r.Age,
     gender: r.Gender == 'M' ? 'Male' : r.Gender == 'F' ? 'Female' : 'Unknown',
 })).sort((
@@ -50,4 +51,24 @@ const tids = (input) => tsv2arr(input).map((r, i, a) => ({
 ) => x < y ? -1 : x > y ? 1 : 0)
 
 console.log(JSON.stringify(tids(input), null, 4))
+```
+
+!!! Data corrections:
+  
+  * Added email `eanderson@andoverct.org` to [[Eric Anderson]]
+  * Replaced street name of `W` with `West Street Extension` for [[Joan Wells]] and [[Glenn Doppes]].
+
+!!! Adding streets:
+
+Created a tiddler with the following, clicked the resulting button to add streets, and immediately deleted the tiddler so as not to hit it again:
+
+```html
+<$button>Add Streets
+<$list filter="[tag[Person]get[street]unique[]] +[sort[]]" variable="street">
+<$action-createtiddler
+    $basetitle=<<street>>
+    tags="Street"
+/>
+</$list>
+</$button>
 ```

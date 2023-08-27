@@ -1,13 +1,15 @@
 address: 16 Shadblow
 age: 57
-created: 20230824202109741
+created: 20230825125402537
 email: bdremmanuel@gmail.com
 first-name: Agnes
 gender: Female
 last-name: Dosithe
-modified: 20230824202109741
+modified: 20230825125402537
 party: Democratic
 phone: 
-revision: 1
+revision: 0
+street: Shadblow
 tags: Person Democratic
 title: Agnes Dosithe
+type: text/vnd.tiddlywiki

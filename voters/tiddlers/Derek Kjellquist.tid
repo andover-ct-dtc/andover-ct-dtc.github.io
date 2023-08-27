@@ -1,13 +1,15 @@
 address: 36 Long Hill
 age: 37
-created: 20230824202109538
+created: 20230825125402334
 email: melissak1928@yahoo.com
 first-name: Derek
 gender: Male
 last-name: Kjellquist
-modified: 20230824203046325
+modified: 20230825125402334
 party: Unaffiliated
 phone: 
-revision: 3
+revision: 0
+street: Long Hill
 tags: Person Unaffiliated
 title: Derek Kjellquist
+type: text/vnd.tiddlywiki

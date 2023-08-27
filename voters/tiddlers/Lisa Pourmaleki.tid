@@ -1,13 +1,15 @@
 address: 22 Chesterbrook
 age: 54
-created: 20230824202109492
+created: 20230825125402288
 email: lpourmaleki@yahoo.com
 first-name: Lisa
 gender: Female
 last-name: Pourmaleki
-modified: 20230824203046329
+modified: 20230825125402288
 party: Unaffiliated
 phone: 
-revision: 3
+revision: 0
+street: Chesterbrook
 tags: Person Unaffiliated
 title: Lisa Pourmaleki
+type: text/vnd.tiddlywiki

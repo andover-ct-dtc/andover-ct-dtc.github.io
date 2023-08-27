@@ -1,13 +1,15 @@
 address: 33 Birch
 age: 49
-created: 20230824202109619
+created: 20230825125402415
 email: angela.vernola@yahoo.com
 first-name: Angela
 gender: Female
 last-name: Vernola
-modified: 20230824202109619
+modified: 20230825125402415
 party: Independent
 phone: 860-798-9021
-revision: 1
+revision: 0
+street: Birch
 tags: Person Independent
 title: Angela Vernola
+type: text/vnd.tiddlywiki

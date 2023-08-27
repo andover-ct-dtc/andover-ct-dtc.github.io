@@ -1,13 +1,15 @@
 address: 93 Townsend
 age: 41
-created: 20230824202109554
+created: 20230825125402350
 email: khaggs07@gmail.com
 first-name: Matthew
 gender: Male
 last-name: Haggerty
-modified: 20230824203046330
+modified: 20230825125402350
 party: Unaffiliated
 phone: 860-371-8034
-revision: 3
+revision: 0
+street: Townsend
 tags: Person Unaffiliated
 title: Matthew Haggerty
+type: text/vnd.tiddlywiki

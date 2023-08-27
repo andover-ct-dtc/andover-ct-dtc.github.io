@@ -1,13 +1,15 @@
 address: 367 Hebron
 age: 75
-created: 20230824202109768
+created: 20230825125402564
 email: cmatkins@aol.com
 first-name: George
 gender: Male
 last-name: Atkins
-modified: 20230824202109768
+modified: 20230825125402564
 party: Democratic
 phone: 860-326-4083
-revision: 1
+revision: 0
+street: Hebron
 tags: Person Democratic
 title: George Atkins
+type: text/vnd.tiddlywiki

@@ -1,13 +1,15 @@
 address: 94 Wales
 age: 66
-created: 20230824202109582
+created: 20230825125402378
 email: rhc1122@sbcglobal.net
 first-name: Rosemary
 gender: Female
 last-name: Crandall
-modified: 20230824203046332
+modified: 20230825125402378
 party: Unaffiliated
 phone: 
-revision: 3
+revision: 0
+street: Wales
 tags: Person Unaffiliated
 title: Rosemary Crandall
+type: text/vnd.tiddlywiki

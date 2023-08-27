@@ -1,13 +1,15 @@
 address: 34 Ridge
 age: 50
-created: 20230824202109481
+created: 20230825125402277
 email: hey.its.kayia.r@gmail.com
 first-name: Jessica
 gender: Female
 last-name: Romeo
-modified: 20230824203046327
+modified: 20230825125402277
 party: Unaffiliated
 phone: 860-490-3830
-revision: 3
+revision: 0
+street: Ridge
 tags: Person Unaffiliated
 title: Jessica Romeo
+type: text/vnd.tiddlywiki

@@ -1,13 +1,15 @@
 address: 311 Route 6
 age: 52
-created: 20230824202109477
+created: 20230825125402273
 email: schatzben3@live.com
 first-name: Ronald
 gender: Male
 last-name: Schatz
-modified: 20230824203046332
+modified: 20230825125402273
 party: Unaffiliated
 phone: 860-228-0162
-revision: 3
+revision: 0
+street: Route 6
 tags: Person Unaffiliated
 title: Ronald Schatz
+type: text/vnd.tiddlywiki

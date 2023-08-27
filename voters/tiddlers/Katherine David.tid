@@ -1,13 +1,15 @@
 address: 927 East
 age: 41
-created: 20230824202109745
+created: 20230825125402541
 email: kobedavis@live.com
 first-name: Katherine
 gender: Female
 last-name: David
-modified: 20230824202109745
+modified: 20230825125402541
 party: Democratic
 phone: 860-670-0416
-revision: 1
+revision: 0
+street: East
 tags: Person Democratic
 title: Katherine David
+type: text/vnd.tiddlywiki

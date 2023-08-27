@@ -1,13 +1,15 @@
 address: 8 Aspinall
 age: 57
-created: 20230824202109621
+created: 20230825125402417
 email: rosannelemire@yahoo.com
 first-name: Rosanne
 gender: Female
 last-name: Lemire
-modified: 20230824202109621
+modified: 20230825125402417
 party: Independent
 phone: 860-306-8678
-revision: 1
+revision: 0
+street: Aspinall
 tags: Person Independent
 title: Rosanne Lemire
+type: text/vnd.tiddlywiki

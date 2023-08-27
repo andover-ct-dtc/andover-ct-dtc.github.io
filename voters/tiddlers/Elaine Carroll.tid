@@ -1,13 +1,15 @@
 address: 22 Bailey
 age: 35
-created: 20230824202109596
+created: 20230825125402392
 email: m.c.carroll@snet.net
 first-name: Elaine
 gender: Female
 last-name: Carroll
-modified: 20230824203046325
+modified: 20230825125402392
 party: Unaffiliated
 phone: 860-208-9293
-revision: 3
+revision: 0
+street: Bailey
 tags: Person Unaffiliated
 title: Elaine Carroll
+type: text/vnd.tiddlywiki

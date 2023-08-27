@@ -1,13 +1,15 @@
 address: 272 Lake
 age: 76
-created: 20230824202109542
+created: 20230825125402338
 email: pjkapp@hotmail.com
 first-name: Patrick
 gender: Male
 last-name: Kappenman
-modified: 20230824203046331
+modified: 20230825125402338
 party: Unaffiliated
 phone: 860-208-8586
-revision: 3
+revision: 0
+street: Lake
 tags: Person Unaffiliated
 title: Patrick Kappenman
+type: text/vnd.tiddlywiki

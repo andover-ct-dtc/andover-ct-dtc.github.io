@@ -1,13 +1,15 @@
 address: 64 Pine Ridge
 age: 51
-created: 20230824202109569
+created: 20230825125402365
 email: kevinpatrickfahey@gmail.com
 first-name: Kevin
 gender: Male
 last-name: Fahey
-modified: 20230824203046329
+modified: 20230825125402365
 party: Unaffiliated
 phone: 860-287-6407
-revision: 3
+revision: 0
+street: Pine Ridge
 tags: Person Unaffiliated
 title: Kevin Fahey
+type: text/vnd.tiddlywiki

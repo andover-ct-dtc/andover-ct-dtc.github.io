@@ -1,13 +1,15 @@
 address: 41 Route 87
 age: 55
-created: 20230824202109669
+created: 20230825125402465
 email: nichols7010@sbcglobal.net
 first-name: Sandra
 gender: Female
 last-name: Nichols
-modified: 20230824202109669
+modified: 20230825125402465
 party: Democratic
 phone: 860-996-5678
-revision: 1
+revision: 0
+street: Route 87
 tags: Person Democratic
 title: Sandra Nichols
+type: text/vnd.tiddlywiki

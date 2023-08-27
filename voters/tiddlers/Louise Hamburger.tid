@@ -1,13 +1,15 @@
 address: 101 Shoddy Mill
 age: 53
-created: 20230824202109553
+created: 20230825125402349
 email: loucurtis@yahoo.com
 first-name: Louise
 gender: Female
 last-name: Hamburger
-modified: 20230824203046330
+modified: 20230825125402349
 party: Unaffiliated
 phone: 
-revision: 3
+revision: 0
+street: Shoddy Mill
 tags: Person Unaffiliated
 title: Louise Hamburger
+type: text/vnd.tiddlywiki

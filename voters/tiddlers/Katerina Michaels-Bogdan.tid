@@ -1,13 +1,15 @@
 address: 10 Dogwood
 age: 53
-created: 20230824202109512
+created: 20230825125402308
 email: kmich54258@aol.com
 first-name: Katerina
 gender: Female
 last-name: Michaels-Bogdan
-modified: 20230824203046328
+modified: 20230825125402308
 party: Unaffiliated
 phone: 860-462-3971
-revision: 3
+revision: 0
+street: Dogwood
 tags: Person Unaffiliated
 title: Katerina Michaels-Bogdan
+type: text/vnd.tiddlywiki

@@ -1,13 +1,15 @@
 address: 126 Hebron
 age: 50
-created: 20230824202109668
+created: 20230825125402464
 email: ranaloca1@hotmail.com
 first-name: Deborah
 gender: Female
 last-name: Page
-modified: 20230824202109668
+modified: 20230825125402464
 party: Democratic
 phone: 
-revision: 1
+revision: 0
+street: Hebron
 tags: Person Democratic
 title: Deborah Page
+type: text/vnd.tiddlywiki

@@ -1,13 +1,15 @@
 address: 31 Pine Ridge
 age: 58
-created: 20230824202109643
+created: 20230825125402439
 email: bethspear@sbcglobal.net
 first-name: Elizabeth
 gender: Female
 last-name: Spear
-modified: 20230824202109643
+modified: 20230825125402439
 party: Democratic
 phone: 860-416-0915
-revision: 1
+revision: 0
+street: Pine Ridge
 tags: Person Democratic
 title: Elizabeth Spear
+type: text/vnd.tiddlywiki

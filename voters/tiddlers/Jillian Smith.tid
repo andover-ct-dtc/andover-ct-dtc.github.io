@@ -1,13 +1,15 @@
 address: 4 Hickory Hill
 age: 24
-created: 20230824202109469
+created: 20230825125402265
 email: jillian@pvcrete.com
 first-name: Jillian
 gender: Female
 last-name: Smith
-modified: 20230824203046328
+modified: 20230825125402265
 party: Unaffiliated
 phone: 651-328-3375
-revision: 3
+revision: 0
+street: Hickory Hill
 tags: Person Unaffiliated
 title: Jillian Smith
+type: text/vnd.tiddlywiki

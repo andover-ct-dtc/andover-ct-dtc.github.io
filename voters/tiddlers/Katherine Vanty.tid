@@ -1,13 +1,15 @@
 address: 12 Shadblow
 age: 70
-created: 20230824202109632
+created: 20230825125402428
 email: kvanty@yahoo.com
 first-name: Katherine
 gender: Female
 last-name: Vanty
-modified: 20230824202109632
+modified: 20230825125402428
 party: Democratic
 phone: 
-revision: 1
+revision: 0
+street: Shadblow
 tags: Person Democratic
 title: Katherine Vanty
+type: text/vnd.tiddlywiki

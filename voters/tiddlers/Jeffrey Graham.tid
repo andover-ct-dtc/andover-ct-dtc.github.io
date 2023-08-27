@@ -1,13 +1,15 @@
 address: 54 Times Farm
 age: 61
-created: 20230824202109623
+created: 20230825125402419
 email: gunther192@gmail.com
 first-name: Jeffrey
 gender: Male
 last-name: Graham
-modified: 20230824202109623
+modified: 20230825152720091
 party: Independent
 phone: 860-670-0947
-revision: 1
+revision: 0
+street: Times Farm
 tags: Person Independent
 title: Jeffrey Graham
+type: text/vnd.tiddlywiki

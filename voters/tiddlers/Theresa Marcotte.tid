@@ -1,13 +1,15 @@
 address: 61 Shoddy Mill
 age: 59
-created: 20230824202109681
+created: 20230825125402477
 email: brianmarcotte@gmail.com
 first-name: Theresa
 gender: Female
 last-name: Marcotte
-modified: 20230824202109681
+modified: 20230825125402477
 party: Democratic
 phone: 860-965-9035
-revision: 1
+revision: 0
+street: Shoddy Mill
 tags: Person Democratic
 title: Theresa Marcotte
+type: text/vnd.tiddlywiki

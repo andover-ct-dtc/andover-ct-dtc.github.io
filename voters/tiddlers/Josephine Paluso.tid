@@ -1,13 +1,15 @@
 address: 69 Route 87
 age: 68
-created: 20230824202109666
+created: 20230825125402462
 email: josiepaluso@gmail.com
 first-name: Josephine
 gender: Female
 last-name: Paluso
-modified: 20230824202109666
+modified: 20230825125402462
 party: Democratic
 phone: 860-310-8729
-revision: 1
+revision: 0
+street: Route 87
 tags: Person Democratic
 title: Josephine Paluso
+type: text/vnd.tiddlywiki

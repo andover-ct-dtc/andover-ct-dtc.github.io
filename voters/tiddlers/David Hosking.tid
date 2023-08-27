@@ -1,13 +1,15 @@
 address: 114 Wales
 age: 67
-created: 20230824202109712
+created: 20230825125402508
 email: davidjhosking@msn.com
 first-name: David
 gender: Male
 last-name: Hosking
-modified: 20230824202109712
+modified: 20230825125402508
 party: Democratic
 phone: 860-857-1150
-revision: 1
+revision: 0
+street: Wales
 tags: Person Democratic
 title: David Hosking
+type: text/vnd.tiddlywiki

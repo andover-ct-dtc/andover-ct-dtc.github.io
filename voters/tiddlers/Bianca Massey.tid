@@ -1,13 +1,15 @@
 address: 254 Route 6
 age: 87
-created: 20230824202109523
+created: 20230825125402319
 email: massey7529@sbcglobal.net
 first-name: Bianca
 gender: Female
 last-name: Massey
-modified: 20230824203046323
+modified: 20230825125402319
 party: Unaffiliated
 phone: 860-874-2499
-revision: 3
+revision: 0
+street: Route 6
 tags: Person Unaffiliated
 title: Bianca Massey
+type: text/vnd.tiddlywiki

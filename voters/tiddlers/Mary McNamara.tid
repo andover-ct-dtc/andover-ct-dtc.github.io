@@ -1,13 +1,15 @@
 address: 169 Wheeling
 age: 82
-created: 20230824202109677
+created: 20230825125402473
 email: katemcnamara@hotmail.com
 first-name: Mary
 gender: Female
 last-name: McNamara
-modified: 20230824202109677
+modified: 20230825125402473
 party: Democratic
 phone: 860-514-3286
-revision: 1
+revision: 0
+street: Wheeling
 tags: Person Democratic
 title: Mary McNamara
+type: text/vnd.tiddlywiki

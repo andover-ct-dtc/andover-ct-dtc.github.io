@@ -1,13 +1,15 @@
 address: 160 Hendee
 age: 35
-created: 20230824202109588
+created: 20230825125402384
 email: awhitener@hotmail.com
 first-name: Alexandra
 gender: Female
 last-name: Christy
-modified: 20230824203046321
+modified: 20230825125402384
 party: Unaffiliated
 phone: 860-742-7234
-revision: 3
+revision: 0
+street: Hendee
 tags: Person Unaffiliated
 title: Alexandra Christy
+type: text/vnd.tiddlywiki

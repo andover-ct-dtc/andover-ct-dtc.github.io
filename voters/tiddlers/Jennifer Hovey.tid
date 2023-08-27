@@ -1,13 +1,15 @@
 address: 218 Hebron
 age: 68
-created: 20230824202109710
+created: 20230825125402506
 email: duffyhovey@aol.com
 first-name: Jennifer
 gender: Female
 last-name: Hovey
-modified: 20230824202109710
+modified: 20230825125402506
 party: Democratic
 phone: 
-revision: 1
+revision: 0
+street: Hebron
 tags: Person Democratic
 title: Jennifer Hovey
+type: text/vnd.tiddlywiki

@@ -1,13 +1,15 @@
 address: 86 Jurovaty
 age: 71
-created: 20230824202109725
+created: 20230825125402521
 email: stanfuger@comcast.net
 first-name: Stanley
 gender: Male
 last-name: Fuger
-modified: 20230824202109725
+modified: 20230825125402521
 party: Democratic
 phone: 
-revision: 1
+revision: 0
+street: Jurovaty
 tags: Person Democratic
 title: Stanley Fuger
+type: text/vnd.tiddlywiki

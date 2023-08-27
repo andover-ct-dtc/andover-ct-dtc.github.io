@@ -1,13 +1,15 @@
 address: 75 Burnap Brook
 age: 68
-created: 20230824202109707
+created: 20230825125402503
 email: djerrick@gmail.com
 first-name: Desiree
 gender: Female
 last-name: Jerrick
-modified: 20230824202109707
+modified: 20230825125402503
 party: Democratic
 phone: 860-810-4545
-revision: 1
+revision: 0
+street: Burnap Brook
 tags: Person Democratic
 title: Desiree Jerrick
+type: text/vnd.tiddlywiki

@@ -1,13 +1,15 @@
 address: 86 Jurovaty
 age: 70
-created: 20230824202109726
+created: 20230825125402522
 email: krisfuger@aol.com
 first-name: Deborah
 gender: Female
 last-name: Fuger
-modified: 20230824202109726
+modified: 20230825125402522
 party: Democratic
 phone: 
-revision: 1
+revision: 0
+street: Jurovaty
 tags: Person Democratic
 title: Deborah Fuger
+type: text/vnd.tiddlywiki

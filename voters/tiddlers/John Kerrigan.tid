@@ -1,13 +1,15 @@
 address: 171 Hebron
 age: 47
-created: 20230824202109540
+created: 20230825125402336
 email: johnwkerrigan@sbcglobal.net
 first-name: John
 gender: Male
 last-name: Kerrigan
-modified: 20230824203046328
+modified: 20230825125402336
 party: Unaffiliated
 phone: 860-877-4026
-revision: 3
+revision: 0
+street: Hebron
 tags: Person Unaffiliated
 title: John Kerrigan
+type: text/vnd.tiddlywiki

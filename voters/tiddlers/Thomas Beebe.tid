@@ -1,13 +1,15 @@
 address: 305 Route 6
 age: 24
-created: 20230824202109766
+created: 20230825125402562
 email: tapmanthomas@aol.com
 first-name: Thomas
 gender: Male
 last-name: Beebe
-modified: 20230824202109766
+modified: 20230825125402562
 party: Democratic
 phone: 860-857-2488
-revision: 1
+revision: 0
+street: Route 6
 tags: Person Democratic
 title: Thomas Beebe
+type: text/vnd.tiddlywiki

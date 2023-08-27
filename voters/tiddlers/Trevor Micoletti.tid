@@ -1,13 +1,15 @@
 address: 155 Lake
 age: 56
-created: 20230824202109672
+created: 20230825125402468
 email: micoletti@comcast.net
 first-name: Trevor
 gender: Male
 last-name: Micoletti
-modified: 20230824202109672
+modified: 20230825125402468
 party: Democratic
 phone: 
-revision: 1
+revision: 0
+street: Lake
 tags: Person Democratic
 title: Trevor Micoletti
+type: text/vnd.tiddlywiki

@@ -1,13 +1,15 @@
 address: 47 Jurovaty
 age: 69
-created: 20230824202109652
+created: 20230825125402448
 email: brand38@comcast.net
 first-name: Carl-Heinz
 gender: Unknown
 last-name: Schuh
-modified: 20230824202109652
+modified: 20230825125402448
 party: Democratic
 phone: 
-revision: 1
+revision: 0
+street: Jurovaty
 tags: Person Democratic
 title: Carl-Heinz Schuh
+type: text/vnd.tiddlywiki

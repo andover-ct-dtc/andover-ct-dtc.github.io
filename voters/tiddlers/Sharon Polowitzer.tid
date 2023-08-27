@@ -1,13 +1,15 @@
 address: 76 Route 87
 age: 52
-created: 20230824202109663
+created: 20230825125402459
 email: polowitzer@sbcglobal.net
 first-name: Sharon
 gender: Female
 last-name: Polowitzer
-modified: 20230824202109663
+modified: 20230825125402459
 party: Democratic
 phone: 860-690-9491
-revision: 1
+revision: 0
+street: Route 87
 tags: Person Democratic
 title: Sharon Polowitzer
+type: text/vnd.tiddlywiki

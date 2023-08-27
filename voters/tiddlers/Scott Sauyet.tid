@@ -1,13 +1,15 @@
 address: 168 Boston Hill
 age: 56
-created: 20230824202109654
+created: 20230825125402450
 email: teddy.sauyet@gmail.com
 first-name: Scott
 gender: Male
 last-name: Sauyet
-modified: 20230824204748475
+modified: 20230825125402450
 party: Democratic
 phone: 860-874-2420
-revision: 2
+revision: 0
+street: Boston Hill
 tags: Person Democratic
 title: Scott Sauyet
+type: text/vnd.tiddlywiki

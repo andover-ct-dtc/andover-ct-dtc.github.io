@@ -1,13 +1,15 @@
 address: 218 Hebron
 age: 71
-created: 20230824202109709
+created: 20230825125402505
 email: pjhovey@aol.com
 first-name: Philip
 gender: Male
 last-name: Hovey
-modified: 20230824202109709
+modified: 20230825125402505
 party: Democratic
 phone: 860-857-1563
-revision: 1
+revision: 0
+street: Hebron
 tags: Person Democratic
 title: Philip Hovey
+type: text/vnd.tiddlywiki

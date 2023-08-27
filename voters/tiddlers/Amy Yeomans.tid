@@ -1,13 +1,15 @@
 address: 3 Hebron
 age: 36
-created: 20230824202109627
+created: 20230825125402423
 email: syeom98658@aol.com
 first-name: Amy
 gender: Female
 last-name: Yeomans
-modified: 20230824202109627
+modified: 20230825125402423
 party: Democratic
 phone: 
-revision: 1
+revision: 0
+street: Hebron
 tags: Person Democratic
 title: Amy Yeomans
+type: text/vnd.tiddlywiki

@@ -1,13 +1,15 @@
 address: 134 Wheeling
 age: 56
-created: 20230824202109479
+created: 20230825125402275
 email: connecticut_cmp@yahoo.com
 first-name: Susan
 gender: Female
 last-name: Ruggiero
-modified: 20230824203046332
+modified: 20230825125402275
 party: Unaffiliated
 phone: 
-revision: 3
+revision: 0
+street: Wheeling
 tags: Person Unaffiliated
 title: Susan Ruggiero
+type: text/vnd.tiddlywiki

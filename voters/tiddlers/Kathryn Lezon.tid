@@ -1,13 +1,15 @@
 address: 40 Shoddy Mill
 age: 26
-created: 20230824202109530
+created: 20230825125402326
 email: pegnbobl@hotmail.com
 first-name: Kathryn
 gender: Female
 last-name: Lezon
-modified: 20230824203046329
+modified: 20230825125402326
 party: Unaffiliated
 phone: 
-revision: 3
+revision: 0
+street: Shoddy Mill
 tags: Person Unaffiliated
 title: Kathryn Lezon
+type: text/vnd.tiddlywiki

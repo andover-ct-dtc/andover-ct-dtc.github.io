@@ -1,13 +1,15 @@
 address: 177 Hebron
 age: 62
-created: 20230824202109590
+created: 20230825125402386
 email: michaelsproducellc@gmail.com
 first-name: Michael
 gender: Male
 last-name: Chemerka
-modified: 20230824203046330
+modified: 20230825125402386
 party: Unaffiliated
 phone: 860-982-2264
-revision: 3
+revision: 0
+street: Hebron
 tags: Person Unaffiliated
 title: Michael Chemerka
+type: text/vnd.tiddlywiki

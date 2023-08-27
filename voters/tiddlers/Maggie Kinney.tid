@@ -1,13 +1,15 @@
 address: 71 Windrush
 age: 31
-created: 20230824202109700
+created: 20230825125402496
 email: maggie.english@yahoo.com
 first-name: Maggie
 gender: Female
 last-name: Kinney
-modified: 20230824202109700
+modified: 20230825125402496
 party: Democratic
 phone: 860-682-2683
-revision: 1
+revision: 0
+street: Windrush
 tags: Person Democratic
 title: Maggie Kinney
+type: text/vnd.tiddlywiki

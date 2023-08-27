@@ -1,13 +1,15 @@
 address: 896 East
 age: 65
-created: 20230824202109698
+created: 20230825125402494
 email: akliminsky@gmail.com
 first-name: Robert
 gender: Male
 last-name: Kliminsky
-modified: 20230824202109698
+modified: 20230825125402494
 party: Democratic
 phone: 
-revision: 1
+revision: 0
+street: East
 tags: Person Democratic
 title: Robert Kliminsky
+type: text/vnd.tiddlywiki

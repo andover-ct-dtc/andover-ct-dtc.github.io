@@ -1,13 +1,15 @@
 address: 140 Hebron
 age: 49
-created: 20230824202109460
+created: 20230825125402256
 email: chochfish@gmail.com
 first-name: Mike
 gender: Male
 last-name: Talaga
-modified: 20230824203046331
+modified: 20230825125402256
 party: Unaffiliated
 phone: 860-796-2098
-revision: 3
+revision: 0
+street: Hebron
 tags: Person Unaffiliated
 title: Mike Talaga
+type: text/vnd.tiddlywiki

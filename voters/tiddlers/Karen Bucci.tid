@@ -1,13 +1,15 @@
 address: 89 Burnap Brook
 age: 65
-created: 20230824202109754
+created: 20230825125402550
 email: kebucci@aol.com
 first-name: Karen
 gender: Female
 last-name: Bucci
-modified: 20230824202109754
+modified: 20230825125402550
 party: Democratic
 phone: 
-revision: 1
+revision: 0
+street: Burnap Brook
 tags: Person Democratic
 title: Karen Bucci
+type: text/vnd.tiddlywiki

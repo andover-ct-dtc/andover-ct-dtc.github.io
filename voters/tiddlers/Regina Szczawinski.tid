@@ -1,13 +1,15 @@
 address: 139 Bunker Hill
 age: 72
-created: 20230824202109462
+created: 20230825125402258
 email: jasi2121@hotmail.com
 first-name: Regina
 gender: Female
 last-name: Szczawinski
-modified: 20230824203046331
+modified: 20230825125402258
 party: Unaffiliated
 phone: 860-874-2184
-revision: 3
+revision: 0
+street: Bunker Hill
 tags: Person Unaffiliated
 title: Regina Szczawinski
+type: text/vnd.tiddlywiki

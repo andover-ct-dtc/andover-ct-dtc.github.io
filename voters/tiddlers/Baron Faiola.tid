@@ -1,13 +1,15 @@
 address: 425 Route 6
 age: 54
-created: 20230824202109568
+created: 20230825125402364
 email: cdnhabs@aol.com
 first-name: Baron
 gender: Male
 last-name: Faiola
-modified: 20230824203046323
+modified: 20230825125402364
 party: Unaffiliated
 phone: 860-841-9893
-revision: 3
+revision: 0
+street: Route 6
 tags: Person Unaffiliated
 title: Baron Faiola
+type: text/vnd.tiddlywiki

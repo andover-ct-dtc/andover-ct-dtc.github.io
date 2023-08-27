@@ -1,13 +1,15 @@
 address: 4 Chesterbrook
 age: 50
-created: 20230824202109527
+created: 20230825125402323
 email: lancelaura@yahoo.com
 first-name: Lance
 gender: Male
 last-name: Lysiuk
-modified: 20230824203046329
+modified: 20230825125402323
 party: Unaffiliated
 phone: 860-965-0205
-revision: 3
+revision: 0
+street: Chesterbrook
 tags: Person Unaffiliated
 title: Lance Lysiuk
+type: text/vnd.tiddlywiki

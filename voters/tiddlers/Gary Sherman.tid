@@ -1,14 +1,15 @@
 address: 197 Lake
 age: 59
-created: 20230824202109474
+created: 20230825125402270
 email: trauma48@sbcglobal.net
 first-name: Gary
 gender: Male
 last-name: Sherman
-modified: 20230824203046326
+modified: 20230825125402270
 party: Unaffiliated
 phone: 860-639-3803
-revision: 5
+revision: 0
+street: Lake
 tags: Person Unaffiliated
 title: Gary Sherman
 type: text/vnd.tiddlywiki

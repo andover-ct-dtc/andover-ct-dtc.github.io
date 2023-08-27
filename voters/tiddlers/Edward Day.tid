@@ -1,13 +1,15 @@
 address: 50 Bear Swamp
 age: 52
-created: 20230824202109577
+created: 20230825125402373
 email: eday33@comcast.net
 first-name: Edward
 gender: Male
 last-name: Day
-modified: 20230824203046325
+modified: 20230825125402373
 party: Unaffiliated
 phone: 
-revision: 3
+revision: 0
+street: Bear Swamp
 tags: Person Unaffiliated
 title: Edward Day
+type: text/vnd.tiddlywiki

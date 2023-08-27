@@ -1,13 +1,15 @@
 address: 2 Merritt Valley
 age: 44
-created: 20230824202109740
+created: 20230825125402536
 email: ctsweeps531@gmail.com
 first-name: Roberta
 gender: Female
 last-name: Dougherty
-modified: 20230824202109740
+modified: 20230825125402536
 party: Democratic
 phone: 860-543-1607
-revision: 1
+revision: 0
+street: Merritt Valley
 tags: Person Democratic
 title: Roberta Dougherty
+type: text/vnd.tiddlywiki

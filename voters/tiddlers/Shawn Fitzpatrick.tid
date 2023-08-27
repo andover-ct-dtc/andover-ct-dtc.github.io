@@ -1,13 +1,15 @@
 address: 20 Wheeling
 age: 32
-created: 20230824202109733
+created: 20230825125402529
 email: sfitzpatrick@gmail.com
 first-name: Shawn
 gender: Male
 last-name: Fitzpatrick
-modified: 20230824202109733
+modified: 20230825125402529
 party: Democratic
 phone: 
-revision: 1
+revision: 0
+street: Wheeling
 tags: Person Democratic
 title: Shawn Fitzpatrick
+type: text/vnd.tiddlywiki

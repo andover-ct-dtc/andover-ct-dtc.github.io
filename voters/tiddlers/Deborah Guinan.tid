@@ -1,13 +1,15 @@
 address: 33 Kingsley
 age: 71
-created: 20230824202109622
+created: 20230825125402418
 email: debinne11@aol.com
 first-name: Deborah
 gender: Female
 last-name: Guinan
-modified: 20230824202109622
+modified: 20230825125402418
 party: Independent
 phone: 860-857-2043
-revision: 1
+revision: 0
+street: Kingsley
 tags: Person Independent
 title: Deborah Guinan
+type: text/vnd.tiddlywiki

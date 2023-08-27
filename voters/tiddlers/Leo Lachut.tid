@@ -1,13 +1,15 @@
 address: 26 Parker Bridge
 age: 54
-created: 20230824202109695
+created: 20230825125402491
 email: leo.lachut@gmail.com
 first-name: Leo
 gender: Male
 last-name: Lachut
-modified: 20230824202109695
+modified: 20230825125402491
 party: Democratic
 phone: 860-208-9638
-revision: 1
+revision: 0
+street: Parker Bridge
 tags: Person Democratic
 title: Leo Lachut
+type: text/vnd.tiddlywiki

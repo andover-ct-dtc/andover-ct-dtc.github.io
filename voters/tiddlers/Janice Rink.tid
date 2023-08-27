@@ -1,13 +1,15 @@
 address: 37 Skinner Hill
 age: 69
-created: 20230824202109486
+created: 20230825125402282
 email: janofarc@hotmail.com
 first-name: Janice
 gender: Female
 last-name: Rink
-modified: 20230824203046327
+modified: 20230825125402282
 party: Unaffiliated
 phone: 860-559-9070
-revision: 3
+revision: 0
+street: Skinner Hill
 tags: Person Unaffiliated
 title: Janice Rink
+type: text/vnd.tiddlywiki

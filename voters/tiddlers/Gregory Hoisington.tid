@@ -1,13 +1,15 @@
 address: 24 Brown
 age: 68
-created: 20230824202109548
+created: 20230825125402344
 email: krazzyjan@live.com
 first-name: Gregory
 gender: Male
 last-name: Hoisington
-modified: 20230824203046327
+modified: 20230825125402344
 party: Unaffiliated
 phone: 
-revision: 3
+revision: 0
+street: Brown
 tags: Person Unaffiliated
 title: Gregory Hoisington
+type: text/vnd.tiddlywiki

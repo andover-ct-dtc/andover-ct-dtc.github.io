@@ -1,13 +1,15 @@
 address: 165 Wheeling
 age: 68
-created: 20230824202109659
+created: 20230825125402455
 email: rainwaterdesign@comcast.net
 first-name: Jane
 gender: Female
 last-name: Rainwater
-modified: 20230824202109659
+modified: 20230825125402455
 party: Democratic
 phone: 860-995-0141
-revision: 1
+revision: 0
+street: Wheeling
 tags: Person Democratic
 title: Jane Rainwater
+type: text/vnd.tiddlywiki

@@ -1,13 +1,15 @@
 address: 46 Shoddy Mill
 age: 69
-created: 20230824202109656
+created: 20230825125402452
 email: jsunship@aol.com
 first-name: James
 gender: Male
 last-name: Roberto
-modified: 20230824202109656
+modified: 20230825125402452
 party: Democratic
 phone: 860-297-5019
-revision: 1
+revision: 0
+street: Shoddy Mill
 tags: Person Democratic
 title: James Roberto
+type: text/vnd.tiddlywiki

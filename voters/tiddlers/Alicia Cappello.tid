@@ -1,13 +1,15 @@
 address: 449 Lake
 age: 50
-created: 20230824202109599
+created: 20230825125402395
 email: alicia.cappello@gmail.com
 first-name: Alicia
 gender: Female
 last-name: Cappello
-modified: 20230824203046321
+modified: 20230825125402395
 party: Unaffiliated
 phone: 860-743-6037
-revision: 3
+revision: 0
+street: Lake
 tags: Person Unaffiliated
 title: Alicia Cappello
+type: text/vnd.tiddlywiki

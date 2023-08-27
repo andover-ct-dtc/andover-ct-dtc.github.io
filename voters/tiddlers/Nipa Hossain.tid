@@ -1,13 +1,15 @@
 address: 133 Wales
 age: 49
-created: 20230824202109546
+created: 20230825125402342
 email: mhossain00@yahoo.com
 first-name: Nipa
 gender: Female
 last-name: Hossain
-modified: 20230824203046331
+modified: 20230825125402342
 party: Unaffiliated
 phone: 917-562-3114
-revision: 3
+revision: 0
+street: Wales
 tags: Person Unaffiliated
 title: Nipa Hossain
+type: text/vnd.tiddlywiki

@@ -1,13 +1,15 @@
 address: 148 Bear Swamp
 age: 57
-created: 20230824202109761
+created: 20230825125402557
 email: samboushee@gmail.com
 first-name: Keith
 gender: Male
 last-name: Boushee
-modified: 20230824202109761
+modified: 20230825125402557
 party: Democratic
 phone: 860-830-8186
-revision: 1
+revision: 0
+street: Bear Swamp
 tags: Person Democratic
 title: Keith Boushee
+type: text/vnd.tiddlywiki

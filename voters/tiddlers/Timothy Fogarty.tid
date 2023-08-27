@@ -1,13 +1,15 @@
 address: 380 Hebron
 age: 62
-created: 20230824202109565
+created: 20230825125402361
 email: fogarty42@comcast.net
 first-name: Timothy
 gender: Male
 last-name: Fogarty
-modified: 20230824203046332
+modified: 20230825125402361
 party: Unaffiliated
 phone: 860-841-9917
-revision: 3
+revision: 0
+street: Hebron
 tags: Person Unaffiliated
 title: Timothy Fogarty
+type: text/vnd.tiddlywiki

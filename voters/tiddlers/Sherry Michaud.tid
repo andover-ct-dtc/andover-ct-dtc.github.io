@@ -1,13 +1,15 @@
 address: 21 Skinner Hill
 age: 60
-created: 20230824202109673
+created: 20230825125402469
 email: landry150@aol.com
 first-name: Sherry
 gender: Female
 last-name: Michaud
-modified: 20230824202109673
+modified: 20230825125402469
 party: Democratic
 phone: 860-798-2776
-revision: 1
+revision: 0
+street: Skinner Hill
 tags: Person Democratic
 title: Sherry Michaud
+type: text/vnd.tiddlywiki

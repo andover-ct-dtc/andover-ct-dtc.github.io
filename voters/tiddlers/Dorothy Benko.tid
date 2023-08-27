@@ -1,13 +1,15 @@
 address: 123 Boston Hill
 age: 70
-created: 20230824202109765
+created: 20230825125402561
 email: dodiebenko@gmail.com
 first-name: Dorothy
 gender: Female
 last-name: Benko
-modified: 20230824202109765
+modified: 20230825125402561
 party: Democratic
 phone: 
-revision: 1
+revision: 0
+street: Boston Hill
 tags: Person Democratic
 title: Dorothy Benko
+type: text/vnd.tiddlywiki

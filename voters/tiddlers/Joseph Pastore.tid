@@ -1,13 +1,15 @@
 address: 4 Lake
 age: 24
-created: 20230824202109497
+created: 20230825125402293
 email: joeypas25@gmail.com
 first-name: Joseph
 gender: Male
 last-name: Pastore
-modified: 20230824203046328
+modified: 20230825125402293
 party: Unaffiliated
 phone: 860-402-9576
-revision: 3
+revision: 0
+street: Lake
 tags: Person Unaffiliated
 title: Joseph Pastore
+type: text/vnd.tiddlywiki

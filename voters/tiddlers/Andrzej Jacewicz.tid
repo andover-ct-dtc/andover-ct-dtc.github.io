@@ -1,13 +1,15 @@
 address: 25 Old Coventry
 age: 60
-created: 20230824202109543
+created: 20230825125402339
 email: andaga@sbcglobal.net
 first-name: Andrzej
 gender: Male
 last-name: Jacewicz
-modified: 20230824203046321
+modified: 20230825125402339
 party: Unaffiliated
 phone: 
-revision: 3
+revision: 0
+street: Old Coventry
 tags: Person Unaffiliated
 title: Andrzej Jacewicz
+type: text/vnd.tiddlywiki

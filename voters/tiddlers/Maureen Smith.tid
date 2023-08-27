@@ -1,13 +1,15 @@
 address: 4 Hickory Hill
 age: 62
-created: 20230824202109646
+created: 20230825125402442
 email: smithkaitlin95@gmail.com
 first-name: Maureen
 gender: Female
 last-name: Smith
-modified: 20230824202109646
+modified: 20230825125402442
 party: Democratic
 phone: 860-490-6146
-revision: 1
+revision: 0
+street: Hickory Hill
 tags: Person Democratic
 title: Maureen Smith
+type: text/vnd.tiddlywiki

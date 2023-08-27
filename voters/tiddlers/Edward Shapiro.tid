@@ -1,13 +1,15 @@
 address: Box 237
 age: 85
-created: 20230824202109649
+created: 20230825125402445
 email: edwardshapiro@yahoo.com
 first-name: Edward
 gender: Male
 last-name: Shapiro
-modified: 20230824202109649
+modified: 20230825125402445
 party: Democratic
 phone: 
-revision: 1
+revision: 0
+street: PO Box
 tags: Person Democratic
 title: Edward Shapiro
+type: text/vnd.tiddlywiki

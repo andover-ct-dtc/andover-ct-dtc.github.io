@@ -1,13 +1,15 @@
 address: 303 Lake
 age: 51
-created: 20230824202109525
+created: 20230825125402321
 email: ddmaneggia@gmail.com
 first-name: Donalyn
 gender: Female
 last-name: Maneggia
-modified: 20230824203046325
+modified: 20230825125402321
 party: Unaffiliated
 phone: 860-742-8852
-revision: 3
+revision: 0
+street: Lake
 tags: Person Unaffiliated
 title: Donalyn Maneggia
+type: text/vnd.tiddlywiki

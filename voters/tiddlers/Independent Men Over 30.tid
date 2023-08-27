@@ -1,0 +1,8 @@
+created: 20230824203427061
+modified: 20230825152819143
+revision: 0
+tags: [[More Queries]]
+title: Independent Men Over 30
+type: text/vnd.tiddlywiki
+
+<<email "[tag[Person]party[Independent]gender[Male]]  :filter[get[age]compare:number:gt[40]]">>

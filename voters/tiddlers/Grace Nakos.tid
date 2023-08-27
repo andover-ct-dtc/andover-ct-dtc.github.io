@@ -1,13 +1,15 @@
 address: 300 Boston Hill
 age: 65
-created: 20230824202109505
+created: 20230825125402301
 email: gracenakos@yahoo.com
 first-name: Grace
 gender: Female
 last-name: Nakos
-modified: 20230824203046327
+modified: 20230825125402301
 party: Unaffiliated
 phone: 860-307-3266
-revision: 3
+revision: 0
+street: Boston Hill
 tags: Person Unaffiliated
 title: Grace Nakos
+type: text/vnd.tiddlywiki

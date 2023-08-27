@@ -1,13 +1,15 @@
 address: 18 Stanley
 age: 56
-created: 20230824202109601
+created: 20230825125402397
 email: laurie_a_butler@mail.com
 first-name: Laurie
 gender: Female
 last-name: Butler
-modified: 20230824203046329
+modified: 20230825125402397
 party: Unaffiliated
 phone: 203-645-6463
-revision: 3
+revision: 0
+street: Stanley
 tags: Person Unaffiliated
 title: Laurie Butler
+type: text/vnd.tiddlywiki

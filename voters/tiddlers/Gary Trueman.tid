@@ -1,13 +1,15 @@
 address: 31 Birch
 age: 53
-created: 20230824202109635
+created: 20230825125402431
 email: tinamtrueman@aol.com
 first-name: Gary
 gender: Male
 last-name: Trueman
-modified: 20230824202109635
+modified: 20230825125402431
 party: Democratic
 phone: 860-836-5319
-revision: 1
+revision: 0
+street: Birch
 tags: Person Democratic
 title: Gary Trueman
+type: text/vnd.tiddlywiki

@@ -1,13 +1,15 @@
 address: 82 Bunker Hill
 age: 50
-created: 20230824202109551
+created: 20230825125402347
 email: tmharrin@comcast.net
 first-name: Tammy
 gender: Female
 last-name: Harrington
-modified: 20230824203046332
+modified: 20230825125402347
 party: Unaffiliated
 phone: 860-392-5924
-revision: 3
+revision: 0
+street: Bunker Hill
 tags: Person Unaffiliated
 title: Tammy Harrington
+type: text/vnd.tiddlywiki

@@ -1,13 +1,15 @@
 address: 16 Chesterbrook
 age: 53
-created: 20230824202109648
+created: 20230825125402444
 email: lsinge@comcast.net
 first-name: Laura
 gender: Female
 last-name: Singe
-modified: 20230824202109648
+modified: 20230825125402444
 party: Democratic
 phone: 860-994-1405
-revision: 1
+revision: 0
+street: Chesterbrook
 tags: Person Democratic
 title: Laura Singe
+type: text/vnd.tiddlywiki

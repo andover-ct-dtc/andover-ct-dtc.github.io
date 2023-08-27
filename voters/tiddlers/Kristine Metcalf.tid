@@ -1,13 +1,15 @@
 address: 43 Pine Ridge
 age: 49
-created: 20230824202109674
+created: 20230825125402470
 email: kmetcalf4688@sbcglobal.net
 first-name: Kristine
 gender: Female
 last-name: Metcalf
-modified: 20230824202109674
+modified: 20230825125402470
 party: Democratic
 phone: 860-205-5121
-revision: 1
+revision: 0
+street: Pine Ridge
 tags: Person Democratic
 title: Kristine Metcalf
+type: text/vnd.tiddlywiki

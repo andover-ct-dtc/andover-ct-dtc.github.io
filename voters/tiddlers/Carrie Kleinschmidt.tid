@@ -1,13 +1,15 @@
 address: 22 Brown
 age: 54
-created: 20230824202109537
+created: 20230825125402333
 email: ckleinemt@sbcglobal.net
 first-name: Carrie
 gender: Female
 last-name: Kleinschmidt
-modified: 20230824203046323
+modified: 20230825125402333
 party: Unaffiliated
 phone: 860-798-4054
-revision: 3
+revision: 0
+street: Brown
 tags: Person Unaffiliated
 title: Carrie Kleinschmidt
+type: text/vnd.tiddlywiki

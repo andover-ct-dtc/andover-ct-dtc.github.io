@@ -1,13 +1,15 @@
 address: 121 Wales
 age: 46
-created: 20230824202109758
+created: 20230825125402554
 email: shawnb160@hotmail.com
 first-name: Trisha
 gender: Female
 last-name: Brainard
-modified: 20230824202109758
+modified: 20230825125402554
 party: Democratic
 phone: 
-revision: 1
+revision: 0
+street: Wales
 tags: Person Democratic
 title: Trisha Brainard
+type: text/vnd.tiddlywiki

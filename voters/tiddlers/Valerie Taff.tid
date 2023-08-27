@@ -1,13 +1,15 @@
 address: 42 Bailey
 age: 74
-created: 20230824202109637
+created: 20230825125402433
 email: vtaff@sbcglobal.net
 first-name: Valerie
 gender: Female
 last-name: Taff
-modified: 20230824202109637
+modified: 20230825125402433
 party: Democratic
 phone: 
-revision: 1
+revision: 0
+street: Bailey
 tags: Person Democratic
 title: Valerie Taff
+type: text/vnd.tiddlywiki

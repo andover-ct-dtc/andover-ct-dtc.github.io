@@ -1,13 +1,15 @@
 address: 11 Wheeling
 age: 53
-created: 20230824202109499
+created: 20230825125402295
 email: pannolaura@gmail.com
 first-name: Laura
 gender: Female
 last-name: Panno
-modified: 20230824203046329
+modified: 20230825125402295
 party: Unaffiliated
 phone: 860-208-8911
-revision: 3
+revision: 0
+street: Wheeling
 tags: Person Unaffiliated
 title: Laura Panno
+type: text/vnd.tiddlywiki

@@ -1,13 +1,15 @@
 address: 229 Long Hill
 age: 69
-created: 20230824202109576
+created: 20230825125402372
 email: a_decarlo@comcast.net
 first-name: Sandra
 gender: Female
 last-name: Decarlo
-modified: 20230824203046332
+modified: 20230825125402372
 party: Unaffiliated
 phone: 860-237-3926
-revision: 3
+revision: 0
+street: Long Hill
 tags: Person Unaffiliated
 title: Sandra Decarlo
+type: text/vnd.tiddlywiki

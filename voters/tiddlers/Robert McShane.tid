@@ -1,13 +1,15 @@
 address: 27 Skinner Hill
 age: 66
-created: 20230824202109516
+created: 20230825125402312
 email: jrmcshane007@gmail.com
 first-name: Robert
 gender: Male
 last-name: McShane
-modified: 20230824203046332
+modified: 20230825125402312
 party: Unaffiliated
 phone: 
-revision: 3
+revision: 0
+street: Skinner Hill
 tags: Person Unaffiliated
 title: Robert McShane
+type: text/vnd.tiddlywiki

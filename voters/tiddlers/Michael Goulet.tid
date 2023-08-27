@@ -1,13 +1,15 @@
 address: 441 Lake
 age: 63
-created: 20230824202109560
+created: 20230825125402356
 email: mikejohn3@hotmail.com
 first-name: Michael
 gender: Male
 last-name: Goulet
-modified: 20230824203046330
+modified: 20230825125402356
 party: Unaffiliated
 phone: 
-revision: 3
+revision: 0
+street: Lake
 tags: Person Unaffiliated
 title: Michael Goulet
+type: text/vnd.tiddlywiki

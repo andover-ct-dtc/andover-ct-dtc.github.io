@@ -1,13 +1,15 @@
 address: 143 Hebron
 age: 73
-created: 20230824202109731
+created: 20230825125402527
 email: fertdog1@hotmail.com
 first-name: Joan
 gender: Female
 last-name: Foran
-modified: 20230824202109731
+modified: 20230825125402527
 party: Democratic
 phone: 860-970-4144
-revision: 1
+revision: 0
+street: Hebron
 tags: Person Democratic
 title: Joan Foran
+type: text/vnd.tiddlywiki

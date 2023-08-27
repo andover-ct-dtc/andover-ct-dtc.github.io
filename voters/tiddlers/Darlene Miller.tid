@@ -1,13 +1,15 @@
 address: 25 Pine Ridge
 age: 76
-created: 20230824202109620
+created: 20230825125402416
 email: ljdefiance@yahoo.com
 first-name: Darlene
 gender: Female
 last-name: Miller
-modified: 20230824202109620
+modified: 20230825125402416
 party: Independent
 phone: 860-857-1175
-revision: 1
+revision: 0
+street: Pine Ridge
 tags: Person Independent
 title: Darlene Miller
+type: text/vnd.tiddlywiki

@@ -1,13 +1,15 @@
 address: 48 School
 age: 42
-created: 20230824202109528
+created: 20230825125402324
 email: tpeanutlaz8@yahoo.com
 first-name: Tanya
 gender: Female
 last-name: Luczka
-modified: 20230824203046332
+modified: 20230825125402324
 party: Unaffiliated
 phone: 860-301-1313
-revision: 3
+revision: 0
+street: School
 tags: Person Unaffiliated
 title: Tanya Luczka
+type: text/vnd.tiddlywiki

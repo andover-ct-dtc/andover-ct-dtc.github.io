@@ -1,13 +1,15 @@
 address: 66 Bausola
 age: 41
-created: 20230824202109624
+created: 20230825125402420
 email: jgold816@gmail.com
 first-name: Daniel
 gender: Male
 last-name: Gold
-modified: 20230824202109624
+modified: 20230825152707231
 party: Independent
 phone: 860-331-1173
-revision: 1
+revision: 0
+street: Bausola
 tags: Person Independent
 title: Daniel Gold
+type: text/vnd.tiddlywiki

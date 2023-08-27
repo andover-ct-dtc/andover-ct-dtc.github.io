@@ -1,13 +1,15 @@
 address: 23 Chesterbrook
 age: 39
-created: 20230824202109564
+created: 20230825125402360
 email: jjgadomski@gmail.com
 first-name: Jacob
 gender: Male
 last-name: Gadomski
-modified: 20230824203046327
+modified: 20230825125402360
 party: Unaffiliated
 phone: 860-918-4664
-revision: 3
+revision: 0
+street: Chesterbrook
 tags: Person Unaffiliated
 title: Jacob Gadomski
+type: text/vnd.tiddlywiki

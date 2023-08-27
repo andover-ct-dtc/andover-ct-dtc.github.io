@@ -1,13 +1,15 @@
 address: 323 Boston Hill
 age: 64
-created: 20230824202109581
+created: 20230825125402377
 email: czami1@comcast.net
 first-name: Michael
 gender: Male
 last-name: Czajka
-modified: 20230824203046330
+modified: 20230825125402377
 party: Unaffiliated
 phone: 860-402-6464
-revision: 3
+revision: 0
+street: Boston Hill
 tags: Person Unaffiliated
 title: Michael Czajka
+type: text/vnd.tiddlywiki

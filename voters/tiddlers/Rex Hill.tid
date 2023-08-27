@@ -1,13 +1,15 @@
 address: 23 Jurovaty
 age: 60
-created: 20230824202109550
+created: 20230825125402346
 email: rexhct@comcast.net
 first-name: Rex
 gender: Male
 last-name: Hill
-modified: 20230824203046331
+modified: 20230825125402346
 party: Unaffiliated
 phone: 860-257-7836
-revision: 3
+revision: 0
+street: Jurovaty
 tags: Person Unaffiliated
 title: Rex Hill
+type: text/vnd.tiddlywiki

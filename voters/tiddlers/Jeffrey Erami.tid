@@ -1,13 +1,15 @@
 address: 28 Old Farms
 age: 56
-created: 20230824202109735
+created: 20230825125402531
 email: eramijen@reg8.k12.ct.us
 first-name: Jeffrey
 gender: Male
 last-name: Erami
-modified: 20230824202109735
+modified: 20230825125402531
 party: Democratic
 phone: 860-490-0722
-revision: 1
+revision: 0
+street: Old Farms
 tags: Person Democratic
 title: Jeffrey Erami
+type: text/vnd.tiddlywiki

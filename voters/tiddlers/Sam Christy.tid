@@ -1,13 +1,15 @@
 address: 160 Hendee
 age: 38
-created: 20230824202109587
+created: 20230825125402383
 email: sam_christy@hotmail.com
 first-name: Sam
 gender: Male
 last-name: Christy
-modified: 20230824203046332
+modified: 20230825125402383
 party: Unaffiliated
 phone: 860-207-8629
-revision: 3
+revision: 0
+street: Hendee
 tags: Person Unaffiliated
 title: Sam Christy
+type: text/vnd.tiddlywiki

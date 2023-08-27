@@ -1,13 +1,15 @@
 address: 60 Townsend
 age: 64
-created: 20230824202109723
+created: 20230825125402519
 email: hgruner@rochester.rr.com
 first-name: Henry
 gender: Female
 last-name: Gruner
-modified: 20230824202109723
+modified: 20230825125402519
 party: Democratic
 phone: 860-301-3037
-revision: 1
+revision: 0
+street: Townsend
 tags: Person Democratic
 title: Henry Gruner
+type: text/vnd.tiddlywiki

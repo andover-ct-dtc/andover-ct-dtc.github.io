@@ -1,13 +1,15 @@
 address: Box 242
 age: 67
-created: 20230824202109563
+created: 20230825125402359
 email: giarsue@yahoo.com
 first-name: Suzanne
 gender: Female
 last-name: Giarnella
-modified: 20230824203046332
+modified: 20230825125402359
 party: Unaffiliated
 phone: 
-revision: 3
+revision: 0
+street: PO Box
 tags: Person Unaffiliated
 title: Suzanne Giarnella
+type: text/vnd.tiddlywiki

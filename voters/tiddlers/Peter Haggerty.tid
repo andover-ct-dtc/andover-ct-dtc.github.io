@@ -1,13 +1,15 @@
 address: 254 Lake
 age: 28
-created: 20230824202109555
+created: 20230825125402351
 email: phaggs24@gmail.com
 first-name: Peter
 gender: Male
 last-name: Haggerty
-modified: 20230824203046331
+modified: 20230825125402351
 party: Unaffiliated
 phone: 860-644-9686
-revision: 3
+revision: 0
+street: Lake
 tags: Person Unaffiliated
 title: Peter Haggerty
+type: text/vnd.tiddlywiki

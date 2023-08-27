@@ -1,13 +1,15 @@
 address: 44 Bausola
 age: 69
-created: 20230824202109690
+created: 20230825125402486
 email: johnlanagan@gmail.com
 first-name: John
 gender: Male
 last-name: Lanagan
-modified: 20230824202109690
+modified: 20230825125402486
 party: Democratic
 phone: 860-268-1490
-revision: 1
+revision: 0
+street: Bausola
 tags: Person Democratic
 title: John Lanagan
+type: text/vnd.tiddlywiki

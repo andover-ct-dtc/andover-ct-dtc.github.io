@@ -1,13 +1,15 @@
 address: 108 Townsend
 age: 70
-created: 20230824202109694
+created: 20230825125402490
 email: blacombe@aol.com
 first-name: Beatrice
 gender: Female
 last-name: Lacombe
-modified: 20230824202109694
+modified: 20230825125402490
 party: Democratic
 phone: 
-revision: 1
+revision: 0
+street: Townsend
 tags: Person Democratic
 title: Beatrice Lacombe
+type: text/vnd.tiddlywiki

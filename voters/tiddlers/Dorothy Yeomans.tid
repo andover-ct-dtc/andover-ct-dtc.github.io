@@ -1,13 +1,15 @@
 address: 63 Bunker Hill
 age: 79
-created: 20230824202109628
+created: 20230825125402424
 email: peter.yeomans@comcast.net
 first-name: Dorothy
 gender: Female
 last-name: Yeomans
-modified: 20230824202109628
+modified: 20230825125402424
 party: Democratic
 phone: 860-833-0520
-revision: 1
+revision: 0
+street: Bunker Hill
 tags: Person Democratic
 title: Dorothy Yeomans
+type: text/vnd.tiddlywiki

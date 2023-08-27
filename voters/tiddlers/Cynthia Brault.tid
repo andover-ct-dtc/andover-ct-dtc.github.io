@@ -1,13 +1,15 @@
 address: 209 Lake
 age: 59
-created: 20230824202109757
+created: 20230825125402553
 email: kabrault@comcast.net
 first-name: Cynthia
 gender: Female
 last-name: Brault
-modified: 20230824202109757
+modified: 20230825125402553
 party: Democratic
 phone: 860-857-2654
-revision: 1
+revision: 0
+street: Lake
 tags: Person Democratic
 title: Cynthia Brault
+type: text/vnd.tiddlywiki

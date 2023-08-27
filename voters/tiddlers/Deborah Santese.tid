@@ -1,13 +1,15 @@
 address: 109 Long Hill
 age: 71
-created: 20230824202109655
+created: 20230825125402451
 email: jsantese@comcast.net
 first-name: Deborah
 gender: Female
 last-name: Santese
-modified: 20230824202109655
+modified: 20230825125402451
 party: Democratic
 phone: 
-revision: 1
+revision: 0
+street: Long Hill
 tags: Person Democratic
 title: Deborah Santese
+type: text/vnd.tiddlywiki

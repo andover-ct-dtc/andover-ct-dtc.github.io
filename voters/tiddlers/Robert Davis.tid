@@ -1,13 +1,15 @@
 address: 9 Shadblow
 age: 50
-created: 20230824202109578
+created: 20230825125402374
 email: rnick20229@aol.com
 first-name: Robert
 gender: Male
 last-name: Davis
-modified: 20230824203046331
+modified: 20230825125402374
 party: Unaffiliated
 phone: 
-revision: 3
+revision: 0
+street: Shadblow
 tags: Person Unaffiliated
 title: Robert Davis
+type: text/vnd.tiddlywiki

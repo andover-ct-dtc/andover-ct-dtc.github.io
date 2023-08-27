@@ -1,13 +1,15 @@
 address: 29 Birch
 age: 52
-created: 20230824202109702
+created: 20230825125402498
 email: otiskelley@comcast.net
 first-name: William
 gender: Male
 last-name: Kelley
-modified: 20230824202109702
+modified: 20230825125402498
 party: Democratic
 phone: 860-523-6851
-revision: 1
+revision: 0
+street: Birch
 tags: Person Democratic
 title: William Kelley
+type: text/vnd.tiddlywiki

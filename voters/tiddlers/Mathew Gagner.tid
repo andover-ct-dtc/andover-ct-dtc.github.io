@@ -1,13 +1,15 @@
 address: 7 Jurovaty
 age: 33
-created: 20230824202109724
+created: 20230825125402520
 email: mgagner@aol.com
 first-name: Mathew
 gender: Male
 last-name: Gagner
-modified: 20230824202109724
+modified: 20230825125402520
 party: Democratic
 phone: 614-832-9585
-revision: 1
+revision: 0
+street: Jurovaty
 tags: Person Democratic
 title: Mathew Gagner
+type: text/vnd.tiddlywiki

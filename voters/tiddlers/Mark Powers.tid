@@ -1,13 +1,15 @@
 address: 140 Long Hill
 age: 68
-created: 20230824202109491
+created: 20230825125402287
 email: rcp120190@gmail.com
 first-name: Mark
 gender: Male
 last-name: Powers
-modified: 20230824203046330
+modified: 20230825125402287
 party: Unaffiliated
 phone: 860-874-9938
-revision: 3
+revision: 0
+street: Long Hill
 tags: Person Unaffiliated
 title: Mark Powers
+type: text/vnd.tiddlywiki

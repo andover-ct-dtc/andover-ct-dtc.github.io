@@ -1,13 +1,15 @@
 address: 101 Lakeside
 age: 69
-created: 20230824202109742
+created: 20230825125402538
 email: nellderickdebevoise@gmail.com
 first-name: Linda
 gender: Female
 last-name: Derick
-modified: 20230824202109742
+modified: 20230825125402538
 party: Democratic
 phone: 860-742-1234
-revision: 1
+revision: 0
+street: Lakeside
 tags: Person Democratic
 title: Linda Derick
+type: text/vnd.tiddlywiki

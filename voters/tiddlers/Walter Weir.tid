@@ -1,13 +1,15 @@
 address: 16 Boston Hill
 age: 64
-created: 20230824202109630
+created: 20230825125402426
 email: sjvpip@aol.com
 first-name: Walter
 gender: Male
 last-name: Weir
-modified: 20230824202109630
+modified: 20230825125402426
 party: Democratic
 phone: 860-874-2154
-revision: 1
+revision: 0
+street: Boston Hill
 tags: Person Democratic
 title: Walter Weir
+type: text/vnd.tiddlywiki

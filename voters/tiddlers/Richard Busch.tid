@@ -1,13 +1,15 @@
 address: Box 214
 age: 75
-created: 20230824202109753
+created: 20230825125402549
 email: rshrub@sbcglobal.net
 first-name: Richard
 gender: Male
 last-name: Busch
-modified: 20230824202109753
+modified: 20230825125402549
 party: Democratic
 phone: 
-revision: 1
+revision: 0
+street: PO Box
 tags: Person Democratic
 title: Richard Busch
+type: text/vnd.tiddlywiki

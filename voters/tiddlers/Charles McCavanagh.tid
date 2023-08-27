@@ -1,13 +1,15 @@
 address: 155 Boston Hill
 age: 50
-created: 20230824202109520
+created: 20230825125402316
 email: kmccav@gmail.com
 first-name: Charles
 gender: Male
 last-name: McCavanagh
-modified: 20230824203046323
+modified: 20230825125402316
 party: Unaffiliated
 phone: 860-874-2498
-revision: 3
+revision: 0
+street: Boston Hill
 tags: Person Unaffiliated
 title: Charles McCavanagh
+type: text/vnd.tiddlywiki

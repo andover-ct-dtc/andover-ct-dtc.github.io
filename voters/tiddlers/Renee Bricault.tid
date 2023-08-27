@@ -1,13 +1,15 @@
 address: 71 Pine Ridge
 age: 69
-created: 20230824202109606
+created: 20230825125402402
 email: rbricault@gmail.com
 first-name: Renee
 gender: Female
 last-name: Bricault
-modified: 20230824203046331
+modified: 20230825125402402
 party: Unaffiliated
 phone: 203-228-3569
-revision: 3
+revision: 0
+street: Pine Ridge
 tags: Person Unaffiliated
 title: Renee Bricault
+type: text/vnd.tiddlywiki

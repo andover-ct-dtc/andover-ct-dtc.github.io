@@ -1,0 +1,24 @@
+created: 20230825155249741
+modified: 20230825160710888
+revision: 0
+tags: $:/tags/Macro
+title: $:/_/macros/people
+type: text/vnd.tiddlywiki
+
+\define people(query, skip-party:"no")
+
+<$let by-last ="[{!!last-name}] [{!!first-name}] +[join[, ]]">
+<table class="People">
+<thead>
+<tr><th>Name</th><$list filter="[<__skip-party__>match[no]]" variable="_"><th>Party</th></$list><th>Age</th><th>Gender</th><th>Email</th><th>Phone</th><th>Address</th></tr>
+</thead>
+<tbody>
+<$list filter="$query$ +[sortsub:string<by-last>] ">
+<tr><td>{{{ [{!!title}] }}}</td><$list filter="[<__skip-party__>match[no]]" variable="_"><td>{{{ [{!!party}] }}}</td></$list><td>{{!!age}}</td><td>{{!!gender}}</td><td><a href={{{ [[mailto:]] [<currentTiddler>get[title]] [[<]] [<currentTiddler>get[email]] [[>]] +[join[]] }}}><$text text={{{ [<currentTiddler>get[email]] }}} /></a></td><td>{{!!phone}}</td><td>{{!!address}}</td></tr>
+</$list>
+</tbody>
+</table>
+</$let>
+
+\end
+

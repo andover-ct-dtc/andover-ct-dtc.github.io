@@ -1,13 +1,15 @@
 address: 75 Burnap Brook
 age: 70
-created: 20230824202109729
+created: 20230825125402525
 email: teapot1006@yahoo.com
 first-name: Susan
 gender: Female
 last-name: Freimuth
-modified: 20230824202109729
+modified: 20230825125402525
 party: Democratic
 phone: 860-798-4527
-revision: 1
+revision: 0
+street: Burnap Brook
 tags: Person Democratic
 title: Susan Freimuth
+type: text/vnd.tiddlywiki

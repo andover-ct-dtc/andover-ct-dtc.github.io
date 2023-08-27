@@ -1,13 +1,15 @@
 address: 124 Wales
 age: 64
-created: 20230824202109559
+created: 20230825125402355
 email: rgrames@comcast.net
 first-name: Robin
 gender: Female
 last-name: Grames
-modified: 20230824203046332
+modified: 20230825125402355
 party: Unaffiliated
 phone: 860-992-9773
-revision: 3
+revision: 0
+street: Wales
 tags: Person Unaffiliated
 title: Robin Grames
+type: text/vnd.tiddlywiki

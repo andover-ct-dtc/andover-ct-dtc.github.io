@@ -1,13 +1,15 @@
 address: 260 Bear Swamp
 age: 82
-created: 20230824202109496
+created: 20230825125402292
 email: gpell260@comcast.net
 first-name: Georgette
 gender: Female
 last-name: Pelletier
-modified: 20230824203046326
+modified: 20230825125402292
 party: Unaffiliated
 phone: 860-965-6798
-revision: 3
+revision: 0
+street: Bear Swamp
 tags: Person Unaffiliated
 title: Georgette Pelletier
+type: text/vnd.tiddlywiki

@@ -1,13 +1,15 @@
 address: 93 Lakeside
 age: 70
-created: 20230824202109616
+created: 20230825125402412
 email: ram81air@yahoo.com
 first-name: Charles
 gender: Male
 last-name: Arnold
-modified: 20230824203046323
+modified: 20230825125402412
 party: Unaffiliated
 phone: 860-964-3625
-revision: 3
+revision: 0
+street: Lakeside
 tags: Person Unaffiliated
 title: Charles Arnold
+type: text/vnd.tiddlywiki

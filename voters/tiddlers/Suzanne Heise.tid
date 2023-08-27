@@ -1,13 +1,15 @@
 address: 406 Lake
 age: 71
-created: 20230824202109718
+created: 20230825125402514
 email: hi-c@comcast.net
 first-name: Suzanne
 gender: Female
 last-name: Heise
-modified: 20230824202109718
+modified: 20230825125402514
 party: Democratic
 phone: 860-874-2514
-revision: 1
+revision: 0
+street: Lake
 tags: Person Democratic
 title: Suzanne Heise
+type: text/vnd.tiddlywiki

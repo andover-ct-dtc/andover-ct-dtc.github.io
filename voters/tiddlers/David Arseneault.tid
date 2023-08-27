@@ -1,13 +1,15 @@
 address: 123 Shoddy Mill
 age: 53
-created: 20230824202109615
+created: 20230825125402411
 email: djarseneault@hotmail.com
 first-name: David
 gender: Male
 last-name: Arseneault
-modified: 20230824203046324
+modified: 20230825125402411
 party: Unaffiliated
 phone: 860-306-8496
-revision: 3
+revision: 0
+street: Shoddy Mill
 tags: Person Unaffiliated
 title: David Arseneault
+type: text/vnd.tiddlywiki

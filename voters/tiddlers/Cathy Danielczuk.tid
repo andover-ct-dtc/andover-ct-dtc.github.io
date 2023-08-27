@@ -1,13 +1,15 @@
 address: 96 Gilead
 age: 62
-created: 20230824202109746
+created: 20230825125402542
 email: misscathy35@hotmail.com
 first-name: Cathy
 gender: Female
 last-name: Danielczuk
-modified: 20230824202109746
+modified: 20230825125402542
 party: Democratic
 phone: 860-634-0559
-revision: 1
+revision: 0
+street: Gilead
 tags: Person Democratic
 title: Cathy Danielczuk
+type: text/vnd.tiddlywiki

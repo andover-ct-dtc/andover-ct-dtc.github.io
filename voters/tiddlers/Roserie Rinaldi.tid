@@ -1,13 +1,15 @@
 address: 118 Bunker Hill
 age: 61
-created: 20230824202109487
+created: 20230825125402283
 email: moego2@sbcglobal.net
 first-name: Roserie
 gender: Female
 last-name: Rinaldi
-modified: 20230824203046332
+modified: 20230825125402283
 party: Unaffiliated
 phone: 
-revision: 3
+revision: 0
+street: Bunker Hill
 tags: Person Unaffiliated
 title: Roserie Rinaldi
+type: text/vnd.tiddlywiki

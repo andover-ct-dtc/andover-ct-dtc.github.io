@@ -1,13 +1,15 @@
 address: 149 Hebron
 age: 56
-created: 20230824202109664
+created: 20230825125402460
 email: maximus066@yahoo.com
 first-name: Kristin
 gender: Female
 last-name: Person
-modified: 20230824202109664
+modified: 20230825125402460
 party: Democratic
 phone: 860-268-2630
-revision: 1
+revision: 0
+street: Hebron
 tags: Person Democratic
 title: Kristin Person
+type: text/vnd.tiddlywiki

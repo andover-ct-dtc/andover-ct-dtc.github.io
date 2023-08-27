@@ -1,13 +1,15 @@
 address: 870 East
 age: 43
-created: 20230824202109747
+created: 20230825125402543
 email: jesa0302@comcast.net
 first-name: Jessica
 gender: Female
 last-name: Currier
-modified: 20230824202109747
+modified: 20230825125402543
 party: Democratic
 phone: 860-670-2904
-revision: 1
+revision: 0
+street: East
 tags: Person Democratic
 title: Jessica Currier
+type: text/vnd.tiddlywiki

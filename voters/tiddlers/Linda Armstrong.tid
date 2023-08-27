@@ -1,13 +1,15 @@
 address: 52 Jurovaty
 age: 61
-created: 20230824202109769
+created: 20230825125402565
 email: linda.armstrong@uconn.edu
 first-name: Linda
 gender: Female
 last-name: Armstrong
-modified: 20230824202109769
+modified: 20230825125402565
 party: Democratic
 phone: 860-377-1985
-revision: 1
+revision: 0
+street: Jurovaty
 tags: Person Democratic
 title: Linda Armstrong
+type: text/vnd.tiddlywiki

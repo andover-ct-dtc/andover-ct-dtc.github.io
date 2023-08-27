@@ -1,13 +1,15 @@
 address: 40 Ridge
 age: 35
-created: 20230824202109526
+created: 20230825125402322
 email: dkinney6@aol.com
 first-name: Rebecca
 gender: Female
 last-name: Mancini
-modified: 20230824203046331
+modified: 20230825125402322
 party: Unaffiliated
 phone: 860-604-2225
-revision: 3
+revision: 0
+street: Ridge
 tags: Person Unaffiliated
 title: Rebecca Mancini
+type: text/vnd.tiddlywiki

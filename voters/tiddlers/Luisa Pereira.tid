@@ -1,13 +1,15 @@
 address: 22 Old Coventry
 age: 58
-created: 20230824202109495
+created: 20230825125402291
 email: rblack2@verizon.net
 first-name: Luisa
 gender: Female
 last-name: Pereira
-modified: 20230824203046330
+modified: 20230825125402291
 party: Unaffiliated
 phone: 
-revision: 3
+revision: 0
+street: Old Coventry
 tags: Person Unaffiliated
 title: Luisa Pereira
+type: text/vnd.tiddlywiki

@@ -1,13 +1,15 @@
 address: 315 Hebron
 age: 66
-created: 20230824202109490
+created: 20230825125402286
 email: quags16@gmail.com
 first-name: Miguelina
 gender: Female
 last-name: Quagliano
-modified: 20230824203046331
+modified: 20230825125402286
 party: Unaffiliated
 phone: 
-revision: 3
+revision: 0
+street: Hebron
 tags: Person Unaffiliated
 title: Miguelina Quagliano
+type: text/vnd.tiddlywiki

@@ -1,13 +1,15 @@
 address: 26 Parker Bridge
 age: 54
-created: 20230824202109534
+created: 20230825125402330
 email: kimlachut@sbcglobal.net
 first-name: Kimberly
 gender: Female
 last-name: Lachut
-modified: 20230824203046329
+modified: 20230825125402330
 party: Unaffiliated
 phone: 860-742-5682
-revision: 3
+revision: 0
+street: Parker Bridge
 tags: Person Unaffiliated
 title: Kimberly Lachut
+type: text/vnd.tiddlywiki

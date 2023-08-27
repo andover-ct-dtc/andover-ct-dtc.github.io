@@ -1,13 +1,15 @@
 address: 12 Bear Swamp
 age: 65
-created: 20230824202109775
+created: 20230825125402571
 email: ackermandcea@yahoo.com
 first-name: David
 gender: Male
 last-name: Ackerman
-modified: 20230824202109775
+modified: 20230825125402571
 party: Democratic
 phone: 860-546-7349
-revision: 1
+revision: 0
+street: Bear Swamp
 tags: Person Democratic
 title: David Ackerman
+type: text/vnd.tiddlywiki

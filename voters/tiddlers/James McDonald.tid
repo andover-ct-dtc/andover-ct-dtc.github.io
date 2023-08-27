@@ -1,13 +1,15 @@
 address: 29 Long Hill
 age: 68
-created: 20230824202109678
+created: 20230825125402474
 email: rmcdonald0519@yahoo.com
 first-name: James
 gender: Male
 last-name: McDonald
-modified: 20230824202109678
+modified: 20230825125402474
 party: Democratic
 phone: 860-490-0840
-revision: 1
+revision: 0
+street: Long Hill
 tags: Person Democratic
 title: James McDonald
+type: text/vnd.tiddlywiki

@@ -1,13 +1,15 @@
 address: 457 Lake
 age: 46
-created: 20230824202109483
+created: 20230825125402279
 email: jokemaster63@gmail.com
 first-name: John
 gender: Male
 last-name: Roache
-modified: 20230824203046328
+modified: 20230825125402279
 party: Unaffiliated
 phone: 860-874-2370
-revision: 3
+revision: 0
+street: Lake
 tags: Person Unaffiliated
 title: John Roache
+type: text/vnd.tiddlywiki

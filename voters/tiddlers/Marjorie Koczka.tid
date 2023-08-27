@@ -1,13 +1,15 @@
 address: 389 Lake
 age: 66
-created: 20230824202109697
+created: 20230825125402493
 email: lalaria@aol.com
 first-name: Marjorie
 gender: Female
 last-name: Koczka
-modified: 20230824202109697
+modified: 20230825125402493
 party: Democratic
 phone: 
-revision: 1
+revision: 0
+street: Lake
 tags: Person Democratic
 title: Marjorie Koczka
+type: text/vnd.tiddlywiki

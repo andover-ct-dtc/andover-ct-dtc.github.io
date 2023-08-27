@@ -1,13 +1,15 @@
 address: 220 Bear Swamp
 age: 54
-created: 20230824202109675
+created: 20230825125402471
 email: bmerry@gmail.com
 first-name: Anne
 gender: Female
 last-name: Merry
-modified: 20230824202109675
+modified: 20230825125402471
 party: Democratic
 phone: 
-revision: 1
+revision: 0
+street: Bear Swamp
 tags: Person Democratic
 title: Anne Merry
+type: text/vnd.tiddlywiki

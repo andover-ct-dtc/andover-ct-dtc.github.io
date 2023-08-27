@@ -1,13 +1,15 @@
 address: 140 Hebron
 age: 44
-created: 20230824202109461
+created: 20230825125402257
 email: jemit06@gmail.com
 first-name: Jessica
 gender: Female
 last-name: Talaga
-modified: 20230824203046328
+modified: 20230825125402257
 party: Unaffiliated
 phone: 860-543-3009
-revision: 3
+revision: 0
+street: Hebron
 tags: Person Unaffiliated
 title: Jessica Talaga
+type: text/vnd.tiddlywiki

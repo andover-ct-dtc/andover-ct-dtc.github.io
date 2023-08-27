@@ -1,13 +1,15 @@
 address: 45 Bausola
 age: 75
-created: 20230824202109539
+created: 20230825125402335
 email: billkilby535@gmail.com
 first-name: William
 gender: Male
 last-name: Kilby
-modified: 20230824203046332
+modified: 20230825125402335
 party: Unaffiliated
 phone: 860-519-3274
-revision: 3
+revision: 0
+street: Bausola
 tags: Person Unaffiliated
 title: William Kilby
+type: text/vnd.tiddlywiki

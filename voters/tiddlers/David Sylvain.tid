@@ -1,13 +1,15 @@
 address: 288 Lake
 age: 71
-created: 20230824202109463
+created: 20230825125402259
 email: dsylvain@hotmail.com
 first-name: David
 gender: Male
 last-name: Sylvain
-modified: 20230824203046324
+modified: 20230825125402259
 party: Unaffiliated
 phone: 860-874-8734
-revision: 3
+revision: 0
+street: Lake
 tags: Person Unaffiliated
 title: David Sylvain
+type: text/vnd.tiddlywiki

@@ -1,13 +1,15 @@
 address: 330 Lake
 age: 64
-created: 20230824202109501
+created: 20230825125402297
 email: sorton@gmail.com
 first-name: Richard
 gender: Male
 last-name: Orton
-modified: 20230824203046331
+modified: 20230825125402297
 party: Unaffiliated
 phone: 860-881-5378
-revision: 3
+revision: 0
+street: Lake
 tags: Person Unaffiliated
 title: Richard Orton
+type: text/vnd.tiddlywiki

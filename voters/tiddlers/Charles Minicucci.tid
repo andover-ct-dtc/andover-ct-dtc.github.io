@@ -1,13 +1,15 @@
 address: 120 Shoddy Mill
 age: 64
-created: 20230824202109671
+created: 20230825125402467
 email: minicu123@aol.com
 first-name: Charles
 gender: Male
 last-name: Minicucci
-modified: 20230824202109671
+modified: 20230825125402467
 party: Democratic
 phone: 860-742-7625
-revision: 1
+revision: 0
+street: Shoddy Mill
 tags: Person Democratic
 title: Charles Minicucci
+type: text/vnd.tiddlywiki

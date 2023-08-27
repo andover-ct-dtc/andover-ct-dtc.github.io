@@ -1,13 +1,15 @@
 address: 303 Lake
 age: 58
-created: 20230824202109585
+created: 20230825125402381
 email: clark4295@comcast.net
 first-name: James
 gender: Male
 last-name: Clark
-modified: 20230824203046327
+modified: 20230825125402381
 party: Unaffiliated
 phone: 860-983-4439
-revision: 3
+revision: 0
+street: Lake
 tags: Person Unaffiliated
 title: James Clark
+type: text/vnd.tiddlywiki

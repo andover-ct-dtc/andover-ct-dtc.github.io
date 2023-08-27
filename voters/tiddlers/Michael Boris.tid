@@ -1,13 +1,15 @@
 address: 6 Dogwood
 age: 40
-created: 20230824202109609
+created: 20230825125402405
 email: mike.b@hdibeer.com
 first-name: Michael
 gender: Male
 last-name: Boris
-modified: 20230824203046330
+modified: 20230825125402405
 party: Unaffiliated
 phone: 
-revision: 3
+revision: 0
+street: Dogwood
 tags: Person Unaffiliated
 title: Michael Boris
+type: text/vnd.tiddlywiki

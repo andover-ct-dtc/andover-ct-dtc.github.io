@@ -1,13 +1,15 @@
 address: 121 Lakeside
 age: 82
-created: 20230824202109507
+created: 20230825125402303
 email: murfs4@comcast.net
 first-name: Robert
 gender: Male
 last-name: Murphy
-modified: 20230824203046332
+modified: 20230825125402303
 party: Unaffiliated
 phone: 860-593-1279
-revision: 3
+revision: 0
+street: Lakeside
 tags: Person Unaffiliated
 title: Robert Murphy
+type: text/vnd.tiddlywiki

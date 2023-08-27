@@ -1,13 +1,15 @@
 address: 17 Aspinall
 age: 61
-created: 20230824202109638
+created: 20230825125402434
 email: csylvester@gmail.com
 first-name: Kathleen
 gender: Female
 last-name: Sylvester
-modified: 20230824202109638
+modified: 20230825125402434
 party: Democratic
 phone: 860-604-1323
-revision: 1
+revision: 0
+street: Aspinall
 tags: Person Democratic
 title: Kathleen Sylvester
+type: text/vnd.tiddlywiki

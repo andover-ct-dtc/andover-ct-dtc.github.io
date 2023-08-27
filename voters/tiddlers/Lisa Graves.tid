@@ -1,13 +1,15 @@
 address: 164 Bear Swamp
 age: 57
-created: 20230824202109558
+created: 20230825125402354
 email: cslagraves@hotmail.com
 first-name: Lisa
 gender: Female
 last-name: Graves
-modified: 20230824203046329
+modified: 20230825125402354
 party: Unaffiliated
 phone: 860-972-4281
-revision: 3
+revision: 0
+street: Bear Swamp
 tags: Person Unaffiliated
 title: Lisa Graves
+type: text/vnd.tiddlywiki

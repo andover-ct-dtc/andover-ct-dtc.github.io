@@ -1,0 +1,20 @@
+table.People th, table.People td {text-align: left;}
+details {break-inside: avoid;}
+.query-builder .choice .header {padding: .5em;}
+.query-builder .choice .selection {padding: .5em}
+.query-builder .choice {margin-bottom: 1em;}
+.query-builder .choice.party {border: 1px solid #00f;}
+.query-builder .choice.party .header {background-color: #00f; color: #fff;}
+.query-builder .choice.party .selection {background-color: #ddf; color: #00f;}
+.query-builder .choice.gender {border: 1px solid #f00;}
+.query-builder .choice.gender .header {background-color: #f00; color: #fff;}
+.query-builder .choice.gender .selection {background-color: #fdd; color: #f00;}
+.query-builder .choice.age {border: 1px solid #008000;}
+.query-builder .choice.age .header {background-color: #008000; color: #fff;}
+.query-builder .choice.age .selection {background-color: #c8e6c9; color: #008000;}
+.query-builder .choice.streets {border: 1px solid #5e35b1;}
+.query-builder .choice.streets .header {background-color: #5e35b1; color: #fff;}
+.query-builder .choice.streets .selection {background-color: #d1c4e9; color: #5e35b1;}
+.query-builder h2 {display: inline-block; margin: 0; width: 5em;}
+.query-builder input {margin-left: 1em;}
+.query-builder .selection .stacked {display: inline-block; vertical-align: middle; font-size: 85%; line-height: 1;}

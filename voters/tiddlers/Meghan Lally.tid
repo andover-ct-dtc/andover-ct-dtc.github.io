@@ -1,13 +1,15 @@
 address: 49 Pine Ridge
 age: 39
-created: 20230824202109533
+created: 20230825125402329
 email: nrg722@yahoo.com
 first-name: Meghan
 gender: Female
 last-name: Lally
-modified: 20230824203046330
+modified: 20230825125402329
 party: Unaffiliated
 phone: 860-313-4104
-revision: 3
+revision: 0
+street: Pine Ridge
 tags: Person Unaffiliated
 title: Meghan Lally
+type: text/vnd.tiddlywiki

@@ -1,13 +1,15 @@
 address: 44 Stanley
 age: 59
-created: 20230824202109603
+created: 20230825125402399
 email: stevenbuske@yahoo.com
 first-name: Ann
 gender: Female
 last-name: Buske
-modified: 20230824203046322
+modified: 20230825125402399
 party: Unaffiliated
 phone: 860-878-2754
-revision: 3
+revision: 0
+street: Stanley
 tags: Person Unaffiliated
 title: Ann Buske
+type: text/vnd.tiddlywiki

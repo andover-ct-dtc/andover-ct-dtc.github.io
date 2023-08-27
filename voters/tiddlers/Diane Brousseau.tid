@@ -1,13 +1,15 @@
 address: 55 Bear Swamp
 age: 55
-created: 20230824202109605
+created: 20230825125402401
 email: dianehasemail@yahoo.com
 first-name: Diane
 gender: Female
 last-name: Brousseau
-modified: 20230824203046325
+modified: 20230825125402401
 party: Unaffiliated
 phone: 
-revision: 3
+revision: 0
+street: Bear Swamp
 tags: Person Unaffiliated
 title: Diane Brousseau
+type: text/vnd.tiddlywiki

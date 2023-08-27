@@ -1,13 +1,15 @@
 address: 28 Hebron
 age: 70
-created: 20230824202109625
+created: 20230825125402421
 email: czujewski@aol.com
 first-name: Carol
 gender: Female
 last-name: Zujewski
-modified: 20230824202109625
+modified: 20230825125402421
 party: Democratic
 phone: 
-revision: 1
+revision: 0
+street: Hebron
 tags: Person Democratic
 title: Carol Zujewski
+type: text/vnd.tiddlywiki

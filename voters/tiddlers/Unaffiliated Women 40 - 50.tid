@@ -1,8 +1,0 @@
-created: 20230824190033608
-modified: 20230824203416529
-revision: 1
-tags: [[More Queries]]
-title: Unaffiliated Women 40 - 50
-type: text/vnd.tiddlywiki
-
-<<email "[tag[Democratic]gender[Female]] :filter[get[age]compare:number:gteq[40]compare:number:lteq[50]]">>

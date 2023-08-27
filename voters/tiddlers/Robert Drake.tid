@@ -1,13 +1,15 @@
 address: 740 East
 age: 56
-created: 20230824202109739
+created: 20230825125402535
 email: bobdrakeshowhorses@yahoo.com
 first-name: Robert
 gender: Male
 last-name: Drake
-modified: 20230824202109739
+modified: 20230825125402535
 party: Democratic
 phone: 860-878-7015
-revision: 1
+revision: 0
+street: East
 tags: Person Democratic
 title: Robert Drake
+type: text/vnd.tiddlywiki

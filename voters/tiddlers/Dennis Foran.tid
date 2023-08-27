@@ -1,13 +1,15 @@
 address: 143 Hebron
 age: 79
-created: 20230824202109732
+created: 20230825125402528
 email: joanforan@yahoo.com
 first-name: Dennis
 gender: Male
 last-name: Foran
-modified: 20230824202109732
+modified: 20230825125402528
 party: Democratic
 phone: 860-683-1316
-revision: 1
+revision: 0
+street: Hebron
 tags: Person Democratic
 title: Dennis Foran
+type: text/vnd.tiddlywiki

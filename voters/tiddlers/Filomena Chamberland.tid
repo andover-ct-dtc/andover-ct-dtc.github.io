@@ -1,13 +1,15 @@
 address: 102 Shoddy Mill
 age: 46
-created: 20230824202109593
+created: 20230825125402389
 email: rachamberland@yahoo.com
 first-name: Filomena
 gender: Female
 last-name: Chamberland
-modified: 20230824203046326
+modified: 20230825125402389
 party: Unaffiliated
 phone: 860-706-7919
-revision: 3
+revision: 0
+street: Shoddy Mill
 tags: Person Unaffiliated
 title: Filomena Chamberland
+type: text/vnd.tiddlywiki

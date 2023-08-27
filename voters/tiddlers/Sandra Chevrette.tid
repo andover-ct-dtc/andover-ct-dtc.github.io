@@ -1,13 +1,15 @@
 address: 167 Shoddy Mill
 age: 58
-created: 20230824202109589
+created: 20230825125402385
 email: dchevrette@gmail.com
 first-name: Sandra
 gender: Female
 last-name: Chevrette
-modified: 20230824203046332
+modified: 20230825125402385
 party: Unaffiliated
 phone: 
-revision: 3
+revision: 0
+street: Shoddy Mill
 tags: Person Unaffiliated
 title: Sandra Chevrette
+type: text/vnd.tiddlywiki

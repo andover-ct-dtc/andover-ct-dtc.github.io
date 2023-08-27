@@ -1,13 +1,15 @@
 address: 10 Birch
 age: 74
-created: 20230824202109661
+created: 20230825125402457
 email: pquint48@gmail.com
 first-name: Pamela
 gender: Female
 last-name: Quint
-modified: 20230824202109661
+modified: 20230825125402457
 party: Democratic
 phone: 860-305-2951
-revision: 1
+revision: 0
+street: Birch
 tags: Person Democratic
 title: Pamela Quint
+type: text/vnd.tiddlywiki

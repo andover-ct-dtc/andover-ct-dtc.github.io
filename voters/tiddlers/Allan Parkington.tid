@@ -1,13 +1,15 @@
 address: 56 Hendee
 age: 69
-created: 20230824202109665
+created: 20230825125402461
 email: annagailparkington@yahoo.com
 first-name: Allan
 gender: Male
 last-name: Parkington
-modified: 20230824202109665
+modified: 20230825125402461
 party: Democratic
 phone: 860-208-8874
-revision: 1
+revision: 0
+street: Hendee
 tags: Person Democratic
 title: Allan Parkington
+type: text/vnd.tiddlywiki

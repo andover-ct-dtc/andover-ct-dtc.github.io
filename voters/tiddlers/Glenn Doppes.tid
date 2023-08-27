@@ -1,13 +1,15 @@
-address: 7 W
+address: 7 West Street Ext
 age: 67
-created: 20230824202109574
+created: 20230825125402370
 email: bdoppes@gmail.com
 first-name: Glenn
 gender: Male
 last-name: Doppes
-modified: 20230824203046326
+modified: 20230825132559486
 party: Unaffiliated
 phone: 860-841-9920
-revision: 3
+revision: 0
+street: West Street Ext
 tags: Person Unaffiliated
 title: Glenn Doppes
+type: text/vnd.tiddlywiki

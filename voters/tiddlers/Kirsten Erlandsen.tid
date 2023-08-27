@@ -1,13 +1,15 @@
 address: 7 Brown
 age: 56
-created: 20230824202109570
+created: 20230825125402366
 email: kerlandsen@hotmail.com
 first-name: Kirsten
 gender: Female
 last-name: Erlandsen
-modified: 20230824203046329
+modified: 20230825125402366
 party: Unaffiliated
 phone: 860-841-9953
-revision: 3
+revision: 0
+street: Brown
 tags: Person Unaffiliated
 title: Kirsten Erlandsen
+type: text/vnd.tiddlywiki

@@ -1,13 +1,15 @@
 address: 420 Lake
 age: 64
-created: 20230824202109756
+created: 20230825125402552
 email: susan_bristol@sbcglobal.net
 first-name: Susan
 gender: Female
 last-name: Bristol
-modified: 20230824202109756
+modified: 20230825125402552
 party: Democratic
 phone: 860-874-5106
-revision: 1
+revision: 0
+street: Lake
 tags: Person Democratic
 title: Susan Bristol
+type: text/vnd.tiddlywiki

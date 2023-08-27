@@ -1,13 +1,15 @@
 address: 34 Wheeling
 age: 85
-created: 20230824202109771
+created: 20230825125402567
 email: thomasmanderson@cs.com
 first-name: Thomas
 gender: Male
 last-name: Anderson
-modified: 20230824202109771
+modified: 20230825125402567
 party: Democratic
 phone: 860-796-2664
-revision: 1
+revision: 0
+street: Wheeling
 tags: Person Democratic
 title: Thomas Anderson
+type: text/vnd.tiddlywiki

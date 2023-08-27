@@ -1,13 +1,15 @@
 address: 66 Jurovaty
 age: 64
-created: 20230824202109645
+created: 20230825125402441
 email: greglynda@msn.com
 first-name: Gregory
 gender: Male
 last-name: Smith
-modified: 20230824202109645
+modified: 20230825125402441
 party: Democratic
 phone: 860-857-1567
-revision: 1
+revision: 0
+street: Jurovaty
 tags: Person Democratic
 title: Gregory Smith
+type: text/vnd.tiddlywiki

@@ -1,13 +1,15 @@
 address: 35 Center
 age: 47
-created: 20230824202109680
+created: 20230825125402476
 email: mack.maynard@yahoo.com
 first-name: Emma
 gender: Female
 last-name: Maynard
-modified: 20230824202109680
+modified: 20230825125402476
 party: Democratic
 phone: 860-268-4565
-revision: 1
+revision: 0
+street: Center
 tags: Person Democratic
 title: Emma Maynard
+type: text/vnd.tiddlywiki

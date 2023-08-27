@@ -1,13 +1,15 @@
 address: 258 Gilead
 age: 67
-created: 20230824202109685
+created: 20230825125402481
 email: padoux54@comcast.net
 first-name: David
 gender: Male
 last-name: Ledoux
-modified: 20230824202109685
+modified: 20230825125402481
 party: Democratic
 phone: 860-874-2455
-revision: 1
+revision: 0
+street: Gilead
 tags: Person Democratic
 title: David Ledoux
+type: text/vnd.tiddlywiki

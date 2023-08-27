@@ -13,7 +13,7 @@
     "release": "cross-var tiddlywiki . --output docs/voters --build index && cross-var shx mkdir -p docs/$npm_package_version && cross-var shx cp docs/index.html docs/$npm_package_version/index.html",
     "release-voters": "cross-var tiddlywiki voters --output docs/voters --build index && cross-var shx mkdir -p docs/voters/$npm_package_config_voters-version && cross-var shx cp docs/voters/index.html docs/voters/$npm_package_config_voters-version/index.html",
     "start": "tiddlywiki . --listen port=7420",
-    "start-voters": "tiddlywiki . --listen port=7421"
+    "start-voters": "tiddlywiki voters --listen port=7421"
   },
   "repository": {
     "type": "git",

@@ -1,13 +1,15 @@
 address: 19 Pine Ridge
 age: 77
-created: 20230824202109529
+created: 20230825125402325
 email: clorenc@comcast.net
 first-name: Carol
 gender: Female
 last-name: Lorenc
-modified: 20230824203046323
+modified: 20230825125402325
 party: Unaffiliated
 phone: 860-372-0445
-revision: 3
+revision: 0
+street: Pine Ridge
 tags: Person Unaffiliated
 title: Carol Lorenc
+type: text/vnd.tiddlywiki

@@ -1,0 +1,8 @@
+created: 20230825151159483
+modified: 20230825160800805
+revision: 0
+tags: Party
+title: Democratic
+type: text/vnd.tiddlywiki
+
+<<people "[tag[Person]party[Democratic]]" skip-party:"yes" >>

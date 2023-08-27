@@ -1,13 +1,15 @@
 address: 38 Bunker Hill
 age: 85
-created: 20230824202109544
+created: 20230825125402340
 email: nimikos@aol.com
 first-name: Katherine
 gender: Female
 last-name: Hutchinson
-modified: 20230824203046328
+modified: 20230825125402340
 party: Unaffiliated
 phone: 
-revision: 3
+revision: 0
+street: Bunker Hill
 tags: Person Unaffiliated
 title: Katherine Hutchinson
+type: text/vnd.tiddlywiki

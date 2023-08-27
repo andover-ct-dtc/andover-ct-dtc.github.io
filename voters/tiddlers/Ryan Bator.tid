@@ -1,13 +1,15 @@
 address: 211 Long Hill
 age: 32
-created: 20230824202109611
+created: 20230825125402407
 email: cbmrsb@sbcglobal.net
 first-name: Ryan
 gender: Male
 last-name: Bator
-modified: 20230824203046332
+modified: 20230825125402407
 party: Unaffiliated
 phone: 860-614-0999
-revision: 3
+revision: 0
+street: Long Hill
 tags: Person Unaffiliated
 title: Ryan Bator
+type: text/vnd.tiddlywiki

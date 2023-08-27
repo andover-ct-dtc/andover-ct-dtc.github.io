@@ -1,13 +1,15 @@
 address: 299 Lake
 age: 69
-created: 20230824202109612
+created: 20230825125402408
 email: wfsbdesign@yahoo.com
 first-name: Charles
 gender: Male
 last-name: Basile
-modified: 20230824203046323
+modified: 20230825125402408
 party: Unaffiliated
 phone: 
-revision: 3
+revision: 0
+street: Lake
 tags: Person Unaffiliated
 title: Charles Basile
+type: text/vnd.tiddlywiki

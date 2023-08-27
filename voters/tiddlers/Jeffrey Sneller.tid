@@ -1,13 +1,15 @@
 address: 1 Dogwood
 age: 46
-created: 20230824202109644
+created: 20230825125402440
 email: snellerjeff@yahoo.com
 first-name: Jeffrey
 gender: Male
 last-name: Sneller
-modified: 20230824202109644
+modified: 20230825125402440
 party: Democratic
 phone: 860-977-8657
-revision: 1
+revision: 0
+street: Dogwood
 tags: Person Democratic
 title: Jeffrey Sneller
+type: text/vnd.tiddlywiki

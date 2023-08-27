@@ -1,13 +1,15 @@
 address: 918 East
 age: 72
-created: 20230824202109716
+created: 20230825125402512
 email: russellholyfield@sbcglobal.net
 first-name: Linda
 gender: Female
 last-name: Holyfield
-modified: 20230824202109716
+modified: 20230825125402512
 party: Democratic
 phone: 
-revision: 1
+revision: 0
+street: East
 tags: Person Democratic
 title: Linda Holyfield
+type: text/vnd.tiddlywiki

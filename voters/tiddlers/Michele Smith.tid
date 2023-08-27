@@ -1,13 +1,15 @@
 address: 64 Windrush
 age: 52
-created: 20230824202109468
+created: 20230825125402264
 email: princesspoppop@yahoo.com
 first-name: Michele
 gender: Female
 last-name: Smith
-modified: 20230824203046331
+modified: 20230825125402264
 party: Unaffiliated
 phone: 860-803-3341
-revision: 3
+revision: 0
+street: Windrush
 tags: Person Unaffiliated
 title: Michele Smith
+type: text/vnd.tiddlywiki

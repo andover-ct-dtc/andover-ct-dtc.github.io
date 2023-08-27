@@ -1,13 +1,15 @@
 address: 20 Wheeling
 age: 64
-created: 20230824202109566
+created: 20230825125402362
 email: dfitzpatrick02280@yahoo.com
 first-name: Michael
 gender: Male
 last-name: Fitzpatrick
-modified: 20230824203046330
+modified: 20230825125402362
 party: Unaffiliated
 phone: 860-967-7669
-revision: 3
+revision: 0
+street: Wheeling
 tags: Person Unaffiliated
 title: Michael Fitzpatrick
+type: text/vnd.tiddlywiki

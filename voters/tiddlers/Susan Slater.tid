@@ -1,13 +1,15 @@
 address: 15 Shoddy Mill
 age: 43
-created: 20230824202109470
+created: 20230825125402266
 email: susan_slater@att.net
 first-name: Susan
 gender: Female
 last-name: Slater
-modified: 20230824203046332
+modified: 20230825125402266
 party: Unaffiliated
 phone: 860-742-7980
-revision: 3
+revision: 0
+street: Shoddy Mill
 tags: Person Unaffiliated
 title: Susan Slater
+type: text/vnd.tiddlywiki

@@ -1,13 +1,15 @@
 address: 74 Windrush
 age: 59
-created: 20230824202109518
+created: 20230825125402314
 email: usa1vam@yahoo.com
 first-name: Victor
 gender: Male
 last-name: McEntire
-modified: 20230824203046332
+modified: 20230825125402314
 party: Unaffiliated
 phone: 203-829-1716
-revision: 3
+revision: 0
+street: Windrush
 tags: Person Unaffiliated
 title: Victor McEntire
+type: text/vnd.tiddlywiki

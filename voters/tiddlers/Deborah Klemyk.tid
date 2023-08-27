@@ -1,13 +1,15 @@
 address: 20 Gilead
 age: 53
-created: 20230824202109699
+created: 20230825125402495
 email: dklemyk@hotmail.com
 first-name: Deborah
 gender: Female
 last-name: Klemyk
-modified: 20230824202109699
+modified: 20230825125402495
 party: Democratic
 phone: 860-680-1342
-revision: 1
+revision: 0
+street: Gilead
 tags: Person Democratic
 title: Deborah Klemyk
+type: text/vnd.tiddlywiki

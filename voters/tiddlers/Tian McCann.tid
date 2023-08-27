@@ -1,13 +1,15 @@
 address: 90 Jurovaty
 age: 27
-created: 20230824202109679
+created: 20230825125402475
 email: davo347@sbcglobal.net
 first-name: Tian
 gender: Female
 last-name: McCann
-modified: 20230824202109679
+modified: 20230825125402475
 party: Democratic
 phone: 860-716-8539
-revision: 1
+revision: 0
+street: Jurovaty
 tags: Person Democratic
 title: Tian McCann
+type: text/vnd.tiddlywiki

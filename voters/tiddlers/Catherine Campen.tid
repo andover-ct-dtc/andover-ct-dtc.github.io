@@ -1,13 +1,15 @@
 address: 13 Birch
 age: 63
-created: 20230824202109600
+created: 20230825125402396
 email: temporaryname555@aol.com
 first-name: Catherine
 gender: Female
 last-name: Campen
-modified: 20230824203046323
+modified: 20230825125402396
 party: Unaffiliated
 phone: 860-966-5940
-revision: 3
+revision: 0
+street: Birch
 tags: Person Unaffiliated
 title: Catherine Campen
+type: text/vnd.tiddlywiki

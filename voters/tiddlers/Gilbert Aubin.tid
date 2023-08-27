@@ -1,13 +1,15 @@
 address: 54 School
 age: 69
-created: 20230824202109614
+created: 20230825125402410
 email: wolfta2@aol.com
 first-name: Gilbert
 gender: Male
 last-name: Aubin
-modified: 20230824203046326
+modified: 20230825125402410
 party: Unaffiliated
 phone: 860-490-3449
-revision: 3
+revision: 0
+street: School
 tags: Person Unaffiliated
 title: Gilbert Aubin
+type: text/vnd.tiddlywiki

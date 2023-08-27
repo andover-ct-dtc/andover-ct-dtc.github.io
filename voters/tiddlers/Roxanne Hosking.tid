@@ -1,13 +1,15 @@
 address: 114 Wales
 age: 65
-created: 20230824202109711
+created: 20230825125402507
 email: roxannesrocks1@sbcglobal.net
 first-name: Roxanne
 gender: Female
 last-name: Hosking
-modified: 20230824202109711
+modified: 20230825125402507
 party: Democratic
 phone: 
-revision: 1
+revision: 0
+street: Wales
 tags: Person Democratic
 title: Roxanne Hosking
+type: text/vnd.tiddlywiki

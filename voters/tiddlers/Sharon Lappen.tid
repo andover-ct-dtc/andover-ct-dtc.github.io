@@ -1,13 +1,15 @@
 address: 128 Shoddy Mill
 age: 68
-created: 20230824202109688
+created: 20230825125402484
 email: slappen@comcast.net
 first-name: Sharon
 gender: Female
 last-name: Lappen
-modified: 20230824202109688
+modified: 20230825125402484
 party: Democratic
 phone: 860-756-6698
-revision: 1
+revision: 0
+street: Shoddy Mill
 tags: Person Democratic
 title: Sharon Lappen
+type: text/vnd.tiddlywiki

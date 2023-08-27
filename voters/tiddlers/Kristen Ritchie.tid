@@ -1,13 +1,15 @@
 address: 12 Windrush
 age: 55
-created: 20230824202109658
+created: 20230825125402454
 email: lindsayritchie09@yahoo.com
 first-name: Kristen
 gender: Female
 last-name: Ritchie
-modified: 20230824202109658
+modified: 20230825125402454
 party: Democratic
 phone: 
-revision: 1
+revision: 0
+street: Windrush
 tags: Person Democratic
 title: Kristen Ritchie
+type: text/vnd.tiddlywiki

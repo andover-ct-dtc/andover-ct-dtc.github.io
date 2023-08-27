@@ -1,13 +1,15 @@
 address: Box 395
 age: 66
-created: 20230824202109763
+created: 20230825125402559
 email: sbialowas@hotmail.com
 first-name: Donna
 gender: Female
 last-name: Bialowas
-modified: 20230824202109763
+modified: 20230825125402559
 party: Democratic
 phone: 860-833-7208
-revision: 1
+revision: 0
+street: PO Box
 tags: Person Democratic
 title: Donna Bialowas
+type: text/vnd.tiddlywiki

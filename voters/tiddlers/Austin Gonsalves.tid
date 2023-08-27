@@ -1,13 +1,15 @@
 address: 85 Hutchinson
 age: 23
-created: 20230824202109561
+created: 20230825125402357
 email: mandie-lee@comcast.net
 first-name: Austin
 gender: Male
 last-name: Gonsalves
-modified: 20230824203046322
+modified: 20230825125402357
 party: Unaffiliated
 phone: 
-revision: 3
+revision: 0
+street: Hutchinson
 tags: Person Unaffiliated
 title: Austin Gonsalves
+type: text/vnd.tiddlywiki

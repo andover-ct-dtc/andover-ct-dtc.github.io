@@ -1,9 +1,8 @@
 caption: Contents
 created: 20180926191321993
-list: Everyone Democrats Independents [[Unaffiliated Voters]] [[More Queries]] Person
+list: [[Create Query]] Everyone Democrats Independents [[Unaffiliated Voters]] [[More Queries]] Data [[Technical Info]]
 list-before: $:/core/ui/SideBar/Open
-modified: 20230824203144457
-revision: 1
+modified: 20230826133818017
 tags: $:/tags/SideBar
 title: TableOfContents
 type: text/vnd.tiddlywiki

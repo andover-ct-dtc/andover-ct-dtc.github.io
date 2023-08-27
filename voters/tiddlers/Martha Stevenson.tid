@@ -1,13 +1,15 @@
 address: 98 Lake
 age: 64
-created: 20230824202109641
+created: 20230825125402437
 email: smartfifty7@aol.com
 first-name: Martha
 gender: Female
 last-name: Stevenson
-modified: 20230824202109641
+modified: 20230825125402437
 party: Democratic
 phone: 860-859-7693
-revision: 1
+revision: 0
+street: Lake
 tags: Person Democratic
 title: Martha Stevenson
+type: text/vnd.tiddlywiki

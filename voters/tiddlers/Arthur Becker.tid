@@ -1,13 +1,15 @@
 address: 22 Bear Swamp
 age: 71
-created: 20230824202109610
+created: 20230825125402406
 email: jedipadmay@yahoo.com
 first-name: Arthur
 gender: Male
 last-name: Becker
-modified: 20230824203046322
+modified: 20230825125402406
 party: Unaffiliated
 phone: 860-617-0596
-revision: 3
+revision: 0
+street: Bear Swamp
 tags: Person Unaffiliated
 title: Arthur Becker
+type: text/vnd.tiddlywiki

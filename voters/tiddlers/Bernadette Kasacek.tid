@@ -1,13 +1,15 @@
 address: 186 Bear Swamp
 age: 54
-created: 20230824202109705
+created: 20230825125402501
 email: marycmcbride97@gmail.com
 first-name: Bernadette
 gender: Female
 last-name: Kasacek
-modified: 20230824202109705
+modified: 20230825125402501
 party: Democratic
 phone: 
-revision: 1
+revision: 0
+street: Bear Swamp
 tags: Person Democratic
 title: Bernadette Kasacek
+type: text/vnd.tiddlywiki

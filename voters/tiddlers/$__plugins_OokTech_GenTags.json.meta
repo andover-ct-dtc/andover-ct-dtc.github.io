@@ -1,0 +1,10 @@
+author: OokTech
+core-version: >=5.1.0
+dependents: 
+description: A plugin to let any field be used like the tags field
+list: ReadMe ListLikeTagsMacro Acknowledgements
+plugin-type: plugin
+source: 
+title: $:/plugins/OokTech/GenTags
+type: application/json
+version: 0.0.25

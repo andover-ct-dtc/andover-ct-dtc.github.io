@@ -1,13 +1,15 @@
 address: 275 Gilead
 age: 60
-created: 20230824202109475
+created: 20230825125402271
 email: dale.scoville@uconn.edu
 first-name: Catherine
 gender: Female
 last-name: Scoville
-modified: 20230824203046323
+modified: 20230825125402271
 party: Unaffiliated
 phone: 
-revision: 3
+revision: 0
+street: Gilead
 tags: Person Unaffiliated
 title: Catherine Scoville
+type: text/vnd.tiddlywiki

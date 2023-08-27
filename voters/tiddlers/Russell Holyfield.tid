@@ -1,13 +1,15 @@
 address: 918 East
 age: 74
-created: 20230824202109715
+created: 20230825125402511
 email: rholyfield@sbcglobal.net
 first-name: Russell
 gender: Male
 last-name: Holyfield
-modified: 20230824202109715
+modified: 20230825125402511
 party: Democratic
 phone: 860-857-1125
-revision: 1
+revision: 0
+street: East
 tags: Person Democratic
 title: Russell Holyfield
+type: text/vnd.tiddlywiki

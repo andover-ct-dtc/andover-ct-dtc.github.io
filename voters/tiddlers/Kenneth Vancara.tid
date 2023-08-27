@@ -1,13 +1,15 @@
 address: 8 Chesterbrook
 age: 53
-created: 20230824202109633
+created: 20230825125402429
 email: kvancara@comcast.net
 first-name: Kenneth
 gender: Male
 last-name: Vancara
-modified: 20230824202109633
+modified: 20230825125402429
 party: Democratic
 phone: 860-874-2281
-revision: 1
+revision: 0
+street: Chesterbrook
 tags: Person Democratic
 title: Kenneth Vancara
+type: text/vnd.tiddlywiki

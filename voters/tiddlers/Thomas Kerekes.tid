@@ -1,13 +1,15 @@
 address: 15 Parker Bridge
 age: 65
-created: 20230824202109541
+created: 20230825125402337
 email: tkarkeys@comcast.net
 first-name: Thomas
 gender: Male
 last-name: Kerekes
-modified: 20230824203046332
+modified: 20230825125402337
 party: Unaffiliated
 phone: 860-847-0147
-revision: 3
+revision: 0
+street: Parker Bridge
 tags: Person Unaffiliated
 title: Thomas Kerekes
+type: text/vnd.tiddlywiki

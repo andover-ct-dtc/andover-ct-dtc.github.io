@@ -1,13 +1,15 @@
 address: 16 Shadblow
 age: 57
-created: 20230824202109738
+created: 20230825125402534
 email: drbridget.emmanuel@yahoo.com
 first-name: Bridget
 gender: Female
 last-name: Emmanuel
-modified: 20230824202109738
+modified: 20230825125402534
 party: Democratic
 phone: 
-revision: 1
+revision: 0
+street: Shadblow
 tags: Person Democratic
 title: Bridget Emmanuel
+type: text/vnd.tiddlywiki

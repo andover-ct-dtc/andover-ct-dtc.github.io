@@ -1,13 +1,15 @@
 address: 212 Gilead
 age: 65
-created: 20230824202109480
+created: 20230825125402276
 email: brufini@comcast.net
 first-name: Patricia
 gender: Female
 last-name: Rufini
-modified: 20230824203046331
+modified: 20230825125402276
 party: Unaffiliated
 phone: 860-638-9311
-revision: 3
+revision: 0
+street: Gilead
 tags: Person Unaffiliated
 title: Patricia Rufini
+type: text/vnd.tiddlywiki

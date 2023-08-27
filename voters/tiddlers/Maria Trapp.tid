@@ -1,13 +1,15 @@
 address: 100 Wheeling
 age: 58
-created: 20230824202109458
+created: 20230825125402254
 email: rmmz100@comcast.net
 first-name: Maria
 gender: Female
 last-name: Trapp
-modified: 20230824203046330
+modified: 20230825125402254
 party: Unaffiliated
 phone: 860-759-8573
-revision: 3
+revision: 0
+street: Wheeling
 tags: Person Unaffiliated
 title: Maria Trapp
+type: text/vnd.tiddlywiki

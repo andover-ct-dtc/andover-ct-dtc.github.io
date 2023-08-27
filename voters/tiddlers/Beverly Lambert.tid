@@ -1,13 +1,15 @@
 address: 280 Hebron
 age: 70
-created: 20230824202109691
+created: 20230825125402487
 email: blambert2@mac.com
 first-name: Beverly
 gender: Female
 last-name: Lambert
-modified: 20230824202109691
+modified: 20230825125402487
 party: Democratic
 phone: 860-398-0253
-revision: 1
+revision: 0
+street: Hebron
 tags: Person Democratic
 title: Beverly Lambert
+type: text/vnd.tiddlywiki

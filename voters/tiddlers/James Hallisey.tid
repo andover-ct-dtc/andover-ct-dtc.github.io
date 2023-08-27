@@ -1,13 +1,15 @@
 address: 50 Merritt Valley
 age: 66
-created: 20230824202109721
+created: 20230825125402517
 email: jimhallisey@comcast.net
 first-name: James
 gender: Male
 last-name: Hallisey
-modified: 20230824202109721
+modified: 20230825125402517
 party: Democratic
 phone: 860-742-7041
-revision: 1
+revision: 0
+street: Merritt Valley
 tags: Person Democratic
 title: James Hallisey
+type: text/vnd.tiddlywiki

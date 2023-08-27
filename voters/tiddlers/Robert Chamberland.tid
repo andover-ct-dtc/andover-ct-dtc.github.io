@@ -1,13 +1,15 @@
 address: 102 Shoddy Mill
 age: 54
-created: 20230824202109592
+created: 20230825125402388
 email: dchamberland@comcast.net
 first-name: Robert
 gender: Male
 last-name: Chamberland
-modified: 20230824203046331
+modified: 20230825125402388
 party: Unaffiliated
 phone: 860-884-4538
-revision: 3
+revision: 0
+street: Shoddy Mill
 tags: Person Unaffiliated
 title: Robert Chamberland
+type: text/vnd.tiddlywiki

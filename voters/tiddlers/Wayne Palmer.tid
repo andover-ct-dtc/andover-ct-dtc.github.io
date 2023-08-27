@@ -1,13 +1,15 @@
 address: Box 66
 age: 61
-created: 20230824202109667
+created: 20230825125402463
 email: wspalmer@sbcglobal.net
 first-name: Wayne
 gender: Male
 last-name: Palmer
-modified: 20230824202109667
+modified: 20230825125402463
 party: Democratic
 phone: 860-839-0947
-revision: 1
+revision: 0
+street: PO Box
 tags: Person Democratic
 title: Wayne Palmer
+type: text/vnd.tiddlywiki

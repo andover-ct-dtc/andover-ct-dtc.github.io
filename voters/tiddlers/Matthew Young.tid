@@ -1,13 +1,15 @@
 address: 77 Shoddy Mill
 age: 35
-created: 20230824202109452
+created: 20230825125402248
 email: nutter.c@gmail.com
 first-name: Matthew
 gender: Male
 last-name: Young
-modified: 20230824203046330
+modified: 20230825125402248
 party: Unaffiliated
 phone: 860-268-0570
-revision: 3
+revision: 0
+street: Shoddy Mill
 tags: Person Unaffiliated
 title: Matthew Young
+type: text/vnd.tiddlywiki

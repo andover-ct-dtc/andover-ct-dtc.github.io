@@ -1,13 +1,15 @@
 address: 150 Long Hill
 age: 51
-created: 20230824202109502
+created: 20230825125402298
 email: pigpoo@sbcglobal.net
 first-name: Laura
 gender: Female
 last-name: Onofrio
-modified: 20230824203046329
+modified: 20230825125402298
 party: Unaffiliated
 phone: 
-revision: 3
+revision: 0
+street: Long Hill
 tags: Person Unaffiliated
 title: Laura Onofrio
+type: text/vnd.tiddlywiki

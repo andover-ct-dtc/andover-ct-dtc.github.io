@@ -1,13 +1,15 @@
 address: 55 Windrush
 age: 52
-created: 20230824202109552
+created: 20230825125402348
 email: jharders@sbcglobal.net
 first-name: Anne
 gender: Female
 last-name: Harders
-modified: 20230824203046322
+modified: 20230825125402348
 party: Unaffiliated
 phone: 
-revision: 3
+revision: 0
+street: Windrush
 tags: Person Unaffiliated
 title: Anne Harders
+type: text/vnd.tiddlywiki

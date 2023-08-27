@@ -1,13 +1,15 @@
 address: 65 Long Hill
 age: 66
-created: 20230824202109532
+created: 20230825125402328
 email: blaurinitis@yahoo.com
 first-name: Richard
 gender: Male
 last-name: Laurinitis
-modified: 20230824203046331
+modified: 20230825125402328
 party: Unaffiliated
 phone: 860-874-2465
-revision: 3
+revision: 0
+street: Long Hill
 tags: Person Unaffiliated
 title: Richard Laurinitis
+type: text/vnd.tiddlywiki

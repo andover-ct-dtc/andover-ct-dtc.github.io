@@ -1,13 +1,15 @@
 address: 428 Lake
 age: 65
-created: 20230824202109591
+created: 20230825125402387
 email: lakelady2857@gmail.com
 first-name: Linda
 gender: Female
 last-name: Chambers
-modified: 20230824203046329
+modified: 20230825125402387
 party: Unaffiliated
 phone: 860-368-1205
-revision: 3
+revision: 0
+street: Lake
 tags: Person Unaffiliated
 title: Linda Chambers
+type: text/vnd.tiddlywiki

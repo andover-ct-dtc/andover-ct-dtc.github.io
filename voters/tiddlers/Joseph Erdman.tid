@@ -1,13 +1,15 @@
 address: 13 Dogwood
 age: 49
-created: 20230824202109734
+created: 20230825125402530
 email: josepherdman@yahoo.com
 first-name: Joseph
 gender: Male
 last-name: Erdman
-modified: 20230824202109734
+modified: 20230825125402530
 party: Democratic
 phone: 
-revision: 1
+revision: 0
+street: Dogwood
 tags: Person Democratic
 title: Joseph Erdman
+type: text/vnd.tiddlywiki

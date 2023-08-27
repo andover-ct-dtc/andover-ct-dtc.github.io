@@ -1,0 +1,12 @@
+created: 20230825134820255
+modified: 20230825145319984
+revision: 0
+tags: $:/tags/ViewTemplate
+title: $:/_/templates/Street
+type: text/vnd.tiddlywiki
+
+<$list filter="[<currentTiddler>tag[Street]first[]]" variable="_">
+<$let title={{!!title}} by-last ="[{!!last-name}] [{!!first-name}] +[join[, ]]">
+<<list-links "[tag[Person]] :filter[get[street]match<title>] +[sortsub:string<by-last>] " >> 
+</$let>
+</$list>

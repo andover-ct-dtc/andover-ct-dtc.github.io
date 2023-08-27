@@ -1,0 +1,121 @@
+choose-age: no
+choose-gender: no
+choose-min-age: yes
+choose-party: no
+choose-streets: no
+created: 20230826140350777
+genders: Female
+max-age: 40
+max-age-type: lt;
+min-age: 30
+min-age-type: gte
+modified: 20230827032621517
+parties: Unaffiliated Independent
+street-names: [[Boston Hill]] Wales
+tags: TableOfContents
+title: Create Query
+type: text/vnd.tiddlywiki
+
+\define lbrack() <$text text={{{ [charcode[91]] }}} />
+
+\define rbrack() <$text text={{{ [charcode[93]] }}} />
+
+<div class="query-builder">
+  <div class="choice party">
+    <div class="header">
+      <h2>Parties</h2>
+      <$radio field="choose-party" value="no" default="no"> Any Party</$radio>
+      <$radio field="choose-party" value="yes"> Select Party</$radio>
+    </div>
+<$reveal type="match" stateTitle=<<currentTiddler>> stateField="choose-party"  text="yes">
+    <div class="selection">
+      <$checkbox listField="parties" checked="Democratic"/> Democratic
+      <$checkbox listField="parties" checked="Independent"/> Independent
+      <$checkbox listField="parties" checked="Unaffiliated"/> Unaffiliated
+    </div>
+</$reveal>
+  </div>
+
+  <div class="choice gender">
+    <div class="header">
+      <h2>Gender</h2>
+      <$radio field="choose-gender" value="no" default="no"> Any Gender</$radio>
+      <$radio field="choose-gender" value="yes"> Select Gender</$radio>
+    </div>
+<$reveal type="match" stateTitle=<<currentTiddler>> stateField="choose-gender"  text="yes">
+    <div class="selection">
+      <$checkbox listField="genders" checked="Female"/> Female 
+      <$checkbox listField="genders" checked="Male"/> Male
+    </div>
+</$reveal>
+  </div>
+
+  <div class="choice age">
+    <div class="header">
+      <h2>Age</h2>
+      <$radio field="choose-age" value="no" default="no"> Any Age</$radio>
+      <$radio field="choose-age" value="yes"> Select Age</$radio>
+    </div>
+<$reveal type="match" stateTitle=<<currentTiddler>> stateField="choose-age"  text="yes">
+    <div class="selection">
+      <$checkbox field="choose-min-age" checked="yes"/> Minimum
+<$reveal type="match" stateTitle=<<currentTiddler>> stateField="choose-min-age"  text="yes">
+      Age  
+      <div class="stacked">
+        <$radio field="min-age-type" value="gt" default="gt" /> &gt; <br/>
+        <$radio field="min-age-type" value="gte"/> ≥
+      </div>
+      <$edit-text field="min-age" size=2 />
+</$reveal>
+      <$checkbox field="choose-max-age" checked="yes"/> Maximum
+<$reveal type="match" stateTitle=<<currentTiddler>> stateField="choose-max-age"  text="yes">
+      Age
+      <div class="stacked">
+        <$radio field="max-age-type" value="lt;" default="lt" /> &lt; <br/>
+        <$radio field="max-age-type" value="lte"/> ≤
+      </div>
+      <$edit-text field="max-age" size=2 />
+</$reveal>
+    </div>
+</$reveal>
+  </div>
+
+  <div class="choice streets">
+    <div class="header">
+      <h2>Streets</h2>
+      <$radio field="choose-streets" value="no" default="no"> Any Streets</$radio>
+      <$radio field="choose-streets" value="yes"> Select Streets</$radio>
+    </div>
+<$reveal type="match" stateTitle=<<currentTiddler>> stateField="choose-streets"  text="yes">
+    <div class="selection">
+      <<EditTagLikeList street-names Streets>>
+    </div>
+</$reveal>
+  </div>
+</div>
+
+<$let
+  genders={{{ [enlist{!!genders}] +[sort[]] +[join[/]] +[search-replace[Female],[Women]search-replace[Male],[Men]]  }}}
+  parties={{{ [enlist{!!parties}] +[sort[]] +[join[/]] }}} 
+  streets={{{ [enlist{!!street-names}] +[sort[]] +[join[/]] }}} 
+  foo={{{ [{!!choose-gender}match[yes]then<genders>else[Voters]] }}}
+  bar={{{ [{!!choose-party}match[yes]then<parties>else[All]] }}}
+  qux={{{ [{!!choose-streets}match[yes]then<streets>addprefix[on ]else[ ]] }}}
+>
+
+!! Title "<<bar>> <<foo>> <<qux>>"
+
+<!-- sample :filter[[Jurovaty,Townsend,Gilead]split[,]match{!!street}] -->
+
+</$let>
+<$let
+  genders = {{{ [enlist{!!genders}] +[sort[]] +[join[,]] }}}
+  parties={{{ [enlist{!!parties}] +[sort[]] +[join[,]] }}} 
+  gfilter = ":filter[[<<genders>>]split[,]match{!!gender}]" 
+  pfilter = ":filter[[<<parties>>]split[,]match{!!party}]" 
+  foo = {{{ [{!!choose-gender}match[yes]then<gfilter>else[]] }}}
+  bar = {{{ [{!!choose-party}match[yes]then<pfilter>else[]] }}}
+>
+
+!! Query "[tag[Person]] <<foo>> <<bar>>" 
+</$let>

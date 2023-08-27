@@ -1,13 +1,15 @@
 address: 320 Lake
 age: 69
-created: 20230824202109545
+created: 20230825125402341
 email: bhussey@mchsi.com
 first-name: Elizabeth
 gender: Female
 last-name: Hussey
-modified: 20230824203046325
+modified: 20230825125402341
 party: Unaffiliated
 phone: 860-208-9394
-revision: 3
+revision: 0
+street: Lake
 tags: Person Unaffiliated
 title: Elizabeth Hussey
+type: text/vnd.tiddlywiki

@@ -1,13 +1,15 @@
 address: 127 Bear Swamp
 age: 78
-created: 20230824202109706
+created: 20230825125402502
 email: kkane14@sbcglobal.net
 first-name: Frank
 gender: Male
 last-name: Kane
-modified: 20230824202109706
+modified: 20230825125402502
 party: Democratic
 phone: 860-228-3261
-revision: 1
+revision: 0
+street: Bear Swamp
 tags: Person Democratic
 title: Frank Kane
+type: text/vnd.tiddlywiki

@@ -1,13 +1,15 @@
 address: 16 Wales
 age: 46
-created: 20230824202109571
+created: 20230825125402367
 email: lorenaemanuel@msn.com
 first-name: Steven
 gender: Male
 last-name: Emanuel
-modified: 20230824203046332
+modified: 20230825125402367
 party: Unaffiliated
 phone: 860-949-2882
-revision: 3
+revision: 0
+street: Wales
 tags: Person Unaffiliated
 title: Steven Emanuel
+type: text/vnd.tiddlywiki

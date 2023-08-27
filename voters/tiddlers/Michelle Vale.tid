@@ -1,13 +1,15 @@
 address: 189 Lake
 age: 54
-created: 20230824202109457
+created: 20230825125402253
 email: michellevale1967@gmail.com
 first-name: Michelle
 gender: Female
 last-name: Vale
-modified: 20230824203046331
+modified: 20230825125402253
 party: Unaffiliated
 phone: 860-805-5219
-revision: 3
+revision: 0
+street: Lake
 tags: Person Unaffiliated
 title: Michelle Vale
+type: text/vnd.tiddlywiki

@@ -1,13 +1,15 @@
 address: 22 Brown
 age: 53
-created: 20230824202109455
+created: 20230825125402251
 email: jennycarol@sbcglobal.net
 first-name: Jennifer
 gender: Female
 last-name: Whitcomb
-modified: 20230824203046327
+modified: 20230825125402251
 party: Unaffiliated
 phone: 860-982-7630
-revision: 3
+revision: 0
+street: Brown
 tags: Person Unaffiliated
 title: Jennifer Whitcomb
+type: text/vnd.tiddlywiki

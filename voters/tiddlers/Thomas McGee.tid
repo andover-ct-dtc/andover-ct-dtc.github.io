@@ -1,13 +1,15 @@
 address: 132 Lake
 age: 72
-created: 20230824202109517
+created: 20230825125402313
 email: changeling@gmail.com
 first-name: Thomas
 gender: Male
 last-name: McGee
-modified: 20230824203046332
+modified: 20230825125402313
 party: Unaffiliated
 phone: 860-817-9484
-revision: 3
+revision: 0
+street: Lake
 tags: Person Unaffiliated
 title: Thomas McGee
+type: text/vnd.tiddlywiki

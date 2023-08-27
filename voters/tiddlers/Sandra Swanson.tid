@@ -1,13 +1,15 @@
 address: 4 Windrush
 age: 50
-created: 20230824202109639
+created: 20230825125402435
 email: swansonjl@hotmail.com
 first-name: Sandra
 gender: Female
 last-name: Swanson
-modified: 20230824202109639
+modified: 20230825125402435
 party: Democratic
 phone: 
-revision: 1
+revision: 0
+street: Windrush
 tags: Person Democratic
 title: Sandra Swanson
+type: text/vnd.tiddlywiki

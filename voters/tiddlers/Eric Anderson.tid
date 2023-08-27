@@ -1,13 +1,15 @@
 address: 40 Wheeling
 age: 52
-created: 20230824202109772
+created: 20230825125402568
 email: eanderson@andoverct.org
 first-name: Eric
 gender: Male
 last-name: Anderson
-modified: 20230824202109772
+modified: 20230825132741652
 party: Democratic
 phone: 860-857-2407
-revision: 1
+revision: 0
+street: Wheeling
 tags: Person Democratic
 title: Eric Anderson
+type: text/vnd.tiddlywiki

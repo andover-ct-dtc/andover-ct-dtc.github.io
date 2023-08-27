@@ -1,13 +1,15 @@
 address: Box 25
 age: 56
-created: 20230824202109472
+created: 20230825125402268
 email: siterdorene@yahoo.com
 first-name: Glenn
 gender: Male
 last-name: Siter
-modified: 20230824203046327
+modified: 20230825125402268
 party: Unaffiliated
 phone: 860-581-0223
-revision: 3
+revision: 0
+street: PO Box
 tags: Person Unaffiliated
 title: Glenn Siter
+type: text/vnd.tiddlywiki

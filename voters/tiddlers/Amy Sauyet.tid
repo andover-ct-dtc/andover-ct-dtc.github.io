@@ -1,13 +1,15 @@
 address: 168 Boston Hill
 age: 55
-created: 20230824202109478
+created: 20230825125402274
 email: amy@sauyet.com
 first-name: Amy
 gender: Female
 last-name: Sauyet
-modified: 20230824203046321
+modified: 20230825125402274
 party: Unaffiliated
 phone: 
-revision: 3
+revision: 0
+street: Boston Hill
 tags: Person Unaffiliated
 title: Amy Sauyet
+type: text/vnd.tiddlywiki

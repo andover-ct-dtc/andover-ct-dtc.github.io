@@ -1,13 +1,15 @@
 address: 113 Boston Hill
 age: 64
-created: 20230824202109696
+created: 20230825125402492
 email: mkurdzo@gmail.com
 first-name: Ellen
 gender: Female
 last-name: Kurdzo
-modified: 20230824202109696
+modified: 20230825125402492
 party: Democratic
 phone: 860-344-5231
-revision: 1
+revision: 0
+street: Boston Hill
 tags: Person Democratic
 title: Ellen Kurdzo
+type: text/vnd.tiddlywiki

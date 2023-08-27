@@ -1,13 +1,15 @@
 address: 93 Hutchinson
 age: 71
-created: 20230824202109494
+created: 20230825125402290
 email: pollockjan@sbcglobal.net
 first-name: Janice
 gender: Female
 last-name: Pollock
-modified: 20230824203046327
+modified: 20230825125402290
 party: Unaffiliated
 phone: 860-464-9680
-revision: 3
+revision: 0
+street: Hutchinson
 tags: Person Unaffiliated
 title: Janice Pollock
+type: text/vnd.tiddlywiki

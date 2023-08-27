@@ -1,0 +1,7 @@
+created: 20230825193206503
+modified: 20230827030343657
+tags: [[More Queries]]
+title: Men on Jurovaty, Townsend, or Gilead
+type: text/vnd.tiddlywiki
+
+<<email "[tag[Person]gender[Male]] :filter[[Jurovaty,Townsend,Gilead]split[,]match{!!street}]">>

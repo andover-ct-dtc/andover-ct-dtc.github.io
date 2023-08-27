@@ -1,13 +1,15 @@
 address: 107 Shoddy Mill
 age: 63
-created: 20230824202109634
+created: 20230825125402430
 email: bvupton@gmail.com
 first-name: Barbara
 gender: Female
 last-name: Upton
-modified: 20230824202109634
+modified: 20230825125402430
 party: Democratic
 phone: 860-874-2283
-revision: 1
+revision: 0
+street: Shoddy Mill
 tags: Person Democratic
 title: Barbara Upton
+type: text/vnd.tiddlywiki

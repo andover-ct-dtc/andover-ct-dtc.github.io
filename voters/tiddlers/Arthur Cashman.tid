@@ -1,13 +1,15 @@
 address: 305 Boston Hill
 age: 61
-created: 20230824202109750
+created: 20230825125402546
 email: joan.cashman@gmail.com
 first-name: Arthur
 gender: Male
 last-name: Cashman
-modified: 20230824202109750
+modified: 20230825125402546
 party: Democratic
 phone: 860-857-2897
-revision: 1
+revision: 0
+street: Boston Hill
 tags: Person Democratic
 title: Arthur Cashman
+type: text/vnd.tiddlywiki

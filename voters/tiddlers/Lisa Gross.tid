@@ -1,13 +1,15 @@
 address: 18 Dogwood
 age: 50
-created: 20230824202109556
+created: 20230825125402352
 email: jaketgross@comcast.net
 first-name: Lisa
 gender: Female
 last-name: Gross
-modified: 20230824203046329
+modified: 20230825125402352
 party: Unaffiliated
 phone: 860-605-4751
-revision: 3
+revision: 0
+street: Dogwood
 tags: Person Unaffiliated
 title: Lisa Gross
+type: text/vnd.tiddlywiki

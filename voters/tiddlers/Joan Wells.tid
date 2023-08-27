@@ -1,13 +1,15 @@
-address: 3 W
+address: 3 West Street Ext
 age: 79
-created: 20230824202109456
+created: 20230825125402252
 email: jwellstech@yahoo.com
 first-name: Joan
 gender: Female
 last-name: Wells
-modified: 20230824203046328
+modified: 20230825132500839
 party: Unaffiliated
 phone: 860-874-2149
-revision: 3
+revision: 0
+street: West Street Ext
 tags: Person Unaffiliated
 title: Joan Wells
+type: text/vnd.tiddlywiki

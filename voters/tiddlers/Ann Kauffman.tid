@@ -1,13 +1,15 @@
 address: 53 Times Farm
 age: 52
-created: 20230824202109704
+created: 20230825125402500
 email: my9lives124@hotmail.com
 first-name: Ann
 gender: Female
 last-name: Kauffman
-modified: 20230824202109704
+modified: 20230825125402500
 party: Democratic
 phone: 
-revision: 1
+revision: 0
+street: Times Farm
 tags: Person Democratic
 title: Ann Kauffman
+type: text/vnd.tiddlywiki

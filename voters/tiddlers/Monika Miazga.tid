@@ -1,13 +1,15 @@
 address: 44 Birch
 age: 47
-created: 20230824202109514
+created: 20230825125402310
 email: miazgaw@comcast.net
 first-name: Monika
 gender: Female
 last-name: Miazga
-modified: 20230824203046331
+modified: 20230825125402310
 party: Unaffiliated
 phone: 860-748-7012
-revision: 3
+revision: 0
+street: Birch
 tags: Person Unaffiliated
 title: Monika Miazga
+type: text/vnd.tiddlywiki

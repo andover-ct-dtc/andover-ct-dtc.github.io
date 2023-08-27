@@ -1,13 +1,15 @@
 address: 239 Lake
 age: 25
-created: 20230824202109676
+created: 20230825125402472
 email: cdonegan@aol.com
 first-name: Colin
 gender: Male
 last-name: McNeil
-modified: 20230824203530625
+modified: 20230825125402472
 party: Democratic
 phone: 
-revision: 2
+revision: 0
+street: Lake
 tags: Person Democratic
 title: Colin McNeil
+type: text/vnd.tiddlywiki

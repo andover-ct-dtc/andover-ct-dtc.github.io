@@ -1,13 +1,15 @@
 address: 34 Birch
 age: 60
-created: 20230824202109482
+created: 20230825125402278
 email: madpk55@yahoo.com
 first-name: Karen
 gender: Female
 last-name: Roberts
-modified: 20230824203046328
+modified: 20230825125402278
 party: Unaffiliated
 phone: 860-742-2988
-revision: 3
+revision: 0
+street: Birch
 tags: Person Unaffiliated
 title: Karen Roberts
+type: text/vnd.tiddlywiki

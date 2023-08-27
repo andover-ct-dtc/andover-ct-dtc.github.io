@@ -1,13 +1,15 @@
 address: 27 Bailey
 age: 72
-created: 20230824202109737
+created: 20230825125402533
 email: ke919@aol.com
 first-name: John
 gender: Male
 last-name: England
-modified: 20230824202109737
+modified: 20230825125402533
 party: Democratic
 phone: 860-742-1097
-revision: 1
+revision: 0
+street: Bailey
 tags: Person Democratic
 title: John England
+type: text/vnd.tiddlywiki

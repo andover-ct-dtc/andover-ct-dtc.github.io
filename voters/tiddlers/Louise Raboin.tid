@@ -1,13 +1,15 @@
 address: 132 Hebron
 age: 70
-created: 20230824202109660
+created: 20230825125402456
 email: lucylouise132@gmail.com
 first-name: Louise
 gender: Female
 last-name: Raboin
-modified: 20230824202109660
+modified: 20230825125402456
 party: Democratic
 phone: 860-634-8193
-revision: 1
+revision: 0
+street: Hebron
 tags: Person Democratic
 title: Louise Raboin
+type: text/vnd.tiddlywiki

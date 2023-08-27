@@ -1,13 +1,15 @@
 address: 132 Hebron
 age: 54
-created: 20230824202109489
+created: 20230825125402285
 email: ouh8me@gmail.com
 first-name: Guy
 gender: Male
 last-name: Raboin
-modified: 20230824203046327
+modified: 20230825125402285
 party: Unaffiliated
 phone: 860-559-9277
-revision: 3
+revision: 0
+street: Hebron
 tags: Person Unaffiliated
 title: Guy Raboin
+type: text/vnd.tiddlywiki

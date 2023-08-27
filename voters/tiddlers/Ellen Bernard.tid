@@ -1,13 +1,15 @@
 address: 16 Bear Swamp
 age: 63
-created: 20230824202109764
+created: 20230825125402560
 email: embernar@sbcglobal.net
 first-name: Ellen
 gender: Female
 last-name: Bernard
-modified: 20230824202109764
+modified: 20230825125402560
 party: Democratic
 phone: 
-revision: 1
+revision: 0
+street: Bear Swamp
 tags: Person Democratic
 title: Ellen Bernard
+type: text/vnd.tiddlywiki

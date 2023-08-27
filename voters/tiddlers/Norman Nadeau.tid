@@ -1,13 +1,15 @@
 address: 294 Boston Hill
 age: 62
-created: 20230824202109506
+created: 20230825125402302
 email: nadeau.norman@yahoo.com
 first-name: Norman
 gender: Male
 last-name: Nadeau
-modified: 20230824203046331
+modified: 20230825125402302
 party: Unaffiliated
 phone: 860-810-3747
-revision: 3
+revision: 0
+street: Boston Hill
 tags: Person Unaffiliated
 title: Norman Nadeau
+type: text/vnd.tiddlywiki

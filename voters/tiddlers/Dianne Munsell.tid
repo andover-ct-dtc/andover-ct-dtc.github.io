@@ -1,13 +1,15 @@
 address: 102 Gilead
 age: 62
-created: 20230824202109670
+created: 20230825125402466
 email: djmunsell@live.com
 first-name: Dianne
 gender: Female
 last-name: Munsell
-modified: 20230824202109670
+modified: 20230825125402466
 party: Democratic
 phone: 860-819-7219
-revision: 1
+revision: 0
+street: Gilead
 tags: Person Democratic
 title: Dianne Munsell
+type: text/vnd.tiddlywiki

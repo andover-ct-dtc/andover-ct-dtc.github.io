@@ -1,8 +1,8 @@
-created: 20230824183831771
-modified: 20230824203134434
-revision: 4
-tags: 
+created: 20230825151400444
+modified: 20230825160648174
+revision: 0
+tags: Party
 title: Unaffiliated
 type: text/vnd.tiddlywiki
 
-<<email "[tag[Unaffiliated]]">>
+<<people "[tag[Person]party[Unaffiliated]]" skip-party:"yes">>

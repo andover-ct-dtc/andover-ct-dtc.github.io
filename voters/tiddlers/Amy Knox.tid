@@ -1,13 +1,15 @@
 address: 8 School
 age: 52
-created: 20230824202109536
+created: 20230825125402332
 email: allknox@aol.com
 first-name: Amy
 gender: Female
 last-name: Knox
-modified: 20230824203046321
+modified: 20230825125402332
 party: Unaffiliated
 phone: 860-360-7589
-revision: 3
+revision: 0
+street: School
 tags: Person Unaffiliated
 title: Amy Knox
+type: text/vnd.tiddlywiki

@@ -1,13 +1,15 @@
 address: 15 Shoddy Mill
 age: 45
-created: 20230824202109471
+created: 20230825125402267
 email: iamatrikeman@gmail.com
 first-name: Michael
 gender: Male
 last-name: Slater
-modified: 20230824203046330
+modified: 20230825125402267
 party: Unaffiliated
 phone: 860-742-7980
-revision: 3
+revision: 0
+street: Shoddy Mill
 tags: Person Unaffiliated
 title: Michael Slater
+type: text/vnd.tiddlywiki

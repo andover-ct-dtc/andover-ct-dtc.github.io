@@ -1,13 +1,15 @@
 address: 19 Pine Ridge
 age: 55
-created: 20230824202109684
+created: 20230825125402480
 email: carollorenc@att.net
 first-name: Steven
 gender: Male
 last-name: Lorenc
-modified: 20230824202109684
+modified: 20230825125402480
 party: Democratic
 phone: 860-279-0097
-revision: 1
+revision: 0
+street: Pine Ridge
 tags: Person Democratic
 title: Steven Lorenc
+type: text/vnd.tiddlywiki

@@ -1,13 +1,15 @@
 address: 98 Lakeside
 age: 61
-created: 20230824202109466
+created: 20230825125402262
 email: rebeccac669@hotmail.com
 first-name: Lori
 gender: Female
 last-name: Souza
-modified: 20230824203046330
+modified: 20230825125402262
 party: Unaffiliated
 phone: 860-986-3237
-revision: 3
+revision: 0
+street: Lakeside
 tags: Person Unaffiliated
 title: Lori Souza
+type: text/vnd.tiddlywiki

@@ -1,13 +1,15 @@
 address: 165 Wheeling
 age: 71
-created: 20230824202109549
+created: 20230825125402345
 email: edwhogan@comcast.net
 first-name: Edward
 gender: Male
 last-name: Hogan
-modified: 20230824203046325
+modified: 20230825125402345
 party: Unaffiliated
 phone: 860-857-1126
-revision: 3
+revision: 0
+street: Wheeling
 tags: Person Unaffiliated
 title: Edward Hogan
+type: text/vnd.tiddlywiki

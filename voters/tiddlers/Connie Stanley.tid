@@ -1,13 +1,15 @@
 address: 200 Long Hill
 age: 76
-created: 20230824202109642
+created: 20230825125402438
 email: conniestanley9@gmail.com
 first-name: Connie
 gender: Female
 last-name: Stanley
-modified: 20230824202109642
+modified: 20230825125402438
 party: Democratic
 phone: 860-539-6139
-revision: 1
+revision: 0
+street: Long Hill
 tags: Person Democratic
 title: Connie Stanley
+type: text/vnd.tiddlywiki

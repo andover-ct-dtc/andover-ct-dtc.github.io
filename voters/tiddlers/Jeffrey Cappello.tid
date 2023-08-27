@@ -1,13 +1,15 @@
 address: 449 Lake
 age: 52
-created: 20230824202109598
+created: 20230825125402394
 email: cappellojeff@gmail.com
 first-name: Jeffrey
 gender: Male
 last-name: Cappello
-modified: 20230824203046327
+modified: 20230825125402394
 party: Unaffiliated
 phone: 860-573-9578
-revision: 3
+revision: 0
+street: Lake
 tags: Person Unaffiliated
 title: Jeffrey Cappello
+type: text/vnd.tiddlywiki

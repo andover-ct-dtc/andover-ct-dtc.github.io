@@ -1,13 +1,15 @@
 address: Box 214
 age: 73
-created: 20230824202109604
+created: 20230825125402400
 email: bethany.busch@gmail.com
 first-name: Margaret
 gender: Female
 last-name: Busch
-modified: 20230824203046330
+modified: 20230825125402400
 party: Unaffiliated
 phone: 
-revision: 3
+revision: 0
+street: PO Box
 tags: Person Unaffiliated
 title: Margaret Busch
+type: text/vnd.tiddlywiki

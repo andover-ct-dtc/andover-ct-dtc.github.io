@@ -1,13 +1,15 @@
 address: 44 Birch
 age: 48
-created: 20230824202109513
+created: 20230825125402309
 email: wmiazga1@gmail.com
 first-name: Wladyslaw
 gender: Male
 last-name: Miazga
-modified: 20230824203046333
+modified: 20230825125402309
 party: Unaffiliated
 phone: 860-836-4597
-revision: 3
+revision: 0
+street: Birch
 tags: Person Unaffiliated
 title: Wladyslaw Miazga
+type: text/vnd.tiddlywiki

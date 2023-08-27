@@ -1,13 +1,15 @@
 address: 114 Hendee
 age: 61
-created: 20230824202109594
+created: 20230825125402390
 email: lewisj@cbia.com
 first-name: Joanne
 gender: Female
 last-name: Castelli
-modified: 20230824203046328
+modified: 20230825125402390
 party: Unaffiliated
 phone: 860-874-2452
-revision: 3
+revision: 0
+street: Hendee
 tags: Person Unaffiliated
 title: Joanne Castelli
+type: text/vnd.tiddlywiki

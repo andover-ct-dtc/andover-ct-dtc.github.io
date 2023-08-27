@@ -1,13 +1,15 @@
 address: 457 Lake
 age: 52
-created: 20230824202109484
+created: 20230825125402280
 email: dnadeau819@yahoo.com
 first-name: Deborah
 gender: Female
 last-name: Roache
-modified: 20230824203046325
+modified: 20230825125402280
 party: Unaffiliated
 phone: 860-874-8484
-revision: 3
+revision: 0
+street: Lake
 tags: Person Unaffiliated
 title: Deborah Roache
+type: text/vnd.tiddlywiki

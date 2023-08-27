@@ -1,13 +1,15 @@
 address: 8 Wood Fern
 age: 35
-created: 20230824202109748
+created: 20230825125402544
 email: ccreme@gmail.com
 first-name: Catherine
 gender: Female
 last-name: Creme
-modified: 20230824202109748
+modified: 20230825125402544
 party: Democratic
 phone: 
-revision: 1
+revision: 0
+street: Wood Fern
 tags: Person Democratic
 title: Catherine Creme
+type: text/vnd.tiddlywiki

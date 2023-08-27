@@ -1,13 +1,15 @@
 address: 303 Lake
 age: 60
-created: 20230824202109682
+created: 20230825125402478
 email: pmjr18@me.com
 first-name: Peter
 gender: Male
 last-name: Maneggia
-modified: 20230824202109682
+modified: 20230825125402478
 party: Democratic
 phone: 860-874-2469
-revision: 1
+revision: 0
+street: Lake
 tags: Person Democratic
 title: Peter Maneggia
+type: text/vnd.tiddlywiki

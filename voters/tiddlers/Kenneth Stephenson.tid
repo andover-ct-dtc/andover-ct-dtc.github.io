@@ -1,13 +1,15 @@
 address: 26 Hickory Hill
 age: 74
-created: 20230824202109465
+created: 20230825125402261
 email: stephensonkenn@gmail.com
 first-name: Kenneth
 gender: Male
 last-name: Stephenson
-modified: 20230824203046329
+modified: 20230825125402261
 party: Unaffiliated
 phone: 860-966-2443
-revision: 3
+revision: 0
+street: Hickory Hill
 tags: Person Unaffiliated
 title: Kenneth Stephenson
+type: text/vnd.tiddlywiki

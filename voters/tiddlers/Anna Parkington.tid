@@ -1,13 +1,15 @@
 address: 56 Hendee
 age: 69
-created: 20230824202109498
+created: 20230825125402294
 email: lemonal@sbcglobal.net
 first-name: Anna
 gender: Female
 last-name: Parkington
-modified: 20230824203046322
+modified: 20230825125402294
 party: Unaffiliated
 phone: 860-208-8874
-revision: 3
+revision: 0
+street: Hendee
 tags: Person Unaffiliated
 title: Anna Parkington
+type: text/vnd.tiddlywiki

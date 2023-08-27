@@ -1,13 +1,15 @@
 address: 3 Hebron
 age: 69
-created: 20230824202109626
+created: 20230825125402422
 email: rosemary98658@aol.com
 first-name: Rosemary
 gender: Female
 last-name: Yeomans
-modified: 20230824202109626
+modified: 20230825125402422
 party: Democratic
 phone: 
-revision: 1
+revision: 0
+street: Hebron
 tags: Person Democratic
 title: Rosemary Yeomans
+type: text/vnd.tiddlywiki

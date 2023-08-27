@@ -1,13 +1,15 @@
 address: 220 Boston Hill
 age: 65
-created: 20230824202109459
+created: 20230825125402255
 email: trahan.r@sbcglobal.net
 first-name: Rhonda
 gender: Female
 last-name: Trahan
-modified: 20230824203046331
+modified: 20230825125402255
 party: Unaffiliated
 phone: 860-463-0203
-revision: 3
+revision: 0
+street: Boston Hill
 tags: Person Unaffiliated
 title: Rhonda Trahan
+type: text/vnd.tiddlywiki

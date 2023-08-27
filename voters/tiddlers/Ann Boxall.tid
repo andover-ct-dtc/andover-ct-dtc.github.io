@@ -1,13 +1,15 @@
 address: 329 Lake
 age: 70
-created: 20230824202109759
+created: 20230825125402555
 email: rboxall@gmail.com
 first-name: Ann
 gender: Female
 last-name: Boxall
-modified: 20230824202109759
+modified: 20230825125402555
 party: Democratic
 phone: 
-revision: 1
+revision: 0
+street: Lake
 tags: Person Democratic
 title: Ann Boxall
+type: text/vnd.tiddlywiki
