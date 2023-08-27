@@ -3,18 +3,16 @@ choose-gender: no
 choose-party: no
 choose-streets: no
 created: 20230827202120031
-draft.of: Create Query 1
-draft.title: Create Query 1
 genders: 
 max-age: 
 max-age-type: lt;
 min-age: 
 min-age-type: gte
-modified: 20230827202205432
+modified: 20230827212337872
 parties: Independent
 street-names: 
 tags: TableOfContents
-title: Draft of 'Create Query 1'
+title: Create Query 1
 type: text/vnd.tiddlywiki
 
 \define lbrack() <$text text={{{ [charcode[91]] }}} />

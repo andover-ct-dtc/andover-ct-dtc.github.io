@@ -1,0 +1,3 @@
+button.tc-tag-label, span.tc-tag-label {
+	white-space: pre-wrap; /* Fixes issue explained by twMat here: https://talk.tiddlywiki.org/t/7908/6 */
+}

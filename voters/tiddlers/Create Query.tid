@@ -1,16 +1,16 @@
 choose-age: no
 choose-gender: no
 choose-party: no
-choose-streets: no
+choose-streets: yes
 created: 20230826140350777
 genders: 
 max-age: 
 max-age-type: lt;
 min-age: 
 min-age-type: gte
-modified: 20230827202115055
+modified: 20230827212550030
 parties: Independent
-street-names: 
+street-names: Aspinall [[Burnap Brook]]
 tags: TableOfContents
 title: Create Query
 type: text/vnd.tiddlywiki
