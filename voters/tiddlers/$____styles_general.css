@@ -23,3 +23,5 @@ details {break-inside: avoid;}
 .query-builder h2 {display: inline-block; margin: 0; width: 5em;}
 .query-builder input {margin-left: 1em;}
 .query-builder .selection .stacked {display: inline-block; vertical-align: middle; font-size: 85%; line-height: 1;}
+.query-builder button.tc-tag-label {color: #fff;}
+.query-builder span.tc-tag-label {padding: .25em .25em .25em .5em; background-color: #5e35b1;}

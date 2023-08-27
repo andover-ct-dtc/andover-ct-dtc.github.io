@@ -1,14 +1,14 @@
 choose-age: no
-choose-gender: no
+choose-gender: yes
 choose-party: no
 choose-streets: yes
 created: 20230826140350777
-genders: 
+genders: Male
 max-age: 
 max-age-type: lt;
 min-age: 
 min-age-type: gte
-modified: 20230827212550030
+modified: 20230827224846951
 parties: Independent
 street-names: Aspinall [[Burnap Brook]]
 tags: TableOfContents
@@ -18,6 +18,8 @@ type: text/vnd.tiddlywiki
 \define lbrack() <$text text={{{ [charcode[91]] }}} />
 
 \define rbrack() <$text text={{{ [charcode[93]] }}} />
+
+! This is not yet working.  Please don't use yet!
 
 <div class="query-builder">
   <div class="choice party">
