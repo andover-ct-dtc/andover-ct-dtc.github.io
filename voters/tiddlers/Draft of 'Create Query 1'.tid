@@ -2,17 +2,19 @@ choose-age: no
 choose-gender: no
 choose-party: no
 choose-streets: no
-created: 20230826140350777
+created: 20230827202120031
+draft.of: Create Query 1
+draft.title: Create Query 1
 genders: 
 max-age: 
 max-age-type: lt;
 min-age: 
 min-age-type: gte
-modified: 20230827202115055
+modified: 20230827202205432
 parties: Independent
 street-names: 
 tags: TableOfContents
-title: Create Query
+title: Draft of 'Create Query 1'
 type: text/vnd.tiddlywiki
 
 \define lbrack() <$text text={{{ [charcode[91]] }}} />
@@ -117,15 +119,13 @@ type: text/vnd.tiddlywiki
   pfilter = {{{ [{!!choose-party}match[yes]then<pmatch>else[]] }}}
   sfilter = {{{ [{!!choose-streets}match[yes]then<smatch>else[]] }}}
 
-  query = "[tag[Person]] <<gfilter>> <<pfilter >> <<sfilter >>" 
+  query-string = "[tag[Person]] <<gfilter>> <<pfilter >> <<sfilter >>" 
 
 >
 
-<$wikify name="query-string" output="formattedtext" text=<<query>> >
 !! Query "<<query-string>>" 
 
 <$transclude $variable="email" query=<<query-string>> />
-</$wikify>
 
 </$let>
 

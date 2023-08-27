@@ -1,7 +1,0 @@
-created: 20230827032411143
-modified: 20230827032530914
-tags: 
-title: New Tiddler 3
-type: text/vnd.tiddlywiki
-
-<<email "[tag[Person]] :filter[[Female]split[,]match{!!gender}] :filter[[Independent,Unaffiliated]split[,]match{!!party}]" >>

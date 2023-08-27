@@ -12,9 +12,14 @@ details {break-inside: avoid;}
 .query-builder .choice.age {border: 1px solid #008000;}
 .query-builder .choice.age .header {background-color: #008000; color: #fff;}
 .query-builder .choice.age .selection {background-color: #c8e6c9; color: #008000;}
+/*
 .query-builder .choice.streets {border: 1px solid #5e35b1;}
 .query-builder .choice.streets .header {background-color: #5e35b1; color: #fff;}
 .query-builder .choice.streets .selection {background-color: #d1c4e9; color: #5e35b1;}
+*/
+.query-builder .choice.streets {border: 1px solid #f60;}
+.query-builder .choice.streets .header {background-color: #f60; color: #fff;}
+.query-builder .choice.streets .selection {background-color: #ffd699; color: #f60;}
 .query-builder h2 {display: inline-block; margin: 0; width: 5em;}
 .query-builder input {margin-left: 1em;}
 .query-builder .selection .stacked {display: inline-block; vertical-align: middle; font-size: 85%; line-height: 1;}
