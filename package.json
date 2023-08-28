@@ -1,6 +1,6 @@
 {
   "name": "andover-ct-dems",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "config": {
     "voters-version": "0.1.1"
   },
