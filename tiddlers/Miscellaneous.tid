@@ -1,5 +1,6 @@
 created: 20230820021606079
-modified: 20230824001301142
+modified: 20230828182239997
+revision: 0
 tags: TableOfContents
 title: Miscellaneous
 type: text/vnd.tiddlywiki
@@ -7,7 +8,3 @@ type: text/vnd.tiddlywiki
 !!! Democrats for whom we have no email address:
 
 <div style="column-count: 2"><<list-links filter:"[tag[People]party[Democratic]!has[email]sort[last-name]]" >></div>
-
-!!! Similar names:
-
-These are probably the same person, but which is correct?:
