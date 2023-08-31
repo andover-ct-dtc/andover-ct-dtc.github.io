@@ -1,8 +1,9 @@
+caption: People
 created: 20230817203604668
-modified: 20230824223320393
-revision: 0
+modified: 20230831002228225
+revision: 1
 tags: Data TableOfContents
-title: People
+title: Person
 type: text/vnd.tiddlywiki
 
 <$let by-last="[{!!last-name}] [{!!first-name}] +[join[, ]]">

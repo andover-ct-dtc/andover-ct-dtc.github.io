@@ -1,8 +1,8 @@
 abbreviation: DTC
 created: 20230819161912133
-modified: 20230822201039397
-revision: 0
-tags: Organizations
+modified: 20230830143335755
+revision: 2
+tags: Organization
 title: Democratic Town Committee
 type: text/vnd.tiddlywiki
 
@@ -11,7 +11,7 @@ type: text/vnd.tiddlywiki
     <tr><th>Name</th><th>Party</th><th>Email</th><th>Position</th></tr>
   </thead>
   <tbody>
-<$list filter="[tag[Positions]organization<currentTiddler>]" ><$let person={{!!name}} >
+<$list filter="[tag[Position]organization<currentTiddler>]" ><$let person={{!!name}} >
     <tr>
       <td><$link to={{!!name}} /></td>
       <td><$link to={{{ [<person>get[party]] }}} /></td>

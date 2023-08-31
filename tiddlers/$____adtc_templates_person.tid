@@ -1,11 +1,11 @@
 created: 20230817151520063
-modified: 20230828184549751
-revision: 0
+modified: 20230830143335755
+revision: 2
 tags: $:/tags/ViewTemplate
 title: $:/_/adtc/templates/person
 type: text/vnd.tiddlywiki
 
-<$list filter="[<currentTiddler>tag[People]first[]]" variable="_">
+<$list filter="[<currentTiddler>tag[Person]first[]]" variable="_">
 
 <dl>
   <dt>Party</dt>
@@ -20,10 +20,10 @@ type: text/vnd.tiddlywiki
       <$text text={{{ [<currentTiddler>get[email]] }}} /> </a></dd></$list>
     <$list filter="[<currentTiddler>!has[email]]"><dd>(Unknown)</dd></$list>
 
-  <$list filter="[tag[Positions]name<currentTiddler>first[]]" variable="__">
+  <$list filter="[tag[Position]name<currentTiddler>first[]]" variable="__">
     <br/>
     <dt>Memberships</dt>
-    <$list filter="[tag[Positions]name<currentTiddler>!is[draft]]">
+    <$list filter="[tag[Position]name<currentTiddler>!is[draft]]">
       <dd>
         {{{ [{!!organization}] }}}
         <$list filter="[<currentTiddler>has[position]]"><$text text={{{ [[ (]] [{!!position}] [[)]] +[join[]] }}} /></$list>
