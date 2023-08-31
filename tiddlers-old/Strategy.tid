@@ -1,0 +1,22 @@
+created: 20230819204001951
+modified: 20230819214854407
+revision: 0
+tags: Campaign
+title: Strategy
+type: text/vnd.tiddlywiki
+
+<div class="doc-downloads">Download <<download-link "2023 Campaign Strateg Part 1 & 2docx.docx" "Parts 1 & 2">> or <<download-link "2023 Campaign Strategy Part 3 & 4.docx" "Parts 3 & 4">></div>
+<div style="clear:both"></div>
+
+
+<$list filter="[tag<currentTiddler>!has[draft.of]]">
+<h2>{{!!title}}</h2>
+<$transclude tiddler=<<currentTiddler>> mode="block"/>
+</$list>
+
+----------
+
+!!! Sources:
+* https://indivisible.org/resource/practical-guide-winning-elections
+* https://www.cbc.ca/news/canada/hamilton/how-to-get-elected-1.4767140
+* https://www.handraiser.com/five-proven-steps-to-win-your-election/
