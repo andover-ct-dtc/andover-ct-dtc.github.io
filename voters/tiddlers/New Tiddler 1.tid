@@ -1,0 +1,7 @@
+created: 20230901003607690
+modified: 20230901003621184
+tags: 
+title: New Tiddler 1
+type: text/vnd.tiddlywiki
+
+<<email "[tag[Person]] :filter[[Female]split[,]match{!!gender}] " >>

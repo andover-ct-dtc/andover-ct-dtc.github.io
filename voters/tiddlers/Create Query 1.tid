@@ -1,16 +1,16 @@
-choose-age: no
-choose-gender: no
-choose-party: no
-choose-streets: no
+choose-age: yes
+choose-gender: yes
+choose-party: yes
+choose-streets: yes
 created: 20230827202120031
-genders: 
+genders: Male Female
 max-age: 
 max-age-type: lt;
 min-age: 
 min-age-type: gte
-modified: 20230827212337872
-parties: Independent
-street-names: 
+modified: 20230901025038432
+parties: Independent Unaffiliated
+street-names: Aspinall Chesterbrook
 tags: TableOfContents
 title: Create Query 1
 type: text/vnd.tiddlywiki
@@ -64,7 +64,7 @@ type: text/vnd.tiddlywiki
         <$radio field="min-age-type" value="gt" default="gt" /> &gt; <br/>
         <$radio field="min-age-type" value="gte"/> ≥
       </div>
-      <$edit-text field="min-age" size=2 />
+      <$edit-text field="min-age" size=2 placeholder="years"/>
 </$reveal>
       <$checkbox field="choose-max-age" checked="yes"/> Maximum
 <$reveal type="match" stateTitle=<<currentTiddler>> stateField="choose-max-age"  text="yes">
@@ -73,7 +73,7 @@ type: text/vnd.tiddlywiki
         <$radio field="max-age-type" value="lt;" default="lt" /> &lt; <br/>
         <$radio field="max-age-type" value="lte"/> ≤
       </div>
-      <$edit-text field="max-age" size=2 />
+      <$edit-text field="max-age" size=2 placeholder="years"/>
 </$reveal>
     </div>
 </$reveal>
@@ -102,7 +102,7 @@ type: text/vnd.tiddlywiki
   smatch={{{ [{!!choose-streets}match[yes]then<streets>addprefix[on ]else[ ]] }}}
 >
 
-!! Title "<<gmatch>> <<pmatch>> <<smatch>>"
+!! Title "<<pmatch>> <<gmatch>> <<smatch>>"
 
 </$let>
 

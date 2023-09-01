@@ -1,7 +1,8 @@
 table.People th, table.People td {text-align: left;}
 details {break-inside: avoid;}
+button.tc-tag-label, span.tc-tag-label {white-space: normal; } /* Fixes issue explained by twMat: https://talk.tiddlywiki.org/t/7908/6 */
 .query-builder .choice .header {padding: .5em;}
-.query-builder .choice .selection {padding: .5em}
+.query-builder .choice .selection {padding: 1em .5em 2em .5em;}
 .query-builder .choice {margin-bottom: 1em;}
 .query-builder .choice.party {border: 1px solid #00f;}
 .query-builder .choice.party .header {background-color: #00f; color: #fff;}
@@ -15,13 +16,9 @@ details {break-inside: avoid;}
 .query-builder .choice.streets {border: 1px solid #5e35b1;}
 .query-builder .choice.streets .header {background-color: #5e35b1; color: #fff;}
 .query-builder .choice.streets .selection {background-color: #d1c4e9; color: #5e35b1;}
-/*
-.query-builder .choice.streets {border: 1px solid #f60;}
-.query-builder .choice.streets .header {background-color: #f60; color: #fff;}
-.query-builder .choice.streets .selection {background-color: #ffd699; color: #f60;}
-*/
 .query-builder h2 {display: inline-block; margin: 0; width: 5em;}
 .query-builder input {margin-left: 1em;}
 .query-builder .selection .stacked {display: inline-block; vertical-align: middle; font-size: 85%; line-height: 1;}
 .query-builder button.tc-tag-label {color: #fff;}
 .query-builder span.tc-tag-label {padding: .25em .25em .25em .5em; background-color: #5e35b1;}
+.query-builder .choice .header label {display: inline-block, width: 9em;}
