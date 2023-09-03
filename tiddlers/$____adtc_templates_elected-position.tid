@@ -1,0 +1,10 @@
+created: 20230816194804625
+modified: 20230902005324389
+tags: $:/tags/ViewTemplate
+title: $:/_/adtc/templates/elected-position
+type: text/vnd.tiddlywiki
+
+<$list filter="[<currentTiddler>tag[Elected Positions]first[]]" variable="_">
+<h2>Members</h2>
+<$macrocall $name="board-members" board={{!!title}}/>
+</$list>
