@@ -1,7 +1,7 @@
-created: 20230903141140536
-modified: 20230903145737295
+created: 20230904170553471
+modified: 20230904170745214
 tags: 
 title: All Signs
 type: text/vnd.tiddlywiki
 
-<<list-links filter:"[all[tiddlers]type[image/png]] -[[$:/_/adtc/images/dems.png]] +[sort[]]" >>
+<<list-links filter:"[all[tiddlers]] :filter[tags[]tag[Lawn Sign]]" >>
