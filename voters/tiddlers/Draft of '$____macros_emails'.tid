@@ -1,0 +1,22 @@
+created: 20230824182244827
+draft.of: $:/_/macros/emails
+draft.title: $:/_/macros/emails
+modified: 20230904215403539
+tags: $:/tags/Macro
+title: Draft of '$:/_/macros/emails'
+type: text/vnd.tiddlywiki
+
+\define email(query)
+<$let by-last ="[{!!last-name}] [{!!first-name}] +[join[, ]]">
+
+<$vars txt="""<$list filter="$query$ :filter[has[email]] +[sortsub:string<by-last>]" counter="counter">{{!!title}} <$text text={{{ [[<]] [<currentTiddler>get[email]] [[>]] +[join[]] }}} /><$text text={{{ [<counter-last>!match[yes]then[, ]]}}} /></$list>""">
+<$wikify name="cliptxt" output="formattedtext" text=<<txt>>>
+<$macrocall $name="copy-to-clipboard" src={{{ [<cliptxt>trim[]] }}}/><br/>
+<h4>*** Query (inside macro) ***: "<$text text=<<__query__>>/>"</h4>
+<h4>Found: <$text text={{{ $query$ :filter[has[email]] +[count[]] }}} /></h4>
+<$list filter="$query$ :filter[has[email]] +[sortsub:string<by-last>]" counter="counter">
+   <$link /> &lt;<a href={{{ [[mailto:]] [<currentTiddler>get[title]] [[<]] [<currentTiddler>get[email]] [[>]] +[join[]] }}}><$text text={{{ [<currentTiddler>get[email]] }}} /></a>&gt;<$text text={{{ [<counter-last>!match[yes]then[, ]]}}} /><br/>
+</$list>
+</$wikify>
+
+\end
