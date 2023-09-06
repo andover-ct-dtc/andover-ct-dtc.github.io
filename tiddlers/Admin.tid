@@ -1,0 +1,15 @@
+created: 20230905173704859
+list: [[Using TiddlyWiki]] [[Understanding the Data]]
+modified: 20230905221213301
+revision: 6
+tags: TableOfContents
+title: Admin
+type: text/vnd.tiddlywiki
+
+!! [[Using TiddlyWiki]]
+
+{{Using TiddlyWiki}}
+
+!! [[Understanding the Data]]
+
+{{Understanding the Data}}

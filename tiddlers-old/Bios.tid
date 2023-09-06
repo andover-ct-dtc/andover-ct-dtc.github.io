@@ -1,13 +1,13 @@
 created: 20230823230439072
-modified: 20230824223105287
-revision: 0
+modified: 20230830143216900
+revision: 1
 tags: 
 title: Bios
 type: text/vnd.tiddlywiki
 
 <$let by-last="[{!!last-name}] [{!!first-name}] +[join[, ]]">
 <hr/>
-<$list filter="[all[tiddlers]tag[People]] :filter[has[text]] +[sortsub:string<by-last>]">
+<$list filter="[all[tiddlers]tag[Person]] :filter[has[text]] +[sortsub:string<by-last>]">
   <h2><$link /></h2>
   <$list filter="[<currentTiddler>has[avatar]" variable="_">
   <div class="avatar"><$image source={{{ [<currentTiddler>get[avatar]] }}} /></div>

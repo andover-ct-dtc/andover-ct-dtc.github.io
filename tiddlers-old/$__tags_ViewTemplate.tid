@@ -1,5 +1,5 @@
 created: 20230823134433827
-list: $:/core/ui/ViewTemplate/title $:/core/ui/ViewTemplate/unfold $:/core/ui/ViewTemplate/subtitle $:/core/ui/ViewTemplate/tags $:/core/ui/ViewTemplate/classic $:/_/adtc/template/avatar $:/core/ui/ViewTemplate/body $:/_/adtc/templates/organization $:/_/adtc/templates/party $:/_/adtc/templates/person [[Draft of '$:/_/adtc/templates/person']]
-modified: 20230823134433827
-revision: 0
+list: $:/core/ui/ViewTemplate/title $:/core/ui/ViewTemplate/unfold $:/core/ui/ViewTemplate/subtitle $:/core/ui/ViewTemplate/tags $:/core/ui/ViewTemplate/classic $:/_/adtc/template/avatar $:/core/ui/ViewTemplate/body $:/_/adtc/templates/elected-position $:/_/adtc/templates/party $:/_/adtc/templates/person [[Draft of '$:/_/adtc/templates/person']]
+modified: 20230902004737126
 title: $:/tags/ViewTemplate
+type: text/vnd.tiddlywiki

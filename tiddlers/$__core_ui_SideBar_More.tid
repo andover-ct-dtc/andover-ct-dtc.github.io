@@ -1,7 +1,7 @@
 caption: {{$:/language/SideBar/More/Caption}}
 created: 20230819224632407
-modified: 20230831002222241
-revision: 0
+modified: 20230905221139912
+revision: 10
 tags: $:/tags/SideBar
 title: $:/core/ui/SideBar/More
 type: text/vnd.tiddlywiki

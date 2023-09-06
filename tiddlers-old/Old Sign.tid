@@ -1,0 +1,21 @@
+caption: Old Signs
+created: 20230903234415885
+modified: 20230904164845033
+tags: [[Lawn Sign]]
+title: Old Sign
+type: text/vnd.tiddlywiki
+
+\define sign-link() <td><$link><$transclude tiddler=<<currentTiddler>> /> </$link></td>
+
+<table class="signs">
+<$list filter="[tag[Old Sign]sort[organization]]" counter="counter">
+<tr>
+  <$list filter="[<counter>remainder[2]match[1]]" variable="_"><<sign-link>></$list>
+  <td class="meta">
+    <h2><$link to={{!!organization}}/></h2>
+    <<list-links filter:"[enlist{!!names}]" >>
+  </td>
+  <$list filter="[<counter>remainder[2]!match[1]]" variable="_"><<sign-link>></$list>
+</tr>
+</$list>
+</table>

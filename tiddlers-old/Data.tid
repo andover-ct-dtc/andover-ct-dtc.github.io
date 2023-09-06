@@ -1,6 +1,13 @@
+caption: Data
 created: 20230821195547157
-list: People Party Organizations Candidacy
-modified: 20230821200645975
-revision: 0
+list: Person Party Organization Position Candidacy Sign [[Alternate Sign]]
+modified: 20230904234653550
 tags: TableOfContents
 title: Data
+type: text/vnd.tiddlywiki
+
+<ul>
+<$list filter="[tag<currentTiddler>]">
+<li><$link>{{!!caption}}</$link></li>
+</$list>
+</ul>

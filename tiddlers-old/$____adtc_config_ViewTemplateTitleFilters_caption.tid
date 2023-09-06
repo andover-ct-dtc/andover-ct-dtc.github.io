@@ -1,0 +1,7 @@
+created: 20230830142553245
+modified: 20230830142951622
+revision: 2
+tags: $:/tags/ViewTemplateTitleFilter
+title: $:/_/adtc/config/ViewTemplateTitleFilters/caption
+
+[has[caption]then[$:/_/adtc/core/ui/ViewTemplate/title/caption]]
