@@ -1,6 +1,5 @@
 created: 20221213205335343
-modified: 20230905221114150
-revision: 0
+modified: 20230907024427894
 tags: $:/tags/StartupAction
 title: $:/_/adtc/actions/setReadOnlyOnReload
 type: text/vnd.tiddlywiki
@@ -13,7 +12,7 @@ type: text/vnd.tiddlywiki
 <$action-setfield $tiddler="$:/config/DragAndDrop/Enable" $field=text $value="no"/>
 <$action-listops $tiddler="$:/core/ui/SideBar/Tools" $field=tags $subfilter=" +[remove[$:/tags/SideBar]]"/>
 <$action-listops $tiddler="$:/core/ui/SideBar/More" $field=tags $subfilter=" +[remove[$:/tags/SideBar]]"/>
-<$action-listops $tiddler="Admin" $field=tags $subfilter=" +[remove[TableOfContent]]"/>
+<$action-listops $tiddler="Admin" $field=tags $subfilter=" +[remove[TableOfContents]]"/>
 <$action-listops $tiddler="$:/config/DragAndDrop/Enable" $field=text $value="no"/>
 
 </$list>
