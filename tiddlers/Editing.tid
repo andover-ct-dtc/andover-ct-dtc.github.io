@@ -1,10 +1,19 @@
-created: 20230905222008234
-modified: 20230905234026202
+created: 20230906161818850
+creator: CrossEye
+modified: 20230906184813808
+modifier: CrossEye
+revision: 0
 tags: [[Using TiddlyWiki]]
 title: Editing
+type: text/vnd.tiddlywiki
 
 This page is built atop [[TiddlyWiki|https:tiddlywiki.com]], which describes itself as a "unique non-linear notebook for capturing, organising and sharing complex information."  It is a powerful tool, and allows us to collect a lot of information in a single document, sharing it over the web as though it was a more complex site.
 
 The important thing to understand is that this means that the entire website is stored as a single file that we can download, edit, and share via email.
 
-There is a great deal of information on TiddlyWiki's home page, but perhaps for our purposes, the most  important pages are [[Creating and editing tiddlers|https://tiddlywiki.com/#Creating%20and%20editing%20tiddlers]] and [[WikiText|https://tiddlywiki.com/#WikiText]], which together show the basics of how create and edit content.
+There is a great deal of information on TiddlyWiki's home page, but perhaps for our purposes, the most important pages are [[Creating and editing tiddlers|https://tiddlywiki.com/#Creating%20and%20editing%20tiddlers]] and [[WikiText|https://tiddlywiki.com/#WikiText]], which together show the basics of how create and edit content.
+
+To edit a tiddler, click its pencil icon (<<icon 
+$:/core/images/edit-button>>).  To save your changes, click the checkmark (<<icon $:/core/images/done-button>>).  To exit edit mode without saving your changes, click the close icon (<<icon $:/core/images/close-button>>).  And to delete a tiddler, click the trashcan icon (<<icon $:/core/images/delete-button >>.).
+
+With the editor open, there's a reasonable bar of buttons for doing much basic formatting.

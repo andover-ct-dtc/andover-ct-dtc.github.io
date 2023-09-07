@@ -1,9 +1,10 @@
 created: 20230905204308839
 list: Editing [[Creating Tags and Fields]] Saving Uploading [[Putting it together]]
-modified: 20230906020758905
-revision: 1
+modified: 20230906195353124
+revision: 0
 tags: Admin
 title: Using TiddlyWiki
+type: text/vnd.tiddlywiki
 
 <$list filter="[tag<currentTiddler>!has[draft.of]]" >
 <h2><$link/></h2>

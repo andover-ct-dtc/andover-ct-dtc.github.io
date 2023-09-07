@@ -1,8 +1,8 @@
-caption: new person
+caption: New Person
 created: 20230703182839243
 description: Create a new Person
-modified: 20230905190259844
-revision: 8
+modified: 20230906182110433
+revision: 0
 tags: 
 title: $:/_/adtc/buttons/new-person
 type: text/vnd.tiddlywiki
@@ -17,13 +17,9 @@ type: text/vnd.tiddlywiki
   party="" />
 \end
 
-<$button actions=<<new-person-action>> tooltip={{$:/_/adtc/buttons/new-person!!description}} aria-label={{$:/_/adtc/buttons/new-person!!caption}} class=<<tv-config-toolbar-class>> >
-<$list filter="[<tv-config-toolbar-icons>match[yes]]">
-@@font-size:1.5em;{{$:/images/google-material-design/social/sharp/20px/person-add-alt-1}}@@
-</$list>
-<$list filter="[<tv-config-toolbar-text>match[yes]]">
+<$button actions=<<new-person-action>> tooltip={{$:/_/adtc/buttons/new-person!!description}} aria-label={{$:/_/adtc/buttons/new-person!!caption}} >
+@@font-size:2.0em;{{$:/images/google-material-design/social/sharp/20px/person-add-alt-1}}@@
 <span class="tc-btn-text">
 {{!!caption}}
 </span>
-</$list>
 </$button>

@@ -1,0 +1,9 @@
+created: 20230906182148186
+list-before: $:/config/FieldEditorFilters/default
+modified: 20230906182448835
+revision: 0
+tags: $:/tags/FieldEditorFilter
+title: $:/_/adtc/config/FieldEditorFilters/party
+type: text/vnd.tiddlywiki
+
+[match[party]then[$:/_/adtc/config/EditTemplateFields/Templates/party]]

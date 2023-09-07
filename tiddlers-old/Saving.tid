@@ -1,0 +1,14 @@
+created: 20230905220842824
+modified: 20230906010011776
+tags: [[Using TiddlyWiki]]
+title: Saving
+
+@@float:left;margin-right: 1em;[img[$:/_/adtc/images/save-button]]@@
+
+If you're seeing this page, you're probably already in edit-mode.  You can toggle back-and-forth between edit-mode and reading mode by typing `CTRL-SHIFT-/` (on Windows or Linux.  On Mac, it's `CMD-SHIFT-/`.)  Whenever you make any changes to the data, including toggling edit/read mode, the save button on the right sidebar turns red, and will stay that way until you click it to save the file somewhere.
+
+For the moment, the way we'll update the site is to save a copy of the wiki and email it to [[Scott Sauyet]] who will upload changes.  We will work on a more convenient mechanism soon.
+
+@@clear:both;
+It's very important that you save your work early and often.  Tiddlywiki does everything it can to protect your data, but things can go wrong.  If you save a backup copy of your work when you start editing, the most you'll lose is what you've done since that save.  We'd recommend saving several times an hour.
+@@

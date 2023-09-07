@@ -1,9 +1,10 @@
 created: 20230905222205404
-modified: 20230906012826224
+modified: 20230907001015228
 tags: [[Using TiddlyWiki]]
 title: Creating Tags and Fields
+type: text/vnd.tiddlywiki
 
-The basic block in TiddlyWiki is what is called a `tiddler`.  These are a combination of a `title`, some `text`, `tags`, and `fields`.  Title and text are obvious, although the text can be quite sophisticated at times and can be skipped altogether at other times.  Tags describe what the content is for and how it will be used.  Fields are the basic data; they might be seen as something like the cells in a spreadsheet.
+The basic block in TiddlyWiki is what is called a `tiddler`.  These are a combination of a `title`, some `text`, `tags`, and `fields`.  Title and text are obvious, although the text can be quite sophisticated at times and can be skipped altogether at other times.  Tags describe what the content is for and how it will be used.  Fields are the basic data; something akin to the cells in a spreadsheet.
 
 @@float:right;width:50%;margin-left:1em;[img[$:/_adtc/images/edit-screenshot]]@@
 
@@ -17,6 +18,8 @@ As to fields, a `Person` tiddler needs just a few:
 * party
 
 and the `title` will be the full name (including middle initial if desired.)  Titles are critical fields, as they are used to link together various parts of the system.
+
+There's one other field that we use often across this page, `caption`.  This is just an alternative title for the page and shows up in many places that display titles.  One reason we use this is that we often want the overview of those tiddlers tagged, say, "Person" to be displayed as "People" rather than "Person".  We don't change the underlying title, which is the main identifier for the tiddler, but we do give an alternate display version.
 
 ''Technical Note'': In actuality, //everything// is a field.  In the internal storage, `tags`, `title` and `text` are just additional fields.  This shouldn't matter much for day-to-day usage.
 

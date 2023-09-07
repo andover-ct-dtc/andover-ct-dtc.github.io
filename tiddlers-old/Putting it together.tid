@@ -1,0 +1,25 @@
+created: 20230906015420289
+modified: 20230906024050815
+tags: [[Using TiddlyWiki]]
+title: Putting it together
+
+Let's imagine we decide that it's important to have the Town Charter on this site.<sup>1</sup>  Here are the steps we might go through:
+
+# Navigate to the [[town website|https://www.andoverconnecticut.org/]], locate the charter on the Government menu.
+# Download this PDF to your desktop
+# Drag the document from your desktop to somewhere on this page.  There should be a green bar across the top to tell you it's safe to drop it. 
+# On the Import tiddler, choose `Import`.
+# It will inform you that `andover_town_charter_2022_0.pdf` has been imported.  Click on the name to launch the new tiddler.
+# Click the pencil icon to enter edit mode
+# Change the title to `Town Charter`.
+# We want this to appear on the `Legal` submenu, so add the tag "Legal".  We also want to start a collection of official documents, so add a new tag -- which won't be in the dropdown, but we can just type it in -- called "Official Document"
+# We want to keep information about where any official document's primary source is, so let's add a field to the tiddler, called `source`, with the value "Town Website"
+# Save the tiddler.  It should show up in the Table of Contents, in the Legal Section.
+# Save a copy of the wiki.
+
+Congratualtions, you have just demonstrated mastery of many of the basic features of TiddlyWiki!  Now, we don't actually want to keep this, as it's not really relevant to the DTC.  Use the <<icon $:/core/images/down-arrow>> button in the tiddler toolbar and then the trash can icon <<icon $:/core/images/delete-button>> to remove it.
+
+
+
+----------
+<sup>1</sup> It's not.
