@@ -32,7 +32,7 @@ div.avatar {float: right; margin-top: -1em;}
 div.avatar img {border-radius: 50%; width: 150px; border: 2px solid #ccc}
 img.mini.avatar {border-radius: 50%; width: 2em; border: 1px solid #ccc; vertical-align: middle;}
 
-dd.signs img, table.signs img {width: 20em;}
+dd.signs img, table.signs img, details.signs img {width: 20em;}
 .sign-org {margin-left: 2em;}
 table.signs tr:nth-child(2n) {direction: rtl;}
 table.signs ul {list-style: none;}
