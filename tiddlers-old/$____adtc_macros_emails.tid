@@ -1,0 +1,15 @@
+created: 20230904220721639
+modified: 20230905173633353
+revision: 0
+tags: $:/tags/Macro
+title: $:/_/adtc/macros/emails
+type: text/vnd.tiddlywiki
+
+\define all-emails(filter, text:"Copy all emails to clipboard")
+<$let 
+  email ="[{!!first-name}]  [[ ]] [{!!last-name}]  [[ <]] [{!!email}] [[>]]+[join[]]"
+  emails={{{ $filter$ :filter[has[email]] :map[subfilter<email>] +[join[, ]] }}} 
+>
+<$button message="tm-copy-to-clipboard" param=<<emails>>>$text$</$button>
+</$let>
+\end

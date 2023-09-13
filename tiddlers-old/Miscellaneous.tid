@@ -1,0 +1,10 @@
+created: 20230820021606079
+modified: 20230830143216901
+revision: 0
+tags: TableOfContents
+title: Miscellaneous
+type: text/vnd.tiddlywiki
+
+!!! Democrats for whom we have no email address:
+
+<div style="column-count: 2"><<list-links filter:"[tag[Person]party[Democratic]!has[email]sort[last-name]]" >></div>

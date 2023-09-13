@@ -1,0 +1,22 @@
+caption: New Party
+created: 20230906172515785
+description: Add a new political party
+modified: 20230906173023192
+revision: 0
+tags: 
+title: $:/_/adtc/buttons/new-party
+type: text/vnd.tiddlywiki
+
+\define new-party-action()
+<$action-sendmessage $message="tm-new-tiddler"
+  title="Party name"
+  tags="Party"
+  allied="yes" />
+\end
+
+<$button actions=<<new-party-action>> tooltip={{$:/_/adtc/buttons/new-person!!description}} aria-label={{$:/_/adtc/buttons/new-person!!caption}} >
+@@font-size:1.5em;{{$:/images/svg-icon/political}}@@
+<span class="tc-btn-text">
+{{!!caption}}
+</span>
+</$button>

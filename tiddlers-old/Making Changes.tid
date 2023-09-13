@@ -1,0 +1,12 @@
+created: 20230906173803521
+modified: 20230906201620812
+revision: 0
+tags: Admin
+title: Making Changes
+type: text/vnd.tiddlywiki
+
+<$list filter="[tag<currentTiddler>!has[draft.of]]" >
+<h2><$link/></h2>
+<$transclude mode="block"/>
+@@clear:both;<br/>@@
+</$list>

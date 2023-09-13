@@ -1,5 +1,5 @@
 created: 20230823184446659
-modified: 20230824003022979
+modified: 20230912200213778
 revision: 0
 tags: TableOfContents
 title: 2023 Slate
@@ -11,7 +11,7 @@ We are especially happy to have [[so many women|Women Candidates]] running this 
 
 These are the candidates for the November 2023 election.  You can also view the [[current office-holders|Elected Positions]], and a list of [[candidate information|Bios]].
 
-<table class="candidates">
+<table class="candidates slate">
   <thead>
     <tr><th>Position</th><$list filter="[tag[Party]] :filter[all[tiddlers]tag[Candidacy]party<currentTiddler>]"><th class={{!!title}}>{{!!title}}</th></$list></tr>
   </thead>

@@ -15,12 +15,14 @@ a .doc-icon svg {fill: #5778d8;}
 div[data-tiddler-title^="Bylaws"] .tc-tiddler-body h2  {font-weight: 500;}
 div[data-tiddler-title^="Bylaws"] .tc-tiddler-body h3  {font-weight: 600;}
 
-table.candidates {width: 100%}
+/*table.candidates {width: 100%}*/
+table.candidates.slate {width: 100%}
 table.candidates td, table.candidates th {padding: 1em;}
 table.candidates ul {list-style: none; padding-left: 0;}
 table.candidates td, table.candidates th {border: 1px solid #ccc; text-align: left;}
 table.candidates thead th {font-size: 1.25em; padding: .5em;}
-table.candidates td, table.candidates td {padding: .5em;}
+table.candidates td, table.candidates th {padding: .5em 3em .5em 1em;}
+table.candidates button {margin-left: 1em;}
 table.candidates td.Democratic, table.party tr.Democratic td {background: #C8E4FA;}
 table.candidates td.Republican, table.party tr.Republican td {background: #fee;}
 table.candidates td.Independent, table.party tr.Independent td {background: #f8eef8;}

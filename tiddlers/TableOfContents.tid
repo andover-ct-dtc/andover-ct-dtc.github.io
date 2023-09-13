@@ -1,13 +1,14 @@
 caption: Contents
 created: 20180926191321993
 list: Admin Welcome [[2023 Slate]] [[Democratic Town Committee]] [[Elected Positions]] [[Meeting Minutes]] Campaign Person Data Legal Miscellaneous
-modified: 20230910024838235
+modified: 20230912212625952
+revision: 0
 tags: $:/tags/SideBar
 title: TableOfContents
 type: text/vnd.tiddlywiki
 
 <div class="tc-table-of-contents">
 
-<<toc-selective-expandable 'TableOfContents' exclude:"[has[excludeTOC]]">>
+<<toc-selective-expandable "TableOfContents" exclude:"[has[excludeTOC]]" >>
 
 </div>

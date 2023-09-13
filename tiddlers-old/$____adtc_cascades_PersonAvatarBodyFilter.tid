@@ -1,0 +1,7 @@
+created: 20230823140905060
+modified: 20230823142358322
+revision: 0
+tags: $:/tags/ViewTemplateBodyFilter
+title: $:/_/adtc/cascades/PersonAvatarBodyFilter
+
+ [has[avatar]then[$:/_/adtc/template/avatar]]

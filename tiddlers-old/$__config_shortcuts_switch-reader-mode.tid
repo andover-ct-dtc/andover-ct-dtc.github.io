@@ -1,0 +1,5 @@
+revision: 0
+title: $:/config/shortcuts/switch-reader-mode
+type: text/vnd.tiddlywiki
+
+ctrl-shift-Slash
