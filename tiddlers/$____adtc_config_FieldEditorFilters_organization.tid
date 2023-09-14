@@ -1,0 +1,9 @@
+created: 20230913181004362
+list-before: $:/config/FieldEditorFilters/default
+modified: 20230913181024757
+revision: 0
+tags: $:/tags/FieldEditorFilter
+title: $:/_/adtc/config/FieldEditorFilters/organization
+type: text/vnd.tiddlywiki
+
+[match[organization]then[$:/_/adtc/config/EditTemplateFields/Templates/organization]]

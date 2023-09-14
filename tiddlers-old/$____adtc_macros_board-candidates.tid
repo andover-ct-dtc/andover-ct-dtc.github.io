@@ -1,0 +1,31 @@
+created: 20230912194910364
+modified: 20230912203317310
+revision: 0
+tags: $:/tags/Macro
+title: $:/_/adtc/macros/board-candidates
+type: text/vnd.tiddlywiki
+
+\define board-candidates(board)
+<$let title=<<currentTiddler>> >
+<table class="candidates">
+  <thead>
+    <tr><$list filter="[tag[Party]] :filter[all[tiddlers]tag[Candidacy]party<currentTiddler>]"><th class={{!!title}}>{{!!title}}</th></$list></tr>
+  </thead>
+  <tbody>
+  <tr>
+<$list filter="[tag[Party]] :filter[all[tiddlers]tag[Candidacy]party<currentTiddler>]" variable="party">
+    <td class={{{ [<party>get[title]] }}}>
+<$list filter="[tag[Candidacy]!has[draft.of]party<party>organization<title>] :map[get[name]] +[sort[last-name]]" variable="person" >
+      <$link>{{{ [<person>] }}} 
+         <$list filter="[<person>has[avatar]]"><$image class="mini avatar" source={{{ [<person>get[avatar]] }}} /></$list>
+      </$link> 
+      <small><$button><$action-sendmessage $message="tm-edit-tiddler" $param={{{ [tag[Candidacy]name<person>organization<title>] }}} />edit</$button></small><br/>
+</$list>
+    </td>
+</$list>
+  </tr>
+  </tbody>
+</table>
+</$let>
+\end
+

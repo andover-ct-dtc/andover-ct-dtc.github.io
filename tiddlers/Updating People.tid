@@ -1,13 +1,11 @@
 created: 20230906175130414
-modified: 20230912215439448
+modified: 20230913190955416
 revision: 0
 tags: [[Making Changes]]
 title: Updating People
 type: text/vnd.tiddlywiki
 
-!!! Editing an existing Person
-
-Clicking on a person's name pretty much anywhere opens that person's page.  The full list of people is at [[People|Person]].  At the top-right of that person, you can click the pencil icon (<<icon $:/core/images/edit-button>>) to change to the editing interface.  There you can fix a misspelling in the name (using the `title` and/or the `first-name` and `last-name` fields, change parties (using the `party` field), add or edit the person's description (using the `text` field), and edit the `email` field.  If you've already [[uploaded a picture|Adding Images]], you can put the name of that image in the `avatar` field.  {{Saving a tiddler}}
+----------
 
 !!! Adding a Person
 
@@ -23,6 +21,16 @@ We click on the button, set the title to `Betty Rubble`, set the `first-name`, `
 
 This is how the data works.  It's all interconnected.  Because `Green` is tagged `Party` , it will show a list of party members if there are any.  Because Betty has `party` set to `Green`, she will show up on that list.
 
+----------
+
+!!! Editing an existing Person
+
+Clicking on a person's name pretty much anywhere opens that person's page.  The full list of people is at [[People|Person]].  At the top-right of that person, you can click the pencil icon <<pencil>> to change to the editing interface.  There you can fix a misspelling in the name (using the `title` and/or the `first-name` and `last-name` fields, change parties (using the `party` field), add or edit the person's description (using the `text` field), and edit the `email` field.  If you've already [[uploaded a picture|Adding Images]], you can put the name of that image in the `avatar` field.  {{Saving a tiddler}}
+
+----------
+
 !!! Deleting a Person
 
-Deleting a Party is trivial: open the tiddler for that party, choose the trashcan icon (<<icon  $:/core/images/delete-button >>) either directly on the editor bar, if you're in edit mode or from the more options icon @@white-space:no-wrap;(<<icon $:/core/images/down-arrow>>)@@ if you're in view mode.
+Deleting a Person is trivial: open the tiddler for that party, choose the trashcan icon <<trashcan>> either directly on the editor bar, if you're in edit mode, or from the more options icon <<more-options>>, if you're in view mode.
+
+----------

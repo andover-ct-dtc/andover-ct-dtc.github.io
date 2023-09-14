@@ -1,0 +1,26 @@
+caption: New Candidacy
+created: 20230913192337335
+description: Create a new Candidacy
+modified: 20230913193934136
+revision: 0
+tags: 
+title: $:/_/adtc/buttons/new-candidacy
+type: text/vnd.tiddlywiki
+
+\define new-candidacy-action()
+<$action-sendmessage $message="tm-new-tiddler"
+  title="New candidacy"
+  tags="Candidacy"
+  caption=""
+  contest="2023-General"
+  name=""
+  organization=""
+  party="" />
+\end
+
+<$button actions=<<new-candidacy-action>> tooltip={{$:/_/adtc/buttons/new-candidacy!!description}} aria-label={{$:/_/adtc/buttons/new-candidacy!!caption}} >
+@@font-size:2.0em;{{$:/images/font-awesome/solid/vote-yea}}@@
+<span class="tc-btn-text">
+{{!!caption}}
+</span>
+</$button>

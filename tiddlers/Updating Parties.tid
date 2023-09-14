@@ -1,13 +1,15 @@
 created: 20230906174954745
-modified: 20230912212929915
+modified: 20230913191256913
 revision: 0
 tags: [[Making Changes]]
 title: Updating Parties
 type: text/vnd.tiddlywiki
 
+----------
+
 !!! Adding a Party
 
-While we could easily use the <<icon $:/core/images/new-button>> button to start a new Party from scratch, add the tag `Party`, and add an `allied` field with its "yes"/"sometimes"/"no" value, there's a shortcut in this button:
+While we could easily use the plus button <<plus>> to start a new Party from scratch, add the tag `Party`, and add an `allied` field with its "yes"/"sometimes"/"no" value, there's a shortcut in this button:
 
 {{$:/_/adtc/buttons/new-party}}
 
@@ -17,6 +19,16 @@ If we click that button, we open the editor, with `Party Name` defaulted for the
 
 We might try the same thing for the Libertarian Party, with `allied` set to "no".
 
+----------
+
+!!! Editing an existing Party
+
+Clicking on a party's name pretty much anywhere opens that party's page.  From here you can edit the descriptive text, or change the Allied field, or the party name.  {{Saving a tiddler}}
+
+----------
+
 !!! Deleting a Party
 
-Deleting a Party is trivial: open the tiddler for that party, choose the trashcan icon (<<icon  $:/core/images/delete-button >>) either directly on the editor bar, if you're in edit mode or from the more options icon (<<icon $:/core/images/down-arrow>>) if you're in view mode.
+Deleting a Party is trivial: open the tiddler for that party, choose the trashcan icon <<trashcan>> either directly on the editor bar, if you're in edit mode, or from the more options icon <<more-options>>, if you're in view mode.
+
+----------
