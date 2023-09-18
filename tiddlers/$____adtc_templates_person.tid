@@ -1,6 +1,5 @@
 created: 20230817151520063
-modified: 20230912003351322
-revision: 0
+modified: 20230918021343635
 tags: $:/tags/ViewTemplate
 title: $:/_/adtc/templates/person
 type: text/vnd.tiddlywiki
@@ -26,7 +25,7 @@ type: text/vnd.tiddlywiki
     <$list filter="[tag[Position]name<currentTiddler>!is[draft]]">
       <dd>
         {{{ [{!!organization}] }}}
-        <$list filter="[<currentTiddler>has[position]]"><$text text={{{ [[ (]] [{!!position}] [[)]] +[join[]] }}} /></$list>
+        <$list filter="[<currentTiddler>has[role]]"><$text text={{{ [[ (]] [{!!role}] [[)]] +[join[]] }}} /></$list>
         <$list filter="[<currentTiddler>has[term-expiration]]">: {{!!term-start}} - {{!!term-expiration}}</$list> 
         <small><$button><$action-sendmessage $message="tm-edit-tiddler" />edit</$button></small>
       </dd>

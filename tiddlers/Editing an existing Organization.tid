@@ -1,0 +1,7 @@
+created: 20230918025924095
+modified: 20230918025924095
+tags: [[Updating Organizations]]
+title: Editing an existing Organization
+type: text/vnd.tiddlywiki
+
+Clicking on a organization's name pretty much anywhere opens that organizations's page.  From here you can edit the `abbreviation` or the `org-type`  or updated the description in the `text field`. {{Saving a tiddler}}

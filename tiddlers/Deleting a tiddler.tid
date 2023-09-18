@@ -1,0 +1,7 @@
+created: 20230918011003199
+modified: 20230918011003199
+tags: 
+title: Deleting a tiddler
+type: text/vnd.tiddlywiki
+
+Choose the trashcan icon (<<icon  $:/core/images/delete-button >>) either directly on the editor bar, if you're in edit mode or from the more options icon (<<icon $:/core/images/down-arrow>>) if you're in view mode.

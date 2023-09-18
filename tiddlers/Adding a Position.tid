@@ -1,0 +1,15 @@
+created: 20230918025433789
+modified: 20230918025647752
+tags: [[Updating Positions]]
+title: Adding a Position
+type: text/vnd.tiddlywiki
+
+Positions are essentially the combination of a [[Person]] and an [[Organization]], with some additional metadata
+
+While we could easily use the <<icon $:/core/images/new-button>> button to start a new Organization from scratch, add the tag [[Position]] and add the fields `caption`, `name`, `organization`, `role`, `term-start` and `term-expiration`, there is a shortcut
+
+{{$:/_/adtc/buttons/new-position}}
+
+You can click one of these, fill out fields and save <<checkmark>>.
+
+The field `role` is optional; use such values as `Vice-chair` or `Treasurer` when relevant.  The fields `term-start` and `term-expiration` are also optional.  Just use a year for terms that have a limited shelf-life, such as [[elected positions|Elected Position]].  The field `caption` should eventually go away.  But for now, just use the [[abbreviation|Organization Abbreviations]] of the board name, a space, a hyphen, another space, and the person's name.

@@ -1,33 +1,23 @@
 created: 20230912191912455
-modified: 20230913191253197
-revision: 0
+list: [[Adding an Organization]] [[Editing an existing Organization]] [[Deleting an Organization]]
+modified: 20230918030003484
 tags: [[Making Changes]]
 title: Updating Organizations
 type: text/vnd.tiddlywiki
 
 ----------
 
-!!! Adding an Organization
+!!! [[Adding an Organization]]
 
-This should be extremely rare.  But it's also very easy to do. 
-
-While we could easily use the <<icon $:/core/images/new-button>> button to start a new Organization from scratch, add the tag [[Organization]] as well as either [[Volunteer]] or [[Elected Positions]] and add `org-type`, and `abbreviation`, there are shortcuts:
-
-{{$:/_/adtc/buttons/new-elected-pos}}
-{{$:/_/adtc/buttons/new-volunteer-pos}}
-
-You can click one of these, fill out the title and abbreviation and save.  If you choose, you can add a description in the `text` field.  (So far, we're not tracking any Appointed Organizations, but it will be easy enough to add them if necessary.)
-
+{{Adding an Organization}}
 ----------
 
-!!! Editing an existing Organization
+!!! [[Editing an existing Organization]]
 
-Clicking on a organization's name pretty much anywhere opens that organizations's page.  From here you can edit the `abbreviation` or the `org-type`  or updated the description in the `text field`. {{Saving a tiddler}}
-
+{{Editing an existing Organization}}
 ----------
 
-!!! Deleting a Organization
+!!! [[Deleting an Organization]]
 
-Deleting an Organization is trivial: open the tiddler for that organization, choose the trashcan icon (<<icon  $:/core/images/delete-button >>) either directly on the editor bar, if you're in edit mode or from the more options icon (<<icon $:/core/images/down-arrow>>) if you're in view mode.
-
+{{Deleting an Organization}}
 ----------

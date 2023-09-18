@@ -1,36 +1,23 @@
 created: 20230906175130414
-modified: 20230913190955416
-revision: 0
+list: [[Adding a Person]] [[Editing an existing Person]] [[Deleting a Person]]
+modified: 20230918031232785
 tags: [[Making Changes]]
 title: Updating People
 type: text/vnd.tiddlywiki
 
 ----------
 
-!!! Adding a Person
+!!! [[Adding a Person]]
 
-@@float:right;width:50%;margin-left:1em;{{$:/_/adtc/images/new-person-screenshot}}@@
-
-While we could easily use the <<icon $:/core/images/new-button>> button to start a new Person from scratch, add the tag `Person`, and add `first-name`, `last-name`, `email`, and `party` fields, there's a shortcut in this button:
-
-{{$:/_/adtc/buttons/new-person}}
-
-Perhaps we want to add Betty Rubble to the list of people we maintain here.  She's the PTA president, and although not a Democrat, she's a member of the Green party we just added.
-
-We click on the button, set the title to `Betty Rubble`, set the `first-name`, `last-name` and `email` properties appropriately, and choose our new "Green" value for `party`.  When we save this, we'll get a tiddler showing Betty's information.  Note that it has a link to the `Green` party.  If we click on that, it now has a list of members including for now only Betty.
-
-This is how the data works.  It's all interconnected.  Because `Green` is tagged `Party` , it will show a list of party members if there are any.  Because Betty has `party` set to `Green`, she will show up on that list.
-
+{{Adding a Person}}
 ----------
 
-!!! Editing an existing Person
+!!! [[Editing an existing Person]]
 
-Clicking on a person's name pretty much anywhere opens that person's page.  The full list of people is at [[People|Person]].  At the top-right of that person, you can click the pencil icon <<pencil>> to change to the editing interface.  There you can fix a misspelling in the name (using the `title` and/or the `first-name` and `last-name` fields, change parties (using the `party` field), add or edit the person's description (using the `text` field), and edit the `email` field.  If you've already [[uploaded a picture|Adding Images]], you can put the name of that image in the `avatar` field.  {{Saving a tiddler}}
-
+{{Editing an existing Person}}
 ----------
 
-!!! Deleting a Person
+!!! [[Deleting a Person]]
 
-Deleting a Person is trivial: open the tiddler for that party, choose the trashcan icon <<trashcan>> either directly on the editor bar, if you're in edit mode, or from the more options icon <<more-options>>, if you're in view mode.
-
+{{Deleting a Person}}
 ----------

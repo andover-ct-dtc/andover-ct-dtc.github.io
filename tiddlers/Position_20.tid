@@ -1,10 +1,9 @@
 caption: BOS - Jeff Maguire
 created: 20230821202714581
-modified: 20230904234512159
+modified: 20230918022042491
 name: Jeff Maguire
 organization: Board of Selectmen
-position: Chair
-revision: 0
+role: Chair
 tags: Position
 term-expiration: 2023
 term-start: 2019

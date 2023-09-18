@@ -1,10 +1,9 @@
 caption: ZBA - William Desrosiers
 created: 20230821202714545
-modified: 20230830143335757
+modified: 20230918022411108
 name: William Desrosiers
 organization: Zoning Board of Appeals
-position: Chair
-revision: 0
+role: Chair
 tags: Position
 term-expiration: 2023
 term-start: 2019

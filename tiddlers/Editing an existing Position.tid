@@ -1,0 +1,9 @@
+created: 20230918025503206
+modified: 20230918025714869
+tags: [[Updating Positions]]
+title: Editing an existing Position
+type: text/vnd.tiddlywiki
+
+Positions can be found in the sidebar, `Data > Positions`.  They can also be found by clicking <small><$button actions="" tooltip="This is for demo only" aria-label="This is for demo only "><span class="tc-btn-text">edit</span></$button></small> buttons on the page for the relevant [[Person]] or [[Organization]].  When you open a Position, you can edit the caption (used for displaying this in lists, maybe one day in sorting as well), the start- and end-term years, and the position in the organizations ("Vice-chair", "Treasurer", etc.)  {{Saving a tiddler}}
+
+While you *could* change the name or organization, that would seem odd.  It would be more likely to delete this Position and create a new one.  

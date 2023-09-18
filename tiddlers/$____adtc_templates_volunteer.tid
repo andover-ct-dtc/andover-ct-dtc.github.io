@@ -1,6 +1,5 @@
 created: 20230902004526359
-modified: 20230913175820184
-revision: 0
+modified: 20230918021623572
 tags: $:/tags/ViewTemplate
 title: $:/_/adtc/templates/volunteer
 type: text/vnd.tiddlywiki
@@ -11,7 +10,7 @@ type: text/vnd.tiddlywiki
 <table>
   <caption><br/><<all-emails "[tag[Position]organization<currentTiddler>get[name]] +[sortsub:string<by-last>]">></caption>
   <thead>
-    <tr><th>Name</th><th>Party</th><th>Email</th><th>Position</th><th></th></tr>
+    <tr><th>Name</th><th>Party</th><th>Email</th><th>Role</th><th></th></tr>
   </thead>
   <tbody>
 <$list filter="[tag[Position]organization<currentTiddler>] +[sortsub:string<by-person-last>] " ><$let person={{!!name}} >
@@ -19,7 +18,7 @@ type: text/vnd.tiddlywiki
       <td><$link to={{!!name}} /></td>
       <td><$link to={{{ [<person>get[party]] }}} /></td>
       <td><a href={{{ [[mailto:]] [<person>get[title]] [[<]] [<person>get[email]] [[>]] +[join[]] }}}> <$text text={{{ [<person>get[email]] }}} /> </a></td>
-      <td>{{!!position}}</td>
+      <td>{{!!role}}</td>
       <td> <small><$button><$action-sendmessage $message="tm-edit-tiddler" />edit</$button></small></td>
     </tr>
 </$let></$list>
