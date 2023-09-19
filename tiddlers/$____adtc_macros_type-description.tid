@@ -1,0 +1,13 @@
+created: 20230919004557666
+modified: 20230919005946221
+tags: $:/tags/Macro
+title: $:/_/adtc/macros/type-description
+type: text/vnd.tiddlywiki
+
+\define type-description(explanation, fields)
+<div style="float: right;">[[Explanation|Reading tiddler descriptions]]</div>
+<div style="clear:both; margin-bottom: -.5em"></div>
+<pre><code><$text text={{{[<__explanation__>search-replace:gm:regexp[^\n+],[]search-replace:gm:regexp[\n+$],[]]}}} /></code></pre>
+''Fields:''
+$fields$
+\end

@@ -1,10 +1,10 @@
 created: 20230918025433789
-modified: 20230918025647752
+modified: 20230919013053490
 tags: [[Updating Positions]]
 title: Adding a Position
 type: text/vnd.tiddlywiki
 
-Positions are essentially the combination of a [[Person]] and an [[Organization]], with some additional metadata
+Positions are essentially the combination of a [[Person]] and an [[Organization Records]], with some additional metadata
 
 While we could easily use the <<icon $:/core/images/new-button>> button to start a new Organization from scratch, add the tag [[Position]] and add the fields `caption`, `name`, `organization`, `role`, `term-start` and `term-expiration`, there is a shortcut
 

@@ -1,12 +1,11 @@
 created: 20230913180416272
-modified: 20230913181215201
-revision: 0
+modified: 20230919013053489
 tags: 
 title: $:/_/adtc/config/EditTemplateFields/Templates/organization
 type: text/vnd.tiddlywiki
 
 <$select tiddler=<<currentTiddler>> field=<<currentField>> class="tc-edit-texteditor tc-edit-fieldeditor" tabindex={{$:/config/EditTabIndex}} cancelPopups="yes">
-    <$list filter="[all[tiddlers]] :filter[tags[]tag[Organization]]">
+    <$list filter="[all[tiddlers]] :filter[tags[]tag[Organization Records]]">
         <option value=<<currentTiddler>>><$view field='title'/></option>
     </$list>
 </$select>

@@ -1,12 +1,14 @@
 created: 20230905204350863
-modified: 20230912211530978
-revision: 0
+list: [[Party Records]] [[Person Records]] [[Organization Records]] [[Position Records]]
+modified: 20230919030235445
 tags: Admin TODO
 title: Understanding the Data
 type: text/vnd.tiddlywiki
 
 To make changes to this page, we need to understand how it's structured.  We have a few simple data structures.  
 
-The simplest is `Party`.  Anything tagged `Party` is understood to be a political party.  These contain only a name, the tag "Party" and an `allied` field containing "yes", "sometimes", or "no".
-
-TODO: This page is barely started!
+<$list filter="[tag<currentTiddler>!has[draft.of]]" >
+<h2><$link/></h2>
+<$transclude mode="block"/>
+@@clear:both;<br/>@@
+</$list>

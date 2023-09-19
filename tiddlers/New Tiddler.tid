@@ -1,0 +1,12 @@
+created: 20230919015606748
+modified: 20230919015924037
+tags: 
+title: New Tiddler
+type: text/vnd.tiddlywiki
+
+<$button>Swap rate for position
+<$list filter="[has:field[position]]">
+<$action-deletefield $field="position"/>
+<$action-setfield $field="role" $value="" />
+</$list>
+</$button>
