@@ -1,0 +1,13 @@
+created: 20230920015225920
+modified: 20230920022027916
+tags: $:/tags/Macro
+title: $:/_/adtc/macros/field-list
+type: text/vnd.tiddlywiki
+
+\define field-list(fields)
+<dl>
+<$list filter="$fields$" variable="field">
+<dt><<field>></dt><dd><$text text={{{ [<currentTiddler>get<field>else[(blank)]] }}} /></dd>
+</$list>
+</dl>
+\end

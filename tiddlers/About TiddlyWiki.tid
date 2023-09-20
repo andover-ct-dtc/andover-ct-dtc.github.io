@@ -1,5 +1,5 @@
 created: 20230918224726631
-modified: 20230919013053490
+modified: 20230920020533112
 tags: [[Using TiddlyWiki]]
 title: About TiddlyWiki
 type: text/vnd.tiddlywiki
@@ -16,4 +16,4 @@ In TiddlyWiki, the smallest unit of content is called a "Tiddler".  The underlyi
 > 
 > TiddlyWiki aspires to provide an algebra for tiddlers, a concise way of expressing and exploring the relationships between items of information.
 
-We use tiddlers to describe [[Parties|Party]], [[People|Person]], [[Organizations|Organization Records]], [[Candidacies|Candidacy]], and [[Positions|Position]], the underlying data of this site.  But because they are also good at holding rich text, we also use them for [[Meeting Minutes]], [[Bylaws]], our [[Campaign Strategy]], our [[Lawn Signs|Sign]].  Pretty well everything you see here is built out of Tiddlers, including the menu bars and buttons.
+We use tiddlers to describe [[Parties|Party]], [[People|Person]], [[Organizations|Organization]], [[Candidacies|Candidacy]], and [[Positions|Position]], the underlying data of this site.  But because they are also good at holding rich text, we also use them for [[Meeting Minutes]], [[Bylaws]], our [[Campaign Strategy|Strategy]], our [[Lawn Signs|Sign]].  Pretty well everything you see here is built out of Tiddlers, including the menu bars and buttons.

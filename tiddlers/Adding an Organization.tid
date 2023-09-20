@@ -1,12 +1,12 @@
 created: 20230918025837641
-modified: 20230919013053490
+modified: 20230920020407751
 tags: [[Updating Organizations]]
 title: Adding an Organization
 type: text/vnd.tiddlywiki
 
 This should be extremely rare.  But it's also very easy to do. 
 
-While we could easily use the <<icon $:/core/images/new-button>> button to start a new Organization from scratch, add the tag [[Organization Records]] as well as either [[Volunteer]] or [[Elected Positions]] and add `org-type`, and `abbreviation`, there are shortcuts:
+While we could easily use the <<icon $:/core/images/new-button>> button to start a new Organization from scratch, add the tag [[Organization]] as well as either [[Volunteer]] or [[Elected Positions]] and add `org-type`, and `abbreviation`, there are shortcuts:
 
 {{$:/_/adtc/buttons/new-elected-pos}}
 {{$:/_/adtc/buttons/new-volunteer-pos}}

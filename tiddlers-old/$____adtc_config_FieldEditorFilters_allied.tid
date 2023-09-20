@@ -1,9 +1,0 @@
-created: 20230705185102793
-list-before: $:/config/FieldEditorFilters/default
-modified: 20230906172208718
-revision: 0
-tags: $:/tags/FieldEditorFilter
-title: $:/_/adtc/config/FieldEditorFilters/allied
-type: text/vnd.tiddlywiki
-
-[match[allied]then[$:/_/adtc/config/EditTemplateFields/Templates/allied]]

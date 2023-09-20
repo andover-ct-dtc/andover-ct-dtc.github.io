@@ -1,10 +1,10 @@
 created: 20230918235453202
-modified: 20230919010101463
+modified: 20230920022425900
 tags: [[Understanding the Data]]
 title: Party Records
 type: text/vnd.tiddlywiki
 
-The simplest is `Party`.  Anything tagged `Party` is understood to be a political party.  These contain only a name, the tag [[Party]] and an `allied` field containing "yes", "sometimes", or "no".  (This field is speculative.  At some point we might want to list Democrats and members of a newly added `Green` party or some such.  But we don't do anything with it yet.)
+The simplest structure is `Party`.  Anything tagged `Party` is understood to be a political party.  These contain only a name, the tag [[Party]] and an `allied` field containing "yes", "sometimes", or "no".  (This field is speculative.  At some point we might want to list Democrats and members of a newly added `Green` party or some such.  But we don't do anything with it yet.)
 
 As with all the data, there is a `text` field that we can fill out as we choose with additional information, most likely description.
 
