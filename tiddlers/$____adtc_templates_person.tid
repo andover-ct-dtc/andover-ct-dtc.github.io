@@ -1,5 +1,5 @@
 created: 20230817151520063
-modified: 20230918021343635
+modified: 20230923220556519
 tags: $:/tags/ViewTemplate
 title: $:/_/adtc/templates/person
 type: text/vnd.tiddlywiki
@@ -43,11 +43,11 @@ type: text/vnd.tiddlywiki
       </$list>
   </$list>
 
-  <$list filter="[all[tiddlers]contains:names<currentTiddler>] :filter[tags[]tag[Lawn Sign]] +[first[]]" variable="_"> 
+  <$list filter="[all[tiddlers]contains:names<currentTiddler>] :filter[tag[Lawn Sign]] +[first[]]" variable="_"> 
     <br/>
-    <dt>Potential Signs</dt>
+    <dt>Lawn Sign</dt>
     <dd class="signs">
-      <$list filter="[all[tiddlers]contains:names<currentTiddler>] :filter[tags[]tag[Lawn Sign]]">
+      <$list filter="[all[tiddlers]contains:names<currentTiddler>] :filter[tag[Lawn Sign]]">
         <br/><$link><$transclude tiddler=<<currentTiddler>> /> </$link><br/>
       </$list>
     </dd>

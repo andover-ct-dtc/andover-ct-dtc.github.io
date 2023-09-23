@@ -1,11 +1,10 @@
 created: 20230828175415369
-modified: 20230903150050399
-revision: 0
+modified: 20230923222331359
 tags: $:/tags/ViewTemplate
 title: $:/_/adtc/templates/sign
 type: text/vnd.tiddlywiki
 
-<$list filter="[<currentTiddler>tag[Sign]]  [<currentTiddler>tag[Old Sign]]  [<currentTiddler>tag[Alternate Sign]] +[first[]]" variable="_">
+<$list filter="[<currentTiddler>tag[Lawn Sign]first[]]" variable="_">
   <br/>
   <h2>People</h2>
   <<list-links filter:"[enlist{!!names}]" >>

@@ -1,5 +1,5 @@
 created: 20230902004526359
-modified: 20230919013359476
+modified: 20230923221045637
 tags: $:/tags/ViewTemplate
 title: $:/_/adtc/templates/volunteer
 type: text/vnd.tiddlywiki
@@ -27,6 +27,6 @@ type: text/vnd.tiddlywiki
 
 </$let>
 
-<<potential-signs-details>>
+<<signs-details>>
 
 </$list>
