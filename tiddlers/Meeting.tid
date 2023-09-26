@@ -1,0 +1,10 @@
+caption: Meetings
+created: 20230904211409759
+modified: 20230926032423687
+tags: TableOfContents
+title: Meeting
+type: text/vnd.tiddlywiki
+
+The DTC meets the first Thursday of the month, 7:00 in the Community Room
+
+<<list-links filter:[tag<currentTiddler>!sort[date]] >>
