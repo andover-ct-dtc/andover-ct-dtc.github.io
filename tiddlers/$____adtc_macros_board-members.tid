@@ -1,5 +1,5 @@
 created: 20230816194341161
-modified: 20230918021509242
+modified: 20231001192517259
 tags: $:/tags/Macro
 title: $:/_/adtc/macros/board-members
 type: text/vnd.tiddlywiki
@@ -14,7 +14,7 @@ type: text/vnd.tiddlywiki
       <td><$link to={{{ [<person>get[party]] }}} /></td>
       <td><a href={{{ [[mailto:]] [<person>get[title]] [[<]] [<person>get[email]] [[>]] +[join[]] }}}> <$text text={{{ [<person>get[email]] }}} /> </a></td>
       <td>{{!!role}}</td>
-      <td> <small><$button><$action-sendmessage $message="tm-edit-tiddler" />edit</$button></small></td>
+      <$list filter="[[$:/status/IsReaderMode]!text[yes]]"><td> <small><$button><$action-sendmessage $message="tm-edit-tiddler" />edit</$button></small></td></$list>
     </tr>
 </$let></$list>
   </tbody>
@@ -26,7 +26,7 @@ type: text/vnd.tiddlywiki
 <table>
   <caption><br/><<all-emails "[tag[Position]organization<currentTiddler>get[name]] +[sortsub:string<by-last>]">></caption>
   <thead>
-    <tr><th>Name</th><th>Term</th><th>Party</th><th>Email</th><th>Role</th><th></th></tr>
+    <tr><th>Name</th><th>Term</th><th>Party</th><th>Email</th><th>Role</th><$list filter="[[$:/status/IsReaderMode]!text[yes]]"><th></th></$list></tr>
   </thead>
   <$macrocall $name="board-members-body" board=<<__board__>> />
 </table>

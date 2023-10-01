@@ -1,10 +1,20 @@
 created: 20230820021606079
 list: [[Other sites]] Donations
-modified: 20230930021428404
+modified: 20231001194022018
 tags: TableOfContents
 title: Miscellaneous
 type: text/vnd.tiddlywiki
 
+<$let by-last ="[{!!last-name}] [{!!first-name}] +[join[, ]]">
+
 !!! Democrats for whom we have no email address:
 
-<div style="column-count: 2"><<list-links filter:"[tag[Person]party[Democratic]!has[email]sort[last-name]]" >></div>
+<<list-links filter:"[tag[Person]party[Democratic]!has[email]sortsub:string<by-last>]" >>
+
+!!! Democratic candidates with no photos
+
+<<list-links filter:"[tag[Person]party[Democratic]!has[avatar]] :filter[all[tiddlers]tag[Candidacy]name<currentTiddler>first[]] +[sortsub:string<by-last>]">>
+
+!!! Democratic candidates with no bio
+
+<<list-links filter:"[tag[Person]party[Democratic]!has[text]] :filter[all[tiddlers]tag[Candidacy]name<currentTiddler>first[]] +[sortsub:string<by-last>]">>

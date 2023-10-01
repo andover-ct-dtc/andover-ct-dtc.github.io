@@ -1,6 +1,5 @@
 created: 20230912194910364
-modified: 20230912203317310
-revision: 0
+modified: 20231001192825380
 tags: $:/tags/Macro
 title: $:/_/adtc/macros/board-candidates
 type: text/vnd.tiddlywiki
@@ -19,7 +18,7 @@ type: text/vnd.tiddlywiki
       <$link>{{{ [<person>] }}} 
          <$list filter="[<person>has[avatar]]"><$image class="mini avatar" source={{{ [<person>get[avatar]] }}} /></$list>
       </$link> 
-      <small><$button><$action-sendmessage $message="tm-edit-tiddler" $param={{{ [tag[Candidacy]name<person>organization<title>] }}} />edit</$button></small><br/>
+      <$list filter="[[$:/status/IsReaderMode]!text[yes]]"><small><$button><$action-sendmessage $message="tm-edit-tiddler" $param={{{ [tag[Candidacy]name<person>organization<title>] }}} />edit</$button></small></$list><br/>
 </$list>
     </td>
 </$list>
