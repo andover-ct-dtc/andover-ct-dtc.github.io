@@ -1,5 +1,5 @@
 created: 20230817151520063
-modified: 20231001195545251
+modified: 20231004205230442
 tags: $:/tags/ViewTemplate
 title: $:/_/adtc/templates/person
 type: text/vnd.tiddlywiki
@@ -37,7 +37,7 @@ type: text/vnd.tiddlywiki
     <dt>Candidacies</dt>
       <$list filter="[tag[Candidacy]name<currentTiddler>!is[draft]]">
         <dd>
-          {{{ [{!!organization}] }}} ({{{ [{!!party}] }}}): {{!!contest}}
+          {{{ [{!!organization}] }}} (endorsing party: {{{ [{!!party}] }}}): {{!!contest}}
           <$list filter="[[$:/status/IsReaderMode]!text[yes]]"><small><$button><$action-sendmessage $message="tm-edit-tiddler" />edit</$button></small></$list>
         </dd> 
       </$list>

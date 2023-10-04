@@ -1,9 +1,8 @@
-table.boards th.board-header { background-color: transparent; text-align: left; font-size: 1.25em; 
-    padding: 1.25em 0.125em 0.5em;
-}
+table.boards th.board-header { background-color: transparent; text-align: left; font-size: 1.25em; padding: 1.25em 0.125em 0.5em;}
 .doc-icon svg {width: 1em; height: 1em; vertical-align: middle;}
 a .doc-icon svg {fill: #5778d8;}
-
+.tc-tiddler-frame .tc-titlebar svg {opacity: 0; transition: opacity .5s ease-in-out;}
+.tc-tiddler-frame:hover .tc-titlebar svg {zoom: 1; filter: alpha(opacity=100); opacity: 1;}
 .doc-downloads {float: right; padding-bottom: 3em; margin-top: -1em;}
 .doc-header {display: flex; flex-direction: row; clear: both; margin-bottom: 5em;}
 .doc-header .quote {flex: 3}
