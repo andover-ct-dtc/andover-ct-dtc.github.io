@@ -1,5 +1,5 @@
 created: 20230817151520063
-modified: 20231004205230442
+modified: 20231006165819072
 tags: $:/tags/ViewTemplate
 title: $:/_/adtc/templates/person
 type: text/vnd.tiddlywiki
@@ -18,6 +18,11 @@ type: text/vnd.tiddlywiki
       <dd><a href={{{ [[mailto:]] [<currentTiddler>get[title]] [[<]] [<currentTiddler>get[email]] [[>]] +[join[]] }}}>
       <$text text={{{ [<currentTiddler>get[email]] }}} /> </a></dd></$list>
     <$list filter="[<currentTiddler>!has[email]]"><dd>(Unknown)</dd></$list>
+
+    <$list filter="[<currentTiddler>has[phone]]">
+  <dt>Phone</dt>
+  <dd>{{!!phone}}</dd>
+    </$list>
 
   <$list filter="[tag[Position]name<currentTiddler>first[]]" variable="__">
     <br/>
