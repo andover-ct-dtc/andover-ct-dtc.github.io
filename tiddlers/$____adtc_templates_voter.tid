@@ -1,0 +1,20 @@
+created: 20231011031923431
+modified: 20231011034532874
+tags: $:/tags/ViewTemplate
+title: $:/_/adtc/templates/voter
+type: text/vnd.tiddlywiki
+
+<$list filter="[<currentTiddler>tag[Voter]first[]]" variable="_">
+
+! {{!!full-name}}
+
+<dl>
+<dt>Address:</dt><dd>{{!!address}}</dd>
+<dt>Age</dt><dd>{{!!age}}</dd>
+<dt>DOB</dt><dd>{{!!dob}}</dd>
+<dt>Gender</dt><dd>{{!!gender}}</dd>
+<dt>Party</dt><dd>{{!!party}}</dd> 
+ <dt>Phone</dt><dd>{{!!phone}}</dd>
+</dl>
+
+</$list>

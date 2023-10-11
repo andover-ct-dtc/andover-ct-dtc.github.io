@@ -1,0 +1,12 @@
+created: 20231011031711491
+modified: 20231011031754137
+tags: $:/tags/ViewTemplate
+title: $:/_/adtc/templates/address
+type: text/vnd.tiddlywiki
+
+<$list filter="[<currentTiddler>tag[Address]first[]]" variable="_">
+
+{{!!address}}<br/>
+{{!!city}}, {{!!state}} {{!!zip5}}-{{!!zip4}}
+
+</$list>
