@@ -1,0 +1,11 @@
+{
+    "title": "$:/plugins/AndoverCT",
+    "name": "AndoverCT",
+    "description": "Data plugin containing Voter information for Andover, CT, USA",
+    "author": "Scott Sauyet",
+    "version": "0.1.0",
+    "core-version": ">=5.3.1",
+    "source": "https://github.com/andover-ct-dtc/andover-ct-dtc.github.io",
+    "list": "readme license",
+    "plugin-type": "plugin"
+}

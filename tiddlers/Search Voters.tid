@@ -1,0 +1,17 @@
+created: 20231011011938835
+modified: 20231011030916141
+tags: TableOfContents
+title: Search Voters
+type: text/vnd.tiddlywiki
+
+''Search Box''<br>
+<$edit-text tiddler="$:/temp/Voters/searchstrings" field=search placeholder="Enter name..." tag=input/><br/><br/>
+
+''Search result:''
+
+<$list filter="[{$:/temp/Voters/searchstrings!!search}minlength{$:/config/Search/MinLength}limit[1]]" emptyMessage="""<div class="tc-search-results">{{$:/language/Search/Search/TooShort}}</div>""" variable="listItem">
+
+<$list filter="[all[tiddlers+shadows]tag[Voter]search:full-name{$:/temp/Voters/searchstrings!!search}sort[last-name]]" emptyMessage="None">
+<div style="margin-left:1em;">
+<li><$link to=<<currentTiddler>>>{{!!full-name}}</$link></li></div>
+</$list>

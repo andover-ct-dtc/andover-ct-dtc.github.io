@@ -1,8 +1,8 @@
 created: 20230830142431524
-modified: 20230905201726370
-revision: 0
+modified: 20231011000931627
 tags: 
 title: $:/_/adtc/core/ui/ViewTemplate/title/caption
+type: text/vnd.tiddlywiki
 
 \whitespace trim
 <h2 class="tc-title">
