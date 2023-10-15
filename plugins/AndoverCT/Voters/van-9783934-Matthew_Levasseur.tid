@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9783934
-  tags: Voter
-  caption: Voters/Matthew Levasseur
-  first-name: Matthew
-  last-name: Levasseur
-  middle-name: Clark
-  suffix: undefined
-  full-name: Matthew Levasseur
-  gender: M
-  dob: 1982-01-12
-  age: 40
-  party: 
-  phone: 860-502-27288
-  address: 64 Hendee Rd
+tags: Voter
+caption: Voters/Matthew Levasseur
+first-name: Matthew
+last-name: Levasseur
+middle-name: Clark
+suffix: 
+full-name: Matthew Levasseur
+gender: M
+dob: 1982-12-01
+age: 40
+party: 
+phone: 860-502-7288
+address: 64 Hendee Rd

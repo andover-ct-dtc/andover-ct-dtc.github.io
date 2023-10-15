@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1524
-  tags: Voter
-  caption: Voters/David Moske
-  first-name: David
-  last-name: Moske
-  middle-name: George
-  suffix: undefined
-  full-name: David Moske
-  gender: M
-  dob: 1961-01-07
-  age: 62
-  party: 
-  phone: 860-645-50113
-  address: 896 East St
+tags: Voter
+caption: Voters/David Moske
+first-name: David
+last-name: Moske
+middle-name: George
+suffix: 
+full-name: David Moske
+gender: M
+dob: 1961-07-01
+age: 62
+party: 
+phone: 860-645-0113
+address: 896 East St

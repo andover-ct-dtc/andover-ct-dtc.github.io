@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1592
-  tags: Voter
-  caption: Voters/David Rhodes
-  first-name: David
-  last-name: Rhodes
-  middle-name: James
-  suffix: undefined
-  full-name: David Rhodes
-  gender: M
-  dob: 1971-01-02
-  age: 52
-  party: Republican
-  phone: 860-742-26137
-  address: 26 Ridge Rd
+tags: Voter
+caption: Voters/David Rhodes
+first-name: David
+last-name: Rhodes
+middle-name: James
+suffix: 
+full-name: David Rhodes
+gender: M
+dob: 1971-02-01
+age: 52
+party: Republican
+phone: 860-742-6137
+address: 26 Ridge Rd

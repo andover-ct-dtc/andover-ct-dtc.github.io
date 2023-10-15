@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1206
-  tags: Voter
-  caption: Voters/Robert Boxall
-  first-name: Robert
-  last-name: Boxall
-  middle-name: J
-  suffix: undefined
-  full-name: Robert Boxall
-  gender: M
-  dob: 1949-01-07
-  age: 74
-  party: 
-  phone: 860-742-29032
-  address: 329 Lake Rd
+tags: Voter
+caption: Voters/Robert Boxall
+first-name: Robert
+last-name: Boxall
+middle-name: J
+suffix: 
+full-name: Robert Boxall
+gender: M
+dob: 1949-07-01
+age: 74
+party: 
+phone: 860-742-9032
+address: 329 Lake Rd

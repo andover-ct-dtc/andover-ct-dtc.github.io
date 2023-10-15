@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/976
-  tags: Voter
-  caption: Voters/Mark Raes
-  first-name: Mark
-  last-name: Raes
-  middle-name: R
-  suffix: undefined
-  full-name: Mark Raes
-  gender: M
-  dob: 1959-01-05
-  age: 64
-  party: 
-  phone: 860-301-18045
-  address: 223 Lake Rd
+tags: Voter
+caption: Voters/Mark Raes
+first-name: Mark
+last-name: Raes
+middle-name: R
+suffix: 
+full-name: Mark Raes
+gender: M
+dob: 1959-05-01
+age: 64
+party: 
+phone: 860-301-8045
+address: 223 Lake Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/523981
-  tags: Voter
-  caption: Voters/Paul Lacroix
-  first-name: Paul
-  last-name: Lacroix
-  middle-name: H
-  suffix: undefined
-  full-name: Paul Lacroix
-  gender: M
-  dob: 1940-01-06
-  age: 83
-  party: Democratic
-  phone: 860-633-33027
-  address: 123 Long Hill Rd
+tags: Voter
+caption: Voters/Paul Lacroix
+first-name: Paul
+last-name: Lacroix
+middle-name: H
+suffix: 
+full-name: Paul Lacroix
+gender: M
+dob: 1940-06-01
+age: 83
+party: Democratic
+phone: 860-633-3027
+address: 123 Long Hill Rd

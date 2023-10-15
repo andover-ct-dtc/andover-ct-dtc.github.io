@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2341158
-  tags: Voter
-  caption: Voters/Megan Buswell
-  first-name: Megan
-  last-name: Buswell
-  middle-name: D
-  suffix: undefined
-  full-name: Megan Buswell
-  gender: F
-  dob: 1976-01-03
-  age: 47
-  party: 
-  phone: 860-498-81888
-  address: 35 Center St Apt C
+tags: Voter
+caption: Voters/Megan Buswell
+first-name: Megan
+last-name: Buswell
+middle-name: D
+suffix: 
+full-name: Megan Buswell
+gender: F
+dob: 1976-03-01
+age: 47
+party: 
+phone: 860-498-1888
+address: 35 Center St Apt C

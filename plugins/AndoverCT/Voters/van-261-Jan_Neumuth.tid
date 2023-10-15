@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/261
-  tags: Voter
-  caption: Voters/Jan Neumuth
-  first-name: Jan
-  last-name: Neumuth
-  middle-name: M
-  suffix: undefined
-  full-name: Jan Neumuth
-  gender: F
-  dob: 1974-01-10
-  age: 49
-  party: Republican
-  phone: 860-742-28047
-  address: 8 Bear Swamp Rd
+tags: Voter
+caption: Voters/Jan Neumuth
+first-name: Jan
+last-name: Neumuth
+middle-name: M
+suffix: 
+full-name: Jan Neumuth
+gender: F
+dob: 1974-10-01
+age: 49
+party: Republican
+phone: 860-742-8047
+address: 8 Bear Swamp Rd

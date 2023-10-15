@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9065154
-  tags: Voter
-  caption: Voters/Christopher Smith
-  first-name: Christopher
-  last-name: Smith
-  middle-name: Charles
-  suffix: undefined
-  full-name: Christopher Smith
-  gender: M
-  dob: 2000-01-03
-  age: 23
-  party: 
-  phone: 860-771-10209
-  address: 8 Kingsley Dr Apt A5
+tags: Voter
+caption: Voters/Christopher Smith
+first-name: Christopher
+last-name: Smith
+middle-name: Charles
+suffix: 
+full-name: Christopher Smith
+gender: M
+dob: 2000-03-01
+age: 23
+party: 
+phone: 860-771-0209
+address: 8 Kingsley Dr Apt A5

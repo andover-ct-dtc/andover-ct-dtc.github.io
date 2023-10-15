@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/186
-  tags: Voter
-  caption: Voters/Julia Haverl
-  first-name: Julia
-  last-name: Haverl
-  middle-name: A
-  suffix: undefined
-  full-name: Julia Haverl
-  gender: F
-  dob: 1938-01-07
-  age: 85
-  party: Democratic
-  phone: 831-251-18652
-  address: 172 Long Hill Rd
+tags: Voter
+caption: Voters/Julia Haverl
+first-name: Julia
+last-name: Haverl
+middle-name: A
+suffix: 
+full-name: Julia Haverl
+gender: F
+dob: 1938-07-01
+age: 85
+party: Democratic
+phone: 831-251-8652
+address: 172 Long Hill Rd

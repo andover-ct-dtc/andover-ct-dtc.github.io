@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/451646
-  tags: Voter
-  caption: Voters/Pamela Adams
-  first-name: Pamela
-  last-name: Adams
-  middle-name: D
-  suffix: undefined
-  full-name: Pamela Adams
-  gender: F
-  dob: 1955-01-03
-  age: 68
-  party: Democratic
-  phone: 860-742-28208
-  address: 37 Skinner Hill Rd
+tags: Voter
+caption: Voters/Pamela Adams
+first-name: Pamela
+last-name: Adams
+middle-name: D
+suffix: 
+full-name: Pamela Adams
+gender: F
+dob: 1955-03-01
+age: 68
+party: Democratic
+phone: 860-742-8208
+address: 37 Skinner Hill Rd

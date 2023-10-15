@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1308
-  tags: Voter
-  caption: Voters/Frank Lalashuis Sr
-  first-name: Frank
-  last-name: Lalashuis
-  middle-name: P
-  suffix: undefined
-  full-name: Frank Lalashuis Sr
-  gender: M
-  dob: 1955-01-03
-  age: 68
-  party: Democratic
-  phone: 860-617-79159
-  address: 633 Route 6
+tags: Voter
+caption: Voters/Frank Lalashuis Sr
+first-name: Frank
+last-name: Lalashuis
+middle-name: P
+suffix: 
+full-name: Frank Lalashuis Sr
+gender: M
+dob: 1955-03-01
+age: 68
+party: Democratic
+phone: 860-617-9159
+address: 633 Route 6

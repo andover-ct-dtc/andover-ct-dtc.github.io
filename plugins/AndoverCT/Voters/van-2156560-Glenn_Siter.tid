@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2156560
-  tags: Voter
-  caption: Voters/Glenn Siter
-  first-name: Glenn
-  last-name: Siter
-  middle-name: William
-  suffix: undefined
-  full-name: Glenn Siter
-  gender: M
-  dob: 1965-01-05
-  age: 58
-  party: 
-  phone: 860-512-20450
-  address: 901 East St
+tags: Voter
+caption: Voters/Glenn Siter
+first-name: Glenn
+last-name: Siter
+middle-name: William
+suffix: 
+full-name: Glenn Siter
+gender: M
+dob: 1965-05-01
+age: 58
+party: 
+phone: 860-512-0450
+address: 901 East St

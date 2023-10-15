@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2243274
-  tags: Voter
-  caption: Voters/Bill White
-  first-name: Bill
-  last-name: White
-  middle-name: L
-  suffix: undefined
-  full-name: Bill White
-  gender: M
-  dob: 1968-01-07
-  age: 55
-  party: 
-  phone: 860-477-77944
-  address: 72 Route 87
+tags: Voter
+caption: Voters/Bill White
+first-name: Bill
+last-name: White
+middle-name: L
+suffix: 
+full-name: Bill White
+gender: M
+dob: 1968-07-01
+age: 55
+party: 
+phone: 860-477-7944
+address: 72 Route 87

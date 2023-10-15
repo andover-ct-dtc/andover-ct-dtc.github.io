@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1404
-  tags: Voter
-  caption: Voters/Rosemarie Cordeiro-Aguiar
-  first-name: Rosemarie
-  last-name: Cordeiro-Aguiar
-  middle-name: A
-  suffix: undefined
-  full-name: Rosemarie Cordeiro-Aguiar
-  gender: F
-  dob: 1971-01-02
-  age: 52
-  party: Republican
-  phone: 860-614-44120
-  address: 31 Ridge Rd
+tags: Voter
+caption: Voters/Rosemarie Cordeiro-Aguiar
+first-name: Rosemarie
+last-name: Cordeiro-Aguiar
+middle-name: A
+suffix: 
+full-name: Rosemarie Cordeiro-Aguiar
+gender: F
+dob: 1971-02-01
+age: 52
+party: Republican
+phone: 860-614-4120
+address: 31 Ridge Rd

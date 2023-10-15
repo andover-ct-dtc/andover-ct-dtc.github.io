@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7351020
-  tags: Voter
-  caption: Voters/Stacey Bigley
-  first-name: Stacey
-  last-name: Bigley
-  middle-name: L
-  suffix: undefined
-  full-name: Stacey Bigley
-  gender: F
-  dob: 1986-01-07
-  age: 37
-  party: Democratic
-  phone: 860-281-16280
-  address: 187 B Route 6
+tags: Voter
+caption: Voters/Stacey Bigley
+first-name: Stacey
+last-name: Bigley
+middle-name: L
+suffix: 
+full-name: Stacey Bigley
+gender: F
+dob: 1986-07-01
+age: 37
+party: Democratic
+phone: 860-281-6280
+address: 187 B Route 6

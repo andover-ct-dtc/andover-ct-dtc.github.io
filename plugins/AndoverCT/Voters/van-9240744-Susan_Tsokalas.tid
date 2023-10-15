@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9240744
-  tags: Voter
-  caption: Voters/Susan Tsokalas
-  first-name: Susan
-  last-name: Tsokalas
-  middle-name: Lee
-  suffix: undefined
-  full-name: Susan Tsokalas
-  gender: F
-  dob: 1957-01-07
-  age: 66
-  party: 
-  phone: 860-646-66285
-  address: 893 East St
+tags: Voter
+caption: Voters/Susan Tsokalas
+first-name: Susan
+last-name: Tsokalas
+middle-name: Lee
+suffix: 
+full-name: Susan Tsokalas
+gender: F
+dob: 1957-07-01
+age: 66
+party: 
+phone: 860-646-6285
+address: 893 East St

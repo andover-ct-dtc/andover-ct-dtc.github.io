@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1307
-  tags: Voter
-  caption: Voters/Andreas Xenophontos
-  first-name: Andreas
-  last-name: Xenophontos
-  middle-name: S
-  suffix: undefined
-  full-name: Andreas Xenophontos
-  gender: M
-  dob: 1962-01-10
-  age: 61
-  party: Republican
-  phone: 860-742-28234
-  address: 34 Old Farms Rd
+tags: Voter
+caption: Voters/Andreas Xenophontos
+first-name: Andreas
+last-name: Xenophontos
+middle-name: S
+suffix: 
+full-name: Andreas Xenophontos
+gender: M
+dob: 1962-10-01
+age: 61
+party: Republican
+phone: 860-742-8234
+address: 34 Old Farms Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1036
-  tags: Voter
-  caption: Voters/Kimberly Hawes
-  first-name: Kimberly
-  last-name: Hawes
-  middle-name: A
-  suffix: undefined
-  full-name: Kimberly Hawes
-  gender: F
-  dob: 1958-01-09
-  age: 65
-  party: Democratic
-  phone: 860-742-27091
-  address: 45 School Rd
+tags: Voter
+caption: Voters/Kimberly Hawes
+first-name: Kimberly
+last-name: Hawes
+middle-name: A
+suffix: 
+full-name: Kimberly Hawes
+gender: F
+dob: 1958-09-01
+age: 65
+party: Democratic
+phone: 860-742-7091
+address: 45 School Rd

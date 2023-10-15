@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/783
-  tags: Voter
-  caption: Voters/Dennis Jones
-  first-name: Dennis
-  last-name: Jones
-  middle-name: G
-  suffix: undefined
-  full-name: Dennis Jones
-  gender: M
-  dob: 1953-01-05
-  age: 70
-  party: Democratic
-  phone: 
-  address: 68 School Rd
+tags: Voter
+caption: Voters/Dennis Jones
+first-name: Dennis
+last-name: Jones
+middle-name: G
+suffix: 
+full-name: Dennis Jones
+gender: M
+dob: 1953-05-01
+age: 70
+party: Democratic
+phone: 
+address: 68 School Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/8192519
-  tags: Voter
-  caption: Voters/Caroline Weimann
-  first-name: Caroline
-  last-name: Weimann
-  middle-name: Christine
-  suffix: undefined
-  full-name: Caroline Weimann
-  gender: F
-  dob: 1989-01-08
-  age: 34
-  party: 
-  phone: 860-205-57570
-  address: 330 Hebron Rd
+tags: Voter
+caption: Voters/Caroline Weimann
+first-name: Caroline
+last-name: Weimann
+middle-name: Christine
+suffix: 
+full-name: Caroline Weimann
+gender: F
+dob: 1989-08-01
+age: 34
+party: 
+phone: 860-205-7570
+address: 330 Hebron Rd

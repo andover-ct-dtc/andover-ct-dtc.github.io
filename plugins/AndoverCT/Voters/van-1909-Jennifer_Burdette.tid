@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1909
-  tags: Voter
-  caption: Voters/Jennifer Burdette
-  first-name: Jennifer
-  last-name: Burdette
-  middle-name: Lynn
-  suffix: undefined
-  full-name: Jennifer Burdette
-  gender: F
-  dob: 1971-01-05
-  age: 52
-  party: 
-  phone: 860-617-79873
-  address: 154 Bear Swamp Rd
+tags: Voter
+caption: Voters/Jennifer Burdette
+first-name: Jennifer
+last-name: Burdette
+middle-name: Lynn
+suffix: 
+full-name: Jennifer Burdette
+gender: F
+dob: 1971-05-01
+age: 52
+party: 
+phone: 860-617-9873
+address: 154 Bear Swamp Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/8953114
-  tags: Voter
-  caption: Voters/Melissa Dumas
-  first-name: Melissa
-  last-name: Dumas
-  middle-name: Ann
-  suffix: undefined
-  full-name: Melissa Dumas
-  gender: F
-  dob: 1971-01-07
-  age: 52
-  party: 
-  phone: 860-716-61293
-  address: 329 Route 6 Apt 1
+tags: Voter
+caption: Voters/Melissa Dumas
+first-name: Melissa
+last-name: Dumas
+middle-name: Ann
+suffix: 
+full-name: Melissa Dumas
+gender: F
+dob: 1971-07-01
+age: 52
+party: 
+phone: 860-716-1293
+address: 329 Route 6 Apt 1

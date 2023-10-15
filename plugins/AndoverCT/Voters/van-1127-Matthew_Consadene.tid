@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1127
-  tags: Voter
-  caption: Voters/Matthew Consadene
-  first-name: Matthew
-  last-name: Consadene
-  middle-name: J
-  suffix: undefined
-  full-name: Matthew Consadene
-  gender: M
-  dob: 1964-01-04
-  age: 59
-  party: Republican
-  phone: 860-742-26007
-  address: 79 Windrush Ln
+tags: Voter
+caption: Voters/Matthew Consadene
+first-name: Matthew
+last-name: Consadene
+middle-name: J
+suffix: 
+full-name: Matthew Consadene
+gender: M
+dob: 1964-04-01
+age: 59
+party: Republican
+phone: 860-742-6007
+address: 79 Windrush Ln

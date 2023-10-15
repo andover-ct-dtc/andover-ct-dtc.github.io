@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/864
-  tags: Voter
-  caption: Voters/James Hallisey
-  first-name: James
-  last-name: Hallisey
-  middle-name: J
-  suffix: undefined
-  full-name: James Hallisey
-  gender: M
-  dob: 1955-01-12
-  age: 67
-  party: Democratic
-  phone: 860-478-85631
-  address: 50 Merritt Valley Rd
+tags: Voter
+caption: Voters/James Hallisey
+first-name: James
+last-name: Hallisey
+middle-name: J
+suffix: 
+full-name: James Hallisey
+gender: M
+dob: 1955-12-01
+age: 67
+party: Democratic
+phone: 860-478-5631
+address: 50 Merritt Valley Rd

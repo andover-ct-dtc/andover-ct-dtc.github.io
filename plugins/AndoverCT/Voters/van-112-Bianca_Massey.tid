@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/112
-  tags: Voter
-  caption: Voters/Bianca Massey
-  first-name: Bianca
-  last-name: Massey
-  middle-name: C
-  suffix: undefined
-  full-name: Bianca Massey
-  gender: F
-  dob: 1935-01-03
-  age: 88
-  party: 
-  phone: 860-874-42499
-  address: 254 Route 6
+tags: Voter
+caption: Voters/Bianca Massey
+first-name: Bianca
+last-name: Massey
+middle-name: C
+suffix: 
+full-name: Bianca Massey
+gender: F
+dob: 1935-03-01
+age: 88
+party: 
+phone: 860-874-2499
+address: 254 Route 6

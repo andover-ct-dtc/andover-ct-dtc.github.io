@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7585367
-  tags: Voter
-  caption: Voters/Stephanie Russ
-  first-name: Stephanie
-  last-name: Russ
-  middle-name: Eileen Kuzel
-  suffix: undefined
-  full-name: Stephanie Russ
-  gender: F
-  dob: 1990-01-02
-  age: 33
-  party: Democratic
-  phone: 860-884-40349
-  address: 9 Hebron Rd
+tags: Voter
+caption: Voters/Stephanie Russ
+first-name: Stephanie
+last-name: Russ
+middle-name: Eileen Kuzel
+suffix: 
+full-name: Stephanie Russ
+gender: F
+dob: 1990-02-01
+age: 33
+party: Democratic
+phone: 860-884-0349
+address: 9 Hebron Rd

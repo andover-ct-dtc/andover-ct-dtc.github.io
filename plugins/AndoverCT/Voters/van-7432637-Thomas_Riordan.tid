@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7432637
-  tags: Voter
-  caption: Voters/Thomas Riordan
-  first-name: Thomas
-  last-name: Riordan
-  middle-name: Patrick
-  suffix: undefined
-  full-name: Thomas Riordan
-  gender: M
-  dob: 1960-01-06
-  age: 63
-  party: Republican
-  phone: 203-673-32986
-  address: 164 Hendee Rd
+tags: Voter
+caption: Voters/Thomas Riordan
+first-name: Thomas
+last-name: Riordan
+middle-name: Patrick
+suffix: 
+full-name: Thomas Riordan
+gender: M
+dob: 1960-06-01
+age: 63
+party: Republican
+phone: 203-673-2986
+address: 164 Hendee Rd

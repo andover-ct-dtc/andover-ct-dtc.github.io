@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1025
-  tags: Voter
-  caption: Voters/Stanley Fuger Jr
-  first-name: Stanley
-  last-name: Fuger
-  middle-name: T
-  suffix: undefined
-  full-name: Stanley Fuger Jr
-  gender: M
-  dob: 1950-01-09
-  age: 73
-  party: Democratic
-  phone: 
-  address: 86 Jurovaty Rd
+tags: Voter
+caption: Voters/Stanley Fuger Jr
+first-name: Stanley
+last-name: Fuger
+middle-name: T
+suffix: 
+full-name: Stanley Fuger Jr
+gender: M
+dob: 1950-09-01
+age: 73
+party: Democratic
+phone: 
+address: 86 Jurovaty Rd

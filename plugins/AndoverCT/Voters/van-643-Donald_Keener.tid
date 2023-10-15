@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/643
-  tags: Voter
-  caption: Voters/Donald Keener
-  first-name: Donald
-  last-name: Keener
-  middle-name: L
-  suffix: undefined
-  full-name: Donald Keener
-  gender: M
-  dob: 1953-01-04
-  age: 70
-  party: Democratic
-  phone: 
-  address: 874 East St
+tags: Voter
+caption: Voters/Donald Keener
+first-name: Donald
+last-name: Keener
+middle-name: L
+suffix: 
+full-name: Donald Keener
+gender: M
+dob: 1953-04-01
+age: 70
+party: Democratic
+phone: 
+address: 874 East St

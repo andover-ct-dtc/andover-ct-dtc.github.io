@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9600733
-  tags: Voter
-  caption: Voters/Edward Kaulback
-  first-name: Edward
-  last-name: Kaulback
-  middle-name: Cecil
-  suffix: undefined
-  full-name: Edward Kaulback
-  gender: M
-  dob: 1943-01-06
-  age: 80
-  party: 
-  phone: 860-771-10595
-  address: 405 Route 6
+tags: Voter
+caption: Voters/Edward Kaulback
+first-name: Edward
+last-name: Kaulback
+middle-name: Cecil
+suffix: 
+full-name: Edward Kaulback
+gender: M
+dob: 1943-06-01
+age: 80
+party: 
+phone: 860-771-0595
+address: 405 Route 6

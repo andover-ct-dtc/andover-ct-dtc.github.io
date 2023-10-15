@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/861
-  tags: Voter
-  caption: Voters/Edward Shapiro
-  first-name: Edward
-  last-name: Shapiro
-  middle-name: S
-  suffix: undefined
-  full-name: Edward Shapiro
-  gender: M
-  dob: 1936-01-09
-  age: 87
-  party: Democratic
-  phone: 860-643-30837
-  address: 886 East St
+tags: Voter
+caption: Voters/Edward Shapiro
+first-name: Edward
+last-name: Shapiro
+middle-name: S
+suffix: 
+full-name: Edward Shapiro
+gender: M
+dob: 1936-09-01
+age: 87
+party: Democratic
+phone: 860-643-0837
+address: 886 East St

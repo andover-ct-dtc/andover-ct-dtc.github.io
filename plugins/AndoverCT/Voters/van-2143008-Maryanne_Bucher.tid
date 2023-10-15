@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2143008
-  tags: Voter
-  caption: Voters/Maryanne Bucher
-  first-name: Maryanne
-  last-name: Bucher
-  middle-name: Ernestine
-  suffix: undefined
-  full-name: Maryanne Bucher
-  gender: F
-  dob: 1961-01-04
-  age: 62
-  party: Democratic
-  phone: 860-771-13539
-  address: 157 Wales Rd
+tags: Voter
+caption: Voters/Maryanne Bucher
+first-name: Maryanne
+last-name: Bucher
+middle-name: Ernestine
+suffix: 
+full-name: Maryanne Bucher
+gender: F
+dob: 1961-04-01
+age: 62
+party: Democratic
+phone: 860-771-3539
+address: 157 Wales Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9536299
-  tags: Voter
-  caption: Voters/John Aregood
-  first-name: John
-  last-name: Aregood
-  middle-name: William
-  suffix: undefined
-  full-name: John Aregood
-  gender: M
-  dob: 1964-01-05
-  age: 59
-  party: Democratic
-  phone: 860-327-72243
-  address: 290 Route 6
+tags: Voter
+caption: Voters/John Aregood
+first-name: John
+last-name: Aregood
+middle-name: William
+suffix: 
+full-name: John Aregood
+gender: M
+dob: 1964-05-01
+age: 59
+party: Democratic
+phone: 860-327-2243
+address: 290 Route 6

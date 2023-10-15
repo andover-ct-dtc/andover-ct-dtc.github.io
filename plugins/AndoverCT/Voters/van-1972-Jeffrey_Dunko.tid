@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1972
-  tags: Voter
-  caption: Voters/Jeffrey Dunko
-  first-name: Jeffrey
-  last-name: Dunko
-  middle-name: Allen
-  suffix: undefined
-  full-name: Jeffrey Dunko
-  gender: M
-  dob: 1971-01-09
-  age: 52
-  party: Republican
-  phone: 860-742-29270
-  address: 17 Hickory Hill Dr
+tags: Voter
+caption: Voters/Jeffrey Dunko
+first-name: Jeffrey
+last-name: Dunko
+middle-name: Allen
+suffix: 
+full-name: Jeffrey Dunko
+gender: M
+dob: 1971-09-01
+age: 52
+party: Republican
+phone: 860-742-9270
+address: 17 Hickory Hill Dr

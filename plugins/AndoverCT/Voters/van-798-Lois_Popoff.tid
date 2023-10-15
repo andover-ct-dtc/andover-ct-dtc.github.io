@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/798
-  tags: Voter
-  caption: Voters/Lois Popoff
-  first-name: Lois
-  last-name: Popoff
-  middle-name: S
-  suffix: undefined
-  full-name: Lois Popoff
-  gender: F
-  dob: 1925-01-07
-  age: 98
-  party: Republican
-  phone: 860-742-27717
-  address: 25 Riverside Dr # A-1E
+tags: Voter
+caption: Voters/Lois Popoff
+first-name: Lois
+last-name: Popoff
+middle-name: S
+suffix: 
+full-name: Lois Popoff
+gender: F
+dob: 1925-07-01
+age: 98
+party: Republican
+phone: 860-742-7717
+address: 25 Riverside Dr # A-1E

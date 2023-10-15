@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1978
-  tags: Voter
-  caption: Voters/Edward Chiffer
-  first-name: Edward
-  last-name: Chiffer
-  middle-name: Joseph
-  suffix: undefined
-  full-name: Edward Chiffer
-  gender: M
-  dob: 1950-01-09
-  age: 73
-  party: Republican
-  phone: 203-518-81775
-  address: 450 Lake Rd
+tags: Voter
+caption: Voters/Edward Chiffer
+first-name: Edward
+last-name: Chiffer
+middle-name: Joseph
+suffix: 
+full-name: Edward Chiffer
+gender: M
+dob: 1950-09-01
+age: 73
+party: Republican
+phone: 203-518-1775
+address: 450 Lake Rd

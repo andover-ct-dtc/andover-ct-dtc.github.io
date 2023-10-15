@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9530617
-  tags: Voter
-  caption: Voters/Chad Croxford
-  first-name: Chad
-  last-name: Croxford
-  middle-name: Paul
-  suffix: undefined
-  full-name: Chad Croxford
-  gender: M
-  dob: 2000-01-02
-  age: 23
-  party: 
-  phone: 860-841-13563
-  address: 171 Hebron Rd
+tags: Voter
+caption: Voters/Chad Croxford
+first-name: Chad
+last-name: Croxford
+middle-name: Paul
+suffix: 
+full-name: Chad Croxford
+gender: M
+dob: 2000-02-01
+age: 23
+party: 
+phone: 860-841-3563
+address: 171 Hebron Rd

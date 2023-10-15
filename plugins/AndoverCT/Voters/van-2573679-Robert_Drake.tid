@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2573679
-  tags: Voter
-  caption: Voters/Robert Drake
-  first-name: Robert
-  last-name: Drake
-  middle-name: L
-  suffix: undefined
-  full-name: Robert Drake
-  gender: M
-  dob: 1966-01-02
-  age: 57
-  party: Democratic
-  phone: 860-878-87015
-  address: 740 East St
+tags: Voter
+caption: Voters/Robert Drake
+first-name: Robert
+last-name: Drake
+middle-name: L
+suffix: 
+full-name: Robert Drake
+gender: M
+dob: 1966-02-01
+age: 57
+party: Democratic
+phone: 860-878-7015
+address: 740 East St

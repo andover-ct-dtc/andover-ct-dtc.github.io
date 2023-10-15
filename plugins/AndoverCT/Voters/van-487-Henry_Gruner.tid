@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/487
-  tags: Voter
-  caption: Voters/Henry Gruner
-  first-name: Henry
-  last-name: Gruner
-  middle-name: J
-  suffix: undefined
-  full-name: Henry Gruner
-  gender: F
-  dob: 1957-01-12
-  age: 65
-  party: Democratic
-  phone: 
-  address: 60 Townsend Rd
+tags: Voter
+caption: Voters/Henry Gruner
+first-name: Henry
+last-name: Gruner
+middle-name: J
+suffix: 
+full-name: Henry Gruner
+gender: F
+dob: 1957-12-01
+age: 65
+party: Democratic
+phone: 
+address: 60 Townsend Rd

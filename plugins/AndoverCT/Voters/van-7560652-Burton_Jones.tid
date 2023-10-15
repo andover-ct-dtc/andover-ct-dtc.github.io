@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7560652
-  tags: Voter
-  caption: Voters/Burton Jones
-  first-name: Burton
-  last-name: Jones
-  middle-name: Lewis
-  suffix: undefined
-  full-name: Burton Jones
-  gender: M
-  dob: 1978-01-02
-  age: 45
-  party: Republican
-  phone: 860-709-97737
-  address: 326 Lake Rd
+tags: Voter
+caption: Voters/Burton Jones
+first-name: Burton
+last-name: Jones
+middle-name: Lewis
+suffix: 
+full-name: Burton Jones
+gender: M
+dob: 1978-02-01
+age: 45
+party: Republican
+phone: 860-709-7737
+address: 326 Lake Rd

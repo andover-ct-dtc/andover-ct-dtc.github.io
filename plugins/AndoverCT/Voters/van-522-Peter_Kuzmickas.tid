@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/522
-  tags: Voter
-  caption: Voters/Peter Kuzmickas
-  first-name: Peter
-  last-name: Kuzmickas
-  middle-name: A
-  suffix: undefined
-  full-name: Peter Kuzmickas
-  gender: M
-  dob: 1947-01-06
-  age: 76
-  party: Republican
-  phone: 860-742-29107
-  address: 10 Cider Mill Rd
+tags: Voter
+caption: Voters/Peter Kuzmickas
+first-name: Peter
+last-name: Kuzmickas
+middle-name: A
+suffix: 
+full-name: Peter Kuzmickas
+gender: M
+dob: 1947-06-01
+age: 76
+party: Republican
+phone: 860-742-9107
+address: 10 Cider Mill Rd

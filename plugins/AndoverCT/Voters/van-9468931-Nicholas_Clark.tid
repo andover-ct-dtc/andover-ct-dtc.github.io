@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9468931
-  tags: Voter
-  caption: Voters/Nicholas Clark
-  first-name: Nicholas
-  last-name: Clark
-  middle-name: Robert
-  suffix: undefined
-  full-name: Nicholas Clark
-  gender: M
-  dob: 1989-01-12
-  age: 33
-  party: Democratic
-  phone: 315-481-10723
-  address: 33 Lake Rd
+tags: Voter
+caption: Voters/Nicholas Clark
+first-name: Nicholas
+last-name: Clark
+middle-name: Robert
+suffix: 
+full-name: Nicholas Clark
+gender: M
+dob: 1989-12-01
+age: 33
+party: Democratic
+phone: 315-481-0723
+address: 33 Lake Rd

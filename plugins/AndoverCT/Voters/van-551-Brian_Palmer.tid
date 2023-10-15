@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/551
-  tags: Voter
-  caption: Voters/Brian Palmer
-  first-name: Brian
-  last-name: Palmer
-  middle-name: S
-  suffix: undefined
-  full-name: Brian Palmer
-  gender: M
-  dob: 1968-01-03
-  age: 55
-  party: 
-  phone: 860-742-20576
-  address: 52 Wales Rd
+tags: Voter
+caption: Voters/Brian Palmer
+first-name: Brian
+last-name: Palmer
+middle-name: S
+suffix: 
+full-name: Brian Palmer
+gender: M
+dob: 1968-03-01
+age: 55
+party: 
+phone: 860-742-0576
+address: 52 Wales Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1106
-  tags: Voter
-  caption: Voters/Karen Madore
-  first-name: Karen
-  last-name: Madore
-  middle-name: M
-  suffix: undefined
-  full-name: Karen Madore
-  gender: F
-  dob: 1965-01-07
-  age: 58
-  party: Republican
-  phone: 413-822-27174
-  address: 22 Birch Dr
+tags: Voter
+caption: Voters/Karen Madore
+first-name: Karen
+last-name: Madore
+middle-name: M
+suffix: 
+full-name: Karen Madore
+gender: F
+dob: 1965-07-01
+age: 58
+party: Republican
+phone: 413-822-7174
+address: 22 Birch Dr

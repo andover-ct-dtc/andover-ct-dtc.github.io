@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7059181
-  tags: Voter
-  caption: Voters/Adam Beaucage
-  first-name: Adam
-  last-name: Beaucage
-  middle-name: Woodrow
-  suffix: undefined
-  full-name: Adam Beaucage
-  gender: M
-  dob: 1996-01-11
-  age: 26
-  party: Republican
-  phone: 860-458-89423
-  address: 61 Pine Ridge Dr
+tags: Voter
+caption: Voters/Adam Beaucage
+first-name: Adam
+last-name: Beaucage
+middle-name: Woodrow
+suffix: 
+full-name: Adam Beaucage
+gender: M
+dob: 1996-11-01
+age: 26
+party: Republican
+phone: 860-458-9423
+address: 61 Pine Ridge Dr

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2015
-  tags: Voter
-  caption: Voters/Mary Kirkpatrick
-  first-name: Mary
-  last-name: Kirkpatrick
-  middle-name: Ruth
-  suffix: undefined
-  full-name: Mary Kirkpatrick
-  gender: F
-  dob: 1953-01-05
-  age: 70
-  party: Republican
-  phone: 860-205-54617
-  address: 53 School Rd
+tags: Voter
+caption: Voters/Mary Kirkpatrick
+first-name: Mary
+last-name: Kirkpatrick
+middle-name: Ruth
+suffix: 
+full-name: Mary Kirkpatrick
+gender: F
+dob: 1953-05-01
+age: 70
+party: Republican
+phone: 860-205-4617
+address: 53 School Rd

@@ -1,5 +1,5 @@
 created: 20231011031711491
-modified: 20231011031754137
+modified: 20231015003836327
 tags: $:/tags/ViewTemplate
 title: $:/_/adtc/templates/address
 type: text/vnd.tiddlywiki
@@ -8,5 +8,14 @@ type: text/vnd.tiddlywiki
 
 {{!!address}}<br/>
 {{!!city}}, {{!!state}} {{!!zip5}}-{{!!zip4}}
+
+<a href={{{ [{!!lat}] [{!!long}] +[join[,]] +[addprefix[https://www.google.com/maps/search/?api=1&query=]] }}}  title={{{ [{!!lat}] [[°, ]] [{!!long}] [[°]] +[join[]] }}}>Map</a>
+
+!!! Residents
+<ul class="residents">
+<$list filter="[all[shadows]tag[Voter]address{!!address}]">
+  <li><$link>{{!!full-name}}</$link></li>
+</$list>
+</ul>
 
 </$list>

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/611
-  tags: Voter
-  caption: Voters/James Wells
-  first-name: James
-  last-name: Wells
-  middle-name: Phillips
-  suffix: undefined
-  full-name: James Wells
-  gender: M
-  dob: 1957-07-01
-  age: 66
-  party: Republican
-  phone: 860-742-28857
-  address: 3 W Street Ext
+tags: Voter
+caption: Voters/James Wells
+first-name: James
+last-name: Wells
+middle-name: Phillips
+suffix: 
+full-name: James Wells
+gender: M
+dob: 1957-01-07
+age: 66
+party: Republican
+phone: 860-742-8857
+address: 3 W Street Ext

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/968
-  tags: Voter
-  caption: Voters/Dennis Potocik
-  first-name: Dennis
-  last-name: Potocik
-  middle-name: J
-  suffix: undefined
-  full-name: Dennis Potocik
-  gender: M
-  dob: 1945-10-01
-  age: 78
-  party: Democratic
-  phone: 860-402-23096
-  address: 6 Lindholms Cor
+tags: Voter
+caption: Voters/Dennis Potocik
+first-name: Dennis
+last-name: Potocik
+middle-name: J
+suffix: 
+full-name: Dennis Potocik
+gender: M
+dob: 1945-01-10
+age: 78
+party: Democratic
+phone: 860-402-3096
+address: 6 Lindholms Cor

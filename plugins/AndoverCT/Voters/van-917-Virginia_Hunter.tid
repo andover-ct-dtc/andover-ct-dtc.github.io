@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/917
-  tags: Voter
-  caption: Voters/Virginia Hunter
-  first-name: Virginia
-  last-name: Hunter
-  middle-name: L
-  suffix: undefined
-  full-name: Virginia Hunter
-  gender: F
-  dob: 1953-01-10
-  age: 70
-  party: Democratic
-  phone: 
-  address: 18 Aspinall Dr
+tags: Voter
+caption: Voters/Virginia Hunter
+first-name: Virginia
+last-name: Hunter
+middle-name: L
+suffix: 
+full-name: Virginia Hunter
+gender: F
+dob: 1953-10-01
+age: 70
+party: Democratic
+phone: 
+address: 18 Aspinall Dr

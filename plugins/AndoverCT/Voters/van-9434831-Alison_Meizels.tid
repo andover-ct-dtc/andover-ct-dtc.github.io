@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9434831
-  tags: Voter
-  caption: Voters/Alison Meizels
-  first-name: Alison
-  last-name: Meizels
-  middle-name: Paige
-  suffix: undefined
-  full-name: Alison Meizels
-  gender: F
-  dob: 2001-01-09
-  age: 22
-  party: Democratic
-  phone: 
-  address: 73 Times Farm Rd
+tags: Voter
+caption: Voters/Alison Meizels
+first-name: Alison
+last-name: Meizels
+middle-name: Paige
+suffix: 
+full-name: Alison Meizels
+gender: F
+dob: 2001-09-01
+age: 22
+party: Democratic
+phone: 
+address: 73 Times Farm Rd

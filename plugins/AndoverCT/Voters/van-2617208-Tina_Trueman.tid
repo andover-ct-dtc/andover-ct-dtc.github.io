@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2617208
-  tags: Voter
-  caption: Voters/Tina Trueman
-  first-name: Tina
-  last-name: Trueman
-  middle-name: M
-  suffix: undefined
-  full-name: Tina Trueman
-  gender: F
-  dob: 1970-01-02
-  age: 53
-  party: 
-  phone: 860-874-42222
-  address: 31 Birch Dr
+tags: Voter
+caption: Voters/Tina Trueman
+first-name: Tina
+last-name: Trueman
+middle-name: M
+suffix: 
+full-name: Tina Trueman
+gender: F
+dob: 1970-02-01
+age: 53
+party: 
+phone: 860-874-2222
+address: 31 Birch Dr

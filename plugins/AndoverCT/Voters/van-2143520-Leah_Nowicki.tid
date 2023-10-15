@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2143520
-  tags: Voter
-  caption: Voters/Leah Nowicki
-  first-name: Leah
-  last-name: Nowicki
-  middle-name: M
-  suffix: undefined
-  full-name: Leah Nowicki
-  gender: F
-  dob: 1959-25-01
-  age: 64
-  party: 
-  phone: 860-930-00822
-  address: 29 Birch Dr
+tags: Voter
+caption: Voters/Leah Nowicki
+first-name: Leah
+last-name: Nowicki
+middle-name: M
+suffix: 
+full-name: Leah Nowicki
+gender: F
+dob: 1959-01-25
+age: 64
+party: 
+phone: 860-930-0822
+address: 29 Birch Dr

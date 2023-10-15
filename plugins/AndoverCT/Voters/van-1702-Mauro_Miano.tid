@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1702
-  tags: Voter
-  caption: Voters/Mauro Miano
-  first-name: Mauro
-  last-name: Miano
-  middle-name: Sebastiano
-  suffix: undefined
-  full-name: Mauro Miano
-  gender: M
-  dob: 1971-01-05
-  age: 52
-  party: 
-  phone: 860-857-71076
-  address: 280 Gilead Rd
+tags: Voter
+caption: Voters/Mauro Miano
+first-name: Mauro
+last-name: Miano
+middle-name: Sebastiano
+suffix: 
+full-name: Mauro Miano
+gender: M
+dob: 1971-05-01
+age: 52
+party: 
+phone: 860-857-1076
+address: 280 Gilead Rd

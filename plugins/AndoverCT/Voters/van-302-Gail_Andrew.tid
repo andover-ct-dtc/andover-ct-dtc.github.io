@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/302
-  tags: Voter
-  caption: Voters/Gail Andrew
-  first-name: Gail
-  last-name: Andrew
-  middle-name: B
-  suffix: undefined
-  full-name: Gail Andrew
-  gender: F
-  dob: 1952-01-03
-  age: 71
-  party: Republican
-  phone: 860-742-28536
-  address: 107 Wales Rd
+tags: Voter
+caption: Voters/Gail Andrew
+first-name: Gail
+last-name: Andrew
+middle-name: B
+suffix: 
+full-name: Gail Andrew
+gender: F
+dob: 1952-03-01
+age: 71
+party: Republican
+phone: 860-742-8536
+address: 107 Wales Rd

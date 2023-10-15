@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1217
-  tags: Voter
-  caption: Voters/Donald Fitting
-  first-name: Donald
-  last-name: Fitting
-  middle-name: J
-  suffix: undefined
-  full-name: Donald Fitting
-  gender: M
-  dob: 1960-01-11
-  age: 62
-  party: Democratic
-  phone: 860-841-19857
-  address: 334 Hebron Rd
+tags: Voter
+caption: Voters/Donald Fitting
+first-name: Donald
+last-name: Fitting
+middle-name: J
+suffix: 
+full-name: Donald Fitting
+gender: M
+dob: 1960-11-01
+age: 62
+party: Democratic
+phone: 860-841-9857
+address: 334 Hebron Rd

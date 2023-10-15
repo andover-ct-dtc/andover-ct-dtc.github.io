@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2867211
-  tags: Voter
-  caption: Voters/Adam Delventhal
-  first-name: Adam
-  last-name: Delventhal
-  middle-name: J
-  suffix: undefined
-  full-name: Adam Delventhal
-  gender: M
-  dob: 1993-01-04
-  age: 30
-  party: Republican
-  phone: 860-759-99273
-  address: 128 Wheeling Rd
+tags: Voter
+caption: Voters/Adam Delventhal
+first-name: Adam
+last-name: Delventhal
+middle-name: J
+suffix: 
+full-name: Adam Delventhal
+gender: M
+dob: 1993-04-01
+age: 30
+party: Republican
+phone: 860-759-9273
+address: 128 Wheeling Rd

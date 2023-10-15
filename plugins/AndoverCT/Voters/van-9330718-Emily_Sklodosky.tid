@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9330718
-  tags: Voter
-  caption: Voters/Emily Sklodosky
-  first-name: Emily
-  last-name: Sklodosky
-  middle-name: Rose
-  suffix: undefined
-  full-name: Emily Sklodosky
-  gender: F
-  dob: 2002-01-08
-  age: 21
-  party: Democratic
-  phone: 860-771-13755
-  address: 146 Long Hill Rd
+tags: Voter
+caption: Voters/Emily Sklodosky
+first-name: Emily
+last-name: Sklodosky
+middle-name: Rose
+suffix: 
+full-name: Emily Sklodosky
+gender: F
+dob: 2002-08-01
+age: 21
+party: Democratic
+phone: 860-771-3755
+address: 146 Long Hill Rd

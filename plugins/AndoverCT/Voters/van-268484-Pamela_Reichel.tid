@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/268484
-  tags: Voter
-  caption: Voters/Pamela Reichel
-  first-name: Pamela
-  last-name: Reichel
-  middle-name: Sue
-  suffix: undefined
-  full-name: Pamela Reichel
-  gender: F
-  dob: 1960-01-03
-  age: 63
-  party: Democratic
-  phone: 
-  address: 902 East St
+tags: Voter
+caption: Voters/Pamela Reichel
+first-name: Pamela
+last-name: Reichel
+middle-name: Sue
+suffix: 
+full-name: Pamela Reichel
+gender: F
+dob: 1960-03-01
+age: 63
+party: Democratic
+phone: 
+address: 902 East St

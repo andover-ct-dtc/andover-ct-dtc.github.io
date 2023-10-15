@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/8789263
-  tags: Voter
-  caption: Voters/Kelsey Godwin
-  first-name: Kelsey
-  last-name: Godwin
-  middle-name: Layne
-  suffix: undefined
-  full-name: Kelsey Godwin
-  gender: F
-  dob: 1992-01-12
-  age: 30
-  party: Democratic
-  phone: 860-574-40483
-  address: 112 Hendee Rd
+tags: Voter
+caption: Voters/Kelsey Godwin
+first-name: Kelsey
+last-name: Godwin
+middle-name: Layne
+suffix: 
+full-name: Kelsey Godwin
+gender: F
+dob: 1992-12-01
+age: 30
+party: Democratic
+phone: 860-574-0483
+address: 112 Hendee Rd

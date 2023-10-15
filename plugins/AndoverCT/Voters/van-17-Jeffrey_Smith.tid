@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/17
-  tags: Voter
-  caption: Voters/Jeffrey Smith
-  first-name: Jeffrey
-  last-name: Smith
-  middle-name: C
-  suffix: undefined
-  full-name: Jeffrey Smith
-  gender: M
-  dob: 1956-01-03
-  age: 67
-  party: 
-  phone: 860-643-38538
-  address: 37 Pine Ridge Dr
+tags: Voter
+caption: Voters/Jeffrey Smith
+first-name: Jeffrey
+last-name: Smith
+middle-name: C
+suffix: 
+full-name: Jeffrey Smith
+gender: M
+dob: 1956-03-01
+age: 67
+party: 
+phone: 860-643-8538
+address: 37 Pine Ridge Dr

@@ -8,3 +8,6 @@ city: Andover
 state: CT
 zip5: 06232
 zip4: 1337
+lat: 41.741611
+long: -72.333046
+alt: 0

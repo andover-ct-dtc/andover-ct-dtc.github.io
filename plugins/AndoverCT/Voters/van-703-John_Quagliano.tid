@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/703
-  tags: Voter
-  caption: Voters/John Quagliano
-  first-name: John
-  last-name: Quagliano
-  middle-name: V
-  suffix: undefined
-  full-name: John Quagliano
-  gender: M
-  dob: 1953-01-07
-  age: 70
-  party: Republican
-  phone: 860-742-21207
-  address: 315 Hebron Rd
+tags: Voter
+caption: Voters/John Quagliano
+first-name: John
+last-name: Quagliano
+middle-name: V
+suffix: 
+full-name: John Quagliano
+gender: M
+dob: 1953-07-01
+age: 70
+party: Republican
+phone: 860-742-1207
+address: 315 Hebron Rd

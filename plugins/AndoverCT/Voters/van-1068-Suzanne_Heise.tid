@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1068
-  tags: Voter
-  caption: Voters/Suzanne Heise
-  first-name: Suzanne
-  last-name: Heise
-  middle-name: L
-  suffix: undefined
-  full-name: Suzanne Heise
-  gender: F
-  dob: 1951-22-01
-  age: 72
-  party: Democratic
-  phone: 860-742-29104
-  address: 406 Lake Rd
+tags: Voter
+caption: Voters/Suzanne Heise
+first-name: Suzanne
+last-name: Heise
+middle-name: L
+suffix: 
+full-name: Suzanne Heise
+gender: F
+dob: 1951-01-22
+age: 72
+party: Democratic
+phone: 860-742-9104
+address: 406 Lake Rd

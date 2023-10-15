@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1285
-  tags: Voter
-  caption: Voters/Glenwood Campen
-  first-name: Glenwood
-  last-name: Campen
-  middle-name: B
-  suffix: undefined
-  full-name: Glenwood Campen
-  gender: M
-  dob: 1961-01-07
-  age: 62
-  party: 
-  phone: 860-208-80295
-  address: 13 Birch Dr
+tags: Voter
+caption: Voters/Glenwood Campen
+first-name: Glenwood
+last-name: Campen
+middle-name: B
+suffix: 
+full-name: Glenwood Campen
+gender: M
+dob: 1961-07-01
+age: 62
+party: 
+phone: 860-208-0295
+address: 13 Birch Dr

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2355197
-  tags: Voter
-  caption: Voters/John Niewola
-  first-name: John
-  last-name: Niewola
-  middle-name: William
-  suffix: undefined
-  full-name: John Niewola
-  gender: M
-  dob: 1929-01-11
-  age: 93
-  party: 
-  phone: 860-857-70971
-  address: 25 Riverside Dr Apt 2D
+tags: Voter
+caption: Voters/John Niewola
+first-name: John
+last-name: Niewola
+middle-name: William
+suffix: 
+full-name: John Niewola
+gender: M
+dob: 1929-11-01
+age: 93
+party: 
+phone: 860-857-0971
+address: 25 Riverside Dr Apt 2D

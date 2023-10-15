@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/541
-  tags: Voter
-  caption: Voters/Janice Bazzani
-  first-name: Janice
-  last-name: Bazzani
-  middle-name: C
-  suffix: undefined
-  full-name: Janice Bazzani
-  gender: F
-  dob: 1952-01-07
-  age: 71
-  party: Democratic
-  phone: 860-742-21088
-  address: 322 Lake Rd
+tags: Voter
+caption: Voters/Janice Bazzani
+first-name: Janice
+last-name: Bazzani
+middle-name: C
+suffix: 
+full-name: Janice Bazzani
+gender: F
+dob: 1952-07-01
+age: 71
+party: Democratic
+phone: 860-742-1088
+address: 322 Lake Rd

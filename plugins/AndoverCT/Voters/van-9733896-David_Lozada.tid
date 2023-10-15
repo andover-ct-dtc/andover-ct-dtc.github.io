@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9733896
-  tags: Voter
-  caption: Voters/David Lozada
-  first-name: David
-  last-name: Lozada
-  middle-name: Michael
-  suffix: undefined
-  full-name: David Lozada
-  gender: M
-  dob: 1991-01-06
-  age: 32
-  party: Republican
-  phone: 860-550-00866
-  address: 62 Shoddy Mill Rd
+tags: Voter
+caption: Voters/David Lozada
+first-name: David
+last-name: Lozada
+middle-name: Michael
+suffix: 
+full-name: David Lozada
+gender: M
+dob: 1991-06-01
+age: 32
+party: Republican
+phone: 860-550-0866
+address: 62 Shoddy Mill Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2020046
-  tags: Voter
-  caption: Voters/James Moore II
-  first-name: James
-  last-name: Moore
-  middle-name: C
-  suffix: undefined
-  full-name: James Moore II
-  gender: M
-  dob: 1968-01-10
-  age: 55
-  party: Republican
-  phone: 860-428-84331
-  address: 52 Stanley Dr
+tags: Voter
+caption: Voters/James Moore II
+first-name: James
+last-name: Moore
+middle-name: C
+suffix: 
+full-name: James Moore II
+gender: M
+dob: 1968-10-01
+age: 55
+party: Republican
+phone: 860-428-4331
+address: 52 Stanley Dr

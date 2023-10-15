@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9330700
-  tags: Voter
-  caption: Voters/Mia Rhodes
-  first-name: Mia
-  last-name: Rhodes
-  middle-name: Kate
-  suffix: undefined
-  full-name: Mia Rhodes
-  gender: F
-  dob: 2001-01-10
-  age: 22
-  party: Democratic
-  phone: 
-  address: 26 Ridge Rd
+tags: Voter
+caption: Voters/Mia Rhodes
+first-name: Mia
+last-name: Rhodes
+middle-name: Kate
+suffix: 
+full-name: Mia Rhodes
+gender: F
+dob: 2001-10-01
+age: 22
+party: Democratic
+phone: 
+address: 26 Ridge Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1340
-  tags: Voter
-  caption: Voters/Jonathan Wright
-  first-name: Jonathan
-  last-name: Wright
-  middle-name: K
-  suffix: undefined
-  full-name: Jonathan Wright
-  gender: M
-  dob: 1957-01-10
-  age: 66
-  party: 
-  phone: 860-742-27289
-  address: 262 Route 6
+tags: Voter
+caption: Voters/Jonathan Wright
+first-name: Jonathan
+last-name: Wright
+middle-name: K
+suffix: 
+full-name: Jonathan Wright
+gender: M
+dob: 1957-10-01
+age: 66
+party: 
+phone: 860-742-7289
+address: 262 Route 6

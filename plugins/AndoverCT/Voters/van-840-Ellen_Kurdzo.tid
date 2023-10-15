@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/840
-  tags: Voter
-  caption: Voters/Ellen Kurdzo
-  first-name: Ellen
-  last-name: Kurdzo
-  middle-name: M
-  suffix: undefined
-  full-name: Ellen Kurdzo
-  gender: F
-  dob: 1957-01-07
-  age: 66
-  party: Democratic
-  phone: 860-742-27651
-  address: 113 Boston Hill Rd
+tags: Voter
+caption: Voters/Ellen Kurdzo
+first-name: Ellen
+last-name: Kurdzo
+middle-name: M
+suffix: 
+full-name: Ellen Kurdzo
+gender: F
+dob: 1957-07-01
+age: 66
+party: Democratic
+phone: 860-742-7651
+address: 113 Boston Hill Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1213
-  tags: Voter
-  caption: Voters/Fiona Golemba
-  first-name: Fiona
-  last-name: Golemba
-  middle-name: L
-  suffix: undefined
-  full-name: Fiona Golemba
-  gender: F
-  dob: 1967-01-08
-  age: 56
-  party: 
-  phone: 860-508-89895
-  address: 3 Old Farms Rd
+tags: Voter
+caption: Voters/Fiona Golemba
+first-name: Fiona
+last-name: Golemba
+middle-name: L
+suffix: 
+full-name: Fiona Golemba
+gender: F
+dob: 1967-08-01
+age: 56
+party: 
+phone: 860-508-9895
+address: 3 Old Farms Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1985207
-  tags: Voter
-  caption: Voters/Andrea Smith
-  first-name: Andrea
-  last-name: Smith
-  middle-name: H
-  suffix: undefined
-  full-name: Andrea Smith
-  gender: F
-  dob: 1966-01-04
-  age: 57
-  party: 
-  phone: 860-742-27035
-  address: 86 Windrush Ln
+tags: Voter
+caption: Voters/Andrea Smith
+first-name: Andrea
+last-name: Smith
+middle-name: H
+suffix: 
+full-name: Andrea Smith
+gender: F
+dob: 1966-04-01
+age: 57
+party: 
+phone: 860-742-7035
+address: 86 Windrush Ln

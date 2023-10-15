@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7373738
-  tags: Voter
-  caption: Voters/Alisha Albee
-  first-name: Alisha
-  last-name: Albee
-  middle-name: Ann
-  suffix: undefined
-  full-name: Alisha Albee
-  gender: F
-  dob: 1997-13-01
-  age: 26
-  party: 
-  phone: 860-462-28549
-  address: 215 Route 6
+tags: Voter
+caption: Voters/Alisha Albee
+first-name: Alisha
+last-name: Albee
+middle-name: Ann
+suffix: 
+full-name: Alisha Albee
+gender: F
+dob: 1997-01-13
+age: 26
+party: 
+phone: 860-462-8549
+address: 215 Route 6

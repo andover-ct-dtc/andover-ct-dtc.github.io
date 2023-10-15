@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7488628
-  tags: Voter
-  caption: Voters/Michael Chemerka
-  first-name: Michael
-  last-name: Chemerka
-  middle-name: T
-  suffix: undefined
-  full-name: Michael Chemerka
-  gender: M
-  dob: 1960-30-01
-  age: 63
-  party: 
-  phone: 
-  address: 177 Hebron Rd
+tags: Voter
+caption: Voters/Michael Chemerka
+first-name: Michael
+last-name: Chemerka
+middle-name: T
+suffix: 
+full-name: Michael Chemerka
+gender: M
+dob: 1960-01-30
+age: 63
+party: 
+phone: 
+address: 177 Hebron Rd

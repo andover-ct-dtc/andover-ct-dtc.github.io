@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2398352
-  tags: Voter
-  caption: Voters/Bernd Knochenhauer
-  first-name: Bernd
-  last-name: Knochenhauer
-  middle-name: Robert
-  suffix: undefined
-  full-name: Bernd Knochenhauer
-  gender: M
-  dob: 1956-01-03
-  age: 67
-  party: Republican
-  phone: 860-810-07768
-  address: 60 Jurovaty Rd
+tags: Voter
+caption: Voters/Bernd Knochenhauer
+first-name: Bernd
+last-name: Knochenhauer
+middle-name: Robert
+suffix: 
+full-name: Bernd Knochenhauer
+gender: M
+dob: 1956-03-01
+age: 67
+party: Republican
+phone: 860-810-7768
+address: 60 Jurovaty Rd

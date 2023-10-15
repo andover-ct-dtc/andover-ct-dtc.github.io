@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/8192522
-  tags: Voter
-  caption: Voters/Paul Burdette
-  first-name: Paul
-  last-name: Burdette
-  middle-name: Brian
-  suffix: undefined
-  full-name: Paul Burdette
-  gender: M
-  dob: 1968-01-04
-  age: 55
-  party: Republican
-  phone: 770-235-58827
-  address: 154 Bear Swamp Rd
+tags: Voter
+caption: Voters/Paul Burdette
+first-name: Paul
+last-name: Burdette
+middle-name: Brian
+suffix: 
+full-name: Paul Burdette
+gender: M
+dob: 1968-04-01
+age: 55
+party: Republican
+phone: 770-235-8827
+address: 154 Bear Swamp Rd

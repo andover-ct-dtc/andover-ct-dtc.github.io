@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/723400
-  tags: Voter
-  caption: Voters/Jody Gross
-  first-name: Jody
-  last-name: Gross
-  middle-name: R
-  suffix: undefined
-  full-name: Jody Gross
-  gender: M
-  dob: 1972-01-02
-  age: 51
-  party: Republican
-  phone: 860-512-20122
-  address: 18 Dogwood Dr
+tags: Voter
+caption: Voters/Jody Gross
+first-name: Jody
+last-name: Gross
+middle-name: R
+suffix: 
+full-name: Jody Gross
+gender: M
+dob: 1972-02-01
+age: 51
+party: Republican
+phone: 860-512-0122
+address: 18 Dogwood Dr

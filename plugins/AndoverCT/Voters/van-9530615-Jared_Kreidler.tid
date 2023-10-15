@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9530615
-  tags: Voter
-  caption: Voters/Jared Kreidler
-  first-name: Jared
-  last-name: Kreidler
-  middle-name: D
-  suffix: undefined
-  full-name: Jared Kreidler
-  gender: M
-  dob: 2002-01-09
-  age: 21
-  party: 
-  phone: 860-324-47033
-  address: 17 Jurovaty Rd
+tags: Voter
+caption: Voters/Jared Kreidler
+first-name: Jared
+last-name: Kreidler
+middle-name: D
+suffix: 
+full-name: Jared Kreidler
+gender: M
+dob: 2002-09-01
+age: 21
+party: 
+phone: 860-324-7033
+address: 17 Jurovaty Rd

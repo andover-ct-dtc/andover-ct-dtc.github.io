@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/6194076
-  tags: Voter
-  caption: Voters/Timothy Flynn
-  first-name: Timothy
-  last-name: Flynn
-  middle-name: D
-  suffix: undefined
-  full-name: Timothy Flynn
-  gender: M
-  dob: 1962-30-01
-  age: 61
-  party: Republican
-  phone: 860-498-81131
-  address: 15 Hickory Hill Dr
+tags: Voter
+caption: Voters/Timothy Flynn
+first-name: Timothy
+last-name: Flynn
+middle-name: D
+suffix: 
+full-name: Timothy Flynn
+gender: M
+dob: 1962-01-30
+age: 61
+party: Republican
+phone: 860-498-1131
+address: 15 Hickory Hill Dr

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1701
-  tags: Voter
-  caption: Voters/John Nichols
-  first-name: John
-  last-name: Nichols
-  middle-name: Peter
-  suffix: undefined
-  full-name: John Nichols
-  gender: M
-  dob: 1962-01-12
-  age: 60
-  party: Republican
-  phone: 860-209-99924
-  address: 312 Lake Rd
+tags: Voter
+caption: Voters/John Nichols
+first-name: John
+last-name: Nichols
+middle-name: Peter
+suffix: 
+full-name: John Nichols
+gender: M
+dob: 1962-12-01
+age: 60
+party: Republican
+phone: 860-209-9924
+address: 312 Lake Rd

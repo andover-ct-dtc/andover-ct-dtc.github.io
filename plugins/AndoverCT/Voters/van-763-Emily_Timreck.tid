@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/763
-  tags: Voter
-  caption: Voters/Emily Timreck
-  first-name: Emily
-  last-name: Timreck
-  middle-name: K
-  suffix: undefined
-  full-name: Emily Timreck
-  gender: F
-  dob: 1956-01-07
-  age: 67
-  party: 
-  phone: 860-742-29952
-  address: 29 Lakeside Dr
+tags: Voter
+caption: Voters/Emily Timreck
+first-name: Emily
+last-name: Timreck
+middle-name: K
+suffix: 
+full-name: Emily Timreck
+gender: F
+dob: 1956-07-01
+age: 67
+party: 
+phone: 860-742-9952
+address: 29 Lakeside Dr

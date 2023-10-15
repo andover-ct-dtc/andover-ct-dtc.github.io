@@ -4,6 +4,7 @@ first-name: Kim
 last-name: Person
 modified: 20230923003043451
 party: Independent
+revision: 0
 tags: Person
 title: Kim Person
 type: text/vnd.tiddlywiki

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/304
-  tags: Voter
-  caption: Voters/Linda Fish
-  first-name: Linda
-  last-name: Fish
-  middle-name: H
-  suffix: undefined
-  full-name: Linda Fish
-  gender: F
-  dob: 1950-01-11
-  age: 72
-  party: Republican
-  phone: 860-742-28984
-  address: 111 Townsend Rd
+tags: Voter
+caption: Voters/Linda Fish
+first-name: Linda
+last-name: Fish
+middle-name: H
+suffix: 
+full-name: Linda Fish
+gender: F
+dob: 1950-11-01
+age: 72
+party: Republican
+phone: 860-742-8984
+address: 111 Townsend Rd

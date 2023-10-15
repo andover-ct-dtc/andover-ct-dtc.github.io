@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1004
-  tags: Voter
-  caption: Voters/Thomas Kerekes
-  first-name: Thomas
-  last-name: Kerekes
-  middle-name: S
-  suffix: undefined
-  full-name: Thomas Kerekes
-  gender: M
-  dob: 1957-01-04
-  age: 66
-  party: 
-  phone: 860-208-87945
-  address: 15 Parker Bridge Rd
+tags: Voter
+caption: Voters/Thomas Kerekes
+first-name: Thomas
+last-name: Kerekes
+middle-name: S
+suffix: 
+full-name: Thomas Kerekes
+gender: M
+dob: 1957-04-01
+age: 66
+party: 
+phone: 860-208-7945
+address: 15 Parker Bridge Rd

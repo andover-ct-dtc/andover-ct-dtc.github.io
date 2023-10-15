@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1305
-  tags: Voter
-  caption: Voters/Susan Lalashuis
-  first-name: Susan
-  last-name: Lalashuis
-  middle-name: D
-  suffix: undefined
-  full-name: Susan Lalashuis
-  gender: F
-  dob: 1961-01-04
-  age: 62
-  party: Democratic
-  phone: 203-289-91767
-  address: 633 Route 6
+tags: Voter
+caption: Voters/Susan Lalashuis
+first-name: Susan
+last-name: Lalashuis
+middle-name: D
+suffix: 
+full-name: Susan Lalashuis
+gender: F
+dob: 1961-04-01
+age: 62
+party: Democratic
+phone: 203-289-1767
+address: 633 Route 6

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9468900
-  tags: Voter
-  caption: Voters/Wendy Swanson
-  first-name: Wendy
-  last-name: Swanson
-  middle-name: A
-  suffix: undefined
-  full-name: Wendy Swanson
-  gender: F
-  dob: 1975-01-05
-  age: 48
-  party: 
-  phone: 860-729-99115
-  address: 41 Bausola Rd
+tags: Voter
+caption: Voters/Wendy Swanson
+first-name: Wendy
+last-name: Swanson
+middle-name: A
+suffix: 
+full-name: Wendy Swanson
+gender: F
+dob: 1975-05-01
+age: 48
+party: 
+phone: 860-729-9115
+address: 41 Bausola Rd

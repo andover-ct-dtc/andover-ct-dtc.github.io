@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9530607
-  tags: Voter
-  caption: Voters/John Roache
-  first-name: John
-  last-name: Roache
-  middle-name: Francis
-  suffix: undefined
-  full-name: John Roache
-  gender: M
-  dob: 2002-28-01
-  age: 21
-  party: 
-  phone: 860-874-42370
-  address: 457 Lake Rd
+tags: Voter
+caption: Voters/John Roache
+first-name: John
+last-name: Roache
+middle-name: Francis
+suffix: 
+full-name: John Roache
+gender: M
+dob: 2002-01-28
+age: 21
+party: 
+phone: 860-874-2370
+address: 457 Lake Rd

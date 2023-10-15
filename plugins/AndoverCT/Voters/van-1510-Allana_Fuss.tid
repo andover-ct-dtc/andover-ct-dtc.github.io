@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1510
-  tags: Voter
-  caption: Voters/Allana Fuss
-  first-name: Allana
-  last-name: Fuss
-  middle-name: Lee
-  suffix: undefined
-  full-name: Allana Fuss
-  gender: F
-  dob: 1981-01-04
-  age: 42
-  party: Republican
-  phone: 860-202-26873
-  address: 145 Lake Rd
+tags: Voter
+caption: Voters/Allana Fuss
+first-name: Allana
+last-name: Fuss
+middle-name: Lee
+suffix: 
+full-name: Allana Fuss
+gender: F
+dob: 1981-04-01
+age: 42
+party: Republican
+phone: 860-202-6873
+address: 145 Lake Rd

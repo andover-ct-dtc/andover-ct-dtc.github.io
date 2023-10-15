@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/830
-  tags: Voter
-  caption: Voters/Nickie Person
-  first-name: Nickie
-  last-name: Person
-  middle-name: F
-  suffix: undefined
-  full-name: Nickie Person
-  gender: F
-  dob: 1957-01-09
-  age: 66
-  party: 
-  phone: 860-742-28660
-  address: 187 Lake Rd
+tags: Voter
+caption: Voters/Nickie Person
+first-name: Nickie
+last-name: Person
+middle-name: F
+suffix: 
+full-name: Nickie Person
+gender: F
+dob: 1957-09-01
+age: 66
+party: 
+phone: 860-742-8660
+address: 187 Lake Rd

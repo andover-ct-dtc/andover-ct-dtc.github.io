@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1011
-  tags: Voter
-  caption: Voters/Edward Sarisley Jr
-  first-name: Edward
-  last-name: Sarisley
-  middle-name: F
-  suffix: undefined
-  full-name: Edward Sarisley Jr
-  gender: M
-  dob: 1954-01-05
-  age: 69
-  party: Republican
-  phone: 860-742-29322
-  address: 28 Wales Rd
+tags: Voter
+caption: Voters/Edward Sarisley Jr
+first-name: Edward
+last-name: Sarisley
+middle-name: F
+suffix: 
+full-name: Edward Sarisley Jr
+gender: M
+dob: 1954-05-01
+age: 69
+party: Republican
+phone: 860-742-9322
+address: 28 Wales Rd

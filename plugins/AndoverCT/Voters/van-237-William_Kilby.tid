@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/237
-  tags: Voter
-  caption: Voters/William Kilby
-  first-name: William
-  last-name: Kilby
-  middle-name: F
-  suffix: undefined
-  full-name: William Kilby
-  gender: M
-  dob: 1946-01-08
-  age: 77
-  party: 
-  phone: 860-276-67376
-  address: 45 Bausola Rd
+tags: Voter
+caption: Voters/William Kilby
+first-name: William
+last-name: Kilby
+middle-name: F
+suffix: 
+full-name: William Kilby
+gender: M
+dob: 1946-08-01
+age: 77
+party: 
+phone: 860-276-7376
+address: 45 Bausola Rd

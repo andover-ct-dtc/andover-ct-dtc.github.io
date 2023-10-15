@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/517517
-  tags: Voter
-  caption: Voters/Linda Chambers
-  first-name: Linda
-  last-name: Chambers
-  middle-name: Susan
-  suffix: undefined
-  full-name: Linda Chambers
-  gender: F
-  dob: 1957-01-02
-  age: 66
-  party: 
-  phone: 860-368-81205
-  address: 428 Lake Rd
+tags: Voter
+caption: Voters/Linda Chambers
+first-name: Linda
+last-name: Chambers
+middle-name: Susan
+suffix: 
+full-name: Linda Chambers
+gender: F
+dob: 1957-02-01
+age: 66
+party: 
+phone: 860-368-1205
+address: 428 Lake Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9635080
-  tags: Voter
-  caption: Voters/Michael Flory
-  first-name: Michael
-  last-name: Flory
-  middle-name: Edwin
-  suffix: undefined
-  full-name: Michael Flory
-  gender: M
-  dob: 1992-01-02
-  age: 31
-  party: Republican
-  phone: 208-661-19310
-  address: 101 Hutchinson Rd
+tags: Voter
+caption: Voters/Michael Flory
+first-name: Michael
+last-name: Flory
+middle-name: Edwin
+suffix: 
+full-name: Michael Flory
+gender: M
+dob: 1992-02-01
+age: 31
+party: Republican
+phone: 208-661-9310
+address: 101 Hutchinson Rd

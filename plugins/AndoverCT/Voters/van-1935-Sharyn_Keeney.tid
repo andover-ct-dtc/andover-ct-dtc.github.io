@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1935
-  tags: Voter
-  caption: Voters/Sharyn Keeney
-  first-name: Sharyn
-  last-name: Keeney
-  middle-name: L
-  suffix: undefined
-  full-name: Sharyn Keeney
-  gender: F
-  dob: 1965-01-10
-  age: 58
-  party: Republican
-  phone: 203-289-94154
-  address: 21 Chesterbrook Ln
+tags: Voter
+caption: Voters/Sharyn Keeney
+first-name: Sharyn
+last-name: Keeney
+middle-name: L
+suffix: 
+full-name: Sharyn Keeney
+gender: F
+dob: 1965-10-01
+age: 58
+party: Republican
+phone: 203-289-4154
+address: 21 Chesterbrook Ln

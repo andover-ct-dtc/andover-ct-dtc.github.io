@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/36008
-  tags: Voter
-  caption: Voters/Todd Veronesi
-  first-name: Todd
-  last-name: Veronesi
-  middle-name: Louis
-  suffix: undefined
-  full-name: Todd Veronesi
-  gender: M
-  dob: 1970-01-05
-  age: 53
-  party: Republican
-  phone: 860-990-07250
-  address: 25 Hickory Hill Dr
+tags: Voter
+caption: Voters/Todd Veronesi
+first-name: Todd
+last-name: Veronesi
+middle-name: Louis
+suffix: 
+full-name: Todd Veronesi
+gender: M
+dob: 1970-05-01
+age: 53
+party: Republican
+phone: 860-990-7250
+address: 25 Hickory Hill Dr

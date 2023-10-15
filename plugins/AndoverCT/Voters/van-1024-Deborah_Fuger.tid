@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1024
-  tags: Voter
-  caption: Voters/Deborah Fuger
-  first-name: Deborah
-  last-name: Fuger
-  middle-name: C
-  suffix: undefined
-  full-name: Deborah Fuger
-  gender: F
-  dob: 1952-01-03
-  age: 71
-  party: Democratic
-  phone: 
-  address: 86 Jurovaty Rd
+tags: Voter
+caption: Voters/Deborah Fuger
+first-name: Deborah
+last-name: Fuger
+middle-name: C
+suffix: 
+full-name: Deborah Fuger
+gender: F
+dob: 1952-03-01
+age: 71
+party: Democratic
+phone: 
+address: 86 Jurovaty Rd

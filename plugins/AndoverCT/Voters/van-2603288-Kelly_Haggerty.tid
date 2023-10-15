@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2603288
-  tags: Voter
-  caption: Voters/Kelly Haggerty
-  first-name: Kelly
-  last-name: Haggerty
-  middle-name: Marie
-  suffix: undefined
-  full-name: Kelly Haggerty
-  gender: F
-  dob: 1981-01-07
-  age: 42
-  party: Democratic
-  phone: 978-771-10565
-  address: 93 Townsend Rd
+tags: Voter
+caption: Voters/Kelly Haggerty
+first-name: Kelly
+last-name: Haggerty
+middle-name: Marie
+suffix: 
+full-name: Kelly Haggerty
+gender: F
+dob: 1981-07-01
+age: 42
+party: Democratic
+phone: 978-771-0565
+address: 93 Townsend Rd

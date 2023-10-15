@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/378
-  tags: Voter
-  caption: Voters/Julie Victoria
-  first-name: Julie
-  last-name: Victoria
-  middle-name: A
-  suffix: undefined
-  full-name: Julie Victoria
-  gender: F
-  dob: 1956-01-06
-  age: 67
-  party: Democratic
-  phone: 860-543-34881
-  address: 60 Townsend Rd
+tags: Voter
+caption: Voters/Julie Victoria
+first-name: Julie
+last-name: Victoria
+middle-name: A
+suffix: 
+full-name: Julie Victoria
+gender: F
+dob: 1956-06-01
+age: 67
+party: Democratic
+phone: 860-543-4881
+address: 60 Townsend Rd

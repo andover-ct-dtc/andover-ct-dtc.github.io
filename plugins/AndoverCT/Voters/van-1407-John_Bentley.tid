@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1407
-  tags: Voter
-  caption: Voters/John Bentley Jr
-  first-name: John
-  last-name: Bentley
-  middle-name: C
-  suffix: undefined
-  full-name: John Bentley Jr
-  gender: M
-  dob: 1956-29-01
-  age: 67
-  party: Democratic
-  phone: 860-857-72618
-  address: 36 Ridge Rd
+tags: Voter
+caption: Voters/John Bentley Jr
+first-name: John
+last-name: Bentley
+middle-name: C
+suffix: 
+full-name: John Bentley Jr
+gender: M
+dob: 1956-01-29
+age: 67
+party: Democratic
+phone: 860-857-2618
+address: 36 Ridge Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/664
-  tags: Voter
-  caption: Voters/Kim Bednar
-  first-name: Kim
-  last-name: Bednar
-  middle-name: M
-  suffix: undefined
-  full-name: Kim Bednar
-  gender: F
-  dob: 1962-01-12
-  age: 60
-  party: Republican
-  phone: 860-742-21605
-  address: 252 Gilead Rd
+tags: Voter
+caption: Voters/Kim Bednar
+first-name: Kim
+last-name: Bednar
+middle-name: M
+suffix: 
+full-name: Kim Bednar
+gender: F
+dob: 1962-12-01
+age: 60
+party: Republican
+phone: 860-742-1605
+address: 252 Gilead Rd

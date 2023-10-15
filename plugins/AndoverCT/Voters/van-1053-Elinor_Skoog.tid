@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1053
-  tags: Voter
-  caption: Voters/Elinor Skoog
-  first-name: Elinor
-  last-name: Skoog
-  middle-name: R
-  suffix: undefined
-  full-name: Elinor Skoog
-  gender: F
-  dob: 1956-01-02
-  age: 67
-  party: Republican
-  phone: 860-742-20592
-  address: 9 Bausola Rd
+tags: Voter
+caption: Voters/Elinor Skoog
+first-name: Elinor
+last-name: Skoog
+middle-name: R
+suffix: 
+full-name: Elinor Skoog
+gender: F
+dob: 1956-02-01
+age: 67
+party: Republican
+phone: 860-742-0592
+address: 9 Bausola Rd

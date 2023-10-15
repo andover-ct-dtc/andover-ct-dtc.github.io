@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1183
-  tags: Voter
-  caption: Voters/Michael Gagnon
-  first-name: Michael
-  last-name: Gagnon
-  middle-name: R
-  suffix: undefined
-  full-name: Michael Gagnon
-  gender: M
-  dob: 1953-01-07
-  age: 70
-  party: Republican
-  phone: 860-742-27158
-  address: 49 Route 87
+tags: Voter
+caption: Voters/Michael Gagnon
+first-name: Michael
+last-name: Gagnon
+middle-name: R
+suffix: 
+full-name: Michael Gagnon
+gender: M
+dob: 1953-07-01
+age: 70
+party: Republican
+phone: 860-742-7158
+address: 49 Route 87

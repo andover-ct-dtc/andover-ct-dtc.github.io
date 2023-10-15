@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1463766
-  tags: Voter
-  caption: Voters/Moria Perez
-  first-name: Moria
-  last-name: Perez
-  middle-name: Milton
-  suffix: undefined
-  full-name: Moria Perez
-  gender: F
-  dob: 1976-01-02
-  age: 47
-  party: Democratic
-  phone: 860-883-38600
-  address: 12 Chesterbrook Ln
+tags: Voter
+caption: Voters/Moria Perez
+first-name: Moria
+last-name: Perez
+middle-name: Milton
+suffix: 
+full-name: Moria Perez
+gender: F
+dob: 1976-02-01
+age: 47
+party: Democratic
+phone: 860-883-8600
+address: 12 Chesterbrook Ln

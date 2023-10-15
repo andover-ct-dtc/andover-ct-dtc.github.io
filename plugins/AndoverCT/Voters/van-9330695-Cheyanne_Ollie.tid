@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9330695
-  tags: Voter
-  caption: Voters/Cheyanne Ollie
-  first-name: Cheyanne
-  last-name: Ollie
-  middle-name: Serena
-  suffix: undefined
-  full-name: Cheyanne Ollie
-  gender: F
-  dob: 2001-01-02
-  age: 22
-  party: 
-  phone: 860-992-29193
-  address: 7 Lakeside Dr
+tags: Voter
+caption: Voters/Cheyanne Ollie
+first-name: Cheyanne
+last-name: Ollie
+middle-name: Serena
+suffix: 
+full-name: Cheyanne Ollie
+gender: F
+dob: 2001-02-01
+age: 22
+party: 
+phone: 860-992-9193
+address: 7 Lakeside Dr

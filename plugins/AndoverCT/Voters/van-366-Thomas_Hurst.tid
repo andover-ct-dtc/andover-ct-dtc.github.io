@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/366
-  tags: Voter
-  caption: Voters/Thomas Hurst
-  first-name: Thomas
-  last-name: Hurst
-  middle-name: J
-  suffix: undefined
-  full-name: Thomas Hurst
-  gender: M
-  dob: 1962-01-03
-  age: 61
-  party: Republican
-  phone: 860-646-66536
-  address: 746 East St
+tags: Voter
+caption: Voters/Thomas Hurst
+first-name: Thomas
+last-name: Hurst
+middle-name: J
+suffix: 
+full-name: Thomas Hurst
+gender: M
+dob: 1962-03-01
+age: 61
+party: Republican
+phone: 860-646-6536
+address: 746 East St

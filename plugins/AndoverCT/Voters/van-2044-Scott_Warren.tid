@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2044
-  tags: Voter
-  caption: Voters/Scott Warren
-  first-name: Scott
-  last-name: Warren
-  middle-name: Proctor
-  suffix: undefined
-  full-name: Scott Warren
-  gender: M
-  dob: 1986-01-02
-  age: 37
-  party: Independent
-  phone: 719-213-38465
-  address: 225 Bunker Hill Rd
+tags: Voter
+caption: Voters/Scott Warren
+first-name: Scott
+last-name: Warren
+middle-name: Proctor
+suffix: 
+full-name: Scott Warren
+gender: M
+dob: 1986-02-01
+age: 37
+party: Independent
+phone: 719-213-8465
+address: 225 Bunker Hill Rd

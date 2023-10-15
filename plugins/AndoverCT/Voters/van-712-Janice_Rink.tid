@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/712
-  tags: Voter
-  caption: Voters/Janice Rink
-  first-name: Janice
-  last-name: Rink
-  middle-name: E
-  suffix: undefined
-  full-name: Janice Rink
-  gender: F
-  dob: 1952-01-10
-  age: 71
-  party: 
-  phone: 860-742-28208
-  address: 37 Skinner Hill Rd
+tags: Voter
+caption: Voters/Janice Rink
+first-name: Janice
+last-name: Rink
+middle-name: E
+suffix: 
+full-name: Janice Rink
+gender: F
+dob: 1952-10-01
+age: 71
+party: 
+phone: 860-742-8208
+address: 37 Skinner Hill Rd

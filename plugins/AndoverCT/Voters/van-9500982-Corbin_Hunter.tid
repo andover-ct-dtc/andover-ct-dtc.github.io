@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9500982
-  tags: Voter
-  caption: Voters/Corbin Hunter
-  first-name: Corbin
-  last-name: Hunter
-  middle-name: James
-  suffix: undefined
-  full-name: Corbin Hunter
-  gender: M
-  dob: 2001-01-11
-  age: 21
-  party: Republican
-  phone: 
-  address: 214 Bear Swamp Rd
+tags: Voter
+caption: Voters/Corbin Hunter
+first-name: Corbin
+last-name: Hunter
+middle-name: James
+suffix: 
+full-name: Corbin Hunter
+gender: M
+dob: 2001-11-01
+age: 21
+party: Republican
+phone: 
+address: 214 Bear Swamp Rd

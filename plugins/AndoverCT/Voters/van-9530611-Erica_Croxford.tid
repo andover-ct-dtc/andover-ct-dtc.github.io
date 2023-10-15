@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9530611
-  tags: Voter
-  caption: Voters/Erica Croxford
-  first-name: Erica
-  last-name: Croxford
-  middle-name: Lauren
-  suffix: undefined
-  full-name: Erica Croxford
-  gender: F
-  dob: 2001-01-12
-  age: 21
-  party: 
-  phone: 860-856-61134
-  address: 171 Hebron Rd
+tags: Voter
+caption: Voters/Erica Croxford
+first-name: Erica
+last-name: Croxford
+middle-name: Lauren
+suffix: 
+full-name: Erica Croxford
+gender: F
+dob: 2001-12-01
+age: 21
+party: 
+phone: 860-856-1134
+address: 171 Hebron Rd

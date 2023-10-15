@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9157915
-  tags: Voter
-  caption: Voters/Alicia Kostic
-  first-name: Alicia
-  last-name: Kostic
-  middle-name: Barbara MacAlis
-  suffix: undefined
-  full-name: Alicia Kostic
-  gender: F
-  dob: 1995-04-01
-  age: 28
-  party: 
-  phone: 
-  address: 329 Route 6 # 1
+tags: Voter
+caption: Voters/Alicia Kostic
+first-name: Alicia
+last-name: Kostic
+middle-name: Barbara MacAlis
+suffix: 
+full-name: Alicia Kostic
+gender: F
+dob: 1995-01-04
+age: 28
+party: 
+phone: 
+address: 329 Route 6 # 1

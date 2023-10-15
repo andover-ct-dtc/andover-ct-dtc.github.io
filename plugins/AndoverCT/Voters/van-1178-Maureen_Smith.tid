@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1178
-  tags: Voter
-  caption: Voters/Maureen Smith
-  first-name: Maureen
-  last-name: Smith
-  middle-name: 
-  suffix: undefined
-  full-name: Maureen Smith
-  gender: F
-  dob: 1960-01-02
-  age: 63
-  party: Democratic
-  phone: 860-490-06146
-  address: 4 Hickory Hill Dr
+tags: Voter
+caption: Voters/Maureen Smith
+first-name: Maureen
+last-name: Smith
+middle-name: 
+suffix: 
+full-name: Maureen Smith
+gender: F
+dob: 1960-02-01
+age: 63
+party: Democratic
+phone: 860-490-6146
+address: 4 Hickory Hill Dr

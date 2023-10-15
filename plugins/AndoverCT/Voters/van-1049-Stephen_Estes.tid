@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1049
-  tags: Voter
-  caption: Voters/Stephen Estes
-  first-name: Stephen
-  last-name: Estes
-  middle-name: B
-  suffix: undefined
-  full-name: Stephen Estes
-  gender: M
-  dob: 1963-01-05
-  age: 60
-  party: Republican
-  phone: 
-  address: 243 Lake Rd
+tags: Voter
+caption: Voters/Stephen Estes
+first-name: Stephen
+last-name: Estes
+middle-name: B
+suffix: 
+full-name: Stephen Estes
+gender: M
+dob: 1963-05-01
+age: 60
+party: Republican
+phone: 
+address: 243 Lake Rd

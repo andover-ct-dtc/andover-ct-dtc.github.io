@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2385900
-  tags: Voter
-  caption: Voters/Jacob Larimore
-  first-name: Jacob
-  last-name: Larimore
-  middle-name: Burton
-  suffix: undefined
-  full-name: Jacob Larimore
-  gender: M
-  dob: 1984-01-08
-  age: 39
-  party: 
-  phone: 302-228-85372
-  address: 149 Boston Hill Rd
+tags: Voter
+caption: Voters/Jacob Larimore
+first-name: Jacob
+last-name: Larimore
+middle-name: Burton
+suffix: 
+full-name: Jacob Larimore
+gender: M
+dob: 1984-08-01
+age: 39
+party: 
+phone: 302-228-5372
+address: 149 Boston Hill Rd

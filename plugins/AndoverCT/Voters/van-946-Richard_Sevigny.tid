@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/946
-  tags: Voter
-  caption: Voters/Richard Sevigny
-  first-name: Richard
-  last-name: Sevigny
-  middle-name: M
-  suffix: undefined
-  full-name: Richard Sevigny
-  gender: M
-  dob: 1955-01-08
-  age: 68
-  party: 
-  phone: 860-742-29743
-  address: 34 Shoddy Mill Rd
+tags: Voter
+caption: Voters/Richard Sevigny
+first-name: Richard
+last-name: Sevigny
+middle-name: M
+suffix: 
+full-name: Richard Sevigny
+gender: M
+dob: 1955-08-01
+age: 68
+party: 
+phone: 860-742-9743
+address: 34 Shoddy Mill Rd

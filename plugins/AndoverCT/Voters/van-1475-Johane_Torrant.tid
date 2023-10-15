@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1475
-  tags: Voter
-  caption: Voters/Johane Torrant
-  first-name: Johane
-  last-name: Torrant
-  middle-name: Lise
-  suffix: undefined
-  full-name: Johane Torrant
-  gender: F
-  dob: 1953-01-04
-  age: 70
-  party: Democratic
-  phone: 860-742-27997
-  address: 78 Hendee Rd
+tags: Voter
+caption: Voters/Johane Torrant
+first-name: Johane
+last-name: Torrant
+middle-name: Lise
+suffix: 
+full-name: Johane Torrant
+gender: F
+dob: 1953-04-01
+age: 70
+party: Democratic
+phone: 860-742-7997
+address: 78 Hendee Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1225916
-  tags: Voter
-  caption: Voters/Amy Ziegler
-  first-name: Amy
-  last-name: Ziegler
-  middle-name: M
-  suffix: undefined
-  full-name: Amy Ziegler
-  gender: F
-  dob: 1978-01-02
-  age: 45
-  party: Democratic
-  phone: 860-710-03924
-  address: 273 Hebron Rd
+tags: Voter
+caption: Voters/Amy Ziegler
+first-name: Amy
+last-name: Ziegler
+middle-name: M
+suffix: 
+full-name: Amy Ziegler
+gender: F
+dob: 1978-02-01
+age: 45
+party: Democratic
+phone: 860-710-3924
+address: 273 Hebron Rd

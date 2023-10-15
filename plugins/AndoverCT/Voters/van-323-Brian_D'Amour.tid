@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/323
-  tags: Voter
-  caption: Voters/Brian D'Amour
-  first-name: Brian
-  last-name: D'Amour
-  middle-name: E
-  suffix: undefined
-  full-name: Brian D'Amour
-  gender: M
-  dob: 1950-01-03
-  age: 73
-  party: 
-  phone: 860-617-71376
-  address: 9 Erdoni Rd
+tags: Voter
+caption: Voters/Brian D'Amour
+first-name: Brian
+last-name: D'Amour
+middle-name: E
+suffix: 
+full-name: Brian D'Amour
+gender: M
+dob: 1950-03-01
+age: 73
+party: 
+phone: 860-617-1376
+address: 9 Erdoni Rd

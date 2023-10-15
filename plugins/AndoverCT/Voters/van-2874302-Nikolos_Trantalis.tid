@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2874302
-  tags: Voter
-  caption: Voters/Nikolos Trantalis
-  first-name: Nikolos
-  last-name: Trantalis
-  middle-name: William
-  suffix: undefined
-  full-name: Nikolos Trantalis
-  gender: M
-  dob: 1991-01-06
-  age: 32
-  party: 
-  phone: 860-944-46475
-  address: 345 Hebron Rd
+tags: Voter
+caption: Voters/Nikolos Trantalis
+first-name: Nikolos
+last-name: Trantalis
+middle-name: William
+suffix: 
+full-name: Nikolos Trantalis
+gender: M
+dob: 1991-06-01
+age: 32
+party: 
+phone: 860-944-6475
+address: 345 Hebron Rd

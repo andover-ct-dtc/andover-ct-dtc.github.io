@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/800
-  tags: Voter
-  caption: Voters/Francis Beaudet
-  first-name: Francis
-  last-name: Beaudet
-  middle-name: E
-  suffix: undefined
-  full-name: Francis Beaudet
-  gender: M
-  dob: 1947-01-09
-  age: 76
-  party: Republican
-  phone: 860-857-72494
-  address: 167 Hebron Rd
+tags: Voter
+caption: Voters/Francis Beaudet
+first-name: Francis
+last-name: Beaudet
+middle-name: E
+suffix: 
+full-name: Francis Beaudet
+gender: M
+dob: 1947-09-01
+age: 76
+party: Republican
+phone: 860-857-2494
+address: 167 Hebron Rd

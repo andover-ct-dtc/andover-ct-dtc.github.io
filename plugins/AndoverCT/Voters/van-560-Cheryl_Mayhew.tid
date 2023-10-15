@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/560
-  tags: Voter
-  caption: Voters/Cheryl Mayhew
-  first-name: Cheryl
-  last-name: Mayhew
-  middle-name: A
-  suffix: undefined
-  full-name: Cheryl Mayhew
-  gender: F
-  dob: 1960-01-12
-  age: 62
-  party: 
-  phone: 860-742-27748
-  address: 4 Old Farms Rd
+tags: Voter
+caption: Voters/Cheryl Mayhew
+first-name: Cheryl
+last-name: Mayhew
+middle-name: A
+suffix: 
+full-name: Cheryl Mayhew
+gender: F
+dob: 1960-12-01
+age: 62
+party: 
+phone: 860-742-7748
+address: 4 Old Farms Rd

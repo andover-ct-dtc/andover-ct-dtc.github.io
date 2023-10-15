@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2020036
-  tags: Voter
-  caption: Voters/Alexander Sixbey
-  first-name: Alexander
-  last-name: Sixbey
-  middle-name: B
-  suffix: undefined
-  full-name: Alexander Sixbey
-  gender: M
-  dob: 1975-27-01
-  age: 48
-  party: Democratic
-  phone: 860-208-80002
-  address: 113 Long Hill Rd
+tags: Voter
+caption: Voters/Alexander Sixbey
+first-name: Alexander
+last-name: Sixbey
+middle-name: B
+suffix: 
+full-name: Alexander Sixbey
+gender: M
+dob: 1975-01-27
+age: 48
+party: Democratic
+phone: 860-208-0002
+address: 113 Long Hill Rd

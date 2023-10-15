@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/411
-  tags: Voter
-  caption: Voters/David Pfanstiehl
-  first-name: David
-  last-name: Pfanstiehl
-  middle-name: Henry
-  suffix: undefined
-  full-name: David Pfanstiehl
-  gender: M
-  dob: 1947-01-05
-  age: 76
-  party: Republican
-  phone: 860-680-07550
-  address: 74 Route 87
+tags: Voter
+caption: Voters/David Pfanstiehl
+first-name: David
+last-name: Pfanstiehl
+middle-name: Henry
+suffix: 
+full-name: David Pfanstiehl
+gender: M
+dob: 1947-05-01
+age: 76
+party: Republican
+phone: 860-680-7550
+address: 74 Route 87

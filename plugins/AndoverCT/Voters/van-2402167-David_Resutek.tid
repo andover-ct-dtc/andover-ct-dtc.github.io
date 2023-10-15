@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2402167
-  tags: Voter
-  caption: Voters/David Resutek
-  first-name: David
-  last-name: Resutek
-  middle-name: Ronald
-  suffix: undefined
-  full-name: David Resutek
-  gender: M
-  dob: 1990-01-05
-  age: 33
-  party: 
-  phone: 860-977-75908
-  address: 110 Shoddy Mill Rd
+tags: Voter
+caption: Voters/David Resutek
+first-name: David
+last-name: Resutek
+middle-name: Ronald
+suffix: 
+full-name: David Resutek
+gender: M
+dob: 1990-05-01
+age: 33
+party: 
+phone: 860-977-5908
+address: 110 Shoddy Mill Rd

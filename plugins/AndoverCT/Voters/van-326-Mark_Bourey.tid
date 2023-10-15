@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/326
-  tags: Voter
-  caption: Voters/Mark Bourey
-  first-name: Mark
-  last-name: Bourey
-  middle-name: S
-  suffix: undefined
-  full-name: Mark Bourey
-  gender: M
-  dob: 1952-01-12
-  age: 70
-  party: Democratic
-  phone: 860-742-26473
-  address: 51 Shoddy Mill Rd
+tags: Voter
+caption: Voters/Mark Bourey
+first-name: Mark
+last-name: Bourey
+middle-name: S
+suffix: 
+full-name: Mark Bourey
+gender: M
+dob: 1952-12-01
+age: 70
+party: Democratic
+phone: 860-742-6473
+address: 51 Shoddy Mill Rd

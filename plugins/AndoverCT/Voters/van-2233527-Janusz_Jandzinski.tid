@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2233527
-  tags: Voter
-  caption: Voters/Janusz Jandzinski
-  first-name: Janusz
-  last-name: Jandzinski
-  middle-name: S
-  suffix: undefined
-  full-name: Janusz Jandzinski
-  gender: M
-  dob: 1973-01-09
-  age: 50
-  party: Republican
-  phone: 860-498-81208
-  address: 34 Old Coventry Rd
+tags: Voter
+caption: Voters/Janusz Jandzinski
+first-name: Janusz
+last-name: Jandzinski
+middle-name: S
+suffix: 
+full-name: Janusz Jandzinski
+gender: M
+dob: 1973-09-01
+age: 50
+party: Republican
+phone: 860-498-1208
+address: 34 Old Coventry Rd

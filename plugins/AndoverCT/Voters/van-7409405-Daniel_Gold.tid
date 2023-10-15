@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7409405
-  tags: Voter
-  caption: Voters/Daniel Gold
-  first-name: Daniel
-  last-name: Gold
-  middle-name: Wayne
-  suffix: undefined
-  full-name: Daniel Gold
-  gender: M
-  dob: 1981-01-02
-  age: 42
-  party: Independent
-  phone: 860-833-31173
-  address: 66 Bausola Rd
+tags: Voter
+caption: Voters/Daniel Gold
+first-name: Daniel
+last-name: Gold
+middle-name: Wayne
+suffix: 
+full-name: Daniel Gold
+gender: M
+dob: 1981-02-01
+age: 42
+party: Independent
+phone: 860-833-1173
+address: 66 Bausola Rd

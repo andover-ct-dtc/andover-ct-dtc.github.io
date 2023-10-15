@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1993
-  tags: Voter
-  caption: Voters/Nicholas Eckert
-  first-name: Nicholas
-  last-name: Eckert
-  middle-name: Todd
-  suffix: undefined
-  full-name: Nicholas Eckert
-  gender: M
-  dob: 1962-01-12
-  age: 60
-  party: 
-  phone: 860-559-90096
-  address: 7 Brown Rd
+tags: Voter
+caption: Voters/Nicholas Eckert
+first-name: Nicholas
+last-name: Eckert
+middle-name: Todd
+suffix: 
+full-name: Nicholas Eckert
+gender: M
+dob: 1962-12-01
+age: 60
+party: 
+phone: 860-559-0096
+address: 7 Brown Rd

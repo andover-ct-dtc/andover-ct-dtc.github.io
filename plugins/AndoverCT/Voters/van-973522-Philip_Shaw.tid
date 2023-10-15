@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/973522
-  tags: Voter
-  caption: Voters/Philip Shaw
-  first-name: Philip
-  last-name: Shaw
-  middle-name: David Norton
-  suffix: undefined
-  full-name: Philip Shaw
-  gender: M
-  dob: 1935-18-01
-  age: 88
-  party: 
-  phone: 
-  address: 75 Lakeside Dr
+tags: Voter
+caption: Voters/Philip Shaw
+first-name: Philip
+last-name: Shaw
+middle-name: David Norton
+suffix: 
+full-name: Philip Shaw
+gender: M
+dob: 1935-01-18
+age: 88
+party: 
+phone: 
+address: 75 Lakeside Dr

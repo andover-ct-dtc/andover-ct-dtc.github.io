@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/723662
-  tags: Voter
-  caption: Voters/Katherine David
-  first-name: Katherine
-  last-name: David
-  middle-name: A
-  suffix: undefined
-  full-name: Katherine David
-  gender: F
-  dob: 1981-01-02
-  age: 42
-  party: Democratic
-  phone: 860-670-00416
-  address: 927 East St
+tags: Voter
+caption: Voters/Katherine David
+first-name: Katherine
+last-name: David
+middle-name: A
+suffix: 
+full-name: Katherine David
+gender: F
+dob: 1981-02-01
+age: 42
+party: Democratic
+phone: 860-670-0416
+address: 927 East St

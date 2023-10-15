@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/178
-  tags: Voter
-  caption: Voters/Georgette Conrad
-  first-name: Georgette
-  last-name: Conrad
-  middle-name: M
-  suffix: undefined
-  full-name: Georgette Conrad
-  gender: F
-  dob: 1941-01-05
-  age: 82
-  party: Republican
-  phone: 860-794-44090
-  address: 117 Lakeside Dr
+tags: Voter
+caption: Voters/Georgette Conrad
+first-name: Georgette
+last-name: Conrad
+middle-name: M
+suffix: 
+full-name: Georgette Conrad
+gender: F
+dob: 1941-05-01
+age: 82
+party: Republican
+phone: 860-794-4090
+address: 117 Lakeside Dr

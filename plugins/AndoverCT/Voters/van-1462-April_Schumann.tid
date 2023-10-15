@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1462
-  tags: Voter
-  caption: Voters/April Schumann
-  first-name: April
-  last-name: Schumann
-  middle-name: Marie
-  suffix: undefined
-  full-name: April Schumann
-  gender: F
-  dob: 1979-01-03
-  age: 44
-  party: 
-  phone: 860-573-31246
-  address: 73 Wales Rd
+tags: Voter
+caption: Voters/April Schumann
+first-name: April
+last-name: Schumann
+middle-name: Marie
+suffix: 
+full-name: April Schumann
+gender: F
+dob: 1979-03-01
+age: 44
+party: 
+phone: 860-573-1246
+address: 73 Wales Rd

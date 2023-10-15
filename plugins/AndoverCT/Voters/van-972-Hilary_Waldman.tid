@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/972
-  tags: Voter
-  caption: Voters/Hilary Waldman
-  first-name: Hilary
-  last-name: Waldman
-  middle-name: D
-  suffix: undefined
-  full-name: Hilary Waldman
-  gender: U
-  dob: 1959-01-03
-  age: 64
-  party: Democratic
-  phone: 860-742-27977
-  address: 8 Windrush Ln
+tags: Voter
+caption: Voters/Hilary Waldman
+first-name: Hilary
+last-name: Waldman
+middle-name: D
+suffix: 
+full-name: Hilary Waldman
+gender: U
+dob: 1959-03-01
+age: 64
+party: Democratic
+phone: 860-742-7977
+address: 8 Windrush Ln

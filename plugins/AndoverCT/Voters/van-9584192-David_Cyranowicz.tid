@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9584192
-  tags: Voter
-  caption: Voters/David Cyranowicz
-  first-name: David
-  last-name: Cyranowicz
-  middle-name: Thomas
-  suffix: undefined
-  full-name: David Cyranowicz
-  gender: M
-  dob: 1984-01-02
-  age: 39
-  party: Democratic
-  phone: 860-490-09389
-  address: 309 Boston Hill Rd
+tags: Voter
+caption: Voters/David Cyranowicz
+first-name: David
+last-name: Cyranowicz
+middle-name: Thomas
+suffix: 
+full-name: David Cyranowicz
+gender: M
+dob: 1984-02-01
+age: 39
+party: Democratic
+phone: 860-490-9389
+address: 309 Boston Hill Rd

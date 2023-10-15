@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1299
-  tags: Voter
-  caption: Voters/Brian Mawdsley Sr
-  first-name: Brian
-  last-name: Mawdsley
-  middle-name: S
-  suffix: undefined
-  full-name: Brian Mawdsley Sr
-  gender: M
-  dob: 1965-22-01
-  age: 58
-  party: 
-  phone: 860-455-58017
-  address: 29 Brown Rd
+tags: Voter
+caption: Voters/Brian Mawdsley Sr
+first-name: Brian
+last-name: Mawdsley
+middle-name: S
+suffix: 
+full-name: Brian Mawdsley Sr
+gender: M
+dob: 1965-01-22
+age: 58
+party: 
+phone: 860-455-8017
+address: 29 Brown Rd

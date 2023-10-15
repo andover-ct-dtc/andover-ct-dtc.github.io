@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7416231
-  tags: Voter
-  caption: Voters/Michael Manson
-  first-name: Michael
-  last-name: Manson
-  middle-name: David
-  suffix: undefined
-  full-name: Michael Manson
-  gender: M
-  dob: 1980-01-07
-  age: 43
-  party: Republican
-  phone: 860-508-83395
-  address: 200 Bear Swamp Rd
+tags: Voter
+caption: Voters/Michael Manson
+first-name: Michael
+last-name: Manson
+middle-name: David
+suffix: 
+full-name: Michael Manson
+gender: M
+dob: 1980-07-01
+age: 43
+party: Republican
+phone: 860-508-3395
+address: 200 Bear Swamp Rd

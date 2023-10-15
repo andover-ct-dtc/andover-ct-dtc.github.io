@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1820
-  tags: Voter
-  caption: Voters/Robert Post
-  first-name: Robert
-  last-name: Post
-  middle-name: Ernest
-  suffix: undefined
-  full-name: Robert Post
-  gender: M
-  dob: 1961-01-02
-  age: 62
-  party: Republican
-  phone: 860-490-02534
-  address: 345 Boston Hill Rd
+tags: Voter
+caption: Voters/Robert Post
+first-name: Robert
+last-name: Post
+middle-name: Ernest
+suffix: 
+full-name: Robert Post
+gender: M
+dob: 1961-02-01
+age: 62
+party: Republican
+phone: 860-490-2534
+address: 345 Boston Hill Rd

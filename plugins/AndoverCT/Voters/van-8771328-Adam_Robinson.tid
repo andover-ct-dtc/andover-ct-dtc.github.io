@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/8771328
-  tags: Voter
-  caption: Voters/Adam Robinson
-  first-name: Adam
-  last-name: Robinson
-  middle-name: Joseph Walter
-  suffix: undefined
-  full-name: Adam Robinson
-  gender: M
-  dob: 1998-01-04
-  age: 25
-  party: Republican
-  phone: 860-742-21817
-  address: 664 Route 6
+tags: Voter
+caption: Voters/Adam Robinson
+first-name: Adam
+last-name: Robinson
+middle-name: Joseph Walter
+suffix: 
+full-name: Adam Robinson
+gender: M
+dob: 1998-04-01
+age: 25
+party: Republican
+phone: 860-742-1817
+address: 664 Route 6

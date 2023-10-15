@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1182
-  tags: Voter
-  caption: Voters/Rene Dube
-  first-name: Rene
-  last-name: Dube
-  middle-name: Joseph
-  suffix: undefined
-  full-name: Rene Dube
-  gender: M
-  dob: 1960-01-02
-  age: 63
-  party: 
-  phone: 860-841-19951
-  address: 4 West St
+tags: Voter
+caption: Voters/Rene Dube
+first-name: Rene
+last-name: Dube
+middle-name: Joseph
+suffix: 
+full-name: Rene Dube
+gender: M
+dob: 1960-02-01
+age: 63
+party: 
+phone: 860-841-9951
+address: 4 West St

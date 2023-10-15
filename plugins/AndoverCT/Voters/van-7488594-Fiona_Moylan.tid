@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7488594
-  tags: Voter
-  caption: Voters/Fiona Moylan
-  first-name: Fiona
-  last-name: Moylan
-  middle-name: C
-  suffix: undefined
-  full-name: Fiona Moylan
-  gender: F
-  dob: 1968-01-10
-  age: 55
-  party: Democratic
-  phone: 860-228-81167
-  address: 333 Boston Hill Rd
+tags: Voter
+caption: Voters/Fiona Moylan
+first-name: Fiona
+last-name: Moylan
+middle-name: C
+suffix: 
+full-name: Fiona Moylan
+gender: F
+dob: 1968-10-01
+age: 55
+party: Democratic
+phone: 860-228-1167
+address: 333 Boston Hill Rd

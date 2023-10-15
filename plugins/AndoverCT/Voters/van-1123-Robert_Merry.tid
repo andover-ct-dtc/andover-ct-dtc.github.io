@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1123
-  tags: Voter
-  caption: Voters/Robert Merry Jr
-  first-name: Robert
-  last-name: Merry
-  middle-name: K
-  suffix: undefined
-  full-name: Robert Merry Jr
-  gender: M
-  dob: 1964-01-05
-  age: 59
-  party: 
-  phone: 860-742-20609
-  address: 104 Wheeling Rd
+tags: Voter
+caption: Voters/Robert Merry Jr
+first-name: Robert
+last-name: Merry
+middle-name: K
+suffix: 
+full-name: Robert Merry Jr
+gender: M
+dob: 1964-05-01
+age: 59
+party: 
+phone: 860-742-0609
+address: 104 Wheeling Rd

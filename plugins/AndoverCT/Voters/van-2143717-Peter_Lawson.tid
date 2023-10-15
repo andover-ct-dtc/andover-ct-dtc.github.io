@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2143717
-  tags: Voter
-  caption: Voters/Peter Lawson
-  first-name: Peter
-  last-name: Lawson
-  middle-name: W
-  suffix: undefined
-  full-name: Peter Lawson
-  gender: M
-  dob: 1976-21-01
-  age: 47
-  party: 
-  phone: 860-966-60836
-  address: 261 Lake Rd
+tags: Voter
+caption: Voters/Peter Lawson
+first-name: Peter
+last-name: Lawson
+middle-name: W
+suffix: 
+full-name: Peter Lawson
+gender: M
+dob: 1976-01-21
+age: 47
+party: 
+phone: 860-966-0836
+address: 261 Lake Rd

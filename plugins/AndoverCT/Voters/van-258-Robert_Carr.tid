@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/258
-  tags: Voter
-  caption: Voters/Robert Carr
-  first-name: Robert
-  last-name: Carr
-  middle-name: A
-  suffix: undefined
-  full-name: Robert Carr
-  gender: M
-  dob: 1941-01-06
-  age: 82
-  party: Republican
-  phone: 860-647-71516
-  address: 288 Boston Hill Rd
+tags: Voter
+caption: Voters/Robert Carr
+first-name: Robert
+last-name: Carr
+middle-name: A
+suffix: 
+full-name: Robert Carr
+gender: M
+dob: 1941-06-01
+age: 82
+party: Republican
+phone: 860-647-1516
+address: 288 Boston Hill Rd

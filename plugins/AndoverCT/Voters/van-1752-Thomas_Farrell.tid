@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1752
-  tags: Voter
-  caption: Voters/Thomas Farrell
-  first-name: Thomas
-  last-name: Farrell
-  middle-name: James
-  suffix: undefined
-  full-name: Thomas Farrell
-  gender: M
-  dob: 1965-01-06
-  age: 58
-  party: 
-  phone: 860-508-81054
-  address: 19 Lakeview Dr
+tags: Voter
+caption: Voters/Thomas Farrell
+first-name: Thomas
+last-name: Farrell
+middle-name: James
+suffix: 
+full-name: Thomas Farrell
+gender: M
+dob: 1965-06-01
+age: 58
+party: 
+phone: 860-508-1054
+address: 19 Lakeview Dr

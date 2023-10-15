@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7367569
-  tags: Voter
-  caption: Voters/James Cargill
-  first-name: James
-  last-name: Cargill
-  middle-name: Scott
-  suffix: undefined
-  full-name: James Cargill
-  gender: M
-  dob: 1963-01-04
-  age: 60
-  party: 
-  phone: 860-982-25448
-  address: 141 Boston Hill Rd
+tags: Voter
+caption: Voters/James Cargill
+first-name: James
+last-name: Cargill
+middle-name: Scott
+suffix: 
+full-name: James Cargill
+gender: M
+dob: 1963-04-01
+age: 60
+party: 
+phone: 860-982-5448
+address: 141 Boston Hill Rd

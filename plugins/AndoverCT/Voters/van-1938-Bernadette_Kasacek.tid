@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1938
-  tags: Voter
-  caption: Voters/Bernadette Kasacek
-  first-name: Bernadette
-  last-name: Kasacek
-  middle-name: L
-  suffix: undefined
-  full-name: Bernadette Kasacek
-  gender: F
-  dob: 1967-01-06
-  age: 56
-  party: Democratic
-  phone: 860-306-64862
-  address: 186 Bear Swamp Rd
+tags: Voter
+caption: Voters/Bernadette Kasacek
+first-name: Bernadette
+last-name: Kasacek
+middle-name: L
+suffix: 
+full-name: Bernadette Kasacek
+gender: F
+dob: 1967-06-01
+age: 56
+party: Democratic
+phone: 860-306-4862
+address: 186 Bear Swamp Rd

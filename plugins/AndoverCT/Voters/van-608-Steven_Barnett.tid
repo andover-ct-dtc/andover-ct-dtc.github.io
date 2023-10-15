@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/608
-  tags: Voter
-  caption: Voters/Steven Barnett
-  first-name: Steven
-  last-name: Barnett
-  middle-name: M
-  suffix: undefined
-  full-name: Steven Barnett
-  gender: M
-  dob: 1954-01-10
-  age: 69
-  party: Republican
-  phone: 860-402-28146
-  address: 355 Hebron Rd
+tags: Voter
+caption: Voters/Steven Barnett
+first-name: Steven
+last-name: Barnett
+middle-name: M
+suffix: 
+full-name: Steven Barnett
+gender: M
+dob: 1954-10-01
+age: 69
+party: Republican
+phone: 860-402-8146
+address: 355 Hebron Rd

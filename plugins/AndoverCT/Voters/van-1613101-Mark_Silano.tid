@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1613101
-  tags: Voter
-  caption: Voters/Mark Silano
-  first-name: Mark
-  last-name: Silano
-  middle-name: Angelo
-  suffix: undefined
-  full-name: Mark Silano
-  gender: M
-  dob: 1973-01-02
-  age: 50
-  party: Republican
-  phone: 860-605-56390
-  address: 485 Lake Rd
+tags: Voter
+caption: Voters/Mark Silano
+first-name: Mark
+last-name: Silano
+middle-name: Angelo
+suffix: 
+full-name: Mark Silano
+gender: M
+dob: 1973-02-01
+age: 50
+party: Republican
+phone: 860-605-6390
+address: 485 Lake Rd

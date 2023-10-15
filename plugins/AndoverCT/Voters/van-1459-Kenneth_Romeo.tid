@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1459
-  tags: Voter
-  caption: Voters/Kenneth Romeo
-  first-name: Kenneth
-  last-name: Romeo
-  middle-name: Alan
-  suffix: undefined
-  full-name: Kenneth Romeo
-  gender: M
-  dob: 1970-01-08
-  age: 53
-  party: 
-  phone: 860-490-03830
-  address: 34 Ridge Rd
+tags: Voter
+caption: Voters/Kenneth Romeo
+first-name: Kenneth
+last-name: Romeo
+middle-name: Alan
+suffix: 
+full-name: Kenneth Romeo
+gender: M
+dob: 1970-08-01
+age: 53
+party: 
+phone: 860-490-3830
+address: 34 Ridge Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/344271
-  tags: Voter
-  caption: Voters/Paul Betts
-  first-name: Paul
-  last-name: Betts
-  middle-name: W
-  suffix: undefined
-  full-name: Paul Betts
-  gender: M
-  dob: 1954-01-03
-  age: 69
-  party: 
-  phone: 860-450-06976
-  address: 6 Stanley Dr
+tags: Voter
+caption: Voters/Paul Betts
+first-name: Paul
+last-name: Betts
+middle-name: W
+suffix: 
+full-name: Paul Betts
+gender: M
+dob: 1954-03-01
+age: 69
+party: 
+phone: 860-450-6976
+address: 6 Stanley Dr

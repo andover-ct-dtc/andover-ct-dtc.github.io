@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7488645
-  tags: Voter
-  caption: Voters/Brooke Martins
-  first-name: Brooke
-  last-name: Martins
-  middle-name: A
-  suffix: undefined
-  full-name: Brooke Martins
-  gender: F
-  dob: 1995-01-08
-  age: 28
-  party: Democratic
-  phone: 860-328-83991
-  address: 16 Chesterbrook Ln
+tags: Voter
+caption: Voters/Brooke Martins
+first-name: Brooke
+last-name: Martins
+middle-name: A
+suffix: 
+full-name: Brooke Martins
+gender: F
+dob: 1995-08-01
+age: 28
+party: Democratic
+phone: 860-328-3991
+address: 16 Chesterbrook Ln

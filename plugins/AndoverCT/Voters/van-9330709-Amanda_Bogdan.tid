@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9330709
-  tags: Voter
-  caption: Voters/Amanda Bogdan
-  first-name: Amanda
-  last-name: Bogdan
-  middle-name: R
-  suffix: undefined
-  full-name: Amanda Bogdan
-  gender: F
-  dob: 2002-01-02
-  age: 21
-  party: Republican
-  phone: 860-742-26880
-  address: 10 Dogwood Dr
+tags: Voter
+caption: Voters/Amanda Bogdan
+first-name: Amanda
+last-name: Bogdan
+middle-name: R
+suffix: 
+full-name: Amanda Bogdan
+gender: F
+dob: 2002-02-01
+age: 21
+party: Republican
+phone: 860-742-6880
+address: 10 Dogwood Dr

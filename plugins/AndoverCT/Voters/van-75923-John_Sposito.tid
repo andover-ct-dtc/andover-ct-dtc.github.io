@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/75923
-  tags: Voter
-  caption: Voters/John Sposito III
-  first-name: John
-  last-name: Sposito
-  middle-name: J
-  suffix: undefined
-  full-name: John Sposito III
-  gender: M
-  dob: 1970-01-11
-  age: 52
-  party: Republican
-  phone: 860-558-89587
-  address: 56 Gilead Rd
+tags: Voter
+caption: Voters/John Sposito III
+first-name: John
+last-name: Sposito
+middle-name: J
+suffix: 
+full-name: John Sposito III
+gender: M
+dob: 1970-11-01
+age: 52
+party: Republican
+phone: 860-558-9587
+address: 56 Gilead Rd

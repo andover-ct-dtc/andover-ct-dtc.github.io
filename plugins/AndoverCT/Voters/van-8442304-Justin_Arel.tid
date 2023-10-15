@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/8442304
-  tags: Voter
-  caption: Voters/Justin Arel
-  first-name: Justin
-  last-name: Arel
-  middle-name: David
-  suffix: undefined
-  full-name: Justin Arel
-  gender: M
-  dob: 2001-01-09
-  age: 22
-  party: 
-  phone: 860-918-86135
-  address: 224 Lake Rd
+tags: Voter
+caption: Voters/Justin Arel
+first-name: Justin
+last-name: Arel
+middle-name: David
+suffix: 
+full-name: Justin Arel
+gender: M
+dob: 2001-09-01
+age: 22
+party: 
+phone: 860-918-6135
+address: 224 Lake Rd

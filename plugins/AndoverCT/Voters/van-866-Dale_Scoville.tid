@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/866
-  tags: Voter
-  caption: Voters/Dale Scoville
-  first-name: Dale
-  last-name: Scoville
-  middle-name: R
-  suffix: undefined
-  full-name: Dale Scoville
-  gender: M
-  dob: 1962-01-06
-  age: 61
-  party: 
-  phone: 860-428-82179
-  address: 275 Gilead Rd
+tags: Voter
+caption: Voters/Dale Scoville
+first-name: Dale
+last-name: Scoville
+middle-name: R
+suffix: 
+full-name: Dale Scoville
+gender: M
+dob: 1962-06-01
+age: 61
+party: 
+phone: 860-428-2179
+address: 275 Gilead Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9240749
-  tags: Voter
-  caption: Voters/Joseph Doyle
-  first-name: Joseph
-  last-name: Doyle
-  middle-name: Austin
-  suffix: undefined
-  full-name: Joseph Doyle
-  gender: M
-  dob: 1997-01-10
-  age: 26
-  party: 
-  phone: 860-742-26505
-  address: 12 Rose Ln
+tags: Voter
+caption: Voters/Joseph Doyle
+first-name: Joseph
+last-name: Doyle
+middle-name: Austin
+suffix: 
+full-name: Joseph Doyle
+gender: M
+dob: 1997-10-01
+age: 26
+party: 
+phone: 860-742-6505
+address: 12 Rose Ln

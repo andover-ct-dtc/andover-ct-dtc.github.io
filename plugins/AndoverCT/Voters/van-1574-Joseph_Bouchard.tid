@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1574
-  tags: Voter
-  caption: Voters/Joseph Bouchard
-  first-name: Joseph
-  last-name: Bouchard
-  middle-name: Andreeugene
-  suffix: undefined
-  full-name: Joseph Bouchard
-  gender: M
-  dob: 1946-01-02
-  age: 77
-  party: Republican
-  phone: 860-250-09092
-  address: 277 Long Hill Rd
+tags: Voter
+caption: Voters/Joseph Bouchard
+first-name: Joseph
+last-name: Bouchard
+middle-name: Andreeugene
+suffix: 
+full-name: Joseph Bouchard
+gender: M
+dob: 1946-02-01
+age: 77
+party: Republican
+phone: 860-250-9092
+address: 277 Long Hill Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1714
-  tags: Voter
-  caption: Voters/Trevor Micoletti
-  first-name: Trevor
-  last-name: Micoletti
-  middle-name: C
-  suffix: undefined
-  full-name: Trevor Micoletti
-  gender: M
-  dob: 1965-01-10
-  age: 58
-  party: Democratic
-  phone: 860-742-20425
-  address: 155 Lake Rd
+tags: Voter
+caption: Voters/Trevor Micoletti
+first-name: Trevor
+last-name: Micoletti
+middle-name: C
+suffix: 
+full-name: Trevor Micoletti
+gender: M
+dob: 1965-10-01
+age: 58
+party: Democratic
+phone: 860-742-0425
+address: 155 Lake Rd

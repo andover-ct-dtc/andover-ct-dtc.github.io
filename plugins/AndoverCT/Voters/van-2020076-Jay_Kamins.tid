@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2020076
-  tags: Voter
-  caption: Voters/Jay Kamins
-  first-name: Jay
-  last-name: Kamins
-  middle-name: Ryan
-  suffix: undefined
-  full-name: Jay Kamins
-  gender: M
-  dob: 1970-01-09
-  age: 53
-  party: Democratic
-  phone: 860-742-25812
-  address: 104 West St
+tags: Voter
+caption: Voters/Jay Kamins
+first-name: Jay
+last-name: Kamins
+middle-name: Ryan
+suffix: 
+full-name: Jay Kamins
+gender: M
+dob: 1970-09-01
+age: 53
+party: Democratic
+phone: 860-742-5812
+address: 104 West St

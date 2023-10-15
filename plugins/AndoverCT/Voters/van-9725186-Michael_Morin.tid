@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9725186
-  tags: Voter
-  caption: Voters/Michael Morin
-  first-name: Michael
-  last-name: Morin
-  middle-name: Raymond
-  suffix: undefined
-  full-name: Michael Morin
-  gender: M
-  dob: 1991-01-03
-  age: 32
-  party: 
-  phone: 860-895-53048
-  address: 786 East St
+tags: Voter
+caption: Voters/Michael Morin
+first-name: Michael
+last-name: Morin
+middle-name: Raymond
+suffix: 
+full-name: Michael Morin
+gender: M
+dob: 1991-03-01
+age: 32
+party: 
+phone: 860-895-3048
+address: 786 East St

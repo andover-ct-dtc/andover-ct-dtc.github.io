@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1650
-  tags: Voter
-  caption: Voters/Whitney Covell
-  first-name: Whitney
-  last-name: Covell
-  middle-name: Thatch
-  suffix: undefined
-  full-name: Whitney Covell
-  gender: F
-  dob: 1969-01-06
-  age: 54
-  party: Republican
-  phone: 860-428-80041
-  address: 39 Townsend Rd
+tags: Voter
+caption: Voters/Whitney Covell
+first-name: Whitney
+last-name: Covell
+middle-name: Thatch
+suffix: 
+full-name: Whitney Covell
+gender: F
+dob: 1969-06-01
+age: 54
+party: Republican
+phone: 860-428-0041
+address: 39 Townsend Rd

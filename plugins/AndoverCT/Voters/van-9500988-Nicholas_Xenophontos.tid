@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9500988
-  tags: Voter
-  caption: Voters/Nicholas Xenophontos
-  first-name: Nicholas
-  last-name: Xenophontos
-  middle-name: J
-  suffix: undefined
-  full-name: Nicholas Xenophontos
-  gender: M
-  dob: 2001-01-06
-  age: 22
-  party: Democratic
-  phone: 
-  address: 34 Old Farms Rd
+tags: Voter
+caption: Voters/Nicholas Xenophontos
+first-name: Nicholas
+last-name: Xenophontos
+middle-name: J
+suffix: 
+full-name: Nicholas Xenophontos
+gender: M
+dob: 2001-06-01
+age: 22
+party: Democratic
+phone: 
+address: 34 Old Farms Rd

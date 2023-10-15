@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9240745
-  tags: Voter
-  caption: Voters/Vera Killian
-  first-name: Vera
-  last-name: Killian
-  middle-name: R
-  suffix: undefined
-  full-name: Vera Killian
-  gender: F
-  dob: 1971-01-12
-  age: 51
-  party: 
-  phone: 860-742-21859
-  address: 262 Lake Rd
+tags: Voter
+caption: Voters/Vera Killian
+first-name: Vera
+last-name: Killian
+middle-name: R
+suffix: 
+full-name: Vera Killian
+gender: F
+dob: 1971-12-01
+age: 51
+party: 
+phone: 860-742-1859
+address: 262 Lake Rd

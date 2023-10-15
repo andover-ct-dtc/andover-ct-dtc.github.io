@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/774704
-  tags: Voter
-  caption: Voters/Nancy Fracasse
-  first-name: Nancy
-  last-name: Fracasse
-  middle-name: A
-  suffix: undefined
-  full-name: Nancy Fracasse
-  gender: F
-  dob: 1965-01-02
-  age: 58
-  party: Democratic
-  phone: 203-651-19485
-  address: 740 East St
+tags: Voter
+caption: Voters/Nancy Fracasse
+first-name: Nancy
+last-name: Fracasse
+middle-name: A
+suffix: 
+full-name: Nancy Fracasse
+gender: F
+dob: 1965-02-01
+age: 58
+party: Democratic
+phone: 203-651-9485
+address: 740 East St

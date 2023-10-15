@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1751
-  tags: Voter
-  caption: Voters/Debra Thompson
-  first-name: Debra
-  last-name: Thompson
-  middle-name: Mendola
-  suffix: undefined
-  full-name: Debra Thompson
-  gender: F
-  dob: 1965-01-08
-  age: 58
-  party: 
-  phone: 860-810-02506
-  address: 94 Lake Rd
+tags: Voter
+caption: Voters/Debra Thompson
+first-name: Debra
+last-name: Thompson
+middle-name: Mendola
+suffix: 
+full-name: Debra Thompson
+gender: F
+dob: 1965-08-01
+age: 58
+party: 
+phone: 860-810-2506
+address: 94 Lake Rd

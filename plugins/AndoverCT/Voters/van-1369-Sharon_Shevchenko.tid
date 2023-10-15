@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1369
-  tags: Voter
-  caption: Voters/Sharon Shevchenko
-  first-name: Sharon
-  last-name: Shevchenko
-  middle-name: B
-  suffix: undefined
-  full-name: Sharon Shevchenko
-  gender: F
-  dob: 1962-01-09
-  age: 61
-  party: Democratic
-  phone: 860-742-25983
-  address: 191 Bunker Hill Rd
+tags: Voter
+caption: Voters/Sharon Shevchenko
+first-name: Sharon
+last-name: Shevchenko
+middle-name: B
+suffix: 
+full-name: Sharon Shevchenko
+gender: F
+dob: 1962-09-01
+age: 61
+party: Democratic
+phone: 860-742-5983
+address: 191 Bunker Hill Rd

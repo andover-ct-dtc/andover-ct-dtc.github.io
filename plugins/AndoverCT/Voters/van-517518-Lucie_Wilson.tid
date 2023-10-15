@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/517518
-  tags: Voter
-  caption: Voters/Lucie Wilson
-  first-name: Lucie
-  last-name: Wilson
-  middle-name: Lee
-  suffix: undefined
-  full-name: Lucie Wilson
-  gender: F
-  dob: 1979-01-08
-  age: 44
-  party: Republican
-  phone: 860-742-29556
-  address: 428 Lake Rd
+tags: Voter
+caption: Voters/Lucie Wilson
+first-name: Lucie
+last-name: Wilson
+middle-name: Lee
+suffix: 
+full-name: Lucie Wilson
+gender: F
+dob: 1979-08-01
+age: 44
+party: Republican
+phone: 860-742-9556
+address: 428 Lake Rd

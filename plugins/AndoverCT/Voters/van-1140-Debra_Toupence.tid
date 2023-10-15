@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1140
-  tags: Voter
-  caption: Voters/Debra Toupence
-  first-name: Debra
-  last-name: Toupence
-  middle-name: M
-  suffix: undefined
-  full-name: Debra Toupence
-  gender: F
-  dob: 1966-01-05
-  age: 57
-  party: Democratic
-  phone: 860-916-66016
-  address: 67 Times Farm Rd
+tags: Voter
+caption: Voters/Debra Toupence
+first-name: Debra
+last-name: Toupence
+middle-name: M
+suffix: 
+full-name: Debra Toupence
+gender: F
+dob: 1966-05-01
+age: 57
+party: Democratic
+phone: 860-916-6016
+address: 67 Times Farm Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/777
-  tags: Voter
-  caption: Voters/Joseph Paluso II
-  first-name: Joseph
-  last-name: Paluso
-  middle-name: J
-  suffix: undefined
-  full-name: Joseph Paluso II
-  gender: M
-  dob: 1971-01-11
-  age: 51
-  party: Independent
-  phone: 860-742-29477
-  address: 69 Route 87
+tags: Voter
+caption: Voters/Joseph Paluso II
+first-name: Joseph
+last-name: Paluso
+middle-name: J
+suffix: 
+full-name: Joseph Paluso II
+gender: M
+dob: 1971-11-01
+age: 51
+party: Independent
+phone: 860-742-9477
+address: 69 Route 87

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/180
-  tags: Voter
-  caption: Voters/Edward Jurovaty Jr
-  first-name: Edward
-  last-name: Jurovaty
-  middle-name: S
-  suffix: undefined
-  full-name: Edward Jurovaty Jr
-  gender: M
-  dob: 1947-09-01
-  age: 76
-  party: Republican
-  phone: 207-290-05188
-  address: 115 Jurovaty Rd
+tags: Voter
+caption: Voters/Edward Jurovaty Jr
+first-name: Edward
+last-name: Jurovaty
+middle-name: S
+suffix: 
+full-name: Edward Jurovaty Jr
+gender: M
+dob: 1947-01-09
+age: 76
+party: Republican
+phone: 207-290-5188
+address: 115 Jurovaty Rd

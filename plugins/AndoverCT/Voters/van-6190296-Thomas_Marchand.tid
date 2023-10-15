@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/6190296
-  tags: Voter
-  caption: Voters/Thomas Marchand
-  first-name: Thomas
-  last-name: Marchand
-  middle-name: J
-  suffix: undefined
-  full-name: Thomas Marchand
-  gender: M
-  dob: 1971-01-04
-  age: 52
-  party: 
-  phone: 860-467-76227
-  address: 109 Bunker Hill Rd
+tags: Voter
+caption: Voters/Thomas Marchand
+first-name: Thomas
+last-name: Marchand
+middle-name: J
+suffix: 
+full-name: Thomas Marchand
+gender: M
+dob: 1971-04-01
+age: 52
+party: 
+phone: 860-467-6227
+address: 109 Bunker Hill Rd

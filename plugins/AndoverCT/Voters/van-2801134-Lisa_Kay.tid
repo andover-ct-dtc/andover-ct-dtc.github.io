@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2801134
-  tags: Voter
-  caption: Voters/Lisa Kay
-  first-name: Lisa
-  last-name: Kay
-  middle-name: D
-  suffix: undefined
-  full-name: Lisa Kay
-  gender: F
-  dob: 1966-01-06
-  age: 57
-  party: Democratic
-  phone: 860-776-66320
-  address: 10 Woodside Ln
+tags: Voter
+caption: Voters/Lisa Kay
+first-name: Lisa
+last-name: Kay
+middle-name: D
+suffix: 
+full-name: Lisa Kay
+gender: F
+dob: 1966-06-01
+age: 57
+party: Democratic
+phone: 860-776-6320
+address: 10 Woodside Ln

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7066726
-  tags: Voter
-  caption: Voters/Jered Delventhal
-  first-name: Jered
-  last-name: Delventhal
-  middle-name: B
-  suffix: undefined
-  full-name: Jered Delventhal
-  gender: M
-  dob: 1997-01-03
-  age: 26
-  party: Republican
-  phone: 860-759-99419
-  address: 128 Wheeling Rd
+tags: Voter
+caption: Voters/Jered Delventhal
+first-name: Jered
+last-name: Delventhal
+middle-name: B
+suffix: 
+full-name: Jered Delventhal
+gender: M
+dob: 1997-03-01
+age: 26
+party: Republican
+phone: 860-759-9419
+address: 128 Wheeling Rd

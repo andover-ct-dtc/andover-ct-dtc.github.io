@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9783970
-  tags: Voter
-  caption: Voters/Marguerite Idjadi
-  first-name: Marguerite
-  last-name: Idjadi
-  middle-name: Ann
-  suffix: undefined
-  full-name: Marguerite Idjadi
-  gender: F
-  dob: 1947-01-10
-  age: 76
-  party: Democratic
-  phone: 
-  address: 39 Stanley Dr
+tags: Voter
+caption: Voters/Marguerite Idjadi
+first-name: Marguerite
+last-name: Idjadi
+middle-name: Ann
+suffix: 
+full-name: Marguerite Idjadi
+gender: F
+dob: 1947-10-01
+age: 76
+party: Democratic
+phone: 
+address: 39 Stanley Dr

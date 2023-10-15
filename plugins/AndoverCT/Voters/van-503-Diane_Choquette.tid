@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/503
-  tags: Voter
-  caption: Voters/Diane Choquette
-  first-name: Diane
-  last-name: Choquette
-  middle-name: P
-  suffix: undefined
-  full-name: Diane Choquette
-  gender: F
-  dob: 1956-01-04
-  age: 67
-  party: Republican
-  phone: 860-742-20713
-  address: 105 Boston Hill Rd
+tags: Voter
+caption: Voters/Diane Choquette
+first-name: Diane
+last-name: Choquette
+middle-name: P
+suffix: 
+full-name: Diane Choquette
+gender: F
+dob: 1956-04-01
+age: 67
+party: Republican
+phone: 860-742-0713
+address: 105 Boston Hill Rd

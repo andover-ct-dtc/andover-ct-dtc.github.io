@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7438225
-  tags: Voter
-  caption: Voters/Jennifer Thompson
-  first-name: Jennifer
-  last-name: Thompson
-  middle-name: Lyn
-  suffix: undefined
-  full-name: Jennifer Thompson
-  gender: F
-  dob: 1986-01-03
-  age: 37
-  party: Republican
-  phone: 860-559-94796
-  address: 19 Birch Dr
+tags: Voter
+caption: Voters/Jennifer Thompson
+first-name: Jennifer
+last-name: Thompson
+middle-name: Lyn
+suffix: 
+full-name: Jennifer Thompson
+gender: F
+dob: 1986-03-01
+age: 37
+party: Republican
+phone: 860-559-4796
+address: 19 Birch Dr

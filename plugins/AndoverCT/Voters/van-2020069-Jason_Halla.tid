@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2020069
-  tags: Voter
-  caption: Voters/Jason Halla
-  first-name: Jason
-  last-name: Halla
-  middle-name: J
-  suffix: undefined
-  full-name: Jason Halla
-  gender: M
-  dob: 1976-01-12
-  age: 46
-  party: 
-  phone: 860-498-81022
-  address: 219 Route 6
+tags: Voter
+caption: Voters/Jason Halla
+first-name: Jason
+last-name: Halla
+middle-name: J
+suffix: 
+full-name: Jason Halla
+gender: M
+dob: 1976-12-01
+age: 46
+party: 
+phone: 860-498-1022
+address: 219 Route 6

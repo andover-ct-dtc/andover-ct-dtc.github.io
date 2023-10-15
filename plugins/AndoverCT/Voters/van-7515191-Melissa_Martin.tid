@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7515191
-  tags: Voter
-  caption: Voters/Melissa Martin
-  first-name: Melissa
-  last-name: Martin
-  middle-name: Lynn
-  suffix: undefined
-  full-name: Melissa Martin
-  gender: F
-  dob: 1987-01-09
-  age: 36
-  party: 
-  phone: 860-304-45784
-  address: 45 Windrush Ln
+tags: Voter
+caption: Voters/Melissa Martin
+first-name: Melissa
+last-name: Martin
+middle-name: Lynn
+suffix: 
+full-name: Melissa Martin
+gender: F
+dob: 1987-09-01
+age: 36
+party: 
+phone: 860-304-5784
+address: 45 Windrush Ln

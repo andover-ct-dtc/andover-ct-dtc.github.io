@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1430
-  tags: Voter
-  caption: Voters/Edward St Pierre
-  first-name: Edward
-  last-name: St Pierre
-  middle-name: E
-  suffix: undefined
-  full-name: Edward St Pierre
-  gender: M
-  dob: 1969-01-04
-  age: 54
-  party: Republican
-  phone: 860-857-77159
-  address: 60 Stanley Dr
+tags: Voter
+caption: Voters/Edward St Pierre
+first-name: Edward
+last-name: St Pierre
+middle-name: E
+suffix: 
+full-name: Edward St Pierre
+gender: M
+dob: 1969-04-01
+age: 54
+party: Republican
+phone: 860-857-7159
+address: 60 Stanley Dr

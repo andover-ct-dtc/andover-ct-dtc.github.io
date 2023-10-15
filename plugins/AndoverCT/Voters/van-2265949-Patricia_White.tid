@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2265949
-  tags: Voter
-  caption: Voters/Patricia White
-  first-name: Patricia
-  last-name: White
-  middle-name: A
-  suffix: undefined
-  full-name: Patricia White
-  gender: F
-  dob: 1943-01-03
-  age: 80
-  party: 
-  phone: 860-508-87170
-  address: 25 Riverside Dr # 3-B
+tags: Voter
+caption: Voters/Patricia White
+first-name: Patricia
+last-name: White
+middle-name: A
+suffix: 
+full-name: Patricia White
+gender: F
+dob: 1943-03-01
+age: 80
+party: 
+phone: 860-508-7170
+address: 25 Riverside Dr # 3-B

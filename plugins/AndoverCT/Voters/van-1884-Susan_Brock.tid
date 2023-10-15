@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1884
-  tags: Voter
-  caption: Voters/Susan Brock
-  first-name: Susan
-  last-name: Brock
-  middle-name: Christine
-  suffix: undefined
-  full-name: Susan Brock
-  gender: F
-  dob: 1965-01-03
-  age: 58
-  party: 
-  phone: 860-256-65110
-  address: 59 Burnap Brook Rd
+tags: Voter
+caption: Voters/Susan Brock
+first-name: Susan
+last-name: Brock
+middle-name: Christine
+suffix: 
+full-name: Susan Brock
+gender: F
+dob: 1965-03-01
+age: 58
+party: 
+phone: 860-256-5110
+address: 59 Burnap Brook Rd

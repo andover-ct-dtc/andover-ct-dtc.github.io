@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1227
-  tags: Voter
-  caption: Voters/John Fusco
-  first-name: John
-  last-name: Fusco
-  middle-name: J
-  suffix: undefined
-  full-name: John Fusco
-  gender: M
-  dob: 1968-01-07
-  age: 55
-  party: Republican
-  phone: 860-498-81067
-  address: 203 Bunker Hill Rd
+tags: Voter
+caption: Voters/John Fusco
+first-name: John
+last-name: Fusco
+middle-name: J
+suffix: 
+full-name: John Fusco
+gender: M
+dob: 1968-07-01
+age: 55
+party: Republican
+phone: 860-498-1067
+address: 203 Bunker Hill Rd

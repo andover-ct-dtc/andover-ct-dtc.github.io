@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9501001
-  tags: Voter
-  caption: Voters/Charles Mager
-  first-name: Charles
-  last-name: Mager
-  middle-name: William
-  suffix: undefined
-  full-name: Charles Mager
-  gender: M
-  dob: 1993-01-06
-  age: 30
-  party: Republican
-  phone: 860-593-39868
-  address: 40 Birch Dr
+tags: Voter
+caption: Voters/Charles Mager
+first-name: Charles
+last-name: Mager
+middle-name: William
+suffix: 
+full-name: Charles Mager
+gender: M
+dob: 1993-06-01
+age: 30
+party: Republican
+phone: 860-593-9868
+address: 40 Birch Dr

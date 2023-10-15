@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1083
-  tags: Voter
-  caption: Voters/Cathy Woodward
-  first-name: Cathy
-  last-name: Woodward
-  middle-name: L
-  suffix: undefined
-  full-name: Cathy Woodward
-  gender: F
-  dob: 1963-01-04
-  age: 60
-  party: Democratic
-  phone: 
-  address: 255 Long Hill Rd
+tags: Voter
+caption: Voters/Cathy Woodward
+first-name: Cathy
+last-name: Woodward
+middle-name: L
+suffix: 
+full-name: Cathy Woodward
+gender: F
+dob: 1963-04-01
+age: 60
+party: Democratic
+phone: 
+address: 255 Long Hill Rd

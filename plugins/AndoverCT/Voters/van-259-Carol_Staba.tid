@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/259
-  tags: Voter
-  caption: Voters/Carol Staba
-  first-name: Carol
-  last-name: Staba
-  middle-name: K
-  suffix: undefined
-  full-name: Carol Staba
-  gender: F
-  dob: 1952-01-03
-  age: 71
-  party: Democratic
-  phone: 
-  address: 99 Townsend Rd
+tags: Voter
+caption: Voters/Carol Staba
+first-name: Carol
+last-name: Staba
+middle-name: K
+suffix: 
+full-name: Carol Staba
+gender: F
+dob: 1952-03-01
+age: 71
+party: Democratic
+phone: 
+address: 99 Townsend Rd

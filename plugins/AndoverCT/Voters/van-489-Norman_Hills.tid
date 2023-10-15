@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/489
-  tags: Voter
-  caption: Voters/Norman Hills
-  first-name: Norman
-  last-name: Hills
-  middle-name: R
-  suffix: undefined
-  full-name: Norman Hills
-  gender: M
-  dob: 1955-01-10
-  age: 68
-  party: Republican
-  phone: 860-742-28988
-  address: 135 Boston Hill Rd
+tags: Voter
+caption: Voters/Norman Hills
+first-name: Norman
+last-name: Hills
+middle-name: R
+suffix: 
+full-name: Norman Hills
+gender: M
+dob: 1955-10-01
+age: 68
+party: Republican
+phone: 860-742-8988
+address: 135 Boston Hill Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9415325
-  tags: Voter
-  caption: Voters/Robert Stack Jr
-  first-name: Robert
-  last-name: Stack
-  middle-name: G
-  suffix: undefined
-  full-name: Robert Stack Jr
-  gender: M
-  dob: 1986-01-03
-  age: 37
-  party: Democratic
-  phone: 860-294-41874
-  address: 81 Hutchinson Rd
+tags: Voter
+caption: Voters/Robert Stack Jr
+first-name: Robert
+last-name: Stack
+middle-name: G
+suffix: 
+full-name: Robert Stack Jr
+gender: M
+dob: 1986-03-01
+age: 37
+party: Democratic
+phone: 860-294-1874
+address: 81 Hutchinson Rd

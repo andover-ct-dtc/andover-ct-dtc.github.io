@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7488602
-  tags: Voter
-  caption: Voters/Paul Fournier
-  first-name: Paul
-  last-name: Fournier
-  middle-name: D
-  suffix: undefined
-  full-name: Paul Fournier
-  gender: M
-  dob: 1954-01-12
-  age: 68
-  party: Democratic
-  phone: 207-671-18877
-  address: 30 Gilead Rd
+tags: Voter
+caption: Voters/Paul Fournier
+first-name: Paul
+last-name: Fournier
+middle-name: D
+suffix: 
+full-name: Paul Fournier
+gender: M
+dob: 1954-12-01
+age: 68
+party: Democratic
+phone: 207-671-8877
+address: 30 Gilead Rd

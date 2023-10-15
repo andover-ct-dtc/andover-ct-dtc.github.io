@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1930
-  tags: Voter
-  caption: Voters/Thomas Dubois
-  first-name: Thomas
-  last-name: Dubois
-  middle-name: J
-  suffix: undefined
-  full-name: Thomas Dubois
-  gender: M
-  dob: 1962-01-11
-  age: 60
-  party: Republican
-  phone: 860-798-83376
-  address: 345 Route 6
+tags: Voter
+caption: Voters/Thomas Dubois
+first-name: Thomas
+last-name: Dubois
+middle-name: J
+suffix: 
+full-name: Thomas Dubois
+gender: M
+dob: 1962-11-01
+age: 60
+party: Republican
+phone: 860-798-3376
+address: 345 Route 6

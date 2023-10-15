@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9171480
-  tags: Voter
-  caption: Voters/Alex Consadene
-  first-name: Alex
-  last-name: Consadene
-  middle-name: 
-  suffix: undefined
-  full-name: Alex Consadene
-  gender: M
-  dob: 2000-01-12
-  age: 22
-  party: Republican
-  phone: 860-742-26007
-  address: 79 Windrush Ln
+tags: Voter
+caption: Voters/Alex Consadene
+first-name: Alex
+last-name: Consadene
+middle-name: 
+suffix: 
+full-name: Alex Consadene
+gender: M
+dob: 2000-12-01
+age: 22
+party: Republican
+phone: 860-742-6007
+address: 79 Windrush Ln

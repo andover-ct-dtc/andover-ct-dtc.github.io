@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1649209
-  tags: Voter
-  caption: Voters/Thomas Lake
-  first-name: Thomas
-  last-name: Lake
-  middle-name: B
-  suffix: undefined
-  full-name: Thomas Lake
-  gender: M
-  dob: 1961-01-08
-  age: 62
-  party: Republican
-  phone: 860-498-81137
-  address: 46 Times Farm Rd
+tags: Voter
+caption: Voters/Thomas Lake
+first-name: Thomas
+last-name: Lake
+middle-name: B
+suffix: 
+full-name: Thomas Lake
+gender: M
+dob: 1961-08-01
+age: 62
+party: Republican
+phone: 860-498-1137
+address: 46 Times Farm Rd

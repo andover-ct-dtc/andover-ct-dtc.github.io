@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/238608
-  tags: Voter
-  caption: Voters/Justin Proto
-  first-name: Justin
-  last-name: Proto
-  middle-name: F
-  suffix: undefined
-  full-name: Justin Proto
-  gender: M
-  dob: 1984-01-03
-  age: 39
-  party: Democratic
-  phone: 203-927-76384
-  address: 76 Long Hill Rd
+tags: Voter
+caption: Voters/Justin Proto
+first-name: Justin
+last-name: Proto
+middle-name: F
+suffix: 
+full-name: Justin Proto
+gender: M
+dob: 1984-03-01
+age: 39
+party: Democratic
+phone: 203-927-6384
+address: 76 Long Hill Rd

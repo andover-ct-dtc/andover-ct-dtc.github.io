@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1191
-  tags: Voter
-  caption: Voters/Rocco Desimone Jr
-  first-name: Rocco
-  last-name: Desimone
-  middle-name: J
-  suffix: undefined
-  full-name: Rocco Desimone Jr
-  gender: M
-  dob: 1970-01-07
-  age: 53
-  party: Republican
-  phone: 860-951-18958
-  address: 161 Hebron Rd
+tags: Voter
+caption: Voters/Rocco Desimone Jr
+first-name: Rocco
+last-name: Desimone
+middle-name: J
+suffix: 
+full-name: Rocco Desimone Jr
+gender: M
+dob: 1970-07-01
+age: 53
+party: Republican
+phone: 860-951-8958
+address: 161 Hebron Rd

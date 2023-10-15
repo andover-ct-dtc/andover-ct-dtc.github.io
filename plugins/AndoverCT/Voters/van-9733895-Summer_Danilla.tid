@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9733895
-  tags: Voter
-  caption: Voters/Summer Danilla
-  first-name: Summer
-  last-name: Danilla
-  middle-name: Ann
-  suffix: undefined
-  full-name: Summer Danilla
-  gender: F
-  dob: 1990-01-12
-  age: 32
-  party: 
-  phone: 386-679-91687
-  address: 20 Pine Ridge Dr
+tags: Voter
+caption: Voters/Summer Danilla
+first-name: Summer
+last-name: Danilla
+middle-name: Ann
+suffix: 
+full-name: Summer Danilla
+gender: F
+dob: 1990-12-01
+age: 32
+party: 
+phone: 386-679-1687
+address: 20 Pine Ridge Dr

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1222
-  tags: Voter
-  caption: Voters/Michail Campbell
-  first-name: Michail
-  last-name: Campbell
-  middle-name: A
-  suffix: undefined
-  full-name: Michail Campbell
-  gender: M
-  dob: 1948-01-10
-  age: 75
-  party: Republican
-  phone: 860-268-88514
-  address: 21 Oak Farms Rd
+tags: Voter
+caption: Voters/Michail Campbell
+first-name: Michail
+last-name: Campbell
+middle-name: A
+suffix: 
+full-name: Michail Campbell
+gender: M
+dob: 1948-10-01
+age: 75
+party: Republican
+phone: 860-268-8514
+address: 21 Oak Farms Rd

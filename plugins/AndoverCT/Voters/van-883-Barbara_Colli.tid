@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/883
-  tags: Voter
-  caption: Voters/Barbara Colli
-  first-name: Barbara
-  last-name: Colli
-  middle-name: J
-  suffix: undefined
-  full-name: Barbara Colli
-  gender: F
-  dob: 1956-20-01
-  age: 67
-  party: 
-  phone: 860-645-57675
-  address: 768 East St
+tags: Voter
+caption: Voters/Barbara Colli
+first-name: Barbara
+last-name: Colli
+middle-name: J
+suffix: 
+full-name: Barbara Colli
+gender: F
+dob: 1956-01-20
+age: 67
+party: 
+phone: 860-645-7675
+address: 768 East St

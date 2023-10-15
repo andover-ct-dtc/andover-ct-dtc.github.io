@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/31
-  tags: Voter
-  caption: Voters/Patricia Moriarty
-  first-name: Patricia
-  last-name: Moriarty
-  middle-name: W
-  suffix: undefined
-  full-name: Patricia Moriarty
-  gender: F
-  dob: 1941-01-08
-  age: 82
-  party: Democratic
-  phone: 860-742-28634
-  address: 43 Parker Bridge Rd
+tags: Voter
+caption: Voters/Patricia Moriarty
+first-name: Patricia
+last-name: Moriarty
+middle-name: W
+suffix: 
+full-name: Patricia Moriarty
+gender: F
+dob: 1941-08-01
+age: 82
+party: Democratic
+phone: 860-742-8634
+address: 43 Parker Bridge Rd

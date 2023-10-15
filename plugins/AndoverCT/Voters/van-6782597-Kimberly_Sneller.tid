@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/6782597
-  tags: Voter
-  caption: Voters/Kimberly Sneller
-  first-name: Kimberly
-  last-name: Sneller
-  middle-name: A
-  suffix: undefined
-  full-name: Kimberly Sneller
-  gender: F
-  dob: 1980-01-03
-  age: 43
-  party: Democratic
-  phone: 860-977-73115
-  address: 1 Dogwood Dr
+tags: Voter
+caption: Voters/Kimberly Sneller
+first-name: Kimberly
+last-name: Sneller
+middle-name: A
+suffix: 
+full-name: Kimberly Sneller
+gender: F
+dob: 1980-03-01
+age: 43
+party: Democratic
+phone: 860-977-3115
+address: 1 Dogwood Dr

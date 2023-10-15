@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/905
-  tags: Voter
-  caption: Voters/Theodore Bogucki
-  first-name: Theodore
-  last-name: Bogucki
-  middle-name: W
-  suffix: undefined
-  full-name: Theodore Bogucki
-  gender: M
-  dob: 1960-01-09
-  age: 63
-  party: Republican
-  phone: 860-402-22562
-  address: 185 Hebron Rd
+tags: Voter
+caption: Voters/Theodore Bogucki
+first-name: Theodore
+last-name: Bogucki
+middle-name: W
+suffix: 
+full-name: Theodore Bogucki
+gender: M
+dob: 1960-09-01
+age: 63
+party: Republican
+phone: 860-402-2562
+address: 185 Hebron Rd

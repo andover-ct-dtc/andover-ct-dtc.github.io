@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/488
-  tags: Voter
-  caption: Voters/Patricia Hills
-  first-name: Patricia
-  last-name: Hills
-  middle-name: A
-  suffix: undefined
-  full-name: Patricia Hills
-  gender: F
-  dob: 1957-11-01
-  age: 66
-  party: Republican
-  phone: 860-798-81368
-  address: 135 Boston Hill Rd
+tags: Voter
+caption: Voters/Patricia Hills
+first-name: Patricia
+last-name: Hills
+middle-name: A
+suffix: 
+full-name: Patricia Hills
+gender: F
+dob: 1957-01-11
+age: 66
+party: Republican
+phone: 860-798-1368
+address: 135 Boston Hill Rd

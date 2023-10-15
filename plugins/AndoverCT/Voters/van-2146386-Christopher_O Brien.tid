@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2146386
-  tags: Voter
-  caption: Voters/Christopher O Brien
-  first-name: Christopher
-  last-name: O Brien
-  middle-name: John
-  suffix: undefined
-  full-name: Christopher O Brien
-  gender: M
-  dob: 1967-01-05
-  age: 56
-  party: Republican
-  phone: 203-645-58737
-  address: 3 Erdoni Rd
+tags: Voter
+caption: Voters/Christopher O Brien
+first-name: Christopher
+last-name: O Brien
+middle-name: John
+suffix: 
+full-name: Christopher O Brien
+gender: M
+dob: 1967-05-01
+age: 56
+party: Republican
+phone: 203-645-8737
+address: 3 Erdoni Rd

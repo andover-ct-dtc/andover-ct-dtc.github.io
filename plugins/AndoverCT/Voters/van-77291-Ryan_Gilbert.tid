@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/77291
-  tags: Voter
-  caption: Voters/Ryan Gilbert
-  first-name: Ryan
-  last-name: Gilbert
-  middle-name: G
-  suffix: undefined
-  full-name: Ryan Gilbert
-  gender: M
-  dob: 1978-01-12
-  age: 44
-  party: Republican
-  phone: 860-268-82979
-  address: 44 Wales Rd
+tags: Voter
+caption: Voters/Ryan Gilbert
+first-name: Ryan
+last-name: Gilbert
+middle-name: G
+suffix: 
+full-name: Ryan Gilbert
+gender: M
+dob: 1978-12-01
+age: 44
+party: Republican
+phone: 860-268-2979
+address: 44 Wales Rd

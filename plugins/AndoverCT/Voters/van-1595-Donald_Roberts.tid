@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1595
-  tags: Voter
-  caption: Voters/Donald Roberts Jr
-  first-name: Donald
-  last-name: Roberts
-  middle-name: Ray
-  suffix: undefined
-  full-name: Donald Roberts Jr
-  gender: M
-  dob: 1961-01-07
-  age: 62
-  party: 
-  phone: 860-208-85401
-  address: 34 Birch Dr
+tags: Voter
+caption: Voters/Donald Roberts Jr
+first-name: Donald
+last-name: Roberts
+middle-name: Ray
+suffix: 
+full-name: Donald Roberts Jr
+gender: M
+dob: 1961-07-01
+age: 62
+party: 
+phone: 860-208-5401
+address: 34 Birch Dr

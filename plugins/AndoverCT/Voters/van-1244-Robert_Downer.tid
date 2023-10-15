@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1244
-  tags: Voter
-  caption: Voters/Robert Downer
-  first-name: Robert
-  last-name: Downer
-  middle-name: E
-  suffix: undefined
-  full-name: Robert Downer
-  gender: M
-  dob: 1950-01-06
-  age: 73
-  party: 
-  phone: 203-893-30739
-  address: 125 Long Hill Rd
+tags: Voter
+caption: Voters/Robert Downer
+first-name: Robert
+last-name: Downer
+middle-name: E
+suffix: 
+full-name: Robert Downer
+gender: M
+dob: 1950-06-01
+age: 73
+party: 
+phone: 203-893-0739
+address: 125 Long Hill Rd

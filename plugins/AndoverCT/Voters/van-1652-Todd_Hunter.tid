@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1652
-  tags: Voter
-  caption: Voters/Todd Hunter
-  first-name: Todd
-  last-name: Hunter
-  middle-name: J
-  suffix: undefined
-  full-name: Todd Hunter
-  gender: M
-  dob: 1971-01-11
-  age: 51
-  party: Democratic
-  phone: 860-250-06696
-  address: 214 Bear Swamp Rd
+tags: Voter
+caption: Voters/Todd Hunter
+first-name: Todd
+last-name: Hunter
+middle-name: J
+suffix: 
+full-name: Todd Hunter
+gender: M
+dob: 1971-11-01
+age: 51
+party: Democratic
+phone: 860-250-6696
+address: 214 Bear Swamp Rd

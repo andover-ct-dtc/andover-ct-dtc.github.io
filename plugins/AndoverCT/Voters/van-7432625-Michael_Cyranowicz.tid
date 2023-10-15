@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7432625
-  tags: Voter
-  caption: Voters/Michael Cyranowicz
-  first-name: Michael
-  last-name: Cyranowicz
-  middle-name: Vincent
-  suffix: undefined
-  full-name: Michael Cyranowicz
-  gender: M
-  dob: 1985-01-08
-  age: 38
-  party: 
-  phone: 860-646-69510
-  address: 309 Boston Hill Rd
+tags: Voter
+caption: Voters/Michael Cyranowicz
+first-name: Michael
+last-name: Cyranowicz
+middle-name: Vincent
+suffix: 
+full-name: Michael Cyranowicz
+gender: M
+dob: 1985-08-01
+age: 38
+party: 
+phone: 860-646-9510
+address: 309 Boston Hill Rd

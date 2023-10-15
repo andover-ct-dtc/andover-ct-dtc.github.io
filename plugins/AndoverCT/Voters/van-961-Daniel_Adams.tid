@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/961
-  tags: Voter
-  caption: Voters/Daniel Adams
-  first-name: Daniel
-  last-name: Adams
-  middle-name: R
-  suffix: undefined
-  full-name: Daniel Adams
-  gender: M
-  dob: 1967-01-09
-  age: 56
-  party: 
-  phone: 860-861-12675
-  address: 738 East St
+tags: Voter
+caption: Voters/Daniel Adams
+first-name: Daniel
+last-name: Adams
+middle-name: R
+suffix: 
+full-name: Daniel Adams
+gender: M
+dob: 1967-09-01
+age: 56
+party: 
+phone: 860-861-2675
+address: 738 East St

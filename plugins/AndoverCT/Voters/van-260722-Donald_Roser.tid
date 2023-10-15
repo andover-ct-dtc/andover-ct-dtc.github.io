@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/260722
-  tags: Voter
-  caption: Voters/Donald Roser
-  first-name: Donald
-  last-name: Roser
-  middle-name: R
-  suffix: undefined
-  full-name: Donald Roser
-  gender: M
-  dob: 1952-01-02
-  age: 71
-  party: Democratic
-  phone: 860-933-38095
-  address: 241 Lake Rd
+tags: Voter
+caption: Voters/Donald Roser
+first-name: Donald
+last-name: Roser
+middle-name: R
+suffix: 
+full-name: Donald Roser
+gender: M
+dob: 1952-02-01
+age: 71
+party: Democratic
+phone: 860-933-8095
+address: 241 Lake Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1210
-  tags: Voter
-  caption: Voters/Susan Kay
-  first-name: Susan
-  last-name: Kay
-  middle-name: D
-  suffix: undefined
-  full-name: Susan Kay
-  gender: F
-  dob: 1967-01-02
-  age: 56
-  party: Democratic
-  phone: 860-498-81118
-  address: 10 Woodside Ln
+tags: Voter
+caption: Voters/Susan Kay
+first-name: Susan
+last-name: Kay
+middle-name: D
+suffix: 
+full-name: Susan Kay
+gender: F
+dob: 1967-02-01
+age: 56
+party: Democratic
+phone: 860-498-1118
+address: 10 Woodside Ln

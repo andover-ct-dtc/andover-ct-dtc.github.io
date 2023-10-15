@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1918
-  tags: Voter
-  caption: Voters/Anthony Savino
-  first-name: Anthony
-  last-name: Savino
-  middle-name: J
-  suffix: undefined
-  full-name: Anthony Savino
-  gender: M
-  dob: 1962-01-09
-  age: 61
-  party: Democratic
-  phone: 860-512-20441
-  address: 226 Gilead Rd
+tags: Voter
+caption: Voters/Anthony Savino
+first-name: Anthony
+last-name: Savino
+middle-name: J
+suffix: 
+full-name: Anthony Savino
+gender: M
+dob: 1962-09-01
+age: 61
+party: Democratic
+phone: 860-512-0441
+address: 226 Gilead Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9468911
-  tags: Voter
-  caption: Voters/Cynthia Folsom
-  first-name: Cynthia
-  last-name: Folsom
-  middle-name: Lee
-  suffix: undefined
-  full-name: Cynthia Folsom
-  gender: F
-  dob: 2001-01-12
-  age: 21
-  party: Republican
-  phone: 860-670-07655
-  address: 9 Oak Farms Rd
+tags: Voter
+caption: Voters/Cynthia Folsom
+first-name: Cynthia
+last-name: Folsom
+middle-name: Lee
+suffix: 
+full-name: Cynthia Folsom
+gender: F
+dob: 2001-12-01
+age: 21
+party: Republican
+phone: 860-670-7655
+address: 9 Oak Farms Rd

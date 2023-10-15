@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/6426947
-  tags: Voter
-  caption: Voters/Derek White
-  first-name: Derek
-  last-name: White
-  middle-name: 
-  suffix: undefined
-  full-name: Derek White
-  gender: M
-  dob: 2001-28-01
-  age: 22
-  party: Democratic
-  phone: 
-  address: 72 Route 87
+tags: Voter
+caption: Voters/Derek White
+first-name: Derek
+last-name: White
+middle-name: 
+suffix: 
+full-name: Derek White
+gender: M
+dob: 2001-01-28
+age: 22
+party: Democratic
+phone: 
+address: 72 Route 87

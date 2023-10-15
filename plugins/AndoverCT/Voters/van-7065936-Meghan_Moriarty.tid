@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7065936
-  tags: Voter
-  caption: Voters/Meghan Moriarty
-  first-name: Meghan
-  last-name: Moriarty
-  middle-name: M
-  suffix: undefined
-  full-name: Meghan Moriarty
-  gender: F
-  dob: 1972-01-04
-  age: 51
-  party: Republican
-  phone: 860-205-54042
-  address: 5 Rose Ln
+tags: Voter
+caption: Voters/Meghan Moriarty
+first-name: Meghan
+last-name: Moriarty
+middle-name: M
+suffix: 
+full-name: Meghan Moriarty
+gender: F
+dob: 1972-04-01
+age: 51
+party: Republican
+phone: 860-205-4042
+address: 5 Rose Ln

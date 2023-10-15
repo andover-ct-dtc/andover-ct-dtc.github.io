@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1745
-  tags: Voter
-  caption: Voters/Timothy Thompson
-  first-name: Timothy
-  last-name: Thompson
-  middle-name: C
-  suffix: undefined
-  full-name: Timothy Thompson
-  gender: M
-  dob: 1963-01-02
-  age: 60
-  party: Republican
-  phone: 860-874-42267
-  address: 290 Route 6
+tags: Voter
+caption: Voters/Timothy Thompson
+first-name: Timothy
+last-name: Thompson
+middle-name: C
+suffix: 
+full-name: Timothy Thompson
+gender: M
+dob: 1963-02-01
+age: 60
+party: Republican
+phone: 860-874-2267
+address: 290 Route 6

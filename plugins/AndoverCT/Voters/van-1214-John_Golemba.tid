@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1214
-  tags: Voter
-  caption: Voters/John Golemba
-  first-name: John
-  last-name: Golemba
-  middle-name: S
-  suffix: undefined
-  full-name: John Golemba
-  gender: M
-  dob: 1967-01-08
-  age: 56
-  party: Republican
-  phone: 860-742-21388
-  address: 3 Old Farms Rd
+tags: Voter
+caption: Voters/John Golemba
+first-name: John
+last-name: Golemba
+middle-name: S
+suffix: 
+full-name: John Golemba
+gender: M
+dob: 1967-08-01
+age: 56
+party: Republican
+phone: 860-742-1388
+address: 3 Old Farms Rd

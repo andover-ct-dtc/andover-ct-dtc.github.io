@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1467
-  tags: Voter
-  caption: Voters/Maria Trapp
-  first-name: Maria
-  last-name: Trapp
-  middle-name: Leonor
-  suffix: undefined
-  full-name: Maria Trapp
-  gender: F
-  dob: 1963-01-12
-  age: 59
-  party: 
-  phone: 860-637-77433
-  address: 100 Wheeling Rd
+tags: Voter
+caption: Voters/Maria Trapp
+first-name: Maria
+last-name: Trapp
+middle-name: Leonor
+suffix: 
+full-name: Maria Trapp
+gender: F
+dob: 1963-12-01
+age: 59
+party: 
+phone: 860-637-7433
+address: 100 Wheeling Rd

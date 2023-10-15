@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1969
-  tags: Voter
-  caption: Voters/Heather Vancara
-  first-name: Heather
-  last-name: Vancara
-  middle-name: M
-  suffix: undefined
-  full-name: Heather Vancara
-  gender: F
-  dob: 1969-01-11
-  age: 53
-  party: 
-  phone: 860-742-27332
-  address: 8 Chesterbrook Ln
+tags: Voter
+caption: Voters/Heather Vancara
+first-name: Heather
+last-name: Vancara
+middle-name: M
+suffix: 
+full-name: Heather Vancara
+gender: F
+dob: 1969-11-01
+age: 53
+party: 
+phone: 860-742-7332
+address: 8 Chesterbrook Ln

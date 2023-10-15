@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/12774
-  tags: Voter
-  caption: Voters/Steven Nelson
-  first-name: Steven
-  last-name: Nelson
-  middle-name: M
-  suffix: undefined
-  full-name: Steven Nelson
-  gender: M
-  dob: 1964-01-04
-  age: 59
-  party: 
-  phone: 860-709-92644
-  address: 14 Lakeview Dr
+tags: Voter
+caption: Voters/Steven Nelson
+first-name: Steven
+last-name: Nelson
+middle-name: M
+suffix: 
+full-name: Steven Nelson
+gender: M
+dob: 1964-04-01
+age: 59
+party: 
+phone: 860-709-2644
+address: 14 Lakeview Dr

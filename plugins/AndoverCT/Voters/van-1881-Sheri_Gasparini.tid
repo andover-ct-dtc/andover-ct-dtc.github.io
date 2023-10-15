@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1881
-  tags: Voter
-  caption: Voters/Sheri Gasparini
-  first-name: Sheri
-  last-name: Gasparini
-  middle-name: Ann
-  suffix: undefined
-  full-name: Sheri Gasparini
-  gender: F
-  dob: 1973-01-08
-  age: 50
-  party: Democratic
-  phone: 860-514-48557
-  address: 16 Pine Ridge Dr
+tags: Voter
+caption: Voters/Sheri Gasparini
+first-name: Sheri
+last-name: Gasparini
+middle-name: Ann
+suffix: 
+full-name: Sheri Gasparini
+gender: F
+dob: 1973-08-01
+age: 50
+party: Democratic
+phone: 860-514-8557
+address: 16 Pine Ridge Dr

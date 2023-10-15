@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/8192514
-  tags: Voter
-  caption: Voters/Michelle Samson
-  first-name: Michelle
-  last-name: Samson
-  middle-name: I
-  suffix: undefined
-  full-name: Michelle Samson
-  gender: F
-  dob: 1981-01-06
-  age: 42
-  party: Republican
-  phone: 860-420-09943
-  address: 81 Hutchinson Rd
+tags: Voter
+caption: Voters/Michelle Samson
+first-name: Michelle
+last-name: Samson
+middle-name: I
+suffix: 
+full-name: Michelle Samson
+gender: F
+dob: 1981-06-01
+age: 42
+party: Republican
+phone: 860-420-9943
+address: 81 Hutchinson Rd

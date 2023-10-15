@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2142994
-  tags: Voter
-  caption: Voters/Rebecca D'Amicol
-  first-name: Rebecca
-  last-name: D'Amicol
-  middle-name: Ghirardi
-  suffix: undefined
-  full-name: Rebecca D'Amicol
-  gender: F
-  dob: 1970-01-09
-  age: 53
-  party: Republican
-  phone: 860-662-21593
-  address: 70 Route 87
+tags: Voter
+caption: Voters/Rebecca D'Amicol
+first-name: Rebecca
+last-name: D'Amicol
+middle-name: Ghirardi
+suffix: 
+full-name: Rebecca D'Amicol
+gender: F
+dob: 1970-09-01
+age: 53
+party: Republican
+phone: 860-662-1593
+address: 70 Route 87

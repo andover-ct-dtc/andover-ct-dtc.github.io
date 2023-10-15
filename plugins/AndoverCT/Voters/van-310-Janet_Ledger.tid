@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/310
-  tags: Voter
-  caption: Voters/Janet Ledger
-  first-name: Janet
-  last-name: Ledger
-  middle-name: J
-  suffix: undefined
-  full-name: Janet Ledger
-  gender: F
-  dob: 1946-01-05
-  age: 77
-  party: Democratic
-  phone: 860-742-29236
-  address: 24 Pine Ridge Dr
+tags: Voter
+caption: Voters/Janet Ledger
+first-name: Janet
+last-name: Ledger
+middle-name: J
+suffix: 
+full-name: Janet Ledger
+gender: F
+dob: 1946-05-01
+age: 77
+party: Democratic
+phone: 860-742-9236
+address: 24 Pine Ridge Dr

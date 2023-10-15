@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2490856
-  tags: Voter
-  caption: Voters/Jared Krajewski
-  first-name: Jared
-  last-name: Krajewski
-  middle-name: A
-  suffix: undefined
-  full-name: Jared Krajewski
-  gender: M
-  dob: 1990-01-02
-  age: 33
-  party: Libertairan
-  phone: 860-643-38217
-  address: 12 Lindholms Cor
+tags: Voter
+caption: Voters/Jared Krajewski
+first-name: Jared
+last-name: Krajewski
+middle-name: A
+suffix: 
+full-name: Jared Krajewski
+gender: M
+dob: 1990-02-01
+age: 33
+party: Libertairan
+phone: 860-643-8217
+address: 12 Lindholms Cor

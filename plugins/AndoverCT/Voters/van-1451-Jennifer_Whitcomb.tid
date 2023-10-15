@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1451
-  tags: Voter
-  caption: Voters/Jennifer Whitcomb
-  first-name: Jennifer
-  last-name: Whitcomb
-  middle-name: Carol
-  suffix: undefined
-  full-name: Jennifer Whitcomb
-  gender: F
-  dob: 1969-01-04
-  age: 54
-  party: 
-  phone: 860-982-27630
-  address: 22 Brown Rd
+tags: Voter
+caption: Voters/Jennifer Whitcomb
+first-name: Jennifer
+last-name: Whitcomb
+middle-name: Carol
+suffix: 
+full-name: Jennifer Whitcomb
+gender: F
+dob: 1969-04-01
+age: 54
+party: 
+phone: 860-982-7630
+address: 22 Brown Rd

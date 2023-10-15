@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1001
-  tags: Voter
-  caption: Voters/Donna Roberto
-  first-name: Donna
-  last-name: Roberto
-  middle-name: L
-  suffix: undefined
-  full-name: Donna Roberto
-  gender: F
-  dob: 1947-01-07
-  age: 76
-  party: 
-  phone: 860-742-25106
-  address: 46 Shoddy Mill Rd
+tags: Voter
+caption: Voters/Donna Roberto
+first-name: Donna
+last-name: Roberto
+middle-name: L
+suffix: 
+full-name: Donna Roberto
+gender: F
+dob: 1947-07-01
+age: 76
+party: 
+phone: 860-742-5106
+address: 46 Shoddy Mill Rd

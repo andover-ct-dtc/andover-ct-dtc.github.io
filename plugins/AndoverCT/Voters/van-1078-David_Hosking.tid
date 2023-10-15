@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1078
-  tags: Voter
-  caption: Voters/David Hosking
-  first-name: David
-  last-name: Hosking
-  middle-name: J
-  suffix: undefined
-  full-name: David Hosking
-  gender: M
-  dob: 1954-01-11
-  age: 68
-  party: Democratic
-  phone: 860-742-25953
-  address: 114 Wales Rd
+tags: Voter
+caption: Voters/David Hosking
+first-name: David
+last-name: Hosking
+middle-name: J
+suffix: 
+full-name: David Hosking
+gender: M
+dob: 1954-11-01
+age: 68
+party: Democratic
+phone: 860-742-5953
+address: 114 Wales Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1465807
-  tags: Voter
-  caption: Voters/Carol Savidge
-  first-name: Carol
-  last-name: Savidge
-  middle-name: Ann
-  suffix: undefined
-  full-name: Carol Savidge
-  gender: F
-  dob: 1961-01-02
-  age: 62
-  party: Republican
-  phone: 860-432-27827
-  address: 4 Sunset Ln
+tags: Voter
+caption: Voters/Carol Savidge
+first-name: Carol
+last-name: Savidge
+middle-name: Ann
+suffix: 
+full-name: Carol Savidge
+gender: F
+dob: 1961-02-01
+age: 62
+party: Republican
+phone: 860-432-7827
+address: 4 Sunset Ln

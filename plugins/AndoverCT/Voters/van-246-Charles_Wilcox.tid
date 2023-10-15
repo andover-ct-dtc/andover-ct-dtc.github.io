@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/246
-  tags: Voter
-  caption: Voters/Charles Wilcox Jr
-  first-name: Charles
-  last-name: Wilcox
-  middle-name: E
-  suffix: undefined
-  full-name: Charles Wilcox Jr
-  gender: M
-  dob: 1947-01-09
-  age: 76
-  party: Democratic
-  phone: 860-742-26557
-  address: 11 Rose Ln
+tags: Voter
+caption: Voters/Charles Wilcox Jr
+first-name: Charles
+last-name: Wilcox
+middle-name: E
+suffix: 
+full-name: Charles Wilcox Jr
+gender: M
+dob: 1947-09-01
+age: 76
+party: Democratic
+phone: 860-742-6557
+address: 11 Rose Ln

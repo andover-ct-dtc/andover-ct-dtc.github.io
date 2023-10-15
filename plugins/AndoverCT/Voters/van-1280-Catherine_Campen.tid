@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1280
-  tags: Voter
-  caption: Voters/Catherine Campen
-  first-name: Catherine
-  last-name: Campen
-  middle-name: L
-  suffix: undefined
-  full-name: Catherine Campen
-  gender: F
-  dob: 1958-01-08
-  age: 65
-  party: 
-  phone: 860-966-65940
-  address: 13 Birch Dr
+tags: Voter
+caption: Voters/Catherine Campen
+first-name: Catherine
+last-name: Campen
+middle-name: L
+suffix: 
+full-name: Catherine Campen
+gender: F
+dob: 1958-08-01
+age: 65
+party: 
+phone: 860-966-5940
+address: 13 Birch Dr

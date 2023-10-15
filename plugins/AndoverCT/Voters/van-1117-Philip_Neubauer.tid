@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1117
-  tags: Voter
-  caption: Voters/Philip Neubauer
-  first-name: Philip
-  last-name: Neubauer
-  middle-name: L
-  suffix: undefined
-  full-name: Philip Neubauer
-  gender: M
-  dob: 1953-01-11
-  age: 69
-  party: 
-  phone: 860-490-09840
-  address: 242 Hebron Rd
+tags: Voter
+caption: Voters/Philip Neubauer
+first-name: Philip
+last-name: Neubauer
+middle-name: L
+suffix: 
+full-name: Philip Neubauer
+gender: M
+dob: 1953-11-01
+age: 69
+party: 
+phone: 860-490-9840
+address: 242 Hebron Rd

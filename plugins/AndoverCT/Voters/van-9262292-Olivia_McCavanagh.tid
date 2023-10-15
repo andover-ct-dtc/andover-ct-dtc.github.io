@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9262292
-  tags: Voter
-  caption: Voters/Olivia McCavanagh
-  first-name: Olivia
-  last-name: McCavanagh
-  middle-name: K
-  suffix: undefined
-  full-name: Olivia McCavanagh
-  gender: F
-  dob: 2002-01-05
-  age: 21
-  party: Democratic
-  phone: 860-999-92003
-  address: 155 Boston Hill Rd
+tags: Voter
+caption: Voters/Olivia McCavanagh
+first-name: Olivia
+last-name: McCavanagh
+middle-name: K
+suffix: 
+full-name: Olivia McCavanagh
+gender: F
+dob: 2002-05-01
+age: 21
+party: Democratic
+phone: 860-999-2003
+address: 155 Boston Hill Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7432636
-  tags: Voter
-  caption: Voters/John Onofrio
-  first-name: John
-  last-name: Onofrio
-  middle-name: Michael
-  suffix: undefined
-  full-name: John Onofrio
-  gender: M
-  dob: 1966-01-09
-  age: 57
-  party: 
-  phone: 860-559-90657
-  address: 150 Long Hill Rd
+tags: Voter
+caption: Voters/John Onofrio
+first-name: John
+last-name: Onofrio
+middle-name: Michael
+suffix: 
+full-name: John Onofrio
+gender: M
+dob: 1966-09-01
+age: 57
+party: 
+phone: 860-559-0657
+address: 150 Long Hill Rd

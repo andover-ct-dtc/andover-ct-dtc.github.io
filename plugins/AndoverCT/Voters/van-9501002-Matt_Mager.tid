@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9501002
-  tags: Voter
-  caption: Voters/Matt Mager
-  first-name: Matt
-  last-name: Mager
-  middle-name: F
-  suffix: undefined
-  full-name: Matt Mager
-  gender: M
-  dob: 1995-01-05
-  age: 28
-  party: 
-  phone: 860-593-39848
-  address: 40 Birch Dr
+tags: Voter
+caption: Voters/Matt Mager
+first-name: Matt
+last-name: Mager
+middle-name: F
+suffix: 
+full-name: Matt Mager
+gender: M
+dob: 1995-05-01
+age: 28
+party: 
+phone: 860-593-9848
+address: 40 Birch Dr

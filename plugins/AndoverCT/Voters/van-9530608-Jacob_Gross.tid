@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9530608
-  tags: Voter
-  caption: Voters/Jacob Gross
-  first-name: Jacob
-  last-name: Gross
-  middle-name: 
-  suffix: undefined
-  full-name: Jacob Gross
-  gender: M
-  dob: 2001-14-01
-  age: 22
-  party: Republican
-  phone: 
-  address: 18 Dogwood Dr
+tags: Voter
+caption: Voters/Jacob Gross
+first-name: Jacob
+last-name: Gross
+middle-name: 
+suffix: 
+full-name: Jacob Gross
+gender: M
+dob: 2001-01-14
+age: 22
+party: Republican
+phone: 
+address: 18 Dogwood Dr

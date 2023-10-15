@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1516
-  tags: Voter
-  caption: Voters/Meegan Horan
-  first-name: Meegan
-  last-name: Horan
-  middle-name: Kathleen
-  suffix: undefined
-  full-name: Meegan Horan
-  gender: F
-  dob: 1971-01-05
-  age: 52
-  party: Democratic
-  phone: 860-841-11990
-  address: 170 Boston Hill Rd
+tags: Voter
+caption: Voters/Meegan Horan
+first-name: Meegan
+last-name: Horan
+middle-name: Kathleen
+suffix: 
+full-name: Meegan Horan
+gender: F
+dob: 1971-05-01
+age: 52
+party: Democratic
+phone: 860-841-1990
+address: 170 Boston Hill Rd

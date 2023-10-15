@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7367055
-  tags: Voter
-  caption: Voters/Amy Pearsall
-  first-name: Amy
-  last-name: Pearsall
-  middle-name: L
-  suffix: undefined
-  full-name: Amy Pearsall
-  gender: F
-  dob: 1972-01-10
-  age: 51
-  party: 
-  phone: 860-983-31701
-  address: 47 Route 87
+tags: Voter
+caption: Voters/Amy Pearsall
+first-name: Amy
+last-name: Pearsall
+middle-name: L
+suffix: 
+full-name: Amy Pearsall
+gender: F
+dob: 1972-10-01
+age: 51
+party: 
+phone: 860-983-1701
+address: 47 Route 87

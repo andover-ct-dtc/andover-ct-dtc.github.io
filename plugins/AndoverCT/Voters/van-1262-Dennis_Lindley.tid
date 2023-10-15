@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1262
-  tags: Voter
-  caption: Voters/Dennis Lindley
-  first-name: Dennis
-  last-name: Lindley
-  middle-name: M
-  suffix: undefined
-  full-name: Dennis Lindley
-  gender: M
-  dob: 1959-27-01
-  age: 64
-  party: 
-  phone: 860-817-78567
-  address: 88 Hendee Rd
+tags: Voter
+caption: Voters/Dennis Lindley
+first-name: Dennis
+last-name: Lindley
+middle-name: M
+suffix: 
+full-name: Dennis Lindley
+gender: M
+dob: 1959-01-27
+age: 64
+party: 
+phone: 860-817-8567
+address: 88 Hendee Rd

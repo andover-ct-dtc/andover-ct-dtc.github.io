@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/265700
-  tags: Voter
-  caption: Voters/Hugh Blumenfeld
-  first-name: Hugh
-  last-name: Blumenfeld
-  middle-name: M
-  suffix: undefined
-  full-name: Hugh Blumenfeld
-  gender: M
-  dob: 1958-01-10
-  age: 65
-  party: Democratic
-  phone: 860-742-25135
-  address: 115 Lakeside Dr
+tags: Voter
+caption: Voters/Hugh Blumenfeld
+first-name: Hugh
+last-name: Blumenfeld
+middle-name: M
+suffix: 
+full-name: Hugh Blumenfeld
+gender: M
+dob: 1958-10-01
+age: 65
+party: Democratic
+phone: 860-742-5135
+address: 115 Lakeside Dr

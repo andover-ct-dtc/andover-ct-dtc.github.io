@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7488607
-  tags: Voter
-  caption: Voters/Angelo Elia
-  first-name: Angelo
-  last-name: Elia
-  middle-name: L
-  suffix: undefined
-  full-name: Angelo Elia
-  gender: M
-  dob: 1989-01-12
-  age: 33
-  party: Republican
-  phone: 860-798-80808
-  address: 1 Jurovaty Ln
+tags: Voter
+caption: Voters/Angelo Elia
+first-name: Angelo
+last-name: Elia
+middle-name: L
+suffix: 
+full-name: Angelo Elia
+gender: M
+dob: 1989-12-01
+age: 33
+party: Republican
+phone: 860-798-0808
+address: 1 Jurovaty Ln

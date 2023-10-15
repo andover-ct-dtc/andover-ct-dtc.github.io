@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7455808
-  tags: Voter
-  caption: Voters/Joseph Allard
-  first-name: Joseph
-  last-name: Allard
-  middle-name: H
-  suffix: undefined
-  full-name: Joseph Allard
-  gender: M
-  dob: 1957-01-04
-  age: 66
-  party: 
-  phone: 860-918-85971
-  address: 52 Pine Ridge Dr
+tags: Voter
+caption: Voters/Joseph Allard
+first-name: Joseph
+last-name: Allard
+middle-name: H
+suffix: 
+full-name: Joseph Allard
+gender: M
+dob: 1957-04-01
+age: 66
+party: 
+phone: 860-918-5971
+address: 52 Pine Ridge Dr

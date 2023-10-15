@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1651318
-  tags: Voter
-  caption: Voters/Gary McCullough
-  first-name: Gary
-  last-name: McCullough
-  middle-name: Raymond
-  suffix: undefined
-  full-name: Gary McCullough
-  gender: M
-  dob: 1955-01-12
-  age: 67
-  party: 
-  phone: 860-480-04549
-  address: 3 Lakeside Dr
+tags: Voter
+caption: Voters/Gary McCullough
+first-name: Gary
+last-name: McCullough
+middle-name: Raymond
+suffix: 
+full-name: Gary McCullough
+gender: M
+dob: 1955-12-01
+age: 67
+party: 
+phone: 860-480-4549
+address: 3 Lakeside Dr

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/775950
-  tags: Voter
-  caption: Voters/John Wilson
-  first-name: John
-  last-name: Wilson
-  middle-name: 
-  suffix: undefined
-  full-name: John Wilson
-  gender: M
-  dob: 1960-01-06
-  age: 63
-  party: Republican
-  phone: 860-841-16602
-  address: 18 Lakeview Dr
+tags: Voter
+caption: Voters/John Wilson
+first-name: John
+last-name: Wilson
+middle-name: 
+suffix: 
+full-name: John Wilson
+gender: M
+dob: 1960-06-01
+age: 63
+party: Republican
+phone: 860-841-6602
+address: 18 Lakeview Dr

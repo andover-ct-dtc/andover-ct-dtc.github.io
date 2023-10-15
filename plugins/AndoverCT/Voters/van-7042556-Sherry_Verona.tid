@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7042556
-  tags: Voter
-  caption: Voters/Sherry Verona
-  first-name: Sherry
-  last-name: Verona
-  middle-name: R
-  suffix: undefined
-  full-name: Sherry Verona
-  gender: F
-  dob: 1973-01-03
-  age: 50
-  party: Republican
-  phone: 860-205-57684
-  address: 13 Mathieson Dr
+tags: Voter
+caption: Voters/Sherry Verona
+first-name: Sherry
+last-name: Verona
+middle-name: R
+suffix: 
+full-name: Sherry Verona
+gender: F
+dob: 1973-03-01
+age: 50
+party: Republican
+phone: 860-205-7684
+address: 13 Mathieson Dr

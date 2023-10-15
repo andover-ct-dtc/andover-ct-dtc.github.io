@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9468908
-  tags: Voter
-  caption: Voters/William Munroe
-  first-name: William
-  last-name: Munroe
-  middle-name: Joseph
-  suffix: undefined
-  full-name: William Munroe
-  gender: M
-  dob: 1956-01-08
-  age: 67
-  party: Democratic
-  phone: 860-742-20887
-  address: 27 Rose Ln
+tags: Voter
+caption: Voters/William Munroe
+first-name: William
+last-name: Munroe
+middle-name: Joseph
+suffix: 
+full-name: William Munroe
+gender: M
+dob: 1956-08-01
+age: 67
+party: Democratic
+phone: 860-742-0887
+address: 27 Rose Ln

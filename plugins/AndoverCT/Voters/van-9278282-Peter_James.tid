@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9278282
-  tags: Voter
-  caption: Voters/Peter James
-  first-name: Peter
-  last-name: James
-  middle-name: Adam
-  suffix: undefined
-  full-name: Peter James
-  gender: M
-  dob: 2001-01-04
-  age: 22
-  party: 
-  phone: 413-207-77533
-  address: 74 Bear Swamp Rd
+tags: Voter
+caption: Voters/Peter James
+first-name: Peter
+last-name: James
+middle-name: Adam
+suffix: 
+full-name: Peter James
+gender: M
+dob: 2001-04-01
+age: 22
+party: 
+phone: 413-207-7533
+address: 74 Bear Swamp Rd

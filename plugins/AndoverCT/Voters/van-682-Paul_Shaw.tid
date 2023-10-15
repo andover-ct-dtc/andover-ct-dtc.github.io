@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/682
-  tags: Voter
-  caption: Voters/Paul Shaw
-  first-name: Paul
-  last-name: Shaw
-  middle-name: J
-  suffix: undefined
-  full-name: Paul Shaw
-  gender: M
-  dob: 1959-01-09
-  age: 64
-  party: 
-  phone: 860-742-28271
-  address: 172 Bear Swamp Rd
+tags: Voter
+caption: Voters/Paul Shaw
+first-name: Paul
+last-name: Shaw
+middle-name: J
+suffix: 
+full-name: Paul Shaw
+gender: M
+dob: 1959-09-01
+age: 64
+party: 
+phone: 860-742-8271
+address: 172 Bear Swamp Rd

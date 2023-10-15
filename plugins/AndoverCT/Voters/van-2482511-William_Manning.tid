@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2482511
-  tags: Voter
-  caption: Voters/William Manning
-  first-name: William
-  last-name: Manning
-  middle-name: J
-  suffix: undefined
-  full-name: William Manning
-  gender: M
-  dob: 1974-01-05
-  age: 49
-  party: Republican
-  phone: 860-268-84808
-  address: 10 Pine Ridge Dr
+tags: Voter
+caption: Voters/William Manning
+first-name: William
+last-name: Manning
+middle-name: J
+suffix: 
+full-name: William Manning
+gender: M
+dob: 1974-05-01
+age: 49
+party: Republican
+phone: 860-268-4808
+address: 10 Pine Ridge Dr

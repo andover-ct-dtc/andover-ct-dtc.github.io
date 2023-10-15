@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/177
-  tags: Voter
-  caption: Voters/Clyde Conrad Jr
-  first-name: Clyde
-  last-name: Conrad
-  middle-name: Wilson
-  suffix: undefined
-  full-name: Clyde Conrad Jr
-  gender: M
-  dob: 1938-01-08
-  age: 85
-  party: Republican
-  phone: 860-742-28805
-  address: 117 Lakeside Dr
+tags: Voter
+caption: Voters/Clyde Conrad Jr
+first-name: Clyde
+last-name: Conrad
+middle-name: Wilson
+suffix: 
+full-name: Clyde Conrad Jr
+gender: M
+dob: 1938-08-01
+age: 85
+party: Republican
+phone: 860-742-8805
+address: 117 Lakeside Dr

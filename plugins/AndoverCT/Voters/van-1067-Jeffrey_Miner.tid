@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1067
-  tags: Voter
-  caption: Voters/Jeffrey Miner
-  first-name: Jeffrey
-  last-name: Miner
-  middle-name: T
-  suffix: undefined
-  full-name: Jeffrey Miner
-  gender: M
-  dob: 1959-01-09
-  age: 64
-  party: 
-  phone: 860-742-20326
-  address: 80 West St
+tags: Voter
+caption: Voters/Jeffrey Miner
+first-name: Jeffrey
+last-name: Miner
+middle-name: T
+suffix: 
+full-name: Jeffrey Miner
+gender: M
+dob: 1959-09-01
+age: 64
+party: 
+phone: 860-742-0326
+address: 80 West St

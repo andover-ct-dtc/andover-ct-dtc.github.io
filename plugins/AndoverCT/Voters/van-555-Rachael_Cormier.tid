@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/555
-  tags: Voter
-  caption: Voters/Rachael Cormier
-  first-name: Rachael
-  last-name: Cormier
-  middle-name: M
-  suffix: undefined
-  full-name: Rachael Cormier
-  gender: F
-  dob: 1954-01-06
-  age: 69
-  party: Democratic
-  phone: 860-857-72942
-  address: 37 Pine Ridge Dr
+tags: Voter
+caption: Voters/Rachael Cormier
+first-name: Rachael
+last-name: Cormier
+middle-name: M
+suffix: 
+full-name: Rachael Cormier
+gender: F
+dob: 1954-06-01
+age: 69
+party: Democratic
+phone: 860-857-2942
+address: 37 Pine Ridge Dr

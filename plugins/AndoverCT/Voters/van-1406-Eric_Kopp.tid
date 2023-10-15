@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1406
-  tags: Voter
-  caption: Voters/Eric Kopp
-  first-name: Eric
-  last-name: Kopp
-  middle-name: Scott
-  suffix: undefined
-  full-name: Eric Kopp
-  gender: M
-  dob: 1972-01-08
-  age: 51
-  party: 
-  phone: 860-604-41356
-  address: 176 Hebron Rd
+tags: Voter
+caption: Voters/Eric Kopp
+first-name: Eric
+last-name: Kopp
+middle-name: Scott
+suffix: 
+full-name: Eric Kopp
+gender: M
+dob: 1972-08-01
+age: 51
+party: 
+phone: 860-604-1356
+address: 176 Hebron Rd

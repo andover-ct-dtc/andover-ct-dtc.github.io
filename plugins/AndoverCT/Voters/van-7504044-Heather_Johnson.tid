@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7504044
-  tags: Voter
-  caption: Voters/Heather Johnson
-  first-name: Heather
-  last-name: Johnson
-  middle-name: Ann
-  suffix: undefined
-  full-name: Heather Johnson
-  gender: F
-  dob: 1981-01-08
-  age: 42
-  party: 
-  phone: 860-205-52901
-  address: 291 Boston Hill Rd
+tags: Voter
+caption: Voters/Heather Johnson
+first-name: Heather
+last-name: Johnson
+middle-name: Ann
+suffix: 
+full-name: Heather Johnson
+gender: F
+dob: 1981-08-01
+age: 42
+party: 
+phone: 860-205-2901
+address: 291 Boston Hill Rd

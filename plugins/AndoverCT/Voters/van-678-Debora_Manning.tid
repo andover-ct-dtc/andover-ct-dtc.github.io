@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/678
-  tags: Voter
-  caption: Voters/Debora Manning
-  first-name: Debora
-  last-name: Manning
-  middle-name: A
-  suffix: undefined
-  full-name: Debora Manning
-  gender: F
-  dob: 1956-01-12
-  age: 66
-  party: 
-  phone: 860-830-06599
-  address: 125 Shoddy Mill Rd
+tags: Voter
+caption: Voters/Debora Manning
+first-name: Debora
+last-name: Manning
+middle-name: A
+suffix: 
+full-name: Debora Manning
+gender: F
+dob: 1956-12-01
+age: 66
+party: 
+phone: 860-830-6599
+address: 125 Shoddy Mill Rd

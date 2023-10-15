@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/819
-  tags: Voter
-  caption: Voters/Todd Jones
-  first-name: Todd
-  last-name: Jones
-  middle-name: B
-  suffix: undefined
-  full-name: Todd Jones
-  gender: M
-  dob: 1951-01-09
-  age: 72
-  party: Democratic
-  phone: 860-742-25961
-  address: 271 Lake Rd
+tags: Voter
+caption: Voters/Todd Jones
+first-name: Todd
+last-name: Jones
+middle-name: B
+suffix: 
+full-name: Todd Jones
+gender: M
+dob: 1951-09-01
+age: 72
+party: Democratic
+phone: 860-742-5961
+address: 271 Lake Rd

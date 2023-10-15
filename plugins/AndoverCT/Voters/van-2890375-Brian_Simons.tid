@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2890375
-  tags: Voter
-  caption: Voters/Brian Simons
-  first-name: Brian
-  last-name: Simons
-  middle-name: Donald
-  suffix: undefined
-  full-name: Brian Simons
-  gender: M
-  dob: 1990-02-01
-  age: 33
-  party: Republican
-  phone: 860-810-07386
-  address: 98 Bear Swamp Rd
+tags: Voter
+caption: Voters/Brian Simons
+first-name: Brian
+last-name: Simons
+middle-name: Donald
+suffix: 
+full-name: Brian Simons
+gender: M
+dob: 1990-01-02
+age: 33
+party: Republican
+phone: 860-810-7386
+address: 98 Bear Swamp Rd

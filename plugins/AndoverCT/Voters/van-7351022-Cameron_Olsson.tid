@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7351022
-  tags: Voter
-  caption: Voters/Cameron Olsson
-  first-name: Cameron
-  last-name: Olsson
-  middle-name: Rudolph
-  suffix: undefined
-  full-name: Cameron Olsson
-  gender: M
-  dob: 1992-01-10
-  age: 31
-  party: Libertairan
-  phone: 860-573-30211
-  address: 34 Merritt Valley Rd
+tags: Voter
+caption: Voters/Cameron Olsson
+first-name: Cameron
+last-name: Olsson
+middle-name: Rudolph
+suffix: 
+full-name: Cameron Olsson
+gender: M
+dob: 1992-10-01
+age: 31
+party: Libertairan
+phone: 860-573-0211
+address: 34 Merritt Valley Rd

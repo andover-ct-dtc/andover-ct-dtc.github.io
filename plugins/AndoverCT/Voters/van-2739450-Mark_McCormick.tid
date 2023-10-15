@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2739450
-  tags: Voter
-  caption: Voters/Mark McCormick
-  first-name: Mark
-  last-name: McCormick
-  middle-name: Hunter
-  suffix: undefined
-  full-name: Mark McCormick
-  gender: M
-  dob: 1993-01-06
-  age: 30
-  party: Republican
-  phone: 860-742-25045
-  address: 328 Boston Hill Rd
+tags: Voter
+caption: Voters/Mark McCormick
+first-name: Mark
+last-name: McCormick
+middle-name: Hunter
+suffix: 
+full-name: Mark McCormick
+gender: M
+dob: 1993-06-01
+age: 30
+party: Republican
+phone: 860-742-5045
+address: 328 Boston Hill Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9213151
-  tags: Voter
-  caption: Voters/Josiah Klossner
-  first-name: Josiah
-  last-name: Klossner
-  middle-name: Mark
-  suffix: undefined
-  full-name: Josiah Klossner
-  gender: M
-  dob: 1995-01-06
-  age: 28
-  party: Republican
-  phone: 585-267-79260
-  address: 60 Stanley Dr
+tags: Voter
+caption: Voters/Josiah Klossner
+first-name: Josiah
+last-name: Klossner
+middle-name: Mark
+suffix: 
+full-name: Josiah Klossner
+gender: M
+dob: 1995-06-01
+age: 28
+party: Republican
+phone: 585-267-9260
+address: 60 Stanley Dr

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/497
-  tags: Voter
-  caption: Voters/Arthur Becker
-  first-name: Arthur
-  last-name: Becker
-  middle-name: C
-  suffix: undefined
-  full-name: Arthur Becker
-  gender: M
-  dob: 1951-01-02
-  age: 72
-  party: 
-  phone: 860-617-70596
-  address: 22 Bear Swamp Rd
+tags: Voter
+caption: Voters/Arthur Becker
+first-name: Arthur
+last-name: Becker
+middle-name: C
+suffix: 
+full-name: Arthur Becker
+gender: M
+dob: 1951-02-01
+age: 72
+party: 
+phone: 860-617-0596
+address: 22 Bear Swamp Rd

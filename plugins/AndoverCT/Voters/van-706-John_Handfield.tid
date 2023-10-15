@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/706
-  tags: Voter
-  caption: Voters/John Handfield
-  first-name: John
-  last-name: Handfield
-  middle-name: E
-  suffix: undefined
-  full-name: John Handfield
-  gender: M
-  dob: 1950-01-07
-  age: 73
-  party: Democratic
-  phone: 860-742-21294
-  address: 230 Gilead Rd
+tags: Voter
+caption: Voters/John Handfield
+first-name: John
+last-name: Handfield
+middle-name: E
+suffix: 
+full-name: John Handfield
+gender: M
+dob: 1950-07-01
+age: 73
+party: Democratic
+phone: 860-742-1294
+address: 230 Gilead Rd

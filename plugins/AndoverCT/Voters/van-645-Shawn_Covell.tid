@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/645
-  tags: Voter
-  caption: Voters/Shawn Covell
-  first-name: Shawn
-  last-name: Covell
-  middle-name: Michael
-  suffix: undefined
-  full-name: Shawn Covell
-  gender: M
-  dob: 1968-01-12
-  age: 54
-  party: Republican
-  phone: 860-428-80133
-  address: 39 Townsend Rd
+tags: Voter
+caption: Voters/Shawn Covell
+first-name: Shawn
+last-name: Covell
+middle-name: Michael
+suffix: 
+full-name: Shawn Covell
+gender: M
+dob: 1968-12-01
+age: 54
+party: Republican
+phone: 860-428-0133
+address: 39 Townsend Rd

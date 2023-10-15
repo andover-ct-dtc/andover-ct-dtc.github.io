@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9500991
-  tags: Voter
-  caption: Voters/Genaro Anselmo IV
-  first-name: Genaro
-  last-name: Anselmo
-  middle-name: L
-  suffix: undefined
-  full-name: Genaro Anselmo IV
-  gender: M
-  dob: 2002-01-02
-  age: 21
-  party: 
-  phone: 860-268-80362
-  address: 236 Bear Swamp Rd
+tags: Voter
+caption: Voters/Genaro Anselmo IV
+first-name: Genaro
+last-name: Anselmo
+middle-name: L
+suffix: 
+full-name: Genaro Anselmo IV
+gender: M
+dob: 2002-02-01
+age: 21
+party: 
+phone: 860-268-0362
+address: 236 Bear Swamp Rd

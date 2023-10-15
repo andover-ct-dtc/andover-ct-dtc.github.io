@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1560
-  tags: Voter
-  caption: Voters/Jill Rocco
-  first-name: Jill
-  last-name: Rocco
-  middle-name: Ann
-  suffix: undefined
-  full-name: Jill Rocco
-  gender: F
-  dob: 1968-01-06
-  age: 55
-  party: 
-  phone: 860-951-18970
-  address: 85 Shoddy Mill Rd
+tags: Voter
+caption: Voters/Jill Rocco
+first-name: Jill
+last-name: Rocco
+middle-name: Ann
+suffix: 
+full-name: Jill Rocco
+gender: F
+dob: 1968-06-01
+age: 55
+party: 
+phone: 860-951-8970
+address: 85 Shoddy Mill Rd

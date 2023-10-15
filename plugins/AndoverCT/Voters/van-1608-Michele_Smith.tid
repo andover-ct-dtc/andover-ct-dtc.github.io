@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1608
-  tags: Voter
-  caption: Voters/Michele Smith
-  first-name: Michele
-  last-name: Smith
-  middle-name: Lynn
-  suffix: undefined
-  full-name: Michele Smith
-  gender: F
-  dob: 1969-01-10
-  age: 54
-  party: 
-  phone: 203-223-36424
-  address: 64 Windrush Ln
+tags: Voter
+caption: Voters/Michele Smith
+first-name: Michele
+last-name: Smith
+middle-name: Lynn
+suffix: 
+full-name: Michele Smith
+gender: F
+dob: 1969-10-01
+age: 54
+party: 
+phone: 203-223-6424
+address: 64 Windrush Ln

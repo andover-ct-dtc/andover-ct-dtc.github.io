@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/28
-  tags: Voter
-  caption: Voters/Scott Sauyet
-  first-name: Scott
-  last-name: Sauyet
-  middle-name: David
-  suffix: undefined
-  full-name: Scott Sauyet
-  gender: M
-  dob: 1966-05-01
-  age: 57
-  party: Democratic
-  phone: 860-335-52869
-  address: 168 Boston Hill Rd
+tags: Voter
+caption: Voters/Scott Sauyet
+first-name: Scott
+last-name: Sauyet
+middle-name: David
+suffix: 
+full-name: Scott Sauyet
+gender: M
+dob: 1966-01-05
+age: 57
+party: Democratic
+phone: 860-335-2869
+address: 168 Boston Hill Rd

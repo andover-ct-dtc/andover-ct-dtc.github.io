@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/769
-  tags: Voter
-  caption: Voters/Kent Williams
-  first-name: Kent
-  last-name: Williams
-  middle-name: R
-  suffix: undefined
-  full-name: Kent Williams
-  gender: M
-  dob: 1948-01-03
-  age: 75
-  party: 
-  phone: 860-742-29998
-  address: 111 Wales Rd
+tags: Voter
+caption: Voters/Kent Williams
+first-name: Kent
+last-name: Williams
+middle-name: R
+suffix: 
+full-name: Kent Williams
+gender: M
+dob: 1948-03-01
+age: 75
+party: 
+phone: 860-742-9998
+address: 111 Wales Rd

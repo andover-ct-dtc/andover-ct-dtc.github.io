@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1370
-  tags: Voter
-  caption: Voters/Teri Stratton
-  first-name: Teri
-  last-name: Stratton
-  middle-name: L
-  suffix: undefined
-  full-name: Teri Stratton
-  gender: F
-  dob: 1963-01-11
-  age: 59
-  party: 
-  phone: 
-  address: 706 East St
+tags: Voter
+caption: Voters/Teri Stratton
+first-name: Teri
+last-name: Stratton
+middle-name: L
+suffix: 
+full-name: Teri Stratton
+gender: F
+dob: 1963-11-01
+age: 59
+party: 
+phone: 
+address: 706 East St

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9468896
-  tags: Voter
-  caption: Voters/Raymond Archambault
-  first-name: Raymond
-  last-name: Archambault
-  middle-name: Paul
-  suffix: undefined
-  full-name: Raymond Archambault
-  gender: M
-  dob: 1960-25-01
-  age: 63
-  party: 
-  phone: 860-287-76774
-  address: 390 Hebron Rd
+tags: Voter
+caption: Voters/Raymond Archambault
+first-name: Raymond
+last-name: Archambault
+middle-name: Paul
+suffix: 
+full-name: Raymond Archambault
+gender: M
+dob: 1960-01-25
+age: 63
+party: 
+phone: 860-287-6774
+address: 390 Hebron Rd

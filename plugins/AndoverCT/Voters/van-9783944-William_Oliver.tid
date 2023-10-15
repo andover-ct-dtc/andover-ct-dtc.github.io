@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9783944
-  tags: Voter
-  caption: Voters/William Oliver
-  first-name: William
-  last-name: Oliver
-  middle-name: Roland
-  suffix: undefined
-  full-name: William Oliver
-  gender: M
-  dob: 2004-01-10
-  age: 19
-  party: 
-  phone: 860-948-80735
-  address: 248 Bear Swamp Rd
+tags: Voter
+caption: Voters/William Oliver
+first-name: William
+last-name: Oliver
+middle-name: Roland
+suffix: 
+full-name: William Oliver
+gender: M
+dob: 2004-10-01
+age: 19
+party: 
+phone: 860-948-0735
+address: 248 Bear Swamp Rd

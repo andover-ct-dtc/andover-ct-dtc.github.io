@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2020058
-  tags: Voter
-  caption: Voters/Thomas Jaskulski
-  first-name: Thomas
-  last-name: Jaskulski
-  middle-name: James
-  suffix: undefined
-  full-name: Thomas Jaskulski
-  gender: M
-  dob: 1958-01-12
-  age: 64
-  party: Republican
-  phone: 860-874-41942
-  address: 16 Windrush Ln
+tags: Voter
+caption: Voters/Thomas Jaskulski
+first-name: Thomas
+last-name: Jaskulski
+middle-name: James
+suffix: 
+full-name: Thomas Jaskulski
+gender: M
+dob: 1958-12-01
+age: 64
+party: Republican
+phone: 860-874-1942
+address: 16 Windrush Ln

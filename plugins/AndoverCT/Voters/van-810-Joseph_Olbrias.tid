@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/810
-  tags: Voter
-  caption: Voters/Joseph Olbrias
-  first-name: Joseph
-  last-name: Olbrias
-  middle-name: R
-  suffix: undefined
-  full-name: Joseph Olbrias
-  gender: M
-  dob: 1944-19-01
-  age: 79
-  party: Democratic
-  phone: 860-646-65436
-  address: 341 Boston Hill Rd
+tags: Voter
+caption: Voters/Joseph Olbrias
+first-name: Joseph
+last-name: Olbrias
+middle-name: R
+suffix: 
+full-name: Joseph Olbrias
+gender: M
+dob: 1944-01-19
+age: 79
+party: Democratic
+phone: 860-646-5436
+address: 341 Boston Hill Rd

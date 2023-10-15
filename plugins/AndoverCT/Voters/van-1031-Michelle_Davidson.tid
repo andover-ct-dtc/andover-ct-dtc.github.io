@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1031
-  tags: Voter
-  caption: Voters/Michelle Davidson
-  first-name: Michelle
-  last-name: Davidson
-  middle-name: Cecile
-  suffix: undefined
-  full-name: Michelle Davidson
-  gender: F
-  dob: 1959-01-05
-  age: 64
-  party: Republican
-  phone: 860-742-25347
-  address: 54 Windrush Ln
+tags: Voter
+caption: Voters/Michelle Davidson
+first-name: Michelle
+last-name: Davidson
+middle-name: Cecile
+suffix: 
+full-name: Michelle Davidson
+gender: F
+dob: 1959-05-01
+age: 64
+party: Republican
+phone: 860-742-5347
+address: 54 Windrush Ln

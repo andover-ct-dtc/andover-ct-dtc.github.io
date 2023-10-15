@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9530626
-  tags: Voter
-  caption: Voters/Jacob Arseneault
-  first-name: Jacob
-  last-name: Arseneault
-  middle-name: Matthew
-  suffix: undefined
-  full-name: Jacob Arseneault
-  gender: M
-  dob: 2001-01-05
-  age: 22
-  party: 
-  phone: 860-455-55710
-  address: 123 Shoddy Mill Rd
+tags: Voter
+caption: Voters/Jacob Arseneault
+first-name: Jacob
+last-name: Arseneault
+middle-name: Matthew
+suffix: 
+full-name: Jacob Arseneault
+gender: M
+dob: 2001-05-01
+age: 22
+party: 
+phone: 860-455-5710
+address: 123 Shoddy Mill Rd

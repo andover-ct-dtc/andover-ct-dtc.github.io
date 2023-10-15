@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9530614
-  tags: Voter
-  caption: Voters/Jake Landry
-  first-name: Jake
-  last-name: Landry
-  middle-name: Christopher
-  suffix: undefined
-  full-name: Jake Landry
-  gender: M
-  dob: 2001-01-12
-  age: 21
-  party: Republican
-  phone: 860-839-99236
-  address: 24 Oak Farms Rd
+tags: Voter
+caption: Voters/Jake Landry
+first-name: Jake
+last-name: Landry
+middle-name: Christopher
+suffix: 
+full-name: Jake Landry
+gender: M
+dob: 2001-12-01
+age: 21
+party: Republican
+phone: 860-839-9236
+address: 24 Oak Farms Rd

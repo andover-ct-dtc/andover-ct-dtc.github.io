@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/710
-  tags: Voter
-  caption: Voters/Gregory Burns
-  first-name: Gregory
-  last-name: Burns
-  middle-name: N
-  suffix: undefined
-  full-name: Gregory Burns
-  gender: M
-  dob: 1957-11-01
-  age: 66
-  party: Republican
-  phone: 860-742-20152
-  address: 29 Parker Bridge Rd
+tags: Voter
+caption: Voters/Gregory Burns
+first-name: Gregory
+last-name: Burns
+middle-name: N
+suffix: 
+full-name: Gregory Burns
+gender: M
+dob: 1957-01-11
+age: 66
+party: Republican
+phone: 860-742-0152
+address: 29 Parker Bridge Rd

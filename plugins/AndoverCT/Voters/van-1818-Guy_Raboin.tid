@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1818
-  tags: Voter
-  caption: Voters/Guy Raboin
-  first-name: Guy
-  last-name: Raboin
-  middle-name: B
-  suffix: undefined
-  full-name: Guy Raboin
-  gender: M
-  dob: 1968-01-03
-  age: 55
-  party: 
-  phone: 860-906-67344
-  address: 132 Hebron Rd
+tags: Voter
+caption: Voters/Guy Raboin
+first-name: Guy
+last-name: Raboin
+middle-name: B
+suffix: 
+full-name: Guy Raboin
+gender: M
+dob: 1968-03-01
+age: 55
+party: 
+phone: 860-906-7344
+address: 132 Hebron Rd

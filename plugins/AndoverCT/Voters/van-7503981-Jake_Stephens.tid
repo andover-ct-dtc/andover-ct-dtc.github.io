@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7503981
-  tags: Voter
-  caption: Voters/Jake Stephens
-  first-name: Jake
-  last-name: Stephens
-  middle-name: Thomas
-  suffix: undefined
-  full-name: Jake Stephens
-  gender: M
-  dob: 1996-01-04
-  age: 27
-  party: Republican
-  phone: 860-682-24503
-  address: 115 Cone Rd
+tags: Voter
+caption: Voters/Jake Stephens
+first-name: Jake
+last-name: Stephens
+middle-name: Thomas
+suffix: 
+full-name: Jake Stephens
+gender: M
+dob: 1996-04-01
+age: 27
+party: Republican
+phone: 860-682-4503
+address: 115 Cone Rd

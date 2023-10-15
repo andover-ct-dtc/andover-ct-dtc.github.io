@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2701204
-  tags: Voter
-  caption: Voters/Claudia Tofan
-  first-name: Claudia
-  last-name: Tofan
-  middle-name: A
-  suffix: undefined
-  full-name: Claudia Tofan
-  gender: F
-  dob: 1971-01-07
-  age: 52
-  party: Democratic
-  phone: 860-990-09490
-  address: 45 Stanley Dr
+tags: Voter
+caption: Voters/Claudia Tofan
+first-name: Claudia
+last-name: Tofan
+middle-name: A
+suffix: 
+full-name: Claudia Tofan
+gender: F
+dob: 1971-07-01
+age: 52
+party: Democratic
+phone: 860-990-9490
+address: 45 Stanley Dr

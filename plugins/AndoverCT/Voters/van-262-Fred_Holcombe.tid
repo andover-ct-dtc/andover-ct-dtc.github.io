@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/262
-  tags: Voter
-  caption: Voters/Fred Holcombe
-  first-name: Fred
-  last-name: Holcombe
-  middle-name: M
-  suffix: undefined
-  full-name: Fred Holcombe
-  gender: M
-  dob: 1944-25-01
-  age: 79
-  party: Democratic
-  phone: 860-742-27600
-  address: 32 Aspinall Dr
+tags: Voter
+caption: Voters/Fred Holcombe
+first-name: Fred
+last-name: Holcombe
+middle-name: M
+suffix: 
+full-name: Fred Holcombe
+gender: M
+dob: 1944-01-25
+age: 79
+party: Democratic
+phone: 860-742-7600
+address: 32 Aspinall Dr

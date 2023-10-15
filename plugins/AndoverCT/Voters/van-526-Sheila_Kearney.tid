@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/526
-  tags: Voter
-  caption: Voters/Sheila Kearney
-  first-name: Sheila
-  last-name: Kearney
-  middle-name: G
-  suffix: undefined
-  full-name: Sheila Kearney
-  gender: F
-  dob: 1948-01-04
-  age: 75
-  party: Democratic
-  phone: 860-742-28954
-  address: 68 Pine Ridge Dr
+tags: Voter
+caption: Voters/Sheila Kearney
+first-name: Sheila
+last-name: Kearney
+middle-name: G
+suffix: 
+full-name: Sheila Kearney
+gender: F
+dob: 1948-04-01
+age: 75
+party: Democratic
+phone: 860-742-8954
+address: 68 Pine Ridge Dr

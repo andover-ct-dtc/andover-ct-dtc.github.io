@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/267283
-  tags: Voter
-  caption: Voters/John Kennedy
-  first-name: John
-  last-name: Kennedy
-  middle-name: William
-  suffix: undefined
-  full-name: John Kennedy
-  gender: M
-  dob: 1960-01-09
-  age: 63
-  party: Republican
-  phone: 860-742-25151
-  address: 6 Shadblow Ln
+tags: Voter
+caption: Voters/John Kennedy
+first-name: John
+last-name: Kennedy
+middle-name: William
+suffix: 
+full-name: John Kennedy
+gender: M
+dob: 1960-09-01
+age: 63
+party: Republican
+phone: 860-742-5151
+address: 6 Shadblow Ln

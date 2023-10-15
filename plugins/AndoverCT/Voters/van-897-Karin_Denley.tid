@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/897
-  tags: Voter
-  caption: Voters/Karin Denley
-  first-name: Karin
-  last-name: Denley
-  middle-name: Abrahamsen
-  suffix: undefined
-  full-name: Karin Denley
-  gender: F
-  dob: 1956-01-12
-  age: 66
-  party: 
-  phone: 860-742-21423
-  address: 89 Lakeside Dr
+tags: Voter
+caption: Voters/Karin Denley
+first-name: Karin
+last-name: Denley
+middle-name: Abrahamsen
+suffix: 
+full-name: Karin Denley
+gender: F
+dob: 1956-12-01
+age: 66
+party: 
+phone: 860-742-1423
+address: 89 Lakeside Dr

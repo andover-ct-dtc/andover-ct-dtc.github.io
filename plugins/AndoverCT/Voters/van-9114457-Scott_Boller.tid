@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9114457
-  tags: Voter
-  caption: Voters/Scott Boller
-  first-name: Scott
-  last-name: Boller
-  middle-name: Francis
-  suffix: undefined
-  full-name: Scott Boller
-  gender: M
-  dob: 1979-01-12
-  age: 43
-  party: 
-  phone: 631-335-55653
-  address: 69 School Rd
+tags: Voter
+caption: Voters/Scott Boller
+first-name: Scott
+last-name: Boller
+middle-name: Francis
+suffix: 
+full-name: Scott Boller
+gender: M
+dob: 1979-12-01
+age: 43
+party: 
+phone: 631-335-5653
+address: 69 School Rd

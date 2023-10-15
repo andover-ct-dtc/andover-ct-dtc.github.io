@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1599287
-  tags: Voter
-  caption: Voters/James Sponzo
-  first-name: James
-  last-name: Sponzo
-  middle-name: Anthony
-  suffix: undefined
-  full-name: James Sponzo
-  gender: M
-  dob: 1981-01-03
-  age: 42
-  party: Republican
-  phone: 860-965-57100
-  address: 72 Gilead Rd
+tags: Voter
+caption: Voters/James Sponzo
+first-name: James
+last-name: Sponzo
+middle-name: Anthony
+suffix: 
+full-name: James Sponzo
+gender: M
+dob: 1981-03-01
+age: 42
+party: Republican
+phone: 860-965-7100
+address: 72 Gilead Rd

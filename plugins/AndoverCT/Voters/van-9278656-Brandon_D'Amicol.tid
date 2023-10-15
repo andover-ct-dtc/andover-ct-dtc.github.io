@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9278656
-  tags: Voter
-  caption: Voters/Brandon D'Amicol
-  first-name: Brandon
-  last-name: D'Amicol
-  middle-name: Edward
-  suffix: undefined
-  full-name: Brandon D'Amicol
-  gender: M
-  dob: 2002-01-02
-  age: 21
-  party: Republican
-  phone: 860-474-40302
-  address: 70 Route 87
+tags: Voter
+caption: Voters/Brandon D'Amicol
+first-name: Brandon
+last-name: D'Amicol
+middle-name: Edward
+suffix: 
+full-name: Brandon D'Amicol
+gender: M
+dob: 2002-02-01
+age: 21
+party: Republican
+phone: 860-474-0302
+address: 70 Route 87

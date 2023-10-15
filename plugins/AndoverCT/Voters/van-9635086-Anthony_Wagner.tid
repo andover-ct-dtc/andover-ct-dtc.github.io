@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9635086
-  tags: Voter
-  caption: Voters/Anthony Wagner
-  first-name: Anthony
-  last-name: Wagner
-  middle-name: John
-  suffix: undefined
-  full-name: Anthony Wagner
-  gender: M
-  dob: 1956-01-12
-  age: 66
-  party: Democratic
-  phone: 443-561-16477
-  address: 110 Lake Rd Apt A
+tags: Voter
+caption: Voters/Anthony Wagner
+first-name: Anthony
+last-name: Wagner
+middle-name: John
+suffix: 
+full-name: Anthony Wagner
+gender: M
+dob: 1956-12-01
+age: 66
+party: Democratic
+phone: 443-561-6477
+address: 110 Lake Rd Apt A

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2355224
-  tags: Voter
-  caption: Voters/Kimberley Wallace
-  first-name: Kimberley
-  last-name: Wallace
-  middle-name: I
-  suffix: undefined
-  full-name: Kimberley Wallace
-  gender: F
-  dob: 1971-01-03
-  age: 52
-  party: Republican
-  phone: 860-748-86337
-  address: 65 Lake Rd
+tags: Voter
+caption: Voters/Kimberley Wallace
+first-name: Kimberley
+last-name: Wallace
+middle-name: I
+suffix: 
+full-name: Kimberley Wallace
+gender: F
+dob: 1971-03-01
+age: 52
+party: Republican
+phone: 860-748-6337
+address: 65 Lake Rd

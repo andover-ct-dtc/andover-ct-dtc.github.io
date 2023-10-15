@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9804574
-  tags: Voter
-  caption: Voters/Carol Kukucka
-  first-name: Carol
-  last-name: Kukucka
-  middle-name: S
-  suffix: undefined
-  full-name: Carol Kukucka
-  gender: F
-  dob: 1959-01-05
-  age: 64
-  party: 
-  phone: 
-  address: 373 Hebron Rd
+tags: Voter
+caption: Voters/Carol Kukucka
+first-name: Carol
+last-name: Kukucka
+middle-name: S
+suffix: 
+full-name: Carol Kukucka
+gender: F
+dob: 1959-05-01
+age: 64
+party: 
+phone: 
+address: 373 Hebron Rd

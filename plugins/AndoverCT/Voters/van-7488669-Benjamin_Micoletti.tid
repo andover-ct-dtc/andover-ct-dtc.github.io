@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7488669
-  tags: Voter
-  caption: Voters/Benjamin Micoletti
-  first-name: Benjamin
-  last-name: Micoletti
-  middle-name: Bernard
-  suffix: undefined
-  full-name: Benjamin Micoletti
-  gender: M
-  dob: 1998-01-07
-  age: 25
-  party: 
-  phone: 860-707-75412
-  address: 155 Lake Rd
+tags: Voter
+caption: Voters/Benjamin Micoletti
+first-name: Benjamin
+last-name: Micoletti
+middle-name: Bernard
+suffix: 
+full-name: Benjamin Micoletti
+gender: M
+dob: 1998-07-01
+age: 25
+party: 
+phone: 860-707-5412
+address: 155 Lake Rd

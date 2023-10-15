@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/203
-  tags: Voter
-  caption: Voters/Charles Kukucka
-  first-name: Charles
-  last-name: Kukucka
-  middle-name: H
-  suffix: undefined
-  full-name: Charles Kukucka
-  gender: M
-  dob: 1951-01-03
-  age: 72
-  party: 
-  phone: 860-742-29105
-  address: 403 Hebron Rd
+tags: Voter
+caption: Voters/Charles Kukucka
+first-name: Charles
+last-name: Kukucka
+middle-name: H
+suffix: 
+full-name: Charles Kukucka
+gender: M
+dob: 1951-03-01
+age: 72
+party: 
+phone: 860-742-9105
+address: 403 Hebron Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9468914
-  tags: Voter
-  caption: Voters/Christopher Butler
-  first-name: Christopher
-  last-name: Butler
-  middle-name: D
-  suffix: undefined
-  full-name: Christopher Butler
-  gender: M
-  dob: 1999-01-06
-  age: 24
-  party: Democratic
-  phone: 860-969-99612
-  address: 18 Stanley Dr
+tags: Voter
+caption: Voters/Christopher Butler
+first-name: Christopher
+last-name: Butler
+middle-name: D
+suffix: 
+full-name: Christopher Butler
+gender: M
+dob: 1999-06-01
+age: 24
+party: Democratic
+phone: 860-969-9612
+address: 18 Stanley Dr

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1450759
-  tags: Voter
-  caption: Voters/Mark Davis
-  first-name: Mark
-  last-name: Davis
-  middle-name: Antony
-  suffix: undefined
-  full-name: Mark Davis
-  gender: M
-  dob: 1975-01-09
-  age: 48
-  party: Democratic
-  phone: 860-539-93248
-  address: 26 Route 6
+tags: Voter
+caption: Voters/Mark Davis
+first-name: Mark
+last-name: Davis
+middle-name: Antony
+suffix: 
+full-name: Mark Davis
+gender: M
+dob: 1975-09-01
+age: 48
+party: Democratic
+phone: 860-539-3248
+address: 26 Route 6

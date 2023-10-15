@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2002
-  tags: Voter
-  caption: Voters/Amy Yeomans
-  first-name: Amy
-  last-name: Yeomans
-  middle-name: Elizabeth
-  suffix: undefined
-  full-name: Amy Yeomans
-  gender: F
-  dob: 1985-01-09
-  age: 38
-  party: Democratic
-  phone: 860-742-25473
-  address: 3 Hebron Rd
+tags: Voter
+caption: Voters/Amy Yeomans
+first-name: Amy
+last-name: Yeomans
+middle-name: Elizabeth
+suffix: 
+full-name: Amy Yeomans
+gender: F
+dob: 1985-09-01
+age: 38
+party: Democratic
+phone: 860-742-5473
+address: 3 Hebron Rd

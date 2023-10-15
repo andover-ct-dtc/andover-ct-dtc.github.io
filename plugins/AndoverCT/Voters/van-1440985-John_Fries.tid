@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1440985
-  tags: Voter
-  caption: Voters/John Fries
-  first-name: John
-  last-name: Fries
-  middle-name: Joseph
-  suffix: undefined
-  full-name: John Fries
-  gender: M
-  dob: 1962-01-08
-  age: 61
-  party: 
-  phone: 860-276-60826
-  address: 285 Boston Hill Rd
+tags: Voter
+caption: Voters/John Fries
+first-name: John
+last-name: Fries
+middle-name: Joseph
+suffix: 
+full-name: John Fries
+gender: M
+dob: 1962-08-01
+age: 61
+party: 
+phone: 860-276-0826
+address: 285 Boston Hill Rd

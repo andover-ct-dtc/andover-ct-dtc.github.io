@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/784
-  tags: Voter
-  caption: Voters/James Atkinson
-  first-name: James
-  last-name: Atkinson
-  middle-name: T
-  suffix: undefined
-  full-name: James Atkinson
-  gender: M
-  dob: 1946-01-06
-  age: 77
-  party: Democratic
-  phone: 
-  address: 68 School Rd
+tags: Voter
+caption: Voters/James Atkinson
+first-name: James
+last-name: Atkinson
+middle-name: T
+suffix: 
+full-name: James Atkinson
+gender: M
+dob: 1946-06-01
+age: 77
+party: Democratic
+phone: 
+address: 68 School Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/686
-  tags: Voter
-  caption: Voters/William Penn
-  first-name: William
-  last-name: Penn
-  middle-name: E
-  suffix: undefined
-  full-name: William Penn
-  gender: M
-  dob: 1956-01-04
-  age: 67
-  party: 
-  phone: 860-912-29556
-  address: 141 Wales Rd
+tags: Voter
+caption: Voters/William Penn
+first-name: William
+last-name: Penn
+middle-name: E
+suffix: 
+full-name: William Penn
+gender: M
+dob: 1956-04-01
+age: 67
+party: 
+phone: 860-912-9556
+address: 141 Wales Rd

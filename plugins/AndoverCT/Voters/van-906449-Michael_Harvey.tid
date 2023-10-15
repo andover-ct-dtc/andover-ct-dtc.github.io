@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/906449
-  tags: Voter
-  caption: Voters/Michael Harvey
-  first-name: Michael
-  last-name: Harvey
-  middle-name: John
-  suffix: undefined
-  full-name: Michael Harvey
-  gender: M
-  dob: 1982-01-09
-  age: 41
-  party: 
-  phone: 203-715-50745
-  address: 39 Gilead Rd
+tags: Voter
+caption: Voters/Michael Harvey
+first-name: Michael
+last-name: Harvey
+middle-name: John
+suffix: 
+full-name: Michael Harvey
+gender: M
+dob: 1982-09-01
+age: 41
+party: 
+phone: 203-715-0745
+address: 39 Gilead Rd

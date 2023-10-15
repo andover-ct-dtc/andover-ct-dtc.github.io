@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9554794
-  tags: Voter
-  caption: Voters/Henry Parkington
-  first-name: Henry
-  last-name: Parkington
-  middle-name: James
-  suffix: undefined
-  full-name: Henry Parkington
-  gender: M
-  dob: 1949-01-06
-  age: 74
-  party: Republican
-  phone: 904-629-90059
-  address: 81 Hutchinson Rd # T
+tags: Voter
+caption: Voters/Henry Parkington
+first-name: Henry
+last-name: Parkington
+middle-name: James
+suffix: 
+full-name: Henry Parkington
+gender: M
+dob: 1949-06-01
+age: 74
+party: Republican
+phone: 904-629-0059
+address: 81 Hutchinson Rd # T

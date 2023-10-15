@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9616138
-  tags: Voter
-  caption: Voters/Michael Fargnoli
-  first-name: Michael
-  last-name: Fargnoli
-  middle-name: Anthony
-  suffix: undefined
-  full-name: Michael Fargnoli
-  gender: M
-  dob: 1961-01-09
-  age: 62
-  party: Republican
-  phone: 860-841-19887
-  address: 86 West St
+tags: Voter
+caption: Voters/Michael Fargnoli
+first-name: Michael
+last-name: Fargnoli
+middle-name: Anthony
+suffix: 
+full-name: Michael Fargnoli
+gender: M
+dob: 1961-09-01
+age: 62
+party: Republican
+phone: 860-841-9887
+address: 86 West St

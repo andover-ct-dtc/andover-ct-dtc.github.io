@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9635081
-  tags: Voter
-  caption: Voters/Allison Wazer
-  first-name: Allison
-  last-name: Wazer
-  middle-name: M
-  suffix: undefined
-  full-name: Allison Wazer
-  gender: F
-  dob: 2003-01-03
-  age: 20
-  party: Republican
-  phone: 860-942-22410
-  address: 344 Hebron Rd
+tags: Voter
+caption: Voters/Allison Wazer
+first-name: Allison
+last-name: Wazer
+middle-name: M
+suffix: 
+full-name: Allison Wazer
+gender: F
+dob: 2003-03-01
+age: 20
+party: Republican
+phone: 860-942-2410
+address: 344 Hebron Rd

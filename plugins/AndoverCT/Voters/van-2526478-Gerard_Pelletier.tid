@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2526478
-  tags: Voter
-  caption: Voters/Gerard Pelletier
-  first-name: Gerard
-  last-name: Pelletier
-  middle-name: Paul
-  suffix: undefined
-  full-name: Gerard Pelletier
-  gender: M
-  dob: 1965-01-09
-  age: 58
-  party: Republican
-  phone: 860-742-25538
-  address: 349 Route 6
+tags: Voter
+caption: Voters/Gerard Pelletier
+first-name: Gerard
+last-name: Pelletier
+middle-name: Paul
+suffix: 
+full-name: Gerard Pelletier
+gender: M
+dob: 1965-09-01
+age: 58
+party: Republican
+phone: 860-742-5538
+address: 349 Route 6

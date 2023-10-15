@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/818
-  tags: Voter
-  caption: Voters/Michael Brennan
-  first-name: Michael
-  last-name: Brennan
-  middle-name: J
-  suffix: undefined
-  full-name: Michael Brennan
-  gender: M
-  dob: 1962-01-03
-  age: 61
-  party: 
-  phone: 860-742-28101
-  address: 99 Lakeside Dr
+tags: Voter
+caption: Voters/Michael Brennan
+first-name: Michael
+last-name: Brennan
+middle-name: J
+suffix: 
+full-name: Michael Brennan
+gender: M
+dob: 1962-03-01
+age: 61
+party: 
+phone: 860-742-8101
+address: 99 Lakeside Dr

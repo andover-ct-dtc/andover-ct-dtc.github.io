@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/803
-  tags: Voter
-  caption: Voters/Jessee Person
-  first-name: Jessee
-  last-name: Person
-  middle-name: E
-  suffix: undefined
-  full-name: Jessee Person
-  gender: M
-  dob: 1956-01-02
-  age: 67
-  party: 
-  phone: 860-742-28660
-  address: 187 Lake Rd
+tags: Voter
+caption: Voters/Jessee Person
+first-name: Jessee
+last-name: Person
+middle-name: E
+suffix: 
+full-name: Jessee Person
+gender: M
+dob: 1956-02-01
+age: 67
+party: 
+phone: 860-742-8660
+address: 187 Lake Rd

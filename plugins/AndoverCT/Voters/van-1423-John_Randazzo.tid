@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1423
-  tags: Voter
-  caption: Voters/John Randazzo
-  first-name: John
-  last-name: Randazzo
-  middle-name: Philip
-  suffix: undefined
-  full-name: John Randazzo
-  gender: M
-  dob: 1959-01-07
-  age: 64
-  party: 
-  phone: 860-742-28644
-  address: 40 Old Farms Rd
+tags: Voter
+caption: Voters/John Randazzo
+first-name: John
+last-name: Randazzo
+middle-name: Philip
+suffix: 
+full-name: John Randazzo
+gender: M
+dob: 1959-07-01
+age: 64
+party: 
+phone: 860-742-8644
+address: 40 Old Farms Rd

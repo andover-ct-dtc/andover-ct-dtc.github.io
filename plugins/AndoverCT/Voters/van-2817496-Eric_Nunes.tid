@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2817496
-  tags: Voter
-  caption: Voters/Eric Nunes
-  first-name: Eric
-  last-name: Nunes
-  middle-name: A
-  suffix: undefined
-  full-name: Eric Nunes
-  gender: M
-  dob: 1990-01-12
-  age: 32
-  party: 
-  phone: 860-712-29204
-  address: 4 Shadblow Ln
+tags: Voter
+caption: Voters/Eric Nunes
+first-name: Eric
+last-name: Nunes
+middle-name: A
+suffix: 
+full-name: Eric Nunes
+gender: M
+dob: 1990-12-01
+age: 32
+party: 
+phone: 860-712-9204
+address: 4 Shadblow Ln

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/506
-  tags: Voter
-  caption: Voters/Gregory Hoisington
-  first-name: Gregory
-  last-name: Hoisington
-  middle-name: J
-  suffix: undefined
-  full-name: Gregory Hoisington
-  gender: M
-  dob: 1953-01-12
-  age: 69
-  party: 
-  phone: 860-742-21754
-  address: 24 Brown Rd
+tags: Voter
+caption: Voters/Gregory Hoisington
+first-name: Gregory
+last-name: Hoisington
+middle-name: J
+suffix: 
+full-name: Gregory Hoisington
+gender: M
+dob: 1953-12-01
+age: 69
+party: 
+phone: 860-742-1754
+address: 24 Brown Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1618695
-  tags: Voter
-  caption: Voters/Jessica Silano
-  first-name: Jessica
-  last-name: Silano
-  middle-name: D
-  suffix: undefined
-  full-name: Jessica Silano
-  gender: F
-  dob: 1984-01-06
-  age: 39
-  party: 
-  phone: 860-463-33073
-  address: 485 Lake Rd
+tags: Voter
+caption: Voters/Jessica Silano
+first-name: Jessica
+last-name: Silano
+middle-name: D
+suffix: 
+full-name: Jessica Silano
+gender: F
+dob: 1984-06-01
+age: 39
+party: 
+phone: 860-463-3073
+address: 485 Lake Rd

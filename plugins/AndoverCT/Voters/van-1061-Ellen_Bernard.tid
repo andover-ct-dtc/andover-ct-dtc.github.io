@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1061
-  tags: Voter
-  caption: Voters/Ellen Bernard
-  first-name: Ellen
-  last-name: Bernard
-  middle-name: M
-  suffix: undefined
-  full-name: Ellen Bernard
-  gender: F
-  dob: 1959-01-03
-  age: 64
-  party: Democratic
-  phone: 860-742-20854
-  address: 16 Bear Swamp Rd
+tags: Voter
+caption: Voters/Ellen Bernard
+first-name: Ellen
+last-name: Bernard
+middle-name: M
+suffix: 
+full-name: Ellen Bernard
+gender: F
+dob: 1959-03-01
+age: 64
+party: Democratic
+phone: 860-742-0854
+address: 16 Bear Swamp Rd

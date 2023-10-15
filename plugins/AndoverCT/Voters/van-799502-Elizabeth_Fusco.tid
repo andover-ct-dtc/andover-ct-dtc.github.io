@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/799502
-  tags: Voter
-  caption: Voters/Elizabeth Fusco
-  first-name: Elizabeth
-  last-name: Fusco
-  middle-name: Aileen
-  suffix: undefined
-  full-name: Elizabeth Fusco
-  gender: F
-  dob: 1981-12-01
-  age: 42
-  party: 
-  phone: 
-  address: 203 Bunker Hill Rd
+tags: Voter
+caption: Voters/Elizabeth Fusco
+first-name: Elizabeth
+last-name: Fusco
+middle-name: Aileen
+suffix: 
+full-name: Elizabeth Fusco
+gender: F
+dob: 1981-01-12
+age: 42
+party: 
+phone: 
+address: 203 Bunker Hill Rd

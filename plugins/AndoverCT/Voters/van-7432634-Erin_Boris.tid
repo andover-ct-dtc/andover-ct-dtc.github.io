@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7432634
-  tags: Voter
-  caption: Voters/Erin Boris
-  first-name: Erin
-  last-name: Boris
-  middle-name: D
-  suffix: undefined
-  full-name: Erin Boris
-  gender: F
-  dob: 1981-01-05
-  age: 42
-  party: Republican
-  phone: 860-916-63791
-  address: 6 Dogwood Dr
+tags: Voter
+caption: Voters/Erin Boris
+first-name: Erin
+last-name: Boris
+middle-name: D
+suffix: 
+full-name: Erin Boris
+gender: F
+dob: 1981-05-01
+age: 42
+party: Republican
+phone: 860-916-3791
+address: 6 Dogwood Dr

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/360
-  tags: Voter
-  caption: Voters/Carol Zujewski
-  first-name: Carol
-  last-name: Zujewski
-  middle-name: L
-  suffix: undefined
-  full-name: Carol Zujewski
-  gender: F
-  dob: 1952-07-01
-  age: 71
-  party: Democratic
-  phone: 
-  address: 28 Hebron Rd
+tags: Voter
+caption: Voters/Carol Zujewski
+first-name: Carol
+last-name: Zujewski
+middle-name: L
+suffix: 
+full-name: Carol Zujewski
+gender: F
+dob: 1952-01-07
+age: 71
+party: Democratic
+phone: 
+address: 28 Hebron Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7042563
-  tags: Voter
-  caption: Voters/Brandon Sears
-  first-name: Brandon
-  last-name: Sears
-  middle-name: L
-  suffix: undefined
-  full-name: Brandon Sears
-  gender: M
-  dob: 1993-01-02
-  age: 30
-  party: Republican
-  phone: 860-808-89678
-  address: 136 Lakeside Dr
+tags: Voter
+caption: Voters/Brandon Sears
+first-name: Brandon
+last-name: Sears
+middle-name: L
+suffix: 
+full-name: Brandon Sears
+gender: M
+dob: 1993-02-01
+age: 30
+party: Republican
+phone: 860-808-9678
+address: 136 Lakeside Dr

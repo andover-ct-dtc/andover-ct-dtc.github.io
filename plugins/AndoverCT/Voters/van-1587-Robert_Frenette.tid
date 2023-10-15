@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1587
-  tags: Voter
-  caption: Voters/Robert Frenette
-  first-name: Robert
-  last-name: Frenette
-  middle-name: Michael
-  suffix: undefined
-  full-name: Robert Frenette
-  gender: M
-  dob: 1967-01-08
-  age: 56
-  party: Democratic
-  phone: 860-918-89290
-  address: 41 Gilead Rd
+tags: Voter
+caption: Voters/Robert Frenette
+first-name: Robert
+last-name: Frenette
+middle-name: Michael
+suffix: 
+full-name: Robert Frenette
+gender: M
+dob: 1967-08-01
+age: 56
+party: Democratic
+phone: 860-918-9290
+address: 41 Gilead Rd

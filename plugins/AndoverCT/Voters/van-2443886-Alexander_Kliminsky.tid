@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2443886
-  tags: Voter
-  caption: Voters/Alexander Kliminsky
-  first-name: Alexander
-  last-name: Kliminsky
-  middle-name: 
-  suffix: undefined
-  full-name: Alexander Kliminsky
-  gender: M
-  dob: 1990-01-06
-  age: 33
-  party: Green
-  phone: 860-331-10308
-  address: 896 East St
+tags: Voter
+caption: Voters/Alexander Kliminsky
+first-name: Alexander
+last-name: Kliminsky
+middle-name: 
+suffix: 
+full-name: Alexander Kliminsky
+gender: M
+dob: 1990-06-01
+age: 33
+party: Green
+phone: 860-331-0308
+address: 896 East St

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7600832
-  tags: Voter
-  caption: Voters/Donald Swanson
-  first-name: Donald
-  last-name: Swanson
-  middle-name: Cullen
-  suffix: undefined
-  full-name: Donald Swanson
-  gender: M
-  dob: 1968-01-08
-  age: 55
-  party: 
-  phone: 860-653-33025
-  address: 41 Bausola Rd
+tags: Voter
+caption: Voters/Donald Swanson
+first-name: Donald
+last-name: Swanson
+middle-name: Cullen
+suffix: 
+full-name: Donald Swanson
+gender: M
+dob: 1968-08-01
+age: 55
+party: 
+phone: 860-653-3025
+address: 41 Bausola Rd

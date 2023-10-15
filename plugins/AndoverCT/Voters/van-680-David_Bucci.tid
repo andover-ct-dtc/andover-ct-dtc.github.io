@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/680
-  tags: Voter
-  caption: Voters/David Bucci
-  first-name: David
-  last-name: Bucci
-  middle-name: A
-  suffix: undefined
-  full-name: David Bucci
-  gender: M
-  dob: 1954-01-03
-  age: 69
-  party: Democratic
-  phone: 860-857-72384
-  address: 89 Burnap Brook Rd
+tags: Voter
+caption: Voters/David Bucci
+first-name: David
+last-name: Bucci
+middle-name: A
+suffix: 
+full-name: David Bucci
+gender: M
+dob: 1954-03-01
+age: 69
+party: Democratic
+phone: 860-857-2384
+address: 89 Burnap Brook Rd

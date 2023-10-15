@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1942
-  tags: Voter
-  caption: Voters/Michelle Rogasky
-  first-name: Michelle
-  last-name: Rogasky
-  middle-name: Ann
-  suffix: undefined
-  full-name: Michelle Rogasky
-  gender: F
-  dob: 1958-01-02
-  age: 65
-  party: Republican
-  phone: 860-729-90503
-  address: 44 West St
+tags: Voter
+caption: Voters/Michelle Rogasky
+first-name: Michelle
+last-name: Rogasky
+middle-name: Ann
+suffix: 
+full-name: Michelle Rogasky
+gender: F
+dob: 1958-02-01
+age: 65
+party: Republican
+phone: 860-729-0503
+address: 44 West St

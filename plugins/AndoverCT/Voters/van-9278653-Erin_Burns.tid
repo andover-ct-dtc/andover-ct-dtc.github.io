@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9278653
-  tags: Voter
-  caption: Voters/Erin Burns
-  first-name: Erin
-  last-name: Burns
-  middle-name: E
-  suffix: undefined
-  full-name: Erin Burns
-  gender: F
-  dob: 1987-01-12
-  age: 35
-  party: Democratic
-  phone: 615-308-87595
-  address: 295 Lake Rd
+tags: Voter
+caption: Voters/Erin Burns
+first-name: Erin
+last-name: Burns
+middle-name: E
+suffix: 
+full-name: Erin Burns
+gender: F
+dob: 1987-12-01
+age: 35
+party: Democratic
+phone: 615-308-7595
+address: 295 Lake Rd

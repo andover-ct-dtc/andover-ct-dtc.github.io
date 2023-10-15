@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1642
-  tags: Voter
-  caption: Voters/Robert Lyon
-  first-name: Robert
-  last-name: Lyon
-  middle-name: Kennedy
-  suffix: undefined
-  full-name: Robert Lyon
-  gender: M
-  dob: 1959-01-08
-  age: 64
-  party: 
-  phone: 860-559-97862
-  address: 237 Hebron Rd
+tags: Voter
+caption: Voters/Robert Lyon
+first-name: Robert
+last-name: Lyon
+middle-name: Kennedy
+suffix: 
+full-name: Robert Lyon
+gender: M
+dob: 1959-08-01
+age: 64
+party: 
+phone: 860-559-7862
+address: 237 Hebron Rd

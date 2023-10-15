@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7488595
-  tags: Voter
-  caption: Voters/Terri Skoog
-  first-name: Terri
-  last-name: Skoog
-  middle-name: Lynn
-  suffix: undefined
-  full-name: Terri Skoog
-  gender: F
-  dob: 1975-01-02
-  age: 48
-  party: Democratic
-  phone: 860-614-49227
-  address: 184 Boston Hill Rd
+tags: Voter
+caption: Voters/Terri Skoog
+first-name: Terri
+last-name: Skoog
+middle-name: Lynn
+suffix: 
+full-name: Terri Skoog
+gender: F
+dob: 1975-02-01
+age: 48
+party: Democratic
+phone: 860-614-9227
+address: 184 Boston Hill Rd

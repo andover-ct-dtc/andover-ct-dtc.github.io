@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/353
-  tags: Voter
-  caption: Voters/Cynthia Dakin
-  first-name: Cynthia
-  last-name: Dakin
-  middle-name: L
-  suffix: undefined
-  full-name: Cynthia Dakin
-  gender: F
-  dob: 1955-01-02
-  age: 68
-  party: Republican
-  phone: 860-305-54575
-  address: 320 Boston Hill Rd
+tags: Voter
+caption: Voters/Cynthia Dakin
+first-name: Cynthia
+last-name: Dakin
+middle-name: L
+suffix: 
+full-name: Cynthia Dakin
+gender: F
+dob: 1955-02-01
+age: 68
+party: Republican
+phone: 860-305-4575
+address: 320 Boston Hill Rd

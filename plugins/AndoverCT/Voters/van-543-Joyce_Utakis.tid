@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/543
-  tags: Voter
-  caption: Voters/Joyce Utakis
-  first-name: Joyce
-  last-name: Utakis
-  middle-name: E
-  suffix: undefined
-  full-name: Joyce Utakis
-  gender: F
-  dob: 1945-12-01
-  age: 78
-  party: 
-  phone: 860-742-26514
-  address: 147 Bunker Hill Rd
+tags: Voter
+caption: Voters/Joyce Utakis
+first-name: Joyce
+last-name: Utakis
+middle-name: E
+suffix: 
+full-name: Joyce Utakis
+gender: F
+dob: 1945-01-12
+age: 78
+party: 
+phone: 860-742-6514
+address: 147 Bunker Hill Rd

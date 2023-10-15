@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7488675
-  tags: Voter
-  caption: Voters/John Sendley
-  first-name: John
-  last-name: Sendley
-  middle-name: S
-  suffix: undefined
-  full-name: John Sendley
-  gender: M
-  dob: 1966-01-06
-  age: 57
-  party: 
-  phone: 860-933-37757
-  address: 64 Route 87
+tags: Voter
+caption: Voters/John Sendley
+first-name: John
+last-name: Sendley
+middle-name: S
+suffix: 
+full-name: John Sendley
+gender: M
+dob: 1966-06-01
+age: 57
+party: 
+phone: 860-933-7757
+address: 64 Route 87

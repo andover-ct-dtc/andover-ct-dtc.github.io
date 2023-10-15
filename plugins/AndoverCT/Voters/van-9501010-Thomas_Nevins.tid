@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9501010
-  tags: Voter
-  caption: Voters/Thomas Nevins Jr
-  first-name: Thomas
-  last-name: Nevins
-  middle-name: William
-  suffix: undefined
-  full-name: Thomas Nevins Jr
-  gender: M
-  dob: 1997-01-06
-  age: 26
-  party: Republican
-  phone: 860-558-85219
-  address: 254 Bear Swamp Rd
+tags: Voter
+caption: Voters/Thomas Nevins Jr
+first-name: Thomas
+last-name: Nevins
+middle-name: William
+suffix: 
+full-name: Thomas Nevins Jr
+gender: M
+dob: 1997-06-01
+age: 26
+party: Republican
+phone: 860-558-5219
+address: 254 Bear Swamp Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1605
-  tags: Voter
-  caption: Voters/Gary Perrett
-  first-name: Gary
-  last-name: Perrett
-  middle-name: G
-  suffix: undefined
-  full-name: Gary Perrett
-  gender: M
-  dob: 1951-29-01
-  age: 72
-  party: 
-  phone: 860-742-22379
-  address: 118 Bunker Hill Rd
+tags: Voter
+caption: Voters/Gary Perrett
+first-name: Gary
+last-name: Perrett
+middle-name: G
+suffix: 
+full-name: Gary Perrett
+gender: M
+dob: 1951-01-29
+age: 72
+party: 
+phone: 860-742-2379
+address: 118 Bunker Hill Rd

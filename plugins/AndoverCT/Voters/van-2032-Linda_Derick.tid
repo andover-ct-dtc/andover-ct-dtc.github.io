@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2032
-  tags: Voter
-  caption: Voters/Linda Derick
-  first-name: Linda
-  last-name: Derick
-  middle-name: Jean
-  suffix: undefined
-  full-name: Linda Derick
-  gender: F
-  dob: 1953-01-03
-  age: 70
-  party: Democratic
-  phone: 860-655-54409
-  address: 101 Lakeside Dr
+tags: Voter
+caption: Voters/Linda Derick
+first-name: Linda
+last-name: Derick
+middle-name: Jean
+suffix: 
+full-name: Linda Derick
+gender: F
+dob: 1953-03-01
+age: 70
+party: Democratic
+phone: 860-655-4409
+address: 101 Lakeside Dr

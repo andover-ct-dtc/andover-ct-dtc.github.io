@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1544
-  tags: Voter
-  caption: Voters/Don Lundberg
-  first-name: Don
-  last-name: Lundberg
-  middle-name: Charles
-  suffix: undefined
-  full-name: Don Lundberg
-  gender: M
-  dob: 1959-01-04
-  age: 64
-  party: Republican
-  phone: 860-742-22901
-  address: 17 Burnap Brook Rd
+tags: Voter
+caption: Voters/Don Lundberg
+first-name: Don
+last-name: Lundberg
+middle-name: Charles
+suffix: 
+full-name: Don Lundberg
+gender: M
+dob: 1959-04-01
+age: 64
+party: Republican
+phone: 860-742-2901
+address: 17 Burnap Brook Rd

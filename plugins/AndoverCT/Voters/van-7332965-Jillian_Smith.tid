@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7332965
-  tags: Voter
-  caption: Voters/Jillian Smith
-  first-name: Jillian
-  last-name: Smith
-  middle-name: Joy
-  suffix: undefined
-  full-name: Jillian Smith
-  gender: F
-  dob: 1998-01-03
-  age: 25
-  party: Republican
-  phone: 860-498-81167
-  address: 4 Hickory Hill Dr
+tags: Voter
+caption: Voters/Jillian Smith
+first-name: Jillian
+last-name: Smith
+middle-name: Joy
+suffix: 
+full-name: Jillian Smith
+gender: F
+dob: 1998-03-01
+age: 25
+party: Republican
+phone: 860-498-1167
+address: 4 Hickory Hill Dr

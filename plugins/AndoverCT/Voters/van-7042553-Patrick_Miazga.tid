@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7042553
-  tags: Voter
-  caption: Voters/Patrick Miazga
-  first-name: Patrick
-  last-name: Miazga
-  middle-name: K
-  suffix: undefined
-  full-name: Patrick Miazga
-  gender: M
-  dob: 1996-01-05
-  age: 27
-  party: Republican
-  phone: 860-748-85890
-  address: 44 Birch Dr
+tags: Voter
+caption: Voters/Patrick Miazga
+first-name: Patrick
+last-name: Miazga
+middle-name: K
+suffix: 
+full-name: Patrick Miazga
+gender: M
+dob: 1996-05-01
+age: 27
+party: Republican
+phone: 860-748-5890
+address: 44 Birch Dr

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/136
-  tags: Voter
-  caption: Voters/Thomas Anderson
-  first-name: Thomas
-  last-name: Anderson
-  middle-name: M
-  suffix: undefined
-  full-name: Thomas Anderson
-  gender: M
-  dob: 1937-01-02
-  age: 86
-  party: Democratic
-  phone: 860-796-62664
-  address: 34 Wheeling Rd
+tags: Voter
+caption: Voters/Thomas Anderson
+first-name: Thomas
+last-name: Anderson
+middle-name: M
+suffix: 
+full-name: Thomas Anderson
+gender: M
+dob: 1937-02-01
+age: 86
+party: Democratic
+phone: 860-796-2664
+address: 34 Wheeling Rd

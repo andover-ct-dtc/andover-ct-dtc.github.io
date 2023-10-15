@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/407
-  tags: Voter
-  caption: Voters/Susan Potocik
-  first-name: Susan
-  last-name: Potocik
-  middle-name: B
-  suffix: undefined
-  full-name: Susan Potocik
-  gender: F
-  dob: 1946-01-06
-  age: 77
-  party: Republican
-  phone: 860-742-20676
-  address: 6 Lindholms Cor
+tags: Voter
+caption: Voters/Susan Potocik
+first-name: Susan
+last-name: Potocik
+middle-name: B
+suffix: 
+full-name: Susan Potocik
+gender: F
+dob: 1946-06-01
+age: 77
+party: Republican
+phone: 860-742-0676
+address: 6 Lindholms Cor

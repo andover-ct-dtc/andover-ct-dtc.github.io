@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7075328
-  tags: Voter
-  caption: Voters/Thomas Beebe
-  first-name: Thomas
-  last-name: Beebe
-  middle-name: Scott
-  suffix: undefined
-  full-name: Thomas Beebe
-  gender: M
-  dob: 1997-01-07
-  age: 26
-  party: Democratic
-  phone: 860-428-81302
-  address: 305 Route 6
+tags: Voter
+caption: Voters/Thomas Beebe
+first-name: Thomas
+last-name: Beebe
+middle-name: Scott
+suffix: 
+full-name: Thomas Beebe
+gender: M
+dob: 1997-07-01
+age: 26
+party: Democratic
+phone: 860-428-1302
+address: 305 Route 6

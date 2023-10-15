@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2248335
-  tags: Voter
-  caption: Voters/Linda Moderski
-  first-name: Linda
-  last-name: Moderski
-  middle-name: A
-  suffix: undefined
-  full-name: Linda Moderski
-  gender: F
-  dob: 1948-01-03
-  age: 75
-  party: Democratic
-  phone: 
-  address: 25 Riverside Dr Apt 2E
+tags: Voter
+caption: Voters/Linda Moderski
+first-name: Linda
+last-name: Moderski
+middle-name: A
+suffix: 
+full-name: Linda Moderski
+gender: F
+dob: 1948-03-01
+age: 75
+party: Democratic
+phone: 
+address: 25 Riverside Dr Apt 2E

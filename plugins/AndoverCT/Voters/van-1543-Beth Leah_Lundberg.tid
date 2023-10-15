@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1543
-  tags: Voter
-  caption: Voters/Beth Leah Lundberg
-  first-name: Beth Leah
-  last-name: Lundberg
-  middle-name: Josie
-  suffix: undefined
-  full-name: Beth Leah Lundberg
-  gender: F
-  dob: 1961-01-03
-  age: 62
-  party: Republican
-  phone: 860-742-22901
-  address: 17 Burnap Brook Rd
+tags: Voter
+caption: Voters/Beth Leah Lundberg
+first-name: Beth Leah
+last-name: Lundberg
+middle-name: Josie
+suffix: 
+full-name: Beth Leah Lundberg
+gender: F
+dob: 1961-03-01
+age: 62
+party: Republican
+phone: 860-742-2901
+address: 17 Burnap Brook Rd

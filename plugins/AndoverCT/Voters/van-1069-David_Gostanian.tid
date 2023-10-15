@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1069
-  tags: Voter
-  caption: Voters/David Gostanian
-  first-name: David
-  last-name: Gostanian
-  middle-name: G
-  suffix: undefined
-  full-name: David Gostanian
-  gender: M
-  dob: 1963-01-05
-  age: 60
-  party: Republican
-  phone: 860-614-43673
-  address: 520 Lake Rd
+tags: Voter
+caption: Voters/David Gostanian
+first-name: David
+last-name: Gostanian
+middle-name: G
+suffix: 
+full-name: David Gostanian
+gender: M
+dob: 1963-05-01
+age: 60
+party: Republican
+phone: 860-614-3673
+address: 520 Lake Rd

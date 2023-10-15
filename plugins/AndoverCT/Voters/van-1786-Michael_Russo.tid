@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1786
-  tags: Voter
-  caption: Voters/Michael Russo
-  first-name: Michael
-  last-name: Russo
-  middle-name: Scott
-  suffix: undefined
-  full-name: Michael Russo
-  gender: M
-  dob: 1975-01-02
-  age: 48
-  party: 
-  phone: 860-416-63553
-  address: 26 Stanley Dr
+tags: Voter
+caption: Voters/Michael Russo
+first-name: Michael
+last-name: Russo
+middle-name: Scott
+suffix: 
+full-name: Michael Russo
+gender: M
+dob: 1975-02-01
+age: 48
+party: 
+phone: 860-416-3553
+address: 26 Stanley Dr

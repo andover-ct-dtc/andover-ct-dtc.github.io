@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1694
-  tags: Voter
-  caption: Voters/Daryl Robbins
-  first-name: Daryl
-  last-name: Robbins
-  middle-name: Alan
-  suffix: undefined
-  full-name: Daryl Robbins
-  gender: M
-  dob: 1980-01-11
-  age: 42
-  party: 
-  phone: 860-742-28299
-  address: 317 Lake Rd
+tags: Voter
+caption: Voters/Daryl Robbins
+first-name: Daryl
+last-name: Robbins
+middle-name: Alan
+suffix: 
+full-name: Daryl Robbins
+gender: M
+dob: 1980-11-01
+age: 42
+party: 
+phone: 860-742-8299
+address: 317 Lake Rd

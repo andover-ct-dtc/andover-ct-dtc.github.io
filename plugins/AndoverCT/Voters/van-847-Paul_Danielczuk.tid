@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/847
-  tags: Voter
-  caption: Voters/Paul Danielczuk
-  first-name: Paul
-  last-name: Danielczuk
-  middle-name: S
-  suffix: undefined
-  full-name: Paul Danielczuk
-  gender: M
-  dob: 1956-05-01
-  age: 67
-  party: Democratic
-  phone: 860-742-25919
-  address: 96 Gilead Rd
+tags: Voter
+caption: Voters/Paul Danielczuk
+first-name: Paul
+last-name: Danielczuk
+middle-name: S
+suffix: 
+full-name: Paul Danielczuk
+gender: M
+dob: 1956-01-05
+age: 67
+party: Democratic
+phone: 860-742-5919
+address: 96 Gilead Rd

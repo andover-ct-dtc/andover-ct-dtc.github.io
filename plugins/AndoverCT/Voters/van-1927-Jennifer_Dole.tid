@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1927
-  tags: Voter
-  caption: Voters/Jennifer Dole
-  first-name: Jennifer
-  last-name: Dole
-  middle-name: A
-  suffix: undefined
-  full-name: Jennifer Dole
-  gender: F
-  dob: 1961-01-07
-  age: 62
-  party: 
-  phone: 860-841-19925
-  address: 36 Ridge Rd
+tags: Voter
+caption: Voters/Jennifer Dole
+first-name: Jennifer
+last-name: Dole
+middle-name: A
+suffix: 
+full-name: Jennifer Dole
+gender: F
+dob: 1961-07-01
+age: 62
+party: 
+phone: 860-841-9925
+address: 36 Ridge Rd

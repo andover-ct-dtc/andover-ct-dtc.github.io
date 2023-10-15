@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1618
-  tags: Voter
-  caption: Voters/John Rodegher
-  first-name: John
-  last-name: Rodegher
-  middle-name: Oreste
-  suffix: undefined
-  full-name: John Rodegher
-  gender: M
-  dob: 1965-26-01
-  age: 58
-  party: Republican
-  phone: 413-246-62029
-  address: 90 Stanley Dr
+tags: Voter
+caption: Voters/John Rodegher
+first-name: John
+last-name: Rodegher
+middle-name: Oreste
+suffix: 
+full-name: John Rodegher
+gender: M
+dob: 1965-01-26
+age: 58
+party: Republican
+phone: 413-246-2029
+address: 90 Stanley Dr

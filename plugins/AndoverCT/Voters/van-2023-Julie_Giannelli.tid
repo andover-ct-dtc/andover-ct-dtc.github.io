@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2023
-  tags: Voter
-  caption: Voters/Julie Giannelli
-  first-name: Julie
-  last-name: Giannelli
-  middle-name: 
-  suffix: undefined
-  full-name: Julie Giannelli
-  gender: F
-  dob: 1971-01-12
-  age: 51
-  party: Democratic
-  phone: 860-794-43670
-  address: 453 Lake Rd
+tags: Voter
+caption: Voters/Julie Giannelli
+first-name: Julie
+last-name: Giannelli
+middle-name: 
+suffix: 
+full-name: Julie Giannelli
+gender: F
+dob: 1971-12-01
+age: 51
+party: Democratic
+phone: 860-794-3670
+address: 453 Lake Rd

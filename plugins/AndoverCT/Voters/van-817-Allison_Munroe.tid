@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/817
-  tags: Voter
-  caption: Voters/Allison Munroe
-  first-name: Allison
-  last-name: Munroe
-  middle-name: I
-  suffix: undefined
-  full-name: Allison Munroe
-  gender: F
-  dob: 1957-01-11
-  age: 65
-  party: Democratic
-  phone: 860-836-69385
-  address: 27 Rose Ln
+tags: Voter
+caption: Voters/Allison Munroe
+first-name: Allison
+last-name: Munroe
+middle-name: I
+suffix: 
+full-name: Allison Munroe
+gender: F
+dob: 1957-11-01
+age: 65
+party: Democratic
+phone: 860-836-9385
+address: 27 Rose Ln

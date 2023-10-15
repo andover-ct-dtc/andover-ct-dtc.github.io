@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7434064
-  tags: Voter
-  caption: Voters/Rebecca Ray
-  first-name: Rebecca
-  last-name: Ray
-  middle-name: Lynn
-  suffix: undefined
-  full-name: Rebecca Ray
-  gender: F
-  dob: 1996-01-02
-  age: 27
-  party: Republican
-  phone: 860-450-02325
-  address: 880 East St
+tags: Voter
+caption: Voters/Rebecca Ray
+first-name: Rebecca
+last-name: Ray
+middle-name: Lynn
+suffix: 
+full-name: Rebecca Ray
+gender: F
+dob: 1996-02-01
+age: 27
+party: Republican
+phone: 860-450-2325
+address: 880 East St

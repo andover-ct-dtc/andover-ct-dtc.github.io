@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/929
-  tags: Voter
-  caption: Voters/Gary Cyranowicz
-  first-name: Gary
-  last-name: Cyranowicz
-  middle-name: David
-  suffix: undefined
-  full-name: Gary Cyranowicz
-  gender: M
-  dob: 1954-01-08
-  age: 69
-  party: Democratic
-  phone: 860-305-55224
-  address: 309 Boston Hill Rd
+tags: Voter
+caption: Voters/Gary Cyranowicz
+first-name: Gary
+last-name: Cyranowicz
+middle-name: David
+suffix: 
+full-name: Gary Cyranowicz
+gender: M
+dob: 1954-08-01
+age: 69
+party: Democratic
+phone: 860-305-5224
+address: 309 Boston Hill Rd

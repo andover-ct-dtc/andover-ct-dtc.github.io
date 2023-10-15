@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1479
-  tags: Voter
-  caption: Voters/Kimberly Wantek
-  first-name: Kimberly
-  last-name: Wantek
-  middle-name: Anne
-  suffix: undefined
-  full-name: Kimberly Wantek
-  gender: F
-  dob: 1963-01-07
-  age: 60
-  party: Republican
-  phone: 860-559-90841
-  address: 63 Boston Hill Rd
+tags: Voter
+caption: Voters/Kimberly Wantek
+first-name: Kimberly
+last-name: Wantek
+middle-name: Anne
+suffix: 
+full-name: Kimberly Wantek
+gender: F
+dob: 1963-07-01
+age: 60
+party: Republican
+phone: 860-559-0841
+address: 63 Boston Hill Rd

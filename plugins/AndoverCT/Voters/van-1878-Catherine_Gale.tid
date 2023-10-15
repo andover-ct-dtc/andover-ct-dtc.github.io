@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1878
-  tags: Voter
-  caption: Voters/Catherine Gale
-  first-name: Catherine
-  last-name: Gale
-  middle-name: S
-  suffix: undefined
-  full-name: Catherine Gale
-  gender: F
-  dob: 1958-01-11
-  age: 64
-  party: Democratic
-  phone: 860-742-25385
-  address: 45 Birch Dr
+tags: Voter
+caption: Voters/Catherine Gale
+first-name: Catherine
+last-name: Gale
+middle-name: S
+suffix: 
+full-name: Catherine Gale
+gender: F
+dob: 1958-11-01
+age: 64
+party: Democratic
+phone: 860-742-5385
+address: 45 Birch Dr

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/787916
-  tags: Voter
-  caption: Voters/John Gabbey
-  first-name: John
-  last-name: Gabbey
-  middle-name: R
-  suffix: undefined
-  full-name: John Gabbey
-  gender: M
-  dob: 1949-01-08
-  age: 74
-  party: Democratic
-  phone: 860-748-86697
-  address: 92 Bear Swamp Rd
+tags: Voter
+caption: Voters/John Gabbey
+first-name: John
+last-name: Gabbey
+middle-name: R
+suffix: 
+full-name: John Gabbey
+gender: M
+dob: 1949-08-01
+age: 74
+party: Democratic
+phone: 860-748-6697
+address: 92 Bear Swamp Rd

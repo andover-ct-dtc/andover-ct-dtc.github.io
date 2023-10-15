@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9750552
-  tags: Voter
-  caption: Voters/Cameron Allen
-  first-name: Cameron
-  last-name: Allen
-  middle-name: John
-  suffix: undefined
-  full-name: Cameron Allen
-  gender: M
-  dob: 2000-01-07
-  age: 23
-  party: Republican
-  phone: 
-  address: 18 Wood Fern Way
+tags: Voter
+caption: Voters/Cameron Allen
+first-name: Cameron
+last-name: Allen
+middle-name: John
+suffix: 
+full-name: Cameron Allen
+gender: M
+dob: 2000-07-01
+age: 23
+party: Republican
+phone: 
+address: 18 Wood Fern Way

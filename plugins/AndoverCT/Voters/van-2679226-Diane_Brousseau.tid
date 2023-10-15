@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2679226
-  tags: Voter
-  caption: Voters/Diane Brousseau
-  first-name: Diane
-  last-name: Brousseau
-  middle-name: M
-  suffix: undefined
-  full-name: Diane Brousseau
-  gender: F
-  dob: 1966-01-05
-  age: 57
-  party: 
-  phone: 860-418-89343
-  address: 55 Bear Swamp Rd
+tags: Voter
+caption: Voters/Diane Brousseau
+first-name: Diane
+last-name: Brousseau
+middle-name: M
+suffix: 
+full-name: Diane Brousseau
+gender: F
+dob: 1966-05-01
+age: 57
+party: 
+phone: 860-418-9343
+address: 55 Bear Swamp Rd

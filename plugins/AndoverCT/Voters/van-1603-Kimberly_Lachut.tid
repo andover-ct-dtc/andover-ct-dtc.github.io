@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1603
-  tags: Voter
-  caption: Voters/Kimberly Lachut
-  first-name: Kimberly
-  last-name: Lachut
-  middle-name: Marie
-  suffix: undefined
-  full-name: Kimberly Lachut
-  gender: F
-  dob: 1968-01-04
-  age: 55
-  party: 
-  phone: 860-208-86456
-  address: 26 Parker Bridge Rd
+tags: Voter
+caption: Voters/Kimberly Lachut
+first-name: Kimberly
+last-name: Lachut
+middle-name: Marie
+suffix: 
+full-name: Kimberly Lachut
+gender: F
+dob: 1968-04-01
+age: 55
+party: 
+phone: 860-208-6456
+address: 26 Parker Bridge Rd

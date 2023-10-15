@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/797
-  tags: Voter
-  caption: Voters/Peter Turgeon
-  first-name: Peter
-  last-name: Turgeon
-  middle-name: L
-  suffix: undefined
-  full-name: Peter Turgeon
-  gender: M
-  dob: 1964-01-04
-  age: 59
-  party: Republican
-  phone: 860-212-20800
-  address: 46 Lakeside Dr
+tags: Voter
+caption: Voters/Peter Turgeon
+first-name: Peter
+last-name: Turgeon
+middle-name: L
+suffix: 
+full-name: Peter Turgeon
+gender: M
+dob: 1964-04-01
+age: 59
+party: Republican
+phone: 860-212-0800
+address: 46 Lakeside Dr

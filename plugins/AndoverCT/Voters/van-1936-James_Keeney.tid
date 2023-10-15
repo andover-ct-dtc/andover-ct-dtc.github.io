@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1936
-  tags: Voter
-  caption: Voters/James Keeney
-  first-name: James
-  last-name: Keeney
-  middle-name: J
-  suffix: undefined
-  full-name: James Keeney
-  gender: M
-  dob: 1965-01-11
-  age: 57
-  party: Democratic
-  phone: 860-508-86349
-  address: 21 Chesterbrook Ln
+tags: Voter
+caption: Voters/James Keeney
+first-name: James
+last-name: Keeney
+middle-name: J
+suffix: 
+full-name: James Keeney
+gender: M
+dob: 1965-11-01
+age: 57
+party: Democratic
+phone: 860-508-6349
+address: 21 Chesterbrook Ln

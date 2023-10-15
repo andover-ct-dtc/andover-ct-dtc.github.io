@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2178382
-  tags: Voter
-  caption: Voters/Paula King
-  first-name: Paula
-  last-name: King
-  middle-name: A
-  suffix: undefined
-  full-name: Paula King
-  gender: F
-  dob: 1977-14-01
-  age: 46
-  party: Republican
-  phone: 860-209-91279
-  address: 36 Oak Farms Rd
+tags: Voter
+caption: Voters/Paula King
+first-name: Paula
+last-name: King
+middle-name: A
+suffix: 
+full-name: Paula King
+gender: F
+dob: 1977-01-14
+age: 46
+party: Republican
+phone: 860-209-1279
+address: 36 Oak Farms Rd

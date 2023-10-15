@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9500999
-  tags: Voter
-  caption: Voters/Ashley Hitchcock
-  first-name: Ashley
-  last-name: Hitchcock
-  middle-name: M
-  suffix: undefined
-  full-name: Ashley Hitchcock
-  gender: F
-  dob: 1997-01-09
-  age: 26
-  party: Democratic
-  phone: 860-812-25030
-  address: 258 Boston Hill Rd
+tags: Voter
+caption: Voters/Ashley Hitchcock
+first-name: Ashley
+last-name: Hitchcock
+middle-name: M
+suffix: 
+full-name: Ashley Hitchcock
+gender: F
+dob: 1997-09-01
+age: 26
+party: Democratic
+phone: 860-812-5030
+address: 258 Boston Hill Rd

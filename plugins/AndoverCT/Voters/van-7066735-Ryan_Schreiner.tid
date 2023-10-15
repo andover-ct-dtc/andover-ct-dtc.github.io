@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7066735
-  tags: Voter
-  caption: Voters/Ryan Schreiner
-  first-name: Ryan
-  last-name: Schreiner
-  middle-name: J
-  suffix: undefined
-  full-name: Ryan Schreiner
-  gender: M
-  dob: 1997-01-03
-  age: 26
-  party: 
-  phone: 860-498-81313
-  address: 3 Oak Farms Rd
+tags: Voter
+caption: Voters/Ryan Schreiner
+first-name: Ryan
+last-name: Schreiner
+middle-name: J
+suffix: 
+full-name: Ryan Schreiner
+gender: M
+dob: 1997-03-01
+age: 26
+party: 
+phone: 860-498-1313
+address: 3 Oak Farms Rd

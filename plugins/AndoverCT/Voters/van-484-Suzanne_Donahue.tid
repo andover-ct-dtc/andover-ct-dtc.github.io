@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/484
-  tags: Voter
-  caption: Voters/Suzanne Donahue
-  first-name: Suzanne
-  last-name: Donahue
-  middle-name: W
-  suffix: undefined
-  full-name: Suzanne Donahue
-  gender: F
-  dob: 1956-01-07
-  age: 67
-  party: Republican
-  phone: 860-742-20654
-  address: 57 Wales Rd
+tags: Voter
+caption: Voters/Suzanne Donahue
+first-name: Suzanne
+last-name: Donahue
+middle-name: W
+suffix: 
+full-name: Suzanne Donahue
+gender: F
+dob: 1956-07-01
+age: 67
+party: Republican
+phone: 860-742-0654
+address: 57 Wales Rd

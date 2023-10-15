@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2603600
-  tags: Voter
-  caption: Voters/Eric Dudas
-  first-name: Eric
-  last-name: Dudas
-  middle-name: N
-  suffix: undefined
-  full-name: Eric Dudas
-  gender: M
-  dob: 1982-01-10
-  age: 41
-  party: Republican
-  phone: 860-965-51061
-  address: 16 Oak Farms Rd
+tags: Voter
+caption: Voters/Eric Dudas
+first-name: Eric
+last-name: Dudas
+middle-name: N
+suffix: 
+full-name: Eric Dudas
+gender: M
+dob: 1982-10-01
+age: 41
+party: Republican
+phone: 860-965-1061
+address: 16 Oak Farms Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1465008
-  tags: Voter
-  caption: Voters/Zachary Olson
-  first-name: Zachary
-  last-name: Olson
-  middle-name: Matthew
-  suffix: undefined
-  full-name: Zachary Olson
-  gender: M
-  dob: 1984-01-06
-  age: 39
-  party: Republican
-  phone: 860-338-85193
-  address: 25 Bear Swamp Rd
+tags: Voter
+caption: Voters/Zachary Olson
+first-name: Zachary
+last-name: Olson
+middle-name: Matthew
+suffix: 
+full-name: Zachary Olson
+gender: M
+dob: 1984-06-01
+age: 39
+party: Republican
+phone: 860-338-5193
+address: 25 Bear Swamp Rd

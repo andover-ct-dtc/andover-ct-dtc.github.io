@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1263
-  tags: Voter
-  caption: Voters/Michaell Wazer III
-  first-name: Michaell
-  last-name: Wazer
-  middle-name: R
-  suffix: undefined
-  full-name: Michaell Wazer III
-  gender: M
-  dob: 1968-06-01
-  age: 55
-  party: 
-  phone: 860-916-67600
-  address: 344 Hebron Rd
+tags: Voter
+caption: Voters/Michaell Wazer III
+first-name: Michaell
+last-name: Wazer
+middle-name: R
+suffix: 
+full-name: Michaell Wazer III
+gender: M
+dob: 1968-01-06
+age: 55
+party: 
+phone: 860-916-7600
+address: 344 Hebron Rd

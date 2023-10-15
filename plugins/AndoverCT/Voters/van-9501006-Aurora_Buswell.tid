@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9501006
-  tags: Voter
-  caption: Voters/Aurora Buswell
-  first-name: Aurora
-  last-name: Buswell
-  middle-name: A
-  suffix: undefined
-  full-name: Aurora Buswell
-  gender: F
-  dob: 2002-01-02
-  age: 21
-  party: Democratic
-  phone: 860-882-22185
-  address: 35 Center St Apt C
+tags: Voter
+caption: Voters/Aurora Buswell
+first-name: Aurora
+last-name: Buswell
+middle-name: A
+suffix: 
+full-name: Aurora Buswell
+gender: F
+dob: 2002-02-01
+age: 21
+party: Democratic
+phone: 860-882-2185
+address: 35 Center St Apt C

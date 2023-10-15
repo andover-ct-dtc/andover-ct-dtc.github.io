@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/91
-  tags: Voter
-  caption: Voters/Henry Duprey
-  first-name: Henry
-  last-name: Duprey
-  middle-name: A
-  suffix: undefined
-  full-name: Henry Duprey
-  gender: M
-  dob: 1937-01-03
-  age: 86
-  party: 
-  phone: 
-  address: 121 Boston Hill Rd
+tags: Voter
+caption: Voters/Henry Duprey
+first-name: Henry
+last-name: Duprey
+middle-name: A
+suffix: 
+full-name: Henry Duprey
+gender: M
+dob: 1937-03-01
+age: 86
+party: 
+phone: 
+address: 121 Boston Hill Rd

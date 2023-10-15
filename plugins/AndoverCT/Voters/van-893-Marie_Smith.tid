@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/893
-  tags: Voter
-  caption: Voters/Marie Smith
-  first-name: Marie
-  last-name: Smith
-  middle-name: Rose
-  suffix: undefined
-  full-name: Marie Smith
-  gender: F
-  dob: 1957-01-12
-  age: 65
-  party: 
-  phone: 
-  address: 66 Jurovaty Rd
+tags: Voter
+caption: Voters/Marie Smith
+first-name: Marie
+last-name: Smith
+middle-name: Rose
+suffix: 
+full-name: Marie Smith
+gender: F
+dob: 1957-12-01
+age: 65
+party: 
+phone: 
+address: 66 Jurovaty Rd

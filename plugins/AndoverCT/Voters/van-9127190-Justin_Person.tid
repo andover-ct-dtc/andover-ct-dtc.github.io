@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9127190
-  tags: Voter
-  caption: Voters/Justin Person
-  first-name: Justin
-  last-name: Person
-  middle-name: S
-  suffix: undefined
-  full-name: Justin Person
-  gender: M
-  dob: 1984-11-01
-  age: 39
-  party: 
-  phone: 860-942-29149
-  address: 265 Route 6
+tags: Voter
+caption: Voters/Justin Person
+first-name: Justin
+last-name: Person
+middle-name: S
+suffix: 
+full-name: Justin Person
+gender: M
+dob: 1984-01-11
+age: 39
+party: 
+phone: 860-942-9149
+address: 265 Route 6

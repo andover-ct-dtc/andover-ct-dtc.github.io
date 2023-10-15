@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1194
-  tags: Voter
-  caption: Voters/Thomas Toupence
-  first-name: Thomas
-  last-name: Toupence
-  middle-name: J
-  suffix: undefined
-  full-name: Thomas Toupence
-  gender: M
-  dob: 1963-01-06
-  age: 60
-  party: Republican
-  phone: 860-742-26858
-  address: 67 Times Farm Rd
+tags: Voter
+caption: Voters/Thomas Toupence
+first-name: Thomas
+last-name: Toupence
+middle-name: J
+suffix: 
+full-name: Thomas Toupence
+gender: M
+dob: 1963-06-01
+age: 60
+party: Republican
+phone: 860-742-6858
+address: 67 Times Farm Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1461013
-  tags: Voter
-  caption: Voters/Richard Wilson
-  first-name: Richard
-  last-name: Wilson
-  middle-name: Curtiss
-  suffix: undefined
-  full-name: Richard Wilson
-  gender: M
-  dob: 1978-01-09
-  age: 45
-  party: Republican
-  phone: 860-965-51070
-  address: 428 Lake Rd
+tags: Voter
+caption: Voters/Richard Wilson
+first-name: Richard
+last-name: Wilson
+middle-name: Curtiss
+suffix: 
+full-name: Richard Wilson
+gender: M
+dob: 1978-09-01
+age: 45
+party: Republican
+phone: 860-965-1070
+address: 428 Lake Rd

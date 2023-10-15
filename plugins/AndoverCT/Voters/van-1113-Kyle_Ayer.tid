@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1113
-  tags: Voter
-  caption: Voters/Kyle Ayer
-  first-name: Kyle
-  last-name: Ayer
-  middle-name: 
-  suffix: undefined
-  full-name: Kyle Ayer
-  gender: M
-  dob: 1963-01-03
-  age: 60
-  party: 
-  phone: 413-626-66383
-  address: 315 Route 6
+tags: Voter
+caption: Voters/Kyle Ayer
+first-name: Kyle
+last-name: Ayer
+middle-name: 
+suffix: 
+full-name: Kyle Ayer
+gender: M
+dob: 1963-03-01
+age: 60
+party: 
+phone: 413-626-6383
+address: 315 Route 6

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7587790
-  tags: Voter
-  caption: Voters/Nina Jackson
-  first-name: Nina
-  last-name: Jackson
-  middle-name: Nickesha
-  suffix: undefined
-  full-name: Nina Jackson
-  gender: F
-  dob: 1980-01-12
-  age: 42
-  party: Republican
-  phone: 914-882-26398
-  address: 654 Route 6
+tags: Voter
+caption: Voters/Nina Jackson
+first-name: Nina
+last-name: Jackson
+middle-name: Nickesha
+suffix: 
+full-name: Nina Jackson
+gender: F
+dob: 1980-12-01
+age: 42
+party: Republican
+phone: 914-882-6398
+address: 654 Route 6

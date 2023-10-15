@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1209
-  tags: Voter
-  caption: Voters/Mary Vieten
-  first-name: Mary
-  last-name: Vieten
-  middle-name: A
-  suffix: undefined
-  full-name: Mary Vieten
-  gender: F
-  dob: 1960-01-09
-  age: 63
-  party: Democratic
-  phone: 860-874-42274
-  address: 11 Old Farms Rd
+tags: Voter
+caption: Voters/Mary Vieten
+first-name: Mary
+last-name: Vieten
+middle-name: A
+suffix: 
+full-name: Mary Vieten
+gender: F
+dob: 1960-09-01
+age: 63
+party: Democratic
+phone: 860-874-2274
+address: 11 Old Farms Rd

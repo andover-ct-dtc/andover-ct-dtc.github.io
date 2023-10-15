@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9530627
-  tags: Voter
-  caption: Voters/Jack Hixson
-  first-name: Jack
-  last-name: Hixson
-  middle-name: Charles
-  suffix: undefined
-  full-name: Jack Hixson
-  gender: M
-  dob: 2001-01-08
-  age: 22
-  party: 
-  phone: 860-604-43963
-  address: 19 Bailey Rd
+tags: Voter
+caption: Voters/Jack Hixson
+first-name: Jack
+last-name: Hixson
+middle-name: Charles
+suffix: 
+full-name: Jack Hixson
+gender: M
+dob: 2001-08-01
+age: 22
+party: 
+phone: 860-604-3963
+address: 19 Bailey Rd

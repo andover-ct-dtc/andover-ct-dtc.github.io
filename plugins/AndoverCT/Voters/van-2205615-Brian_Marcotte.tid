@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2205615
-  tags: Voter
-  caption: Voters/Brian Marcotte
-  first-name: Brian
-  last-name: Marcotte
-  middle-name: W
-  suffix: undefined
-  full-name: Brian Marcotte
-  gender: M
-  dob: 1964-01-10
-  age: 59
-  party: Democratic
-  phone: 860-742-25679
-  address: 61 Shoddy Mill Rd
+tags: Voter
+caption: Voters/Brian Marcotte
+first-name: Brian
+last-name: Marcotte
+middle-name: W
+suffix: 
+full-name: Brian Marcotte
+gender: M
+dob: 1964-10-01
+age: 59
+party: Democratic
+phone: 860-742-5679
+address: 61 Shoddy Mill Rd

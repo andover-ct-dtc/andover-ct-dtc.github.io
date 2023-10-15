@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1994349
-  tags: Voter
-  caption: Voters/Matthew Parvenski
-  first-name: Matthew
-  last-name: Parvenski
-  middle-name: Thomas
-  suffix: undefined
-  full-name: Matthew Parvenski
-  gender: M
-  dob: 1984-01-10
-  age: 39
-  party: Republican
-  phone: 860-716-69411
-  address: 38 Bailey Rd
+tags: Voter
+caption: Voters/Matthew Parvenski
+first-name: Matthew
+last-name: Parvenski
+middle-name: Thomas
+suffix: 
+full-name: Matthew Parvenski
+gender: M
+dob: 1984-10-01
+age: 39
+party: Republican
+phone: 860-716-9411
+address: 38 Bailey Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/76900
-  tags: Voter
-  caption: Voters/Margaret Wright
-  first-name: Margaret
-  last-name: Wright
-  middle-name: A
-  suffix: undefined
-  full-name: Margaret Wright
-  gender: F
-  dob: 1964-01-08
-  age: 59
-  party: Republican
-  phone: 860-222-21156
-  address: 407 Lake Rd
+tags: Voter
+caption: Voters/Margaret Wright
+first-name: Margaret
+last-name: Wright
+middle-name: A
+suffix: 
+full-name: Margaret Wright
+gender: F
+dob: 1964-08-01
+age: 59
+party: Republican
+phone: 860-222-1156
+address: 407 Lake Rd

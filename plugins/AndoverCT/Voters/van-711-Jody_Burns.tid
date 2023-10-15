@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/711
-  tags: Voter
-  caption: Voters/Jody Burns
-  first-name: Jody
-  last-name: Burns
-  middle-name: L
-  suffix: undefined
-  full-name: Jody Burns
-  gender: F
-  dob: 1958-01-08
-  age: 65
-  party: Republican
-  phone: 860-202-21536
-  address: 29 Parker Bridge Rd
+tags: Voter
+caption: Voters/Jody Burns
+first-name: Jody
+last-name: Burns
+middle-name: L
+suffix: 
+full-name: Jody Burns
+gender: F
+dob: 1958-08-01
+age: 65
+party: Republican
+phone: 860-202-1536
+address: 29 Parker Bridge Rd

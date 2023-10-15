@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1021
-  tags: Voter
-  caption: Voters/Douglas McDonough
-  first-name: Douglas
-  last-name: McDonough
-  middle-name: M
-  suffix: undefined
-  full-name: Douglas McDonough
-  gender: M
-  dob: 1952-01-05
-  age: 71
-  party: Democratic
-  phone: 860-742-25300
-  address: 280 Hebron Rd
+tags: Voter
+caption: Voters/Douglas McDonough
+first-name: Douglas
+last-name: McDonough
+middle-name: M
+suffix: 
+full-name: Douglas McDonough
+gender: M
+dob: 1952-05-01
+age: 71
+party: Democratic
+phone: 860-742-5300
+address: 280 Hebron Rd

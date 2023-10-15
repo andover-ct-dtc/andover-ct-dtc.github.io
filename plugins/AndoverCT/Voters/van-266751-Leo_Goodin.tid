@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/266751
-  tags: Voter
-  caption: Voters/Leo Goodin
-  first-name: Leo
-  last-name: Goodin
-  middle-name: B
-  suffix: undefined
-  full-name: Leo Goodin
-  gender: M
-  dob: 1961-21-01
-  age: 62
-  party: Republican
-  phone: 860-742-25902
-  address: 32 Pine Ridge Dr
+tags: Voter
+caption: Voters/Leo Goodin
+first-name: Leo
+last-name: Goodin
+middle-name: B
+suffix: 
+full-name: Leo Goodin
+gender: M
+dob: 1961-01-21
+age: 62
+party: Republican
+phone: 860-742-5902
+address: 32 Pine Ridge Dr

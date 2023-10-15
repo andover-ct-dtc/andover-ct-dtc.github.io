@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1996
-  tags: Voter
-  caption: Voters/Donna Arseneault
-  first-name: Donna
-  last-name: Arseneault
-  middle-name: Eileen
-  suffix: undefined
-  full-name: Donna Arseneault
-  gender: M
-  dob: 1971-01-06
-  age: 52
-  party: 
-  phone: 860-306-68595
-  address: 123 Shoddy Mill Rd
+tags: Voter
+caption: Voters/Donna Arseneault
+first-name: Donna
+last-name: Arseneault
+middle-name: Eileen
+suffix: 
+full-name: Donna Arseneault
+gender: M
+dob: 1971-06-01
+age: 52
+party: 
+phone: 860-306-8595
+address: 123 Shoddy Mill Rd

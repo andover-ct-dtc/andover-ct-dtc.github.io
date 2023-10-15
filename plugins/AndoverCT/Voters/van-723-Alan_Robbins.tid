@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/723
-  tags: Voter
-  caption: Voters/Alan Robbins
-  first-name: Alan
-  last-name: Robbins
-  middle-name: D
-  suffix: undefined
-  full-name: Alan Robbins
-  gender: M
-  dob: 1956-01-11
-  age: 66
-  party: Republican
-  phone: 860-742-28299
-  address: 317 Lake Rd
+tags: Voter
+caption: Voters/Alan Robbins
+first-name: Alan
+last-name: Robbins
+middle-name: D
+suffix: 
+full-name: Alan Robbins
+gender: M
+dob: 1956-11-01
+age: 66
+party: Republican
+phone: 860-742-8299
+address: 317 Lake Rd

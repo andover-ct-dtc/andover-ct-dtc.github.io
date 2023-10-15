@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/965
-  tags: Voter
-  caption: Voters/Paula Mumley
-  first-name: Paula
-  last-name: Mumley
-  middle-name: L
-  suffix: undefined
-  full-name: Paula Mumley
-  gender: F
-  dob: 1965-01-08
-  age: 58
-  party: Democratic
-  phone: 860-268-81893
-  address: 125 Long Hill Rd
+tags: Voter
+caption: Voters/Paula Mumley
+first-name: Paula
+last-name: Mumley
+middle-name: L
+suffix: 
+full-name: Paula Mumley
+gender: F
+dob: 1965-08-01
+age: 58
+party: Democratic
+phone: 860-268-1893
+address: 125 Long Hill Rd

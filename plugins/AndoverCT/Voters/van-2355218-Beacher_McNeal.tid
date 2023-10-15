@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2355218
-  tags: Voter
-  caption: Voters/Beacher McNeal
-  first-name: Beacher
-  last-name: McNeal
-  middle-name: E
-  suffix: undefined
-  full-name: Beacher McNeal
-  gender: M
-  dob: 1968-01-02
-  age: 55
-  party: Republican
-  phone: 860-742-20276
-  address: 5 Island St
+tags: Voter
+caption: Voters/Beacher McNeal
+first-name: Beacher
+last-name: McNeal
+middle-name: E
+suffix: 
+full-name: Beacher McNeal
+gender: M
+dob: 1968-02-01
+age: 55
+party: Republican
+phone: 860-742-0276
+address: 5 Island St

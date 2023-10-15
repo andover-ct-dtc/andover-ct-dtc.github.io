@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1832
-  tags: Voter
-  caption: Voters/Katherine Marino
-  first-name: Katherine
-  last-name: Marino
-  middle-name: M
-  suffix: undefined
-  full-name: Katherine Marino
-  gender: F
-  dob: 1984-17-01
-  age: 39
-  party: Democratic
-  phone: 860-543-31613
-  address: 36 Boston Hill Rd
+tags: Voter
+caption: Voters/Katherine Marino
+first-name: Katherine
+last-name: Marino
+middle-name: M
+suffix: 
+full-name: Katherine Marino
+gender: F
+dob: 1984-01-17
+age: 39
+party: Democratic
+phone: 860-543-1613
+address: 36 Boston Hill Rd

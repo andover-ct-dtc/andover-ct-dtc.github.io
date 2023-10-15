@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1380
-  tags: Voter
-  caption: Voters/Kathy Lynn
-  first-name: Kathy
-  last-name: Lynn
-  middle-name: Rose
-  suffix: undefined
-  full-name: Kathy Lynn
-  gender: F
-  dob: 1961-01-04
-  age: 62
-  party: 
-  phone: 860-402-28025
-  address: 10 Stanley Dr
+tags: Voter
+caption: Voters/Kathy Lynn
+first-name: Kathy
+last-name: Lynn
+middle-name: Rose
+suffix: 
+full-name: Kathy Lynn
+gender: F
+dob: 1961-04-01
+age: 62
+party: 
+phone: 860-402-8025
+address: 10 Stanley Dr

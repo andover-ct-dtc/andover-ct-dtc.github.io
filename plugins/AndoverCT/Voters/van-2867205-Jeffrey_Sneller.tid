@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2867205
-  tags: Voter
-  caption: Voters/Jeffrey Sneller
-  first-name: Jeffrey
-  last-name: Sneller
-  middle-name: Paul
-  suffix: undefined
-  full-name: Jeffrey Sneller
-  gender: M
-  dob: 1976-01-03
-  age: 47
-  party: Democratic
-  phone: 860-977-78657
-  address: 1 Dogwood Dr
+tags: Voter
+caption: Voters/Jeffrey Sneller
+first-name: Jeffrey
+last-name: Sneller
+middle-name: Paul
+suffix: 
+full-name: Jeffrey Sneller
+gender: M
+dob: 1976-03-01
+age: 47
+party: Democratic
+phone: 860-977-8657
+address: 1 Dogwood Dr

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1782
-  tags: Voter
-  caption: Voters/Robert Kubica
-  first-name: Robert
-  last-name: Kubica
-  middle-name: James
-  suffix: undefined
-  full-name: Robert Kubica
-  gender: M
-  dob: 1971-01-12
-  age: 51
-  party: 
-  phone: 860-896-60028
-  address: 15 Hebron Rd
+tags: Voter
+caption: Voters/Robert Kubica
+first-name: Robert
+last-name: Kubica
+middle-name: James
+suffix: 
+full-name: Robert Kubica
+gender: M
+dob: 1971-12-01
+age: 51
+party: 
+phone: 860-896-0028
+address: 15 Hebron Rd

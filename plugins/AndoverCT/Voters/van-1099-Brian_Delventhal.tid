@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1099
-  tags: Voter
-  caption: Voters/Brian Delventhal
-  first-name: Brian
-  last-name: Delventhal
-  middle-name: A
-  suffix: undefined
-  full-name: Brian Delventhal
-  gender: M
-  dob: 1965-01-06
-  age: 58
-  party: Republican
-  phone: 860-759-99273
-  address: 128 Wheeling Rd
+tags: Voter
+caption: Voters/Brian Delventhal
+first-name: Brian
+last-name: Delventhal
+middle-name: A
+suffix: 
+full-name: Brian Delventhal
+gender: M
+dob: 1965-06-01
+age: 58
+party: Republican
+phone: 860-759-9273
+address: 128 Wheeling Rd

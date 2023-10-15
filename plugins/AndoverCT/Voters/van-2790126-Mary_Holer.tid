@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2790126
-  tags: Voter
-  caption: Voters/Mary Holer
-  first-name: Mary
-  last-name: Holer
-  middle-name: E
-  suffix: undefined
-  full-name: Mary Holer
-  gender: F
-  dob: 1981-01-03
-  age: 42
-  party: Democratic
-  phone: 704-578-83529
-  address: 16 Rockledge Dr
+tags: Voter
+caption: Voters/Mary Holer
+first-name: Mary
+last-name: Holer
+middle-name: E
+suffix: 
+full-name: Mary Holer
+gender: F
+dob: 1981-03-01
+age: 42
+party: Democratic
+phone: 704-578-3529
+address: 16 Rockledge Dr

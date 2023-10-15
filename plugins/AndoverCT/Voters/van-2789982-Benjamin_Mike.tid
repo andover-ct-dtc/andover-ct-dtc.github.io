@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2789982
-  tags: Voter
-  caption: Voters/Benjamin Mike
-  first-name: Benjamin
-  last-name: Mike
-  middle-name: J
-  suffix: undefined
-  full-name: Benjamin Mike
-  gender: M
-  dob: 1993-01-12
-  age: 29
-  party: 
-  phone: 860-455-58823
-  address: 227 Lake Rd
+tags: Voter
+caption: Voters/Benjamin Mike
+first-name: Benjamin
+last-name: Mike
+middle-name: J
+suffix: 
+full-name: Benjamin Mike
+gender: M
+dob: 1993-12-01
+age: 29
+party: 
+phone: 860-455-8823
+address: 227 Lake Rd

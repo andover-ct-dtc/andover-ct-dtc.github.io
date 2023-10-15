@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7420768
-  tags: Voter
-  caption: Voters/James Salvatore
-  first-name: James
-  last-name: Salvatore
-  middle-name: Michael
-  suffix: undefined
-  full-name: James Salvatore
-  gender: M
-  dob: 1985-01-11
-  age: 37
-  party: Republican
-  phone: 860-987-77177
-  address: 34 Kingsley Dr Apt D2
+tags: Voter
+caption: Voters/James Salvatore
+first-name: James
+last-name: Salvatore
+middle-name: Michael
+suffix: 
+full-name: James Salvatore
+gender: M
+dob: 1985-11-01
+age: 37
+party: Republican
+phone: 860-987-7177
+address: 34 Kingsley Dr Apt D2

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/699
-  tags: Voter
-  caption: Voters/Pamela Whittenmore
-  first-name: Pamela
-  last-name: Whittenmore
-  middle-name: L
-  suffix: undefined
-  full-name: Pamela Whittenmore
-  gender: F
-  dob: 1960-01-05
-  age: 63
-  party: Republican
-  phone: 860-309-98044
-  address: 112 Hendee Rd
+tags: Voter
+caption: Voters/Pamela Whittenmore
+first-name: Pamela
+last-name: Whittenmore
+middle-name: L
+suffix: 
+full-name: Pamela Whittenmore
+gender: F
+dob: 1960-05-01
+age: 63
+party: Republican
+phone: 860-309-8044
+address: 112 Hendee Rd

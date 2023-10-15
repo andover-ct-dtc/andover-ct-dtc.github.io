@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/788600
-  tags: Voter
-  caption: Voters/Pamela John
-  first-name: Pamela
-  last-name: John
-  middle-name: Theresa
-  suffix: undefined
-  full-name: Pamela John
-  gender: F
-  dob: 1963-01-09
-  age: 60
-  party: Democratic
-  phone: 860-707-70352
-  address: 27 Hebron Rd
+tags: Voter
+caption: Voters/Pamela John
+first-name: Pamela
+last-name: John
+middle-name: Theresa
+suffix: 
+full-name: Pamela John
+gender: F
+dob: 1963-09-01
+age: 60
+party: Democratic
+phone: 860-707-0352
+address: 27 Hebron Rd

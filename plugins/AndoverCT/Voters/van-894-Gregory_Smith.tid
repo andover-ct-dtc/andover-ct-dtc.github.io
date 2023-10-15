@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/894
-  tags: Voter
-  caption: Voters/Gregory Smith
-  first-name: Gregory
-  last-name: Smith
-  middle-name: P
-  suffix: undefined
-  full-name: Gregory Smith
-  gender: M
-  dob: 1957-01-07
-  age: 66
-  party: Democratic
-  phone: 860-268-88756
-  address: 66 Jurovaty Rd
+tags: Voter
+caption: Voters/Gregory Smith
+first-name: Gregory
+last-name: Smith
+middle-name: P
+suffix: 
+full-name: Gregory Smith
+gender: M
+dob: 1957-07-01
+age: 66
+party: Democratic
+phone: 860-268-8756
+address: 66 Jurovaty Rd

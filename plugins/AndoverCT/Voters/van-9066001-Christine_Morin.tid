@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9066001
-  tags: Voter
-  caption: Voters/Christine Morin
-  first-name: Christine
-  last-name: Morin
-  middle-name: Marie
-  suffix: undefined
-  full-name: Christine Morin
-  gender: F
-  dob: 2000-01-02
-  age: 23
-  party: Democratic
-  phone: 860-933-38191
-  address: 8 Kingsley Dr Apt A8
+tags: Voter
+caption: Voters/Christine Morin
+first-name: Christine
+last-name: Morin
+middle-name: Marie
+suffix: 
+full-name: Christine Morin
+gender: F
+dob: 2000-02-01
+age: 23
+party: Democratic
+phone: 860-933-8191
+address: 8 Kingsley Dr Apt A8

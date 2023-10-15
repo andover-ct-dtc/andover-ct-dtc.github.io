@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1532
-  tags: Voter
-  caption: Voters/Mark Schilling
-  first-name: Mark
-  last-name: Schilling
-  middle-name: S
-  suffix: undefined
-  full-name: Mark Schilling
-  gender: M
-  dob: 1961-01-07
-  age: 62
-  party: Republican
-  phone: 860-742-28161
-  address: 310 Hebron Rd
+tags: Voter
+caption: Voters/Mark Schilling
+first-name: Mark
+last-name: Schilling
+middle-name: S
+suffix: 
+full-name: Mark Schilling
+gender: M
+dob: 1961-07-01
+age: 62
+party: Republican
+phone: 860-742-8161
+address: 310 Hebron Rd

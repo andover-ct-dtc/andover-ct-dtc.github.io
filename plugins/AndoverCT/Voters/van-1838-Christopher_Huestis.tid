@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1838
-  tags: Voter
-  caption: Voters/Christopher Huestis
-  first-name: Christopher
-  last-name: Huestis
-  middle-name: Brian
-  suffix: undefined
-  full-name: Christopher Huestis
-  gender: M
-  dob: 1968-01-03
-  age: 55
-  party: Democratic
-  phone: 860-930-03683
-  address: 44 Merritt Valley Rd
+tags: Voter
+caption: Voters/Christopher Huestis
+first-name: Christopher
+last-name: Huestis
+middle-name: Brian
+suffix: 
+full-name: Christopher Huestis
+gender: M
+dob: 1968-03-01
+age: 55
+party: Democratic
+phone: 860-930-3683
+address: 44 Merritt Valley Rd

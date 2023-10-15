@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1616535
-  tags: Voter
-  caption: Voters/Jason Truby Sr
-  first-name: Jason
-  last-name: Truby
-  middle-name: Loren
-  suffix: undefined
-  full-name: Jason Truby Sr
-  gender: M
-  dob: 1978-01-04
-  age: 45
-  party: Democratic
-  phone: 860-485-54682
-  address: 187 Route 6
+tags: Voter
+caption: Voters/Jason Truby Sr
+first-name: Jason
+last-name: Truby
+middle-name: Loren
+suffix: 
+full-name: Jason Truby Sr
+gender: M
+dob: 1978-04-01
+age: 45
+party: Democratic
+phone: 860-485-4682
+address: 187 Route 6

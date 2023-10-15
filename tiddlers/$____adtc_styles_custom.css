@@ -38,3 +38,5 @@ dd.signs img, table.signs img, details.signs img {width: 20em;}
 table.signs tr:nth-child(2n) {direction: rtl;}
 table.signs ul {list-style: none;}
 table.signs, table.signs td {border: none; padding-bottom: 2em;}
+
+ul.residents {list-style: none; padding-left: 1em;}

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2398349
-  tags: Voter
-  caption: Voters/Dianne Munsell
-  first-name: Dianne
-  last-name: Munsell
-  middle-name: J
-  suffix: undefined
-  full-name: Dianne Munsell
-  gender: F
-  dob: 1960-31-01
-  age: 63
-  party: Democratic
-  phone: 860-306-66807
-  address: 102 Gilead Rd
+tags: Voter
+caption: Voters/Dianne Munsell
+first-name: Dianne
+last-name: Munsell
+middle-name: J
+suffix: 
+full-name: Dianne Munsell
+gender: F
+dob: 1960-01-31
+age: 63
+party: Democratic
+phone: 860-306-6807
+address: 102 Gilead Rd

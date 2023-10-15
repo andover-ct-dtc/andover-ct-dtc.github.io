@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1747
-  tags: Voter
-  caption: Voters/Michael Einsiedel Jr
-  first-name: Michael
-  last-name: Einsiedel
-  middle-name: Edward
-  suffix: undefined
-  full-name: Michael Einsiedel Jr
-  gender: M
-  dob: 1965-01-08
-  age: 58
-  party: 
-  phone: 860-841-19890
-  address: 173 Long Hill Rd
+tags: Voter
+caption: Voters/Michael Einsiedel Jr
+first-name: Michael
+last-name: Einsiedel
+middle-name: Edward
+suffix: 
+full-name: Michael Einsiedel Jr
+gender: M
+dob: 1965-08-01
+age: 58
+party: 
+phone: 860-841-9890
+address: 173 Long Hill Rd

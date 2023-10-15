@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/720675
-  tags: Voter
-  caption: Voters/Allison Waddington
-  first-name: Allison
-  last-name: Waddington
-  middle-name: L
-  suffix: undefined
-  full-name: Allison Waddington
-  gender: F
-  dob: 1961-01-06
-  age: 62
-  party: 
-  phone: 860-202-27365
-  address: 890 East St
+tags: Voter
+caption: Voters/Allison Waddington
+first-name: Allison
+last-name: Waddington
+middle-name: L
+suffix: 
+full-name: Allison Waddington
+gender: F
+dob: 1961-06-01
+age: 62
+party: 
+phone: 860-202-7365
+address: 890 East St

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1549
-  tags: Voter
-  caption: Voters/James Harders
-  first-name: James
-  last-name: Harders
-  middle-name: Richard
-  suffix: undefined
-  full-name: James Harders
-  gender: M
-  dob: 1967-01-09
-  age: 56
-  party: 
-  phone: 860-463-38980
-  address: 55 Windrush Ln
+tags: Voter
+caption: Voters/James Harders
+first-name: James
+last-name: Harders
+middle-name: Richard
+suffix: 
+full-name: James Harders
+gender: M
+dob: 1967-09-01
+age: 56
+party: 
+phone: 860-463-8980
+address: 55 Windrush Ln

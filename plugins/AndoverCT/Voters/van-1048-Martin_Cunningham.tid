@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1048
-  tags: Voter
-  caption: Voters/Martin Cunningham
-  first-name: Martin
-  last-name: Cunningham
-  middle-name: F
-  suffix: undefined
-  full-name: Martin Cunningham
-  gender: M
-  dob: 1961-01-10
-  age: 62
-  party: Republican
-  phone: 860-742-20158
-  address: 9 Woodside Ln
+tags: Voter
+caption: Voters/Martin Cunningham
+first-name: Martin
+last-name: Cunningham
+middle-name: F
+suffix: 
+full-name: Martin Cunningham
+gender: M
+dob: 1961-10-01
+age: 62
+party: Republican
+phone: 860-742-0158
+address: 9 Woodside Ln

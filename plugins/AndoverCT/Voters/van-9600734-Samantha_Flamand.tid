@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9600734
-  tags: Voter
-  caption: Voters/Samantha Flamand
-  first-name: Samantha
-  last-name: Flamand
-  middle-name: Rose
-  suffix: undefined
-  full-name: Samantha Flamand
-  gender: F
-  dob: 1998-01-03
-  age: 25
-  party: Republican
-  phone: 
-  address: 22 Hickory Hill Dr
+tags: Voter
+caption: Voters/Samantha Flamand
+first-name: Samantha
+last-name: Flamand
+middle-name: Rose
+suffix: 
+full-name: Samantha Flamand
+gender: F
+dob: 1998-03-01
+age: 25
+party: Republican
+phone: 
+address: 22 Hickory Hill Dr

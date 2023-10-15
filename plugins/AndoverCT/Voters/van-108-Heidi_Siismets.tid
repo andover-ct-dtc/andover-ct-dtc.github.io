@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/108
-  tags: Voter
-  caption: Voters/Heidi Siismets
-  first-name: Heidi
-  last-name: Siismets
-  middle-name: R
-  suffix: undefined
-  full-name: Heidi Siismets
-  gender: F
-  dob: 1936-01-07
-  age: 87
-  party: Republican
-  phone: 
-  address: 79 Boston Hill Rd
+tags: Voter
+caption: Voters/Heidi Siismets
+first-name: Heidi
+last-name: Siismets
+middle-name: R
+suffix: 
+full-name: Heidi Siismets
+gender: F
+dob: 1936-07-01
+age: 87
+party: Republican
+phone: 
+address: 79 Boston Hill Rd

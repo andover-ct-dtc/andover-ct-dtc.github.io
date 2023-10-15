@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1371
-  tags: Voter
-  caption: Voters/Marcella MacDonald
-  first-name: Marcella
-  last-name: MacDonald
-  middle-name: Ann
-  suffix: undefined
-  full-name: Marcella MacDonald
-  gender: F
-  dob: 1963-01-11
-  age: 59
-  party: Democratic
-  phone: 860-490-06205
-  address: 220 Gilead Rd
+tags: Voter
+caption: Voters/Marcella MacDonald
+first-name: Marcella
+last-name: MacDonald
+middle-name: Ann
+suffix: 
+full-name: Marcella MacDonald
+gender: F
+dob: 1963-11-01
+age: 59
+party: Democratic
+phone: 860-490-6205
+address: 220 Gilead Rd

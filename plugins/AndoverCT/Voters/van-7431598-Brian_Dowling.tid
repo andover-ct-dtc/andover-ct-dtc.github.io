@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7431598
-  tags: Voter
-  caption: Voters/Brian Dowling
-  first-name: Brian
-  last-name: Dowling
-  middle-name: David
-  suffix: undefined
-  full-name: Brian Dowling
-  gender: M
-  dob: 1980-01-12
-  age: 42
-  party: Republican
-  phone: 860-462-20559
-  address: 101 Gilead Rd
+tags: Voter
+caption: Voters/Brian Dowling
+first-name: Brian
+last-name: Dowling
+middle-name: David
+suffix: 
+full-name: Brian Dowling
+gender: M
+dob: 1980-12-01
+age: 42
+party: Republican
+phone: 860-462-0559
+address: 101 Gilead Rd

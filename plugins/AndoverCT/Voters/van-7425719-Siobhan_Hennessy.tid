@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7425719
-  tags: Voter
-  caption: Voters/Siobhan Hennessy
-  first-name: Siobhan
-  last-name: Hennessy
-  middle-name: O
-  suffix: undefined
-  full-name: Siobhan Hennessy
-  gender: F
-  dob: 1981-01-12
-  age: 41
-  party: Democratic
-  phone: 860-214-48923
-  address: 83 Hebron Rd
+tags: Voter
+caption: Voters/Siobhan Hennessy
+first-name: Siobhan
+last-name: Hennessy
+middle-name: O
+suffix: 
+full-name: Siobhan Hennessy
+gender: F
+dob: 1981-12-01
+age: 41
+party: Democratic
+phone: 860-214-8923
+address: 83 Hebron Rd

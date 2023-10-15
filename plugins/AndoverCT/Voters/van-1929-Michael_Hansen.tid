@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1929
-  tags: Voter
-  caption: Voters/Michael Hansen
-  first-name: Michael
-  last-name: Hansen
-  middle-name: J
-  suffix: undefined
-  full-name: Michael Hansen
-  gender: M
-  dob: 1963-01-09
-  age: 60
-  party: Republican
-  phone: 860-742-27171
-  address: 16 Old Coventry Rd
+tags: Voter
+caption: Voters/Michael Hansen
+first-name: Michael
+last-name: Hansen
+middle-name: J
+suffix: 
+full-name: Michael Hansen
+gender: M
+dob: 1963-09-01
+age: 60
+party: Republican
+phone: 860-742-7171
+address: 16 Old Coventry Rd

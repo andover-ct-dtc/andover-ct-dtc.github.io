@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9128905
-  tags: Voter
-  caption: Voters/Thomas Maschi
-  first-name: Thomas
-  last-name: Maschi
-  middle-name: 
-  suffix: undefined
-  full-name: Thomas Maschi
-  gender: M
-  dob: 1944-01-11
-  age: 78
-  party: Democratic
-  phone: 860-234-49111
-  address: 48 Pine Ridge Dr
+tags: Voter
+caption: Voters/Thomas Maschi
+first-name: Thomas
+last-name: Maschi
+middle-name: 
+suffix: 
+full-name: Thomas Maschi
+gender: M
+dob: 1944-11-01
+age: 78
+party: Democratic
+phone: 860-234-9111
+address: 48 Pine Ridge Dr

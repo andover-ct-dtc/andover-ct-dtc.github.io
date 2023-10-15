@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/287
-  tags: Voter
-  caption: Voters/Steven Fish
-  first-name: Steven
-  last-name: Fish
-  middle-name: O
-  suffix: undefined
-  full-name: Steven Fish
-  gender: M
-  dob: 1951-01-09
-  age: 72
-  party: Republican
-  phone: 860-742-28984
-  address: 111 Townsend Rd
+tags: Voter
+caption: Voters/Steven Fish
+first-name: Steven
+last-name: Fish
+middle-name: O
+suffix: 
+full-name: Steven Fish
+gender: M
+dob: 1951-09-01
+age: 72
+party: Republican
+phone: 860-742-8984
+address: 111 Townsend Rd

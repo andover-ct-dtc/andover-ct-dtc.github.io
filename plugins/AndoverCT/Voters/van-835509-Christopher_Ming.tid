@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/835509
-  tags: Voter
-  caption: Voters/Christopher Ming
-  first-name: Christopher
-  last-name: Ming
-  middle-name: D
-  suffix: undefined
-  full-name: Christopher Ming
-  gender: M
-  dob: 1973-01-09
-  age: 50
-  party: Republican
-  phone: 203-715-50610
-  address: 51 Windrush Ln
+tags: Voter
+caption: Voters/Christopher Ming
+first-name: Christopher
+last-name: Ming
+middle-name: D
+suffix: 
+full-name: Christopher Ming
+gender: M
+dob: 1973-09-01
+age: 50
+party: Republican
+phone: 203-715-0610
+address: 51 Windrush Ln

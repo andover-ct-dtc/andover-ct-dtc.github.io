@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7362184
-  tags: Voter
-  caption: Voters/Abigail Chromik
-  first-name: Abigail
-  last-name: Chromik
-  middle-name: Marie
-  suffix: undefined
-  full-name: Abigail Chromik
-  gender: F
-  dob: 1998-01-03
-  age: 25
-  party: Democratic
-  phone: 860-559-94205
-  address: 181 Long Hill Rd
+tags: Voter
+caption: Voters/Abigail Chromik
+first-name: Abigail
+last-name: Chromik
+middle-name: Marie
+suffix: 
+full-name: Abigail Chromik
+gender: F
+dob: 1998-03-01
+age: 25
+party: Democratic
+phone: 860-559-4205
+address: 181 Long Hill Rd

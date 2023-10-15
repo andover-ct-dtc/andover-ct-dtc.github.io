@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2341153
-  tags: Voter
-  caption: Voters/Ian Stanton
-  first-name: Ian
-  last-name: Stanton
-  middle-name: M
-  suffix: undefined
-  full-name: Ian Stanton
-  gender: M
-  dob: 1973-01-08
-  age: 50
-  party: 
-  phone: 860-810-08563
-  address: 53 Stanley Dr
+tags: Voter
+caption: Voters/Ian Stanton
+first-name: Ian
+last-name: Stanton
+middle-name: M
+suffix: 
+full-name: Ian Stanton
+gender: M
+dob: 1973-08-01
+age: 50
+party: 
+phone: 860-810-8563
+address: 53 Stanley Dr

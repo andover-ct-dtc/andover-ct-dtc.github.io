@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/8737446
-  tags: Voter
-  caption: Voters/Adam Middleton
-  first-name: Adam
-  last-name: Middleton
-  middle-name: Blair
-  suffix: undefined
-  full-name: Adam Middleton
-  gender: M
-  dob: 1981-01-08
-  age: 42
-  party: Republican
-  phone: 352-272-29632
-  address: 142 Bunker Hill Rd
+tags: Voter
+caption: Voters/Adam Middleton
+first-name: Adam
+last-name: Middleton
+middle-name: Blair
+suffix: 
+full-name: Adam Middleton
+gender: M
+dob: 1981-08-01
+age: 42
+party: Republican
+phone: 352-272-9632
+address: 142 Bunker Hill Rd

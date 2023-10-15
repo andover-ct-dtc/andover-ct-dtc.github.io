@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2934689
-  tags: Voter
-  caption: Voters/Mary Holliman
-  first-name: Mary
-  last-name: Holliman
-  middle-name: Hannah
-  suffix: undefined
-  full-name: Mary Holliman
-  gender: F
-  dob: 1992-01-02
-  age: 31
-  party: Democratic
-  phone: 860-707-70690
-  address: 7 Jurovaty Rd
+tags: Voter
+caption: Voters/Mary Holliman
+first-name: Mary
+last-name: Holliman
+middle-name: Hannah
+suffix: 
+full-name: Mary Holliman
+gender: F
+dob: 1992-02-01
+age: 31
+party: Democratic
+phone: 860-707-0690
+address: 7 Jurovaty Rd

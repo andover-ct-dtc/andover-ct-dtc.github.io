@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9434930
-  tags: Voter
-  caption: Voters/Shaun Ryan
-  first-name: Shaun
-  last-name: Ryan
-  middle-name: Wilbert
-  suffix: undefined
-  full-name: Shaun Ryan
-  gender: M
-  dob: 2000-01-09
-  age: 23
-  party: 
-  phone: 860-422-25565
-  address: 213 Route 6
+tags: Voter
+caption: Voters/Shaun Ryan
+first-name: Shaun
+last-name: Ryan
+middle-name: Wilbert
+suffix: 
+full-name: Shaun Ryan
+gender: M
+dob: 2000-09-01
+age: 23
+party: 
+phone: 860-422-5565
+address: 213 Route 6

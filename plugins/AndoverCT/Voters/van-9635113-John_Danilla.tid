@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9635113
-  tags: Voter
-  caption: Voters/John Danilla IV
-  first-name: John
-  last-name: Danilla
-  middle-name: Michael
-  suffix: undefined
-  full-name: John Danilla IV
-  gender: M
-  dob: 1994-01-08
-  age: 29
-  party: 
-  phone: 386-456-68650
-  address: 20 Pine Ridge Dr
+tags: Voter
+caption: Voters/John Danilla IV
+first-name: John
+last-name: Danilla
+middle-name: Michael
+suffix: 
+full-name: John Danilla IV
+gender: M
+dob: 1994-08-01
+age: 29
+party: 
+phone: 386-456-8650
+address: 20 Pine Ridge Dr

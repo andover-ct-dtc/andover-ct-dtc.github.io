@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1809
-  tags: Voter
-  caption: Voters/Samuel Prentice III
-  first-name: Samuel
-  last-name: Prentice
-  middle-name: James
-  suffix: undefined
-  full-name: Samuel Prentice III
-  gender: M
-  dob: 1951-01-08
-  age: 72
-  party: Republican
-  phone: 860-742-27175
-  address: 40 Times Farm Rd
+tags: Voter
+caption: Voters/Samuel Prentice III
+first-name: Samuel
+last-name: Prentice
+middle-name: James
+suffix: 
+full-name: Samuel Prentice III
+gender: M
+dob: 1951-08-01
+age: 72
+party: Republican
+phone: 860-742-7175
+address: 40 Times Farm Rd

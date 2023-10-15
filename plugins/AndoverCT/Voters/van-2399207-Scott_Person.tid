@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2399207
-  tags: Voter
-  caption: Voters/Scott Person
-  first-name: Scott
-  last-name: Person
-  middle-name: R
-  suffix: undefined
-  full-name: Scott Person
-  gender: M
-  dob: 1957-01-03
-  age: 66
-  party: Democratic
-  phone: 860-558-84271
-  address: 265 Route 6
+tags: Voter
+caption: Voters/Scott Person
+first-name: Scott
+last-name: Person
+middle-name: R
+suffix: 
+full-name: Scott Person
+gender: M
+dob: 1957-03-01
+age: 66
+party: Democratic
+phone: 860-558-4271
+address: 265 Route 6

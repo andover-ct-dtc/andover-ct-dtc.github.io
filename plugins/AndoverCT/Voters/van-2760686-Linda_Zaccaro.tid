@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2760686
-  tags: Voter
-  caption: Voters/Linda Zaccaro
-  first-name: Linda
-  last-name: Zaccaro
-  middle-name: J
-  suffix: undefined
-  full-name: Linda Zaccaro
-  gender: F
-  dob: 1961-01-04
-  age: 62
-  party: 
-  phone: 860-218-83322
-  address: 25 Riverside Dr Apt 1F
+tags: Voter
+caption: Voters/Linda Zaccaro
+first-name: Linda
+last-name: Zaccaro
+middle-name: J
+suffix: 
+full-name: Linda Zaccaro
+gender: F
+dob: 1961-04-01
+age: 62
+party: 
+phone: 860-218-3322
+address: 25 Riverside Dr Apt 1F

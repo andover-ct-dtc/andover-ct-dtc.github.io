@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1037
-  tags: Voter
-  caption: Voters/Lisa Burke
-  first-name: Lisa
-  last-name: Burke
-  middle-name: A
-  suffix: undefined
-  full-name: Lisa Burke
-  gender: F
-  dob: 1966-01-09
-  age: 57
-  party: Democratic
-  phone: 860-593-30587
-  address: 41 Stanley Dr
+tags: Voter
+caption: Voters/Lisa Burke
+first-name: Lisa
+last-name: Burke
+middle-name: A
+suffix: 
+full-name: Lisa Burke
+gender: F
+dob: 1966-09-01
+age: 57
+party: Democratic
+phone: 860-593-0587
+address: 41 Stanley Dr

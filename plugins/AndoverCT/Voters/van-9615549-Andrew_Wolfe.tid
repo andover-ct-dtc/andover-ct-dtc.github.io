@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9615549
-  tags: Voter
-  caption: Voters/Andrew Wolfe
-  first-name: Andrew
-  last-name: Wolfe
-  middle-name: T
-  suffix: undefined
-  full-name: Andrew Wolfe
-  gender: M
-  dob: 1989-01-05
-  age: 34
-  party: Democratic
-  phone: 774-322-27049
-  address: 43 Aspinall Dr
+tags: Voter
+caption: Voters/Andrew Wolfe
+first-name: Andrew
+last-name: Wolfe
+middle-name: T
+suffix: 
+full-name: Andrew Wolfe
+gender: M
+dob: 1989-05-01
+age: 34
+party: Democratic
+phone: 774-322-7049
+address: 43 Aspinall Dr

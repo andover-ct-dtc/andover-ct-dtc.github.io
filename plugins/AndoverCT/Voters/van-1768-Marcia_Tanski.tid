@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1768
-  tags: Voter
-  caption: Voters/Marcia Tanski
-  first-name: Marcia
-  last-name: Tanski
-  middle-name: Anne
-  suffix: undefined
-  full-name: Marcia Tanski
-  gender: F
-  dob: 1946-01-02
-  age: 77
-  party: Democratic
-  phone: 860-498-81026
-  address: 41 Kingsley Dr Apt B5
+tags: Voter
+caption: Voters/Marcia Tanski
+first-name: Marcia
+last-name: Tanski
+middle-name: Anne
+suffix: 
+full-name: Marcia Tanski
+gender: F
+dob: 1946-02-01
+age: 77
+party: Democratic
+phone: 860-498-1026
+address: 41 Kingsley Dr Apt B5

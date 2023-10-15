@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7409416
-  tags: Voter
-  caption: Voters/Scott Ledoux
-  first-name: Scott
-  last-name: Ledoux
-  middle-name: J
-  suffix: undefined
-  full-name: Scott Ledoux
-  gender: M
-  dob: 1973-01-03
-  age: 50
-  party: 
-  phone: 860-212-20208
-  address: 71 Route 6
+tags: Voter
+caption: Voters/Scott Ledoux
+first-name: Scott
+last-name: Ledoux
+middle-name: J
+suffix: 
+full-name: Scott Ledoux
+gender: M
+dob: 1973-03-01
+age: 50
+party: 
+phone: 860-212-0208
+address: 71 Route 6

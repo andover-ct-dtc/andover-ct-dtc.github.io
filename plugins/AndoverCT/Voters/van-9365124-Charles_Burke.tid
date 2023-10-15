@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9365124
-  tags: Voter
-  caption: Voters/Charles Burke Jr
-  first-name: Charles
-  last-name: Burke
-  middle-name: Edward
-  suffix: undefined
-  full-name: Charles Burke Jr
-  gender: M
-  dob: 1964-01-04
-  age: 59
-  party: 
-  phone: 860-490-05073
-  address: 6 Pine Ridge Dr
+tags: Voter
+caption: Voters/Charles Burke Jr
+first-name: Charles
+last-name: Burke
+middle-name: Edward
+suffix: 
+full-name: Charles Burke Jr
+gender: M
+dob: 1964-04-01
+age: 59
+party: 
+phone: 860-490-5073
+address: 6 Pine Ridge Dr

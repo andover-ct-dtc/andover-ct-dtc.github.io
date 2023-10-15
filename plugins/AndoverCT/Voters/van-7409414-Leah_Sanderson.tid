@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7409414
-  tags: Voter
-  caption: Voters/Leah Sanderson
-  first-name: Leah
-  last-name: Sanderson
-  middle-name: Dyckman
-  suffix: undefined
-  full-name: Leah Sanderson
-  gender: F
-  dob: 1981-01-09
-  age: 42
-  party: 
-  phone: 717-496-61770
-  address: 150 Lake Rd
+tags: Voter
+caption: Voters/Leah Sanderson
+first-name: Leah
+last-name: Sanderson
+middle-name: Dyckman
+suffix: 
+full-name: Leah Sanderson
+gender: F
+dob: 1981-09-01
+age: 42
+party: 
+phone: 717-496-1770
+address: 150 Lake Rd

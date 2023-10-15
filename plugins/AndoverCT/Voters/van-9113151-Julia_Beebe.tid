@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9113151
-  tags: Voter
-  caption: Voters/Julia Beebe
-  first-name: Julia
-  last-name: Beebe
-  middle-name: Faith
-  suffix: undefined
-  full-name: Julia Beebe
-  gender: F
-  dob: 2000-01-04
-  age: 23
-  party: Democratic
-  phone: 860-422-20827
-  address: 305 Route 6
+tags: Voter
+caption: Voters/Julia Beebe
+first-name: Julia
+last-name: Beebe
+middle-name: Faith
+suffix: 
+full-name: Julia Beebe
+gender: F
+dob: 2000-04-01
+age: 23
+party: Democratic
+phone: 860-422-0827
+address: 305 Route 6

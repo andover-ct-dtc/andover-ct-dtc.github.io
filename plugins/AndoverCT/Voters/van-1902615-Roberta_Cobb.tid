@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1902615
-  tags: Voter
-  caption: Voters/Roberta Cobb
-  first-name: Roberta
-  last-name: Cobb
-  middle-name: E
-  suffix: undefined
-  full-name: Roberta Cobb
-  gender: F
-  dob: 1960-01-08
-  age: 63
-  party: 
-  phone: 860-634-40119
-  address: 34 Kingsley Dr Apt D3
+tags: Voter
+caption: Voters/Roberta Cobb
+first-name: Roberta
+last-name: Cobb
+middle-name: E
+suffix: 
+full-name: Roberta Cobb
+gender: F
+dob: 1960-08-01
+age: 63
+party: 
+phone: 860-634-0119
+address: 34 Kingsley Dr Apt D3

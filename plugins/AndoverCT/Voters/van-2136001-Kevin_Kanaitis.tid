@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2136001
-  tags: Voter
-  caption: Voters/Kevin Kanaitis
-  first-name: Kevin
-  last-name: Kanaitis
-  middle-name: Robert
-  suffix: undefined
-  full-name: Kevin Kanaitis
-  gender: M
-  dob: 1974-01-08
-  age: 49
-  party: Republican
-  phone: 860-742-21795
-  address: 177 Shoddy Mill Rd
+tags: Voter
+caption: Voters/Kevin Kanaitis
+first-name: Kevin
+last-name: Kanaitis
+middle-name: Robert
+suffix: 
+full-name: Kevin Kanaitis
+gender: M
+dob: 1974-08-01
+age: 49
+party: Republican
+phone: 860-742-1795
+address: 177 Shoddy Mill Rd

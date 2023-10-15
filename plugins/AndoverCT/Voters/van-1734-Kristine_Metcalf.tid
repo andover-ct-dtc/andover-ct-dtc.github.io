@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1734
-  tags: Voter
-  caption: Voters/Kristine Metcalf
-  first-name: Kristine
-  last-name: Metcalf
-  middle-name: Marie
-  suffix: undefined
-  full-name: Kristine Metcalf
-  gender: F
-  dob: 1972-01-07
-  age: 51
-  party: Democratic
-  phone: 860-205-55121
-  address: 43 Pine Ridge Dr
+tags: Voter
+caption: Voters/Kristine Metcalf
+first-name: Kristine
+last-name: Metcalf
+middle-name: Marie
+suffix: 
+full-name: Kristine Metcalf
+gender: F
+dob: 1972-07-01
+age: 51
+party: Democratic
+phone: 860-205-5121
+address: 43 Pine Ridge Dr

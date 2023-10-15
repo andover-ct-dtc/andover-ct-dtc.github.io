@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9635085
-  tags: Voter
-  caption: Voters/Heidi Van Achterberg
-  first-name: Heidi
-  last-name: Van Achterberg
-  middle-name: Jean
-  suffix: undefined
-  full-name: Heidi Van Achterberg
-  gender: F
-  dob: 2003-01-12
-  age: 19
-  party: Republican
-  phone: 
-  address: 233 Route 6
+tags: Voter
+caption: Voters/Heidi Van Achterberg
+first-name: Heidi
+last-name: Van Achterberg
+middle-name: Jean
+suffix: 
+full-name: Heidi Van Achterberg
+gender: F
+dob: 2003-12-01
+age: 19
+party: Republican
+phone: 
+address: 233 Route 6

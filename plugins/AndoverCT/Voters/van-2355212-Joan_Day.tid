@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2355212
-  tags: Voter
-  caption: Voters/Joan Day
-  first-name: Joan
-  last-name: Day
-  middle-name: Marie
-  suffix: undefined
-  full-name: Joan Day
-  gender: F
-  dob: 1962-01-08
-  age: 61
-  party: Republican
-  phone: 860-498-81219
-  address: 50 Bear Swamp Rd
+tags: Voter
+caption: Voters/Joan Day
+first-name: Joan
+last-name: Day
+middle-name: Marie
+suffix: 
+full-name: Joan Day
+gender: F
+dob: 1962-08-01
+age: 61
+party: Republican
+phone: 860-498-1219
+address: 50 Bear Swamp Rd

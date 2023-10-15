@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2732594
-  tags: Voter
-  caption: Voters/Kimberly Rockefeller
-  first-name: Kimberly
-  last-name: Rockefeller
-  middle-name: Deana
-  suffix: undefined
-  full-name: Kimberly Rockefeller
-  gender: F
-  dob: 1979-01-04
-  age: 44
-  party: Republican
-  phone: 860-742-21680
-  address: 47 Lakeside Dr
+tags: Voter
+caption: Voters/Kimberly Rockefeller
+first-name: Kimberly
+last-name: Rockefeller
+middle-name: Deana
+suffix: 
+full-name: Kimberly Rockefeller
+gender: F
+dob: 1979-04-01
+age: 44
+party: Republican
+phone: 860-742-1680
+address: 47 Lakeside Dr

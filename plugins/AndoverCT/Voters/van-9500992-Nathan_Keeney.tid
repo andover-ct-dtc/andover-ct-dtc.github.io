@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9500992
-  tags: Voter
-  caption: Voters/Nathan Keeney
-  first-name: Nathan
-  last-name: Keeney
-  middle-name: Bailey
-  suffix: undefined
-  full-name: Nathan Keeney
-  gender: M
-  dob: 2001-01-09
-  age: 22
-  party: 
-  phone: 860-266-60661
-  address: 21 Chesterbrook Ln
+tags: Voter
+caption: Voters/Nathan Keeney
+first-name: Nathan
+last-name: Keeney
+middle-name: Bailey
+suffix: 
+full-name: Nathan Keeney
+gender: M
+dob: 2001-09-01
+age: 22
+party: 
+phone: 860-266-0661
+address: 21 Chesterbrook Ln

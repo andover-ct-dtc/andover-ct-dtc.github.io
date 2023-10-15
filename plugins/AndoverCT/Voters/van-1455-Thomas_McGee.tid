@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1455
-  tags: Voter
-  caption: Voters/Thomas McGee
-  first-name: Thomas
-  last-name: McGee
-  middle-name: M
-  suffix: undefined
-  full-name: Thomas McGee
-  gender: M
-  dob: 1949-01-06
-  age: 74
-  party: 
-  phone: 860-817-79484
-  address: 132 Lake Rd
+tags: Voter
+caption: Voters/Thomas McGee
+first-name: Thomas
+last-name: McGee
+middle-name: M
+suffix: 
+full-name: Thomas McGee
+gender: M
+dob: 1949-06-01
+age: 74
+party: 
+phone: 860-817-9484
+address: 132 Lake Rd

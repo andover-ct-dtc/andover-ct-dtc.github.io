@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2245504
-  tags: Voter
-  caption: Voters/Gerard Creme
-  first-name: Gerard
-  last-name: Creme
-  middle-name: J
-  suffix: undefined
-  full-name: Gerard Creme
-  gender: M
-  dob: 1954-01-10
-  age: 69
-  party: Democratic
-  phone: 
-  address: 8 Wood Fern Way
+tags: Voter
+caption: Voters/Gerard Creme
+first-name: Gerard
+last-name: Creme
+middle-name: J
+suffix: 
+full-name: Gerard Creme
+gender: M
+dob: 1954-10-01
+age: 69
+party: Democratic
+phone: 
+address: 8 Wood Fern Way

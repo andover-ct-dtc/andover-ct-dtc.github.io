@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2745044
-  tags: Voter
-  caption: Voters/Matthew Tanner
-  first-name: Matthew
-  last-name: Tanner
-  middle-name: D
-  suffix: undefined
-  full-name: Matthew Tanner
-  gender: M
-  dob: 1993-01-05
-  age: 30
-  party: Republican
-  phone: 860-329-93591
-  address: 68 Stanley Dr
+tags: Voter
+caption: Voters/Matthew Tanner
+first-name: Matthew
+last-name: Tanner
+middle-name: D
+suffix: 
+full-name: Matthew Tanner
+gender: M
+dob: 1993-05-01
+age: 30
+party: Republican
+phone: 860-329-3591
+address: 68 Stanley Dr

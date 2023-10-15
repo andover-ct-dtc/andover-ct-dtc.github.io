@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1264
-  tags: Voter
-  caption: Voters/Kathleen Cardin
-  first-name: Kathleen
-  last-name: Cardin
-  middle-name: D
-  suffix: undefined
-  full-name: Kathleen Cardin
-  gender: F
-  dob: 1935-01-03
-  age: 88
-  party: Democratic
-  phone: 860-742-27739
-  address: 144 Shoddy Mill Rd
+tags: Voter
+caption: Voters/Kathleen Cardin
+first-name: Kathleen
+last-name: Cardin
+middle-name: D
+suffix: 
+full-name: Kathleen Cardin
+gender: F
+dob: 1935-03-01
+age: 88
+party: Democratic
+phone: 860-742-7739
+address: 144 Shoddy Mill Rd

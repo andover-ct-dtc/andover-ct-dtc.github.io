@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1235
-  tags: Voter
-  caption: Voters/Stacey Jahn
-  first-name: Stacey
-  last-name: Jahn
-  middle-name: A
-  suffix: undefined
-  full-name: Stacey Jahn
-  gender: F
-  dob: 1959-01-02
-  age: 64
-  party: 
-  phone: 860-742-25906
-  address: 112 Long Hill Rd
+tags: Voter
+caption: Voters/Stacey Jahn
+first-name: Stacey
+last-name: Jahn
+middle-name: A
+suffix: 
+full-name: Stacey Jahn
+gender: F
+dob: 1959-02-01
+age: 64
+party: 
+phone: 860-742-5906
+address: 112 Long Hill Rd

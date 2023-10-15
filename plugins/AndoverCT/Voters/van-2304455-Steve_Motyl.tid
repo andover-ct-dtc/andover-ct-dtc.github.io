@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2304455
-  tags: Voter
-  caption: Voters/Steve Motyl
-  first-name: Steve
-  last-name: Motyl
-  middle-name: T
-  suffix: undefined
-  full-name: Steve Motyl
-  gender: M
-  dob: 1956-01-08
-  age: 67
-  party: 
-  phone: 860-742-28792
-  address: 84 Hendee Rd
+tags: Voter
+caption: Voters/Steve Motyl
+first-name: Steve
+last-name: Motyl
+middle-name: T
+suffix: 
+full-name: Steve Motyl
+gender: M
+dob: 1956-08-01
+age: 67
+party: 
+phone: 860-742-8792
+address: 84 Hendee Rd

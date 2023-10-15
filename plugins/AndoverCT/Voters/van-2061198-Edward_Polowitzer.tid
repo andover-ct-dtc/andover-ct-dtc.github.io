@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2061198
-  tags: Voter
-  caption: Voters/Edward Polowitzer
-  first-name: Edward
-  last-name: Polowitzer
-  middle-name: J
-  suffix: undefined
-  full-name: Edward Polowitzer
-  gender: M
-  dob: 1954-01-05
-  age: 69
-  party: Democratic
-  phone: 860-742-21126
-  address: 76 Route 87
+tags: Voter
+caption: Voters/Edward Polowitzer
+first-name: Edward
+last-name: Polowitzer
+middle-name: J
+suffix: 
+full-name: Edward Polowitzer
+gender: M
+dob: 1954-05-01
+age: 69
+party: Democratic
+phone: 860-742-1126
+address: 76 Route 87

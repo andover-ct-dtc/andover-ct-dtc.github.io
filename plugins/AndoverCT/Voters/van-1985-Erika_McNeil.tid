@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1985
-  tags: Voter
-  caption: Voters/Erika McNeil
-  first-name: Erika
-  last-name: McNeil
-  middle-name: Hanson
-  suffix: undefined
-  full-name: Erika McNeil
-  gender: F
-  dob: 1967-01-02
-  age: 56
-  party: Democratic
-  phone: 860-742-27569
-  address: 10 Bausola Rd
+tags: Voter
+caption: Voters/Erika McNeil
+first-name: Erika
+last-name: McNeil
+middle-name: Hanson
+suffix: 
+full-name: Erika McNeil
+gender: F
+dob: 1967-02-01
+age: 56
+party: Democratic
+phone: 860-742-7569
+address: 10 Bausola Rd

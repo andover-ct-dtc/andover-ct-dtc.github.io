@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1466125
-  tags: Voter
-  caption: Voters/Heidi Hines
-  first-name: Heidi
-  last-name: Hines
-  middle-name: Carter
-  suffix: undefined
-  full-name: Heidi Hines
-  gender: F
-  dob: 1973-01-09
-  age: 50
-  party: Democratic
-  phone: 860-268-87112
-  address: 60 West St
+tags: Voter
+caption: Voters/Heidi Hines
+first-name: Heidi
+last-name: Hines
+middle-name: Carter
+suffix: 
+full-name: Heidi Hines
+gender: F
+dob: 1973-09-01
+age: 50
+party: Democratic
+phone: 860-268-7112
+address: 60 West St

@@ -1,5 +1,6 @@
 created: 20231011031923431
-modified: 20231011034532874
+modified: 20231013191551082
+revision: 0
 tags: $:/tags/ViewTemplate
 title: $:/_/adtc/templates/voter
 type: text/vnd.tiddlywiki
@@ -9,7 +10,7 @@ type: text/vnd.tiddlywiki
 ! {{!!full-name}}
 
 <dl>
-<dt>Address:</dt><dd>{{!!address}}</dd>
+<dt>Address:</dt><dd><$link to={{{ [{!!address}addprefix[$:/AndoverCT/Address/]] }}} >{{!!address}}</$link></dd>
 <dt>Age</dt><dd>{{!!age}}</dd>
 <dt>DOB</dt><dd>{{!!dob}}</dd>
 <dt>Gender</dt><dd>{{!!gender}}</dd>

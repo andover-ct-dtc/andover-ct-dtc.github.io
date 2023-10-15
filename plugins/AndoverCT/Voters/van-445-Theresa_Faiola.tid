@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/445
-  tags: Voter
-  caption: Voters/Theresa Faiola
-  first-name: Theresa
-  last-name: Faiola
-  middle-name: M
-  suffix: undefined
-  full-name: Theresa Faiola
-  gender: F
-  dob: 1933-01-02
-  age: 90
-  party: Republican
-  phone: 860-742-25213
-  address: 425 Route 6
+tags: Voter
+caption: Voters/Theresa Faiola
+first-name: Theresa
+last-name: Faiola
+middle-name: M
+suffix: 
+full-name: Theresa Faiola
+gender: F
+dob: 1933-02-01
+age: 90
+party: Republican
+phone: 860-742-5213
+address: 425 Route 6

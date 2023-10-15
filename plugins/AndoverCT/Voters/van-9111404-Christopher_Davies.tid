@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9111404
-  tags: Voter
-  caption: Voters/Christopher Davies
-  first-name: Christopher
-  last-name: Davies
-  middle-name: P S
-  suffix: undefined
-  full-name: Christopher Davies
-  gender: M
-  dob: 2000-01-08
-  age: 23
-  party: Democratic
-  phone: 917-628-80474
-  address: 14 Lakeview Dr
+tags: Voter
+caption: Voters/Christopher Davies
+first-name: Christopher
+last-name: Davies
+middle-name: P S
+suffix: 
+full-name: Christopher Davies
+gender: M
+dob: 2000-08-01
+age: 23
+party: Democratic
+phone: 917-628-0474
+address: 14 Lakeview Dr

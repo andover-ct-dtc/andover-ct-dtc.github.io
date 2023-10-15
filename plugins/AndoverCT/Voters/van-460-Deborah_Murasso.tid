@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/460
-  tags: Voter
-  caption: Voters/Deborah Murasso
-  first-name: Deborah
-  last-name: Murasso
-  middle-name: E
-  suffix: undefined
-  full-name: Deborah Murasso
-  gender: F
-  dob: 1954-01-02
-  age: 69
-  party: Republican
-  phone: 860-742-25790
-  address: 159 Wheeling Rd
+tags: Voter
+caption: Voters/Deborah Murasso
+first-name: Deborah
+last-name: Murasso
+middle-name: E
+suffix: 
+full-name: Deborah Murasso
+gender: F
+dob: 1954-02-01
+age: 69
+party: Republican
+phone: 860-742-5790
+address: 159 Wheeling Rd

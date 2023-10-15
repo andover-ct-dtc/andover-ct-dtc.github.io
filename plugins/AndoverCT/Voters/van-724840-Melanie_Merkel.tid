@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/724840
-  tags: Voter
-  caption: Voters/Melanie Merkel
-  first-name: Melanie
-  last-name: Merkel
-  middle-name: L
-  suffix: undefined
-  full-name: Melanie Merkel
-  gender: F
-  dob: 1985-01-09
-  age: 38
-  party: 
-  phone: 860-874-47078
-  address: 75 Pine Ridge Dr
+tags: Voter
+caption: Voters/Melanie Merkel
+first-name: Melanie
+last-name: Merkel
+middle-name: L
+suffix: 
+full-name: Melanie Merkel
+gender: F
+dob: 1985-09-01
+age: 38
+party: 
+phone: 860-874-7078
+address: 75 Pine Ridge Dr

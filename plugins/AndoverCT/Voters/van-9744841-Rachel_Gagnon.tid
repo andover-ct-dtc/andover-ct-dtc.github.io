@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9744841
-  tags: Voter
-  caption: Voters/Rachel Gagnon
-  first-name: Rachel
-  last-name: Gagnon
-  middle-name: Jean
-  suffix: undefined
-  full-name: Rachel Gagnon
-  gender: F
-  dob: 1995-01-12
-  age: 27
-  party: 
-  phone: 
-  address: 18 Lakeside Dr
+tags: Voter
+caption: Voters/Rachel Gagnon
+first-name: Rachel
+last-name: Gagnon
+middle-name: Jean
+suffix: 
+full-name: Rachel Gagnon
+gender: F
+dob: 1995-12-01
+age: 27
+party: 
+phone: 
+address: 18 Lakeside Dr

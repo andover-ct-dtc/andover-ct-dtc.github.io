@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1328
-  tags: Voter
-  caption: Voters/Susan Swokla
-  first-name: Susan
-  last-name: Swokla
-  middle-name: C
-  suffix: undefined
-  full-name: Susan Swokla
-  gender: F
-  dob: 1955-01-08
-  age: 68
-  party: 
-  phone: 860-742-21169
-  address: 9 Parker Bridge Rd
+tags: Voter
+caption: Voters/Susan Swokla
+first-name: Susan
+last-name: Swokla
+middle-name: C
+suffix: 
+full-name: Susan Swokla
+gender: F
+dob: 1955-08-01
+age: 68
+party: 
+phone: 860-742-1169
+address: 9 Parker Bridge Rd

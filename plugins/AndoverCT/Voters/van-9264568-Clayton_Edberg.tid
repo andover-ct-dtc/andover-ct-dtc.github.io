@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9264568
-  tags: Voter
-  caption: Voters/Clayton Edberg
-  first-name: Clayton
-  last-name: Edberg
-  middle-name: Robert
-  suffix: undefined
-  full-name: Clayton Edberg
-  gender: M
-  dob: 2001-01-10
-  age: 22
-  party: Republican
-  phone: 
-  address: 68 Bear Swamp Rd
+tags: Voter
+caption: Voters/Clayton Edberg
+first-name: Clayton
+last-name: Edberg
+middle-name: Robert
+suffix: 
+full-name: Clayton Edberg
+gender: M
+dob: 2001-10-01
+age: 22
+party: Republican
+phone: 
+address: 68 Bear Swamp Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/434
-  tags: Voter
-  caption: Voters/Kenneth Lee
-  first-name: Kenneth
-  last-name: Lee
-  middle-name: E
-  suffix: undefined
-  full-name: Kenneth Lee
-  gender: M
-  dob: 1941-01-06
-  age: 82
-  party: Republican
-  phone: 860-646-64467
-  address: 24 Webster Ln
+tags: Voter
+caption: Voters/Kenneth Lee
+first-name: Kenneth
+last-name: Lee
+middle-name: E
+suffix: 
+full-name: Kenneth Lee
+gender: M
+dob: 1941-06-01
+age: 82
+party: Republican
+phone: 860-646-4467
+address: 24 Webster Ln

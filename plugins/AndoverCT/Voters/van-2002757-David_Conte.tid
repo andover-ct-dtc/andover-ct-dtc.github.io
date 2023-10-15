@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2002757
-  tags: Voter
-  caption: Voters/David Conte
-  first-name: David
-  last-name: Conte
-  middle-name: Charles
-  suffix: undefined
-  full-name: David Conte
-  gender: M
-  dob: 1958-01-03
-  age: 65
-  party: Republican
-  phone: 860-299-96180
-  address: 81 Stanley Dr
+tags: Voter
+caption: Voters/David Conte
+first-name: David
+last-name: Conte
+middle-name: Charles
+suffix: 
+full-name: David Conte
+gender: M
+dob: 1958-03-01
+age: 65
+party: Republican
+phone: 860-299-6180
+address: 81 Stanley Dr

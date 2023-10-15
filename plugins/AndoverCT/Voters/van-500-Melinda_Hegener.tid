@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/500
-  tags: Voter
-  caption: Voters/Melinda Hegener
-  first-name: Melinda
-  last-name: Hegener
-  middle-name: L
-  suffix: undefined
-  full-name: Melinda Hegener
-  gender: F
-  dob: 1966-01-10
-  age: 57
-  party: Republican
-  phone: 860-706-63074
-  address: 4 School Rd
+tags: Voter
+caption: Voters/Melinda Hegener
+first-name: Melinda
+last-name: Hegener
+middle-name: L
+suffix: 
+full-name: Melinda Hegener
+gender: F
+dob: 1966-10-01
+age: 57
+party: Republican
+phone: 860-706-3074
+address: 4 School Rd

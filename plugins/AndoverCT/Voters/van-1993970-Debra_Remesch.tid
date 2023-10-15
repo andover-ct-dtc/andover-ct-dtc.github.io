@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1993970
-  tags: Voter
-  caption: Voters/Debra Remesch
-  first-name: Debra
-  last-name: Remesch
-  middle-name: H
-  suffix: undefined
-  full-name: Debra Remesch
-  gender: F
-  dob: 1966-01-06
-  age: 57
-  party: 
-  phone: 860-559-94356
-  address: 112 Lakeside Dr # B
+tags: Voter
+caption: Voters/Debra Remesch
+first-name: Debra
+last-name: Remesch
+middle-name: H
+suffix: 
+full-name: Debra Remesch
+gender: F
+dob: 1966-06-01
+age: 57
+party: 
+phone: 860-559-4356
+address: 112 Lakeside Dr # B

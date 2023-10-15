@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9635109
-  tags: Voter
-  caption: Voters/Joseph Veronesi
-  first-name: Joseph
-  last-name: Veronesi
-  middle-name: Robert
-  suffix: undefined
-  full-name: Joseph Veronesi
-  gender: M
-  dob: 1998-01-03
-  age: 25
-  party: 
-  phone: 
-  address: 25 Hickory Hill Dr
+tags: Voter
+caption: Voters/Joseph Veronesi
+first-name: Joseph
+last-name: Veronesi
+middle-name: Robert
+suffix: 
+full-name: Joseph Veronesi
+gender: M
+dob: 1998-03-01
+age: 25
+party: 
+phone: 
+address: 25 Hickory Hill Dr

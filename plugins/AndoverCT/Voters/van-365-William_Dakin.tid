@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/365
-  tags: Voter
-  caption: Voters/William Dakin
-  first-name: William
-  last-name: Dakin
-  middle-name: J
-  suffix: undefined
-  full-name: William Dakin
-  gender: M
-  dob: 1954-01-11
-  age: 68
-  party: Republican
-  phone: 860-646-68823
-  address: 320 Boston Hill Rd
+tags: Voter
+caption: Voters/William Dakin
+first-name: William
+last-name: Dakin
+middle-name: J
+suffix: 
+full-name: William Dakin
+gender: M
+dob: 1954-11-01
+age: 68
+party: Republican
+phone: 860-646-8823
+address: 320 Boston Hill Rd

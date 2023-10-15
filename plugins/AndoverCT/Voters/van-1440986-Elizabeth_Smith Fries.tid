@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1440986
-  tags: Voter
-  caption: Voters/Elizabeth Smith Fries
-  first-name: Elizabeth
-  last-name: Smith Fries
-  middle-name: Anne
-  suffix: undefined
-  full-name: Elizabeth Smith Fries
-  gender: F
-  dob: 1965-01-03
-  age: 58
-  party: 
-  phone: 860-919-92842
-  address: 285 Boston Hill Rd
+tags: Voter
+caption: Voters/Elizabeth Smith Fries
+first-name: Elizabeth
+last-name: Smith Fries
+middle-name: Anne
+suffix: 
+full-name: Elizabeth Smith Fries
+gender: F
+dob: 1965-03-01
+age: 58
+party: 
+phone: 860-919-2842
+address: 285 Boston Hill Rd

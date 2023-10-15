@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1391944
-  tags: Voter
-  caption: Voters/Charlotte Nelson
-  first-name: Charlotte
-  last-name: Nelson
-  middle-name: Halling
-  suffix: undefined
-  full-name: Charlotte Nelson
-  gender: F
-  dob: 1967-01-11
-  age: 55
-  party: Democratic
-  phone: 860-951-12722
-  address: 14 Lakeview Dr
+tags: Voter
+caption: Voters/Charlotte Nelson
+first-name: Charlotte
+last-name: Nelson
+middle-name: Halling
+suffix: 
+full-name: Charlotte Nelson
+gender: F
+dob: 1967-11-01
+age: 55
+party: Democratic
+phone: 860-951-2722
+address: 14 Lakeview Dr

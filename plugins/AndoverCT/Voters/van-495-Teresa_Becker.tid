@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/495
-  tags: Voter
-  caption: Voters/Teresa Becker
-  first-name: Teresa
-  last-name: Becker
-  middle-name: R
-  suffix: undefined
-  full-name: Teresa Becker
-  gender: F
-  dob: 1947-01-02
-  age: 76
-  party: Democratic
-  phone: 860-617-70591
-  address: 22 Bear Swamp Rd
+tags: Voter
+caption: Voters/Teresa Becker
+first-name: Teresa
+last-name: Becker
+middle-name: R
+suffix: 
+full-name: Teresa Becker
+gender: F
+dob: 1947-02-01
+age: 76
+party: Democratic
+phone: 860-617-0591
+address: 22 Bear Swamp Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2383583
-  tags: Voter
-  caption: Voters/Cary Powell
-  first-name: Cary
-  last-name: Powell
-  middle-name: Thomas
-  suffix: undefined
-  full-name: Cary Powell
-  gender: M
-  dob: 1965-01-10
-  age: 58
-  party: Republican
-  phone: 561-262-23585
-  address: 371 Lake Rd Apt C
+tags: Voter
+caption: Voters/Cary Powell
+first-name: Cary
+last-name: Powell
+middle-name: Thomas
+suffix: 
+full-name: Cary Powell
+gender: M
+dob: 1965-10-01
+age: 58
+party: Republican
+phone: 561-262-3585
+address: 371 Lake Rd Apt C

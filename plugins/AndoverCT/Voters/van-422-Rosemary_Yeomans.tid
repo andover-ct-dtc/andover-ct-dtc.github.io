@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/422
-  tags: Voter
-  caption: Voters/Rosemary Yeomans
-  first-name: Rosemary
-  last-name: Yeomans
-  middle-name: D
-  suffix: undefined
-  full-name: Rosemary Yeomans
-  gender: F
-  dob: 1953-01-03
-  age: 70
-  party: Democratic
-  phone: 
-  address: 3 Hebron Rd
+tags: Voter
+caption: Voters/Rosemary Yeomans
+first-name: Rosemary
+last-name: Yeomans
+middle-name: D
+suffix: 
+full-name: Rosemary Yeomans
+gender: F
+dob: 1953-03-01
+age: 70
+party: Democratic
+phone: 
+address: 3 Hebron Rd

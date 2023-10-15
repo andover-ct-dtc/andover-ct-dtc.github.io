@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/6773167
-  tags: Voter
-  caption: Voters/Kevin Arnesen
-  first-name: Kevin
-  last-name: Arnesen
-  middle-name: Joseph
-  suffix: undefined
-  full-name: Kevin Arnesen
-  gender: M
-  dob: 1992-01-02
-  age: 31
-  party: Republican
-  phone: 860-644-48247
-  address: 927 East St
+tags: Voter
+caption: Voters/Kevin Arnesen
+first-name: Kevin
+last-name: Arnesen
+middle-name: Joseph
+suffix: 
+full-name: Kevin Arnesen
+gender: M
+dob: 1992-02-01
+age: 31
+party: Republican
+phone: 860-644-8247
+address: 927 East St

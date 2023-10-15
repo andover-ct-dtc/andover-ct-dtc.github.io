@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/950
-  tags: Voter
-  caption: Voters/Lisa Kurtz
-  first-name: Lisa
-  last-name: Kurtz
-  middle-name: A
-  suffix: undefined
-  full-name: Lisa Kurtz
-  gender: F
-  dob: 1963-01-07
-  age: 60
-  party: 
-  phone: 860-742-20874
-  address: 41 Birch Dr
+tags: Voter
+caption: Voters/Lisa Kurtz
+first-name: Lisa
+last-name: Kurtz
+middle-name: A
+suffix: 
+full-name: Lisa Kurtz
+gender: F
+dob: 1963-07-01
+age: 60
+party: 
+phone: 860-742-0874
+address: 41 Birch Dr

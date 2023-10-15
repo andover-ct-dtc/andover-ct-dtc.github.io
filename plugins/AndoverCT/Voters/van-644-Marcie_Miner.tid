@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/644
-  tags: Voter
-  caption: Voters/Marcie Miner
-  first-name: Marcie
-  last-name: Miner
-  middle-name: M
-  suffix: undefined
-  full-name: Marcie Miner
-  gender: F
-  dob: 1962-01-04
-  age: 61
-  party: Democratic
-  phone: 860-742-20326
-  address: 80 West St
+tags: Voter
+caption: Voters/Marcie Miner
+first-name: Marcie
+last-name: Miner
+middle-name: M
+suffix: 
+full-name: Marcie Miner
+gender: F
+dob: 1962-04-01
+age: 61
+party: Democratic
+phone: 860-742-0326
+address: 80 West St

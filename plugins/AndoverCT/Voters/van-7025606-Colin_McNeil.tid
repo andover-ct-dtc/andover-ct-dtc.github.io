@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7025606
-  tags: Voter
-  caption: Voters/Colin McNeil
-  first-name: Colin
-  last-name: McNeil
-  middle-name: Andrew
-  suffix: undefined
-  full-name: Colin McNeil
-  gender: M
-  dob: 1996-01-06
-  age: 27
-  party: Democratic
-  phone: 860-742-27569
-  address: 239 Lake Rd
+tags: Voter
+caption: Voters/Colin McNeil
+first-name: Colin
+last-name: McNeil
+middle-name: Andrew
+suffix: 
+full-name: Colin McNeil
+gender: M
+dob: 1996-06-01
+age: 27
+party: Democratic
+phone: 860-742-7569
+address: 239 Lake Rd

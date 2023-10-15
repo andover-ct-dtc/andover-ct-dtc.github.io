@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1582
-  tags: Voter
-  caption: Voters/Andrew Brown Jr
-  first-name: Andrew
-  last-name: Brown
-  middle-name: D
-  suffix: undefined
-  full-name: Andrew Brown Jr
-  gender: M
-  dob: 1972-01-02
-  age: 51
-  party: 
-  phone: 860-742-28706
-  address: 366 Hebron Rd
+tags: Voter
+caption: Voters/Andrew Brown Jr
+first-name: Andrew
+last-name: Brown
+middle-name: D
+suffix: 
+full-name: Andrew Brown Jr
+gender: M
+dob: 1972-02-01
+age: 51
+party: 
+phone: 860-742-8706
+address: 366 Hebron Rd

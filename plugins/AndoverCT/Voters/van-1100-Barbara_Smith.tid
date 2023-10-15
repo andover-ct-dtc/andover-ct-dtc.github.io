@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1100
-  tags: Voter
-  caption: Voters/Barbara Smith
-  first-name: Barbara
-  last-name: Smith
-  middle-name: A
-  suffix: undefined
-  full-name: Barbara Smith
-  gender: F
-  dob: 1941-01-12
-  age: 81
-  party: Democratic
-  phone: 860-742-28528
-  address: 3 Parker Bridge Rd
+tags: Voter
+caption: Voters/Barbara Smith
+first-name: Barbara
+last-name: Smith
+middle-name: A
+suffix: 
+full-name: Barbara Smith
+gender: F
+dob: 1941-12-01
+age: 81
+party: Democratic
+phone: 860-742-8528
+address: 3 Parker Bridge Rd

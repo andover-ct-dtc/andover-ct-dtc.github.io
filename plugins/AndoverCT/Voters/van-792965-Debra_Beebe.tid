@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/792965
-  tags: Voter
-  caption: Voters/Debra Beebe
-  first-name: Debra
-  last-name: Beebe
-  middle-name: Ann
-  suffix: undefined
-  full-name: Debra Beebe
-  gender: F
-  dob: 1951-01-04
-  age: 72
-  party: Democratic
-  phone: 860-490-01009
-  address: 241 Route 6
+tags: Voter
+caption: Voters/Debra Beebe
+first-name: Debra
+last-name: Beebe
+middle-name: Ann
+suffix: 
+full-name: Debra Beebe
+gender: F
+dob: 1951-04-01
+age: 72
+party: Democratic
+phone: 860-490-1009
+address: 241 Route 6

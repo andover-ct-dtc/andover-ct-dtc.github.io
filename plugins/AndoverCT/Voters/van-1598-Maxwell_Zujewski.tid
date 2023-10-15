@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1598
-  tags: Voter
-  caption: Voters/Maxwell Zujewski
-  first-name: Maxwell
-  last-name: Zujewski
-  middle-name: Vincent
-  suffix: undefined
-  full-name: Maxwell Zujewski
-  gender: M
-  dob: 1981-01-06
-  age: 42
-  party: 
-  phone: 860-742-27167
-  address: 28 Hebron Rd
+tags: Voter
+caption: Voters/Maxwell Zujewski
+first-name: Maxwell
+last-name: Zujewski
+middle-name: Vincent
+suffix: 
+full-name: Maxwell Zujewski
+gender: M
+dob: 1981-06-01
+age: 42
+party: 
+phone: 860-742-7167
+address: 28 Hebron Rd

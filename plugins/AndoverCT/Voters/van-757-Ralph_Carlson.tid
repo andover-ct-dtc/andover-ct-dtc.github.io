@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/757
-  tags: Voter
-  caption: Voters/Ralph Carlson
-  first-name: Ralph
-  last-name: Carlson
-  middle-name: G
-  suffix: undefined
-  full-name: Ralph Carlson
-  gender: M
-  dob: 1951-01-05
-  age: 72
-  party: Republican
-  phone: 860-742-25138
-  address: 55 Boston Hill Rd
+tags: Voter
+caption: Voters/Ralph Carlson
+first-name: Ralph
+last-name: Carlson
+middle-name: G
+suffix: 
+full-name: Ralph Carlson
+gender: M
+dob: 1951-05-01
+age: 72
+party: Republican
+phone: 860-742-5138
+address: 55 Boston Hill Rd

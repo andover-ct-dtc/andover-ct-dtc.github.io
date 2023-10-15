@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7488640
-  tags: Voter
-  caption: Voters/Andrew Burke
-  first-name: Andrew
-  last-name: Burke
-  middle-name: Thomas
-  suffix: undefined
-  full-name: Andrew Burke
-  gender: M
-  dob: 1995-31-01
-  age: 28
-  party: Democratic
-  phone: 860-593-30587
-  address: 41 Stanley Dr
+tags: Voter
+caption: Voters/Andrew Burke
+first-name: Andrew
+last-name: Burke
+middle-name: Thomas
+suffix: 
+full-name: Andrew Burke
+gender: M
+dob: 1995-01-31
+age: 28
+party: Democratic
+phone: 860-593-0587
+address: 41 Stanley Dr

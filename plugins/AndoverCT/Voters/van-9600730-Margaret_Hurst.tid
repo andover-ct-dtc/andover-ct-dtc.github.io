@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9600730
-  tags: Voter
-  caption: Voters/Margaret Hurst
-  first-name: Margaret
-  last-name: Hurst
-  middle-name: Mary
-  suffix: undefined
-  full-name: Margaret Hurst
-  gender: F
-  dob: 2003-01-02
-  age: 20
-  party: 
-  phone: 
-  address: 746 East St
+tags: Voter
+caption: Voters/Margaret Hurst
+first-name: Margaret
+last-name: Hurst
+middle-name: Mary
+suffix: 
+full-name: Margaret Hurst
+gender: F
+dob: 2003-02-01
+age: 20
+party: 
+phone: 
+address: 746 East St

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7351017
-  tags: Voter
-  caption: Voters/Peter Covello
-  first-name: Peter
-  last-name: Covello
-  middle-name: Michael
-  suffix: undefined
-  full-name: Peter Covello
-  gender: M
-  dob: 1953-01-06
-  age: 70
-  party: Republican
-  phone: 860-377-78967
-  address: 89 Windrush Ln
+tags: Voter
+caption: Voters/Peter Covello
+first-name: Peter
+last-name: Covello
+middle-name: Michael
+suffix: 
+full-name: Peter Covello
+gender: M
+dob: 1953-06-01
+age: 70
+party: Republican
+phone: 860-377-8967
+address: 89 Windrush Ln

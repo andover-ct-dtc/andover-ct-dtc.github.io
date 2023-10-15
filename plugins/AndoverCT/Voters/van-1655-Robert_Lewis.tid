@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1655
-  tags: Voter
-  caption: Voters/Robert Lewis
-  first-name: Robert
-  last-name: Lewis
-  middle-name: Michael
-  suffix: undefined
-  full-name: Robert Lewis
-  gender: M
-  dob: 1960-01-10
-  age: 63
-  party: Democratic
-  phone: 860-647-77933
-  address: 32 Oak Farms Rd
+tags: Voter
+caption: Voters/Robert Lewis
+first-name: Robert
+last-name: Lewis
+middle-name: Michael
+suffix: 
+full-name: Robert Lewis
+gender: M
+dob: 1960-10-01
+age: 63
+party: Democratic
+phone: 860-647-7933
+address: 32 Oak Farms Rd

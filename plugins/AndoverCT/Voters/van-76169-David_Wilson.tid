@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/76169
-  tags: Voter
-  caption: Voters/David Wilson
-  first-name: David
-  last-name: Wilson
-  middle-name: 
-  suffix: undefined
-  full-name: David Wilson
-  gender: M
-  dob: 1955-01-05
-  age: 68
-  party: Republican
-  phone: 860-646-67995
-  address: 8 W Street Ext
+tags: Voter
+caption: Voters/David Wilson
+first-name: David
+last-name: Wilson
+middle-name: 
+suffix: 
+full-name: David Wilson
+gender: M
+dob: 1955-05-01
+age: 68
+party: Republican
+phone: 860-646-7995
+address: 8 W Street Ext

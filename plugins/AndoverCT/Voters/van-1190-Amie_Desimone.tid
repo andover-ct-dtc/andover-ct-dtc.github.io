@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1190
-  tags: Voter
-  caption: Voters/Amie Desimone
-  first-name: Amie
-  last-name: Desimone
-  middle-name: S
-  suffix: undefined
-  full-name: Amie Desimone
-  gender: F
-  dob: 1971-01-03
-  age: 52
-  party: Republican
-  phone: 860-742-20210
-  address: 161 Hebron Rd
+tags: Voter
+caption: Voters/Amie Desimone
+first-name: Amie
+last-name: Desimone
+middle-name: S
+suffix: 
+full-name: Amie Desimone
+gender: F
+dob: 1971-03-01
+age: 52
+party: Republican
+phone: 860-742-0210
+address: 161 Hebron Rd

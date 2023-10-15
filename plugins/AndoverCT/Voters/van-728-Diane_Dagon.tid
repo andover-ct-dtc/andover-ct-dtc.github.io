@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/728
-  tags: Voter
-  caption: Voters/Diane Dagon
-  first-name: Diane
-  last-name: Dagon
-  middle-name: C
-  suffix: undefined
-  full-name: Diane Dagon
-  gender: F
-  dob: 1954-01-07
-  age: 69
-  party: Democratic
-  phone: 
-  address: 21 Brown Rd
+tags: Voter
+caption: Voters/Diane Dagon
+first-name: Diane
+last-name: Dagon
+middle-name: C
+suffix: 
+full-name: Diane Dagon
+gender: F
+dob: 1954-07-01
+age: 69
+party: Democratic
+phone: 
+address: 21 Brown Rd

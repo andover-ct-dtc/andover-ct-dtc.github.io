@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/562
-  tags: Voter
-  caption: Voters/Lori Macri
-  first-name: Lori
-  last-name: Macri
-  middle-name: C
-  suffix: undefined
-  full-name: Lori Macri
-  gender: F
-  dob: 1959-01-09
-  age: 64
-  party: Democratic
-  phone: 860-742-27416
-  address: 209 Route 6
+tags: Voter
+caption: Voters/Lori Macri
+first-name: Lori
+last-name: Macri
+middle-name: C
+suffix: 
+full-name: Lori Macri
+gender: F
+dob: 1959-09-01
+age: 64
+party: Democratic
+phone: 860-742-7416
+address: 209 Route 6

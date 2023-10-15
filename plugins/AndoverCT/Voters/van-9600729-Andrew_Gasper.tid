@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9600729
-  tags: Voter
-  caption: Voters/Andrew Gasper
-  first-name: Andrew
-  last-name: Gasper
-  middle-name: Eric
-  suffix: undefined
-  full-name: Andrew Gasper
-  gender: M
-  dob: 1976-01-12
-  age: 46
-  party: Democratic
-  phone: 860-508-86123
-  address: 29 Boston Hill Rd
+tags: Voter
+caption: Voters/Andrew Gasper
+first-name: Andrew
+last-name: Gasper
+middle-name: Eric
+suffix: 
+full-name: Andrew Gasper
+gender: M
+dob: 1976-12-01
+age: 46
+party: Democratic
+phone: 860-508-6123
+address: 29 Boston Hill Rd

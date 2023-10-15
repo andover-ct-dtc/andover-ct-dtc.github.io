@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9171473
-  tags: Voter
-  caption: Voters/Allan Giles
-  first-name: Allan
-  last-name: Giles
-  middle-name: D
-  suffix: undefined
-  full-name: Allan Giles
-  gender: M
-  dob: 1968-01-07
-  age: 55
-  party: 
-  phone: 860-512-20242
-  address: 47 Rockledge Dr
+tags: Voter
+caption: Voters/Allan Giles
+first-name: Allan
+last-name: Giles
+middle-name: D
+suffix: 
+full-name: Allan Giles
+gender: M
+dob: 1968-07-01
+age: 55
+party: 
+phone: 860-512-0242
+address: 47 Rockledge Dr

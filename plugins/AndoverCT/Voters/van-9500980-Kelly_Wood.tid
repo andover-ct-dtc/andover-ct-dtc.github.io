@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9500980
-  tags: Voter
-  caption: Voters/Kelly Wood
-  first-name: Kelly
-  last-name: Wood
-  middle-name: M
-  suffix: undefined
-  full-name: Kelly Wood
-  gender: F
-  dob: 1990-01-03
-  age: 33
-  party: Republican
-  phone: 
-  address: 56 Pine Ridge Dr
+tags: Voter
+caption: Voters/Kelly Wood
+first-name: Kelly
+last-name: Wood
+middle-name: M
+suffix: 
+full-name: Kelly Wood
+gender: F
+dob: 1990-03-01
+age: 33
+party: Republican
+phone: 
+address: 56 Pine Ridge Dr

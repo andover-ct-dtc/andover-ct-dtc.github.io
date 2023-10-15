@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1277254
-  tags: Voter
-  caption: Voters/Lois Barrett
-  first-name: Lois
-  last-name: Barrett
-  middle-name: A
-  suffix: undefined
-  full-name: Lois Barrett
-  gender: F
-  dob: 1961-01-06
-  age: 62
-  party: Republican
-  phone: 860-796-61480
-  address: 151 Wales Rd
+tags: Voter
+caption: Voters/Lois Barrett
+first-name: Lois
+last-name: Barrett
+middle-name: A
+suffix: 
+full-name: Lois Barrett
+gender: F
+dob: 1961-06-01
+age: 62
+party: Republican
+phone: 860-796-1480
+address: 151 Wales Rd

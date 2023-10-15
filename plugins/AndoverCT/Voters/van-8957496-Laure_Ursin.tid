@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/8957496
-  tags: Voter
-  caption: Voters/Laure Ursin
-  first-name: Laure
-  last-name: Ursin
-  middle-name: A
-  suffix: undefined
-  full-name: Laure Ursin
-  gender: F
-  dob: 1959-01-02
-  age: 64
-  party: Democratic
-  phone: 860-742-26367
-  address: 18 Aspinall Dr
+tags: Voter
+caption: Voters/Laure Ursin
+first-name: Laure
+last-name: Ursin
+middle-name: A
+suffix: 
+full-name: Laure Ursin
+gender: F
+dob: 1959-02-01
+age: 64
+party: Democratic
+phone: 860-742-6367
+address: 18 Aspinall Dr

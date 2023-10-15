@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1428
-  tags: Voter
-  caption: Voters/Raymond Missell
-  first-name: Raymond
-  last-name: Missell
-  middle-name: P
-  suffix: undefined
-  full-name: Raymond Missell
-  gender: M
-  dob: 1940-01-06
-  age: 83
-  party: Democratic
-  phone: 860-742-25531
-  address: 126 Lake Rd
+tags: Voter
+caption: Voters/Raymond Missell
+first-name: Raymond
+last-name: Missell
+middle-name: P
+suffix: 
+full-name: Raymond Missell
+gender: M
+dob: 1940-06-01
+age: 83
+party: Democratic
+phone: 860-742-5531
+address: 126 Lake Rd

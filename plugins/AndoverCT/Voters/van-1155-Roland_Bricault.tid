@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1155
-  tags: Voter
-  caption: Voters/Roland Bricault
-  first-name: Roland
-  last-name: Bricault
-  middle-name: Omer
-  suffix: undefined
-  full-name: Roland Bricault
-  gender: M
-  dob: 1954-01-09
-  age: 69
-  party: Republican
-  phone: 860-266-63110
-  address: 71 Pine Ridge Dr
+tags: Voter
+caption: Voters/Roland Bricault
+first-name: Roland
+last-name: Bricault
+middle-name: Omer
+suffix: 
+full-name: Roland Bricault
+gender: M
+dob: 1954-09-01
+age: 69
+party: Republican
+phone: 860-266-3110
+address: 71 Pine Ridge Dr

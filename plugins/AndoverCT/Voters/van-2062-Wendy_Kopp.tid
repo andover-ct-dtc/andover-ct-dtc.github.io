@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2062
-  tags: Voter
-  caption: Voters/Wendy Kopp
-  first-name: Wendy
-  last-name: Kopp
-  middle-name: Walworth
-  suffix: undefined
-  full-name: Wendy Kopp
-  gender: F
-  dob: 1971-01-10
-  age: 52
-  party: 
-  phone: 860-306-63858
-  address: 176 Hebron Rd
+tags: Voter
+caption: Voters/Wendy Kopp
+first-name: Wendy
+last-name: Kopp
+middle-name: Walworth
+suffix: 
+full-name: Wendy Kopp
+gender: F
+dob: 1971-10-01
+age: 52
+party: 
+phone: 860-306-3858
+address: 176 Hebron Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9468927
-  tags: Voter
-  caption: Voters/Michael Provencher
-  first-name: Michael
-  last-name: Provencher
-  middle-name: J
-  suffix: undefined
-  full-name: Michael Provencher
-  gender: M
-  dob: 2000-01-12
-  age: 22
-  party: Republican
-  phone: 
-  address: 29 Bailey Rd
+tags: Voter
+caption: Voters/Michael Provencher
+first-name: Michael
+last-name: Provencher
+middle-name: J
+suffix: 
+full-name: Michael Provencher
+gender: M
+dob: 2000-12-01
+age: 22
+party: Republican
+phone: 
+address: 29 Bailey Rd

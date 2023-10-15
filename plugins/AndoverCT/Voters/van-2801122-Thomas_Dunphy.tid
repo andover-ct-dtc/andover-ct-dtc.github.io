@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2801122
-  tags: Voter
-  caption: Voters/Thomas Dunphy
-  first-name: Thomas
-  last-name: Dunphy
-  middle-name: Francis
-  suffix: undefined
-  full-name: Thomas Dunphy
-  gender: M
-  dob: 1949-01-10
-  age: 74
-  party: Republican
-  phone: 480-381-15234
-  address: 19 Shoddy Mill Rd
+tags: Voter
+caption: Voters/Thomas Dunphy
+first-name: Thomas
+last-name: Dunphy
+middle-name: Francis
+suffix: 
+full-name: Thomas Dunphy
+gender: M
+dob: 1949-10-01
+age: 74
+party: Republican
+phone: 480-381-5234
+address: 19 Shoddy Mill Rd

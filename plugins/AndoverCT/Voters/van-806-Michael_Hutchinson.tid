@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/806
-  tags: Voter
-  caption: Voters/Michael Hutchinson
-  first-name: Michael
-  last-name: Hutchinson
-  middle-name: J
-  suffix: undefined
-  full-name: Michael Hutchinson
-  gender: M
-  dob: 1963-01-09
-  age: 60
-  party: Republican
-  phone: 860-742-22643
-  address: 38 Bunker Hill Rd
+tags: Voter
+caption: Voters/Michael Hutchinson
+first-name: Michael
+last-name: Hutchinson
+middle-name: J
+suffix: 
+full-name: Michael Hutchinson
+gender: M
+dob: 1963-09-01
+age: 60
+party: Republican
+phone: 860-742-2643
+address: 38 Bunker Hill Rd

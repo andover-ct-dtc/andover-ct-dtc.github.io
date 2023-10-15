@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1446
-  tags: Voter
-  caption: Voters/Theresa Hixson
-  first-name: Theresa
-  last-name: Hixson
-  middle-name: Lynn
-  suffix: undefined
-  full-name: Theresa Hixson
-  gender: F
-  dob: 1971-01-04
-  age: 52
-  party: 
-  phone: 860-742-25153
-  address: 19 Bailey Rd
+tags: Voter
+caption: Voters/Theresa Hixson
+first-name: Theresa
+last-name: Hixson
+middle-name: Lynn
+suffix: 
+full-name: Theresa Hixson
+gender: F
+dob: 1971-04-01
+age: 52
+party: 
+phone: 860-742-5153
+address: 19 Bailey Rd

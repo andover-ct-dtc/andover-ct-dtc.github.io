@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1066
-  tags: Voter
-  caption: Voters/Beverly Lambert
-  first-name: Beverly
-  last-name: Lambert
-  middle-name: E
-  suffix: undefined
-  full-name: Beverly Lambert
-  gender: F
-  dob: 1951-01-07
-  age: 72
-  party: Democratic
-  phone: 860-742-25300
-  address: 280 Hebron Rd
+tags: Voter
+caption: Voters/Beverly Lambert
+first-name: Beverly
+last-name: Lambert
+middle-name: E
+suffix: 
+full-name: Beverly Lambert
+gender: F
+dob: 1951-07-01
+age: 72
+party: Democratic
+phone: 860-742-5300
+address: 280 Hebron Rd

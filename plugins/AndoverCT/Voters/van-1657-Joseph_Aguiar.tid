@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1657
-  tags: Voter
-  caption: Voters/Joseph Aguiar
-  first-name: Joseph
-  last-name: Aguiar
-  middle-name: Alberto
-  suffix: undefined
-  full-name: Joseph Aguiar
-  gender: M
-  dob: 1965-01-12
-  age: 57
-  party: Republican
-  phone: 860-874-46401
-  address: 31 Ridge Rd
+tags: Voter
+caption: Voters/Joseph Aguiar
+first-name: Joseph
+last-name: Aguiar
+middle-name: Alberto
+suffix: 
+full-name: Joseph Aguiar
+gender: M
+dob: 1965-12-01
+age: 57
+party: Republican
+phone: 860-874-6401
+address: 31 Ridge Rd

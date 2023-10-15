@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7545876
-  tags: Voter
-  caption: Voters/Casey Wingate
-  first-name: Casey
-  last-name: Wingate
-  middle-name: E
-  suffix: undefined
-  full-name: Casey Wingate
-  gender: M
-  dob: 1992-01-05
-  age: 31
-  party: Republican
-  phone: 860-502-27476
-  address: 239 Gilead Rd
+tags: Voter
+caption: Voters/Casey Wingate
+first-name: Casey
+last-name: Wingate
+middle-name: E
+suffix: 
+full-name: Casey Wingate
+gender: M
+dob: 1992-05-01
+age: 31
+party: Republican
+phone: 860-502-7476
+address: 239 Gilead Rd

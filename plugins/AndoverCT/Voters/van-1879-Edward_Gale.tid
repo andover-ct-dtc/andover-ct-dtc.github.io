@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1879
-  tags: Voter
-  caption: Voters/Edward Gale
-  first-name: Edward
-  last-name: Gale
-  middle-name: M
-  suffix: undefined
-  full-name: Edward Gale
-  gender: M
-  dob: 1957-01-07
-  age: 66
-  party: 
-  phone: 860-742-25385
-  address: 45 Birch Dr
+tags: Voter
+caption: Voters/Edward Gale
+first-name: Edward
+last-name: Gale
+middle-name: M
+suffix: 
+full-name: Edward Gale
+gender: M
+dob: 1957-07-01
+age: 66
+party: 
+phone: 860-742-5385
+address: 45 Birch Dr

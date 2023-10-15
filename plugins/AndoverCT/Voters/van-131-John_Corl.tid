@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/131
-  tags: Voter
-  caption: Voters/John Corl III
-  first-name: John
-  last-name: Corl
-  middle-name: S
-  suffix: undefined
-  full-name: John Corl III
-  gender: M
-  dob: 1940-11-01
-  age: 83
-  party: Republican
-  phone: 860-742-29082
-  address: 302 Lake Rd
+tags: Voter
+caption: Voters/John Corl III
+first-name: John
+last-name: Corl
+middle-name: S
+suffix: 
+full-name: John Corl III
+gender: M
+dob: 1940-01-11
+age: 83
+party: Republican
+phone: 860-742-9082
+address: 302 Lake Rd

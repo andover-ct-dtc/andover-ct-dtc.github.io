@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/713
-  tags: Voter
-  caption: Voters/Michael Goulet
-  first-name: Michael
-  last-name: Goulet
-  middle-name: R
-  suffix: undefined
-  full-name: Michael Goulet
-  gender: M
-  dob: 1959-01-04
-  age: 64
-  party: 
-  phone: 860-742-20818
-  address: 441 Lake Rd
+tags: Voter
+caption: Voters/Michael Goulet
+first-name: Michael
+last-name: Goulet
+middle-name: R
+suffix: 
+full-name: Michael Goulet
+gender: M
+dob: 1959-04-01
+age: 64
+party: 
+phone: 860-742-0818
+address: 441 Lake Rd

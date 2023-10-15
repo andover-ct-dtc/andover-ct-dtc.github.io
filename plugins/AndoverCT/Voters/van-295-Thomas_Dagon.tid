@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/295
-  tags: Voter
-  caption: Voters/Thomas Dagon
-  first-name: Thomas
-  last-name: Dagon
-  middle-name: Joseph
-  suffix: undefined
-  full-name: Thomas Dagon
-  gender: M
-  dob: 1953-01-03
-  age: 70
-  party: Republican
-  phone: 
-  address: 21 Brown Rd
+tags: Voter
+caption: Voters/Thomas Dagon
+first-name: Thomas
+last-name: Dagon
+middle-name: Joseph
+suffix: 
+full-name: Thomas Dagon
+gender: M
+dob: 1953-03-01
+age: 70
+party: Republican
+phone: 
+address: 21 Brown Rd

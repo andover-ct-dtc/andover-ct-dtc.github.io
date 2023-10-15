@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/940
-  tags: Voter
-  caption: Voters/Jeffrey Potterton
-  first-name: Jeffrey
-  last-name: Potterton
-  middle-name: 
-  suffix: undefined
-  full-name: Jeffrey Potterton
-  gender: M
-  dob: 1960-01-03
-  age: 63
-  party: Republican
-  phone: 860-742-21204
-  address: 72 Windrush Ln
+tags: Voter
+caption: Voters/Jeffrey Potterton
+first-name: Jeffrey
+last-name: Potterton
+middle-name: 
+suffix: 
+full-name: Jeffrey Potterton
+gender: M
+dob: 1960-03-01
+age: 63
+party: Republican
+phone: 860-742-1204
+address: 72 Windrush Ln

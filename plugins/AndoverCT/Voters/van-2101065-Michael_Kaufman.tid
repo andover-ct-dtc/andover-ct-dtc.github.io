@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2101065
-  tags: Voter
-  caption: Voters/Michael Kaufman
-  first-name: Michael
-  last-name: Kaufman
-  middle-name: D
-  suffix: undefined
-  full-name: Michael Kaufman
-  gender: M
-  dob: 1981-01-09
-  age: 42
-  party: Democratic
-  phone: 860-502-29027
-  address: 164 Lake Rd
+tags: Voter
+caption: Voters/Michael Kaufman
+first-name: Michael
+last-name: Kaufman
+middle-name: D
+suffix: 
+full-name: Michael Kaufman
+gender: M
+dob: 1981-09-01
+age: 42
+party: Democratic
+phone: 860-502-9027
+address: 164 Lake Rd

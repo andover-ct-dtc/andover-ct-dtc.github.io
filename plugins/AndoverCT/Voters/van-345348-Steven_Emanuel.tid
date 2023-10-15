@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/345348
-  tags: Voter
-  caption: Voters/Steven Emanuel
-  first-name: Steven
-  last-name: Emanuel
-  middle-name: K
-  suffix: undefined
-  full-name: Steven Emanuel
-  gender: M
-  dob: 1976-27-01
-  age: 47
-  party: 
-  phone: 860-949-92882
-  address: 16 Wales Rd
+tags: Voter
+caption: Voters/Steven Emanuel
+first-name: Steven
+last-name: Emanuel
+middle-name: K
+suffix: 
+full-name: Steven Emanuel
+gender: M
+dob: 1976-01-27
+age: 47
+party: 
+phone: 860-949-2882
+address: 16 Wales Rd

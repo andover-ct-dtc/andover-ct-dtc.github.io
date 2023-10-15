@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9266530
-  tags: Voter
-  caption: Voters/Christian Kostic
-  first-name: Christian
-  last-name: Kostic
-  middle-name: Lee
-  suffix: undefined
-  full-name: Christian Kostic
-  gender: M
-  dob: 1997-01-08
-  age: 26
-  party: 
-  phone: 
-  address: 329 Route 6 # 1
+tags: Voter
+caption: Voters/Christian Kostic
+first-name: Christian
+last-name: Kostic
+middle-name: Lee
+suffix: 
+full-name: Christian Kostic
+gender: M
+dob: 1997-08-01
+age: 26
+party: 
+phone: 
+address: 329 Route 6 # 1

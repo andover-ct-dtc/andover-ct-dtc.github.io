@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/556
-  tags: Voter
-  caption: Voters/John England
-  first-name: John
-  last-name: England
-  middle-name: C
-  suffix: undefined
-  full-name: John England
-  gender: M
-  dob: 1950-01-05
-  age: 73
-  party: Democratic
-  phone: 860-742-21097
-  address: 27 Bailey Rd
+tags: Voter
+caption: Voters/John England
+first-name: John
+last-name: England
+middle-name: C
+suffix: 
+full-name: John England
+gender: M
+dob: 1950-05-01
+age: 73
+party: Democratic
+phone: 860-742-1097
+address: 27 Bailey Rd

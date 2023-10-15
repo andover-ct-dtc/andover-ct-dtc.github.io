@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/217
-  tags: Voter
-  caption: Voters/Robert Burbank
-  first-name: Robert
-  last-name: Burbank
-  middle-name: F
-  suffix: undefined
-  full-name: Robert Burbank
-  gender: M
-  dob: 1945-01-11
-  age: 77
-  party: Republican
-  phone: 860-742-27736
-  address: 208 Gilead Rd
+tags: Voter
+caption: Voters/Robert Burbank
+first-name: Robert
+last-name: Burbank
+middle-name: F
+suffix: 
+full-name: Robert Burbank
+gender: M
+dob: 1945-11-01
+age: 77
+party: Republican
+phone: 860-742-7736
+address: 208 Gilead Rd

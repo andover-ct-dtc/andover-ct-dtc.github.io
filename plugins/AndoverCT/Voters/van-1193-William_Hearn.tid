@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1193
-  tags: Voter
-  caption: Voters/William Hearn
-  first-name: William
-  last-name: Hearn
-  middle-name: G
-  suffix: undefined
-  full-name: William Hearn
-  gender: M
-  dob: 1963-01-09
-  age: 60
-  party: 
-  phone: 860-836-62578
-  address: 253 Gilead Rd
+tags: Voter
+caption: Voters/William Hearn
+first-name: William
+last-name: Hearn
+middle-name: G
+suffix: 
+full-name: William Hearn
+gender: M
+dob: 1963-09-01
+age: 60
+party: 
+phone: 860-836-2578
+address: 253 Gilead Rd

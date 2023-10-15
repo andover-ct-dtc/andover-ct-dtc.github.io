@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2057
-  tags: Voter
-  caption: Voters/Shirley Fiano
-  first-name: Shirley
-  last-name: Fiano
-  middle-name: A
-  suffix: undefined
-  full-name: Shirley Fiano
-  gender: F
-  dob: 1961-01-06
-  age: 62
-  party: Republican
-  phone: 860-457-78644
-  address: 22 Route 6
+tags: Voter
+caption: Voters/Shirley Fiano
+first-name: Shirley
+last-name: Fiano
+middle-name: A
+suffix: 
+full-name: Shirley Fiano
+gender: F
+dob: 1961-06-01
+age: 62
+party: Republican
+phone: 860-457-8644
+address: 22 Route 6

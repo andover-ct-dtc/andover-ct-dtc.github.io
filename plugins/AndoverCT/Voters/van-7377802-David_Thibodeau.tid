@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7377802
-  tags: Voter
-  caption: Voters/David Thibodeau
-  first-name: David
-  last-name: Thibodeau
-  middle-name: S
-  suffix: undefined
-  full-name: David Thibodeau
-  gender: M
-  dob: 1962-01-04
-  age: 61
-  party: Republican
-  phone: 860-462-26037
-  address: 16 Wood Fern Way
+tags: Voter
+caption: Voters/David Thibodeau
+first-name: David
+last-name: Thibodeau
+middle-name: S
+suffix: 
+full-name: David Thibodeau
+gender: M
+dob: 1962-04-01
+age: 61
+party: Republican
+phone: 860-462-6037
+address: 16 Wood Fern Way

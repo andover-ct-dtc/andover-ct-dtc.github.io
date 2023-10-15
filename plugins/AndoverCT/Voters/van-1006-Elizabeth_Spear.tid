@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1006
-  tags: Voter
-  caption: Voters/Elizabeth Spear
-  first-name: Elizabeth
-  last-name: Spear
-  middle-name: A
-  suffix: undefined
-  full-name: Elizabeth Spear
-  gender: F
-  dob: 1964-08-01
-  age: 59
-  party: Democratic
-  phone: 860-324-48775
-  address: 31 Pine Ridge Dr
+tags: Voter
+caption: Voters/Elizabeth Spear
+first-name: Elizabeth
+last-name: Spear
+middle-name: A
+suffix: 
+full-name: Elizabeth Spear
+gender: F
+dob: 1964-01-08
+age: 59
+party: Democratic
+phone: 860-324-8775
+address: 31 Pine Ridge Dr

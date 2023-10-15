@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/406
-  tags: Voter
-  caption: Voters/Mark Williams
-  first-name: Mark
-  last-name: Williams
-  middle-name: S
-  suffix: undefined
-  full-name: Mark Williams
-  gender: M
-  dob: 1958-01-09
-  age: 65
-  party: Democratic
-  phone: 860-549-93288
-  address: 14 Hickory Hill Dr
+tags: Voter
+caption: Voters/Mark Williams
+first-name: Mark
+last-name: Williams
+middle-name: S
+suffix: 
+full-name: Mark Williams
+gender: M
+dob: 1958-09-01
+age: 65
+party: Democratic
+phone: 860-549-3288
+address: 14 Hickory Hill Dr

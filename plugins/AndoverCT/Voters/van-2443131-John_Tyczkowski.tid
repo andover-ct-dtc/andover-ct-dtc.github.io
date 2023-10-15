@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2443131
-  tags: Voter
-  caption: Voters/John Tyczkowski
-  first-name: John
-  last-name: Tyczkowski
-  middle-name: Christopher
-  suffix: undefined
-  full-name: John Tyczkowski
-  gender: M
-  dob: 1989-01-11
-  age: 33
-  party: Democratic
-  phone: 860-657-76968
-  address: 8 Wood Fern Way
+tags: Voter
+caption: Voters/John Tyczkowski
+first-name: John
+last-name: Tyczkowski
+middle-name: Christopher
+suffix: 
+full-name: John Tyczkowski
+gender: M
+dob: 1989-11-01
+age: 33
+party: Democratic
+phone: 860-657-6968
+address: 8 Wood Fern Way

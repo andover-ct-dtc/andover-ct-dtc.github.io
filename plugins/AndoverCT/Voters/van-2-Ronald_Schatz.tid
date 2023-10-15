@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2
-  tags: Voter
-  caption: Voters/Ronald Schatz
-  first-name: Ronald
-  last-name: Schatz
-  middle-name: Todd
-  suffix: undefined
-  full-name: Ronald Schatz
-  gender: M
-  dob: 1970-01-05
-  age: 53
-  party: 
-  phone: 860-833-35653
-  address: 311 Route 6
+tags: Voter
+caption: Voters/Ronald Schatz
+first-name: Ronald
+last-name: Schatz
+middle-name: Todd
+suffix: 
+full-name: Ronald Schatz
+gender: M
+dob: 1970-05-01
+age: 53
+party: 
+phone: 860-833-5653
+address: 311 Route 6

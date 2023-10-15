@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2061186
-  tags: Voter
-  caption: Voters/Kevin Hixson
-  first-name: Kevin
-  last-name: Hixson
-  middle-name: Wrenn
-  suffix: undefined
-  full-name: Kevin Hixson
-  gender: M
-  dob: 1970-01-08
-  age: 53
-  party: Democratic
-  phone: 781-330-01428
-  address: 19 Bailey Rd
+tags: Voter
+caption: Voters/Kevin Hixson
+first-name: Kevin
+last-name: Hixson
+middle-name: Wrenn
+suffix: 
+full-name: Kevin Hixson
+gender: M
+dob: 1970-08-01
+age: 53
+party: Democratic
+phone: 781-330-1428
+address: 19 Bailey Rd

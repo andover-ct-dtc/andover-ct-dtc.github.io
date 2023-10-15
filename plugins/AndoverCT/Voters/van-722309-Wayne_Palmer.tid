@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/722309
-  tags: Voter
-  caption: Voters/Wayne Palmer
-  first-name: Wayne
-  last-name: Palmer
-  middle-name: S
-  suffix: undefined
-  full-name: Wayne Palmer
-  gender: M
-  dob: 1960-01-06
-  age: 63
-  party: Democratic
-  phone: 860-839-90947
-  address: 10 Chesterbrook Ln
+tags: Voter
+caption: Voters/Wayne Palmer
+first-name: Wayne
+last-name: Palmer
+middle-name: S
+suffix: 
+full-name: Wayne Palmer
+gender: M
+dob: 1960-06-01
+age: 63
+party: Democratic
+phone: 860-839-0947
+address: 10 Chesterbrook Ln

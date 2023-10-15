@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1139
-  tags: Voter
-  caption: Voters/Linda Armstrong
-  first-name: Linda
-  last-name: Armstrong
-  middle-name: L
-  suffix: undefined
-  full-name: Linda Armstrong
-  gender: F
-  dob: 1961-01-04
-  age: 62
-  party: Democratic
-  phone: 860-377-71985
-  address: 52 Jurovaty Rd
+tags: Voter
+caption: Voters/Linda Armstrong
+first-name: Linda
+last-name: Armstrong
+middle-name: L
+suffix: 
+full-name: Linda Armstrong
+gender: F
+dob: 1961-04-01
+age: 62
+party: Democratic
+phone: 860-377-1985
+address: 52 Jurovaty Rd

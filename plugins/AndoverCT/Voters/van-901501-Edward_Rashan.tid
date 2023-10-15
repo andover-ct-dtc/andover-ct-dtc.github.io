@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/901501
-  tags: Voter
-  caption: Voters/Edward Rashan
-  first-name: Edward
-  last-name: Rashan
-  middle-name: Michael
-  suffix: undefined
-  full-name: Edward Rashan
-  gender: M
-  dob: 1959-01-10
-  age: 64
-  party: 
-  phone: 203-877-73049
-  address: 85 Windrush Ln
+tags: Voter
+caption: Voters/Edward Rashan
+first-name: Edward
+last-name: Rashan
+middle-name: Michael
+suffix: 
+full-name: Edward Rashan
+gender: M
+dob: 1959-10-01
+age: 64
+party: 
+phone: 203-877-3049
+address: 85 Windrush Ln

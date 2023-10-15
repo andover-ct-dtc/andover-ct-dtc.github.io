@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/515210
-  tags: Voter
-  caption: Voters/Donna Arnold
-  first-name: Donna
-  last-name: Arnold
-  middle-name: Lynn
-  suffix: undefined
-  full-name: Donna Arnold
-  gender: F
-  dob: 1959-01-04
-  age: 64
-  party: Republican
-  phone: 201-616-68994
-  address: 93 Lakeside Dr
+tags: Voter
+caption: Voters/Donna Arnold
+first-name: Donna
+last-name: Arnold
+middle-name: Lynn
+suffix: 
+full-name: Donna Arnold
+gender: F
+dob: 1959-04-01
+age: 64
+party: Republican
+phone: 201-616-8994
+address: 93 Lakeside Dr

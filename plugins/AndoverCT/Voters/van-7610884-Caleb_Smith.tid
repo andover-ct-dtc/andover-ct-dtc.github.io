@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7610884
-  tags: Voter
-  caption: Voters/Caleb Smith
-  first-name: Caleb
-  last-name: Smith
-  middle-name: J
-  suffix: undefined
-  full-name: Caleb Smith
-  gender: M
-  dob: 1999-01-03
-  age: 24
-  party: 
-  phone: 860-268-81529
-  address: 66 Jurovaty Rd
+tags: Voter
+caption: Voters/Caleb Smith
+first-name: Caleb
+last-name: Smith
+middle-name: J
+suffix: 
+full-name: Caleb Smith
+gender: M
+dob: 1999-03-01
+age: 24
+party: 
+phone: 860-268-1529
+address: 66 Jurovaty Rd

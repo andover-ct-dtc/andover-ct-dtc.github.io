@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9330707
-  tags: Voter
-  caption: Voters/Leo Cappello
-  first-name: Leo
-  last-name: Cappello
-  middle-name: J
-  suffix: undefined
-  full-name: Leo Cappello
-  gender: M
-  dob: 2002-16-01
-  age: 21
-  party: Democratic
-  phone: 860-559-93673
-  address: 449 Lake Rd
+tags: Voter
+caption: Voters/Leo Cappello
+first-name: Leo
+last-name: Cappello
+middle-name: J
+suffix: 
+full-name: Leo Cappello
+gender: M
+dob: 2002-01-16
+age: 21
+party: Democratic
+phone: 860-559-3673
+address: 449 Lake Rd

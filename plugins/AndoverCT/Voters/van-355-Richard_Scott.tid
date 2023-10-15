@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/355
-  tags: Voter
-  caption: Voters/Richard Scott
-  first-name: Richard
-  last-name: Scott
-  middle-name: 
-  suffix: undefined
-  full-name: Richard Scott
-  gender: M
-  dob: 1951-01-07
-  age: 72
-  party: Democratic
-  phone: 
-  address: 125 Townsend Rd
+tags: Voter
+caption: Voters/Richard Scott
+first-name: Richard
+last-name: Scott
+middle-name: 
+suffix: 
+full-name: Richard Scott
+gender: M
+dob: 1951-07-01
+age: 72
+party: Democratic
+phone: 
+address: 125 Townsend Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/39894
-  tags: Voter
-  caption: Voters/Colleen Schuh
-  first-name: Colleen
-  last-name: Schuh
-  middle-name: M
-  suffix: undefined
-  full-name: Colleen Schuh
-  gender: F
-  dob: 1961-03-01
-  age: 62
-  party: Democratic
-  phone: 860-742-29360
-  address: 47 Jurovaty Rd
+tags: Voter
+caption: Voters/Colleen Schuh
+first-name: Colleen
+last-name: Schuh
+middle-name: M
+suffix: 
+full-name: Colleen Schuh
+gender: F
+dob: 1961-01-03
+age: 62
+party: Democratic
+phone: 860-742-9360
+address: 47 Jurovaty Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/783812
-  tags: Voter
-  caption: Voters/Ellen Repay
-  first-name: Ellen
-  last-name: Repay
-  middle-name: L
-  suffix: undefined
-  full-name: Ellen Repay
-  gender: F
-  dob: 1953-01-09
-  age: 70
-  party: Democratic
-  phone: 860-690-01663
-  address: 119 Lakeside Dr
+tags: Voter
+caption: Voters/Ellen Repay
+first-name: Ellen
+last-name: Repay
+middle-name: L
+suffix: 
+full-name: Ellen Repay
+gender: F
+dob: 1953-09-01
+age: 70
+party: Democratic
+phone: 860-690-1663
+address: 119 Lakeside Dr

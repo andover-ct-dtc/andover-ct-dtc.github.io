@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/513
-  tags: Voter
-  caption: Voters/Kelvin Abrams
-  first-name: Kelvin
-  last-name: Abrams
-  middle-name: R
-  suffix: undefined
-  full-name: Kelvin Abrams
-  gender: M
-  dob: 1955-01-04
-  age: 68
-  party: 
-  phone: 860-646-67750
-  address: 317 Boston Hill Rd
+tags: Voter
+caption: Voters/Kelvin Abrams
+first-name: Kelvin
+last-name: Abrams
+middle-name: R
+suffix: 
+full-name: Kelvin Abrams
+gender: M
+dob: 1955-04-01
+age: 68
+party: 
+phone: 860-646-7750
+address: 317 Boston Hill Rd

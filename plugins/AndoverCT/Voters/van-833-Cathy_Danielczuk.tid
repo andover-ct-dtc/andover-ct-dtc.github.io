@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/833
-  tags: Voter
-  caption: Voters/Cathy Danielczuk
-  first-name: Cathy
-  last-name: Danielczuk
-  middle-name: L
-  suffix: undefined
-  full-name: Cathy Danielczuk
-  gender: F
-  dob: 1959-01-06
-  age: 64
-  party: Democratic
-  phone: 860-742-25919
-  address: 96 Gilead Rd
+tags: Voter
+caption: Voters/Cathy Danielczuk
+first-name: Cathy
+last-name: Danielczuk
+middle-name: L
+suffix: 
+full-name: Cathy Danielczuk
+gender: F
+dob: 1959-06-01
+age: 64
+party: Democratic
+phone: 860-742-5919
+address: 96 Gilead Rd

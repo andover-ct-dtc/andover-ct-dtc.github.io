@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/811
-  tags: Voter
-  caption: Voters/Jean Olbrias
-  first-name: Jean
-  last-name: Olbrias
-  middle-name: R
-  suffix: undefined
-  full-name: Jean Olbrias
-  gender: F
-  dob: 1944-01-05
-  age: 79
-  party: Democratic
-  phone: 860-646-65436
-  address: 341 Boston Hill Rd
+tags: Voter
+caption: Voters/Jean Olbrias
+first-name: Jean
+last-name: Olbrias
+middle-name: R
+suffix: 
+full-name: Jean Olbrias
+gender: F
+dob: 1944-05-01
+age: 79
+party: Democratic
+phone: 860-646-5436
+address: 341 Boston Hill Rd

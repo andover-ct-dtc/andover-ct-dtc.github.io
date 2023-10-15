@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/330
-  tags: Voter
-  caption: Voters/Beatrice Lacombe
-  first-name: Beatrice
-  last-name: Lacombe
-  middle-name: M
-  suffix: undefined
-  full-name: Beatrice Lacombe
-  gender: F
-  dob: 1951-01-08
-  age: 72
-  party: Democratic
-  phone: 
-  address: 108 Townsend Rd
+tags: Voter
+caption: Voters/Beatrice Lacombe
+first-name: Beatrice
+last-name: Lacombe
+middle-name: M
+suffix: 
+full-name: Beatrice Lacombe
+gender: F
+dob: 1951-08-01
+age: 72
+party: Democratic
+phone: 
+address: 108 Townsend Rd

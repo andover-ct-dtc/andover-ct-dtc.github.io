@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/536
-  tags: Voter
-  caption: Voters/Elaine Aubin
-  first-name: Elaine
-  last-name: Aubin
-  middle-name: S
-  suffix: undefined
-  full-name: Elaine Aubin
-  gender: F
-  dob: 1951-01-12
-  age: 71
-  party: 
-  phone: 860-742-20846
-  address: 54 School Rd
+tags: Voter
+caption: Voters/Elaine Aubin
+first-name: Elaine
+last-name: Aubin
+middle-name: S
+suffix: 
+full-name: Elaine Aubin
+gender: F
+dob: 1951-12-01
+age: 71
+party: 
+phone: 860-742-0846
+address: 54 School Rd

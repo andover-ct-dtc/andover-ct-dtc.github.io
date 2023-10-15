@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1012
-  tags: Voter
-  caption: Voters/Gabriele Hauschulz
-  first-name: Gabriele
-  last-name: Hauschulz
-  middle-name: L
-  suffix: undefined
-  full-name: Gabriele Hauschulz
-  gender: F
-  dob: 1954-28-01
-  age: 69
-  party: Democratic
-  phone: 
-  address: 31 Aspinall Dr
+tags: Voter
+caption: Voters/Gabriele Hauschulz
+first-name: Gabriele
+last-name: Hauschulz
+middle-name: L
+suffix: 
+full-name: Gabriele Hauschulz
+gender: F
+dob: 1954-01-28
+age: 69
+party: Democratic
+phone: 
+address: 31 Aspinall Dr

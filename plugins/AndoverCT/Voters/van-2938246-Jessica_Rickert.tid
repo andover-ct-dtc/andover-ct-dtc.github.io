@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2938246
-  tags: Voter
-  caption: Voters/Jessica Rickert
-  first-name: Jessica
-  last-name: Rickert
-  middle-name: Marie
-  suffix: undefined
-  full-name: Jessica Rickert
-  gender: F
-  dob: 1987-01-10
-  age: 36
-  party: Republican
-  phone: 860-906-66442
-  address: 166 Route 6
+tags: Voter
+caption: Voters/Jessica Rickert
+first-name: Jessica
+last-name: Rickert
+middle-name: Marie
+suffix: 
+full-name: Jessica Rickert
+gender: F
+dob: 1987-10-01
+age: 36
+party: Republican
+phone: 860-906-6442
+address: 166 Route 6

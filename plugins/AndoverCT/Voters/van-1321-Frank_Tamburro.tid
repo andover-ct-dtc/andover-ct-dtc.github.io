@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1321
-  tags: Voter
-  caption: Voters/Frank Tamburro
-  first-name: Frank
-  last-name: Tamburro
-  middle-name: D
-  suffix: undefined
-  full-name: Frank Tamburro
-  gender: M
-  dob: 1959-01-07
-  age: 64
-  party: 
-  phone: 860-874-42180
-  address: 180 Long Hill Rd
+tags: Voter
+caption: Voters/Frank Tamburro
+first-name: Frank
+last-name: Tamburro
+middle-name: D
+suffix: 
+full-name: Frank Tamburro
+gender: M
+dob: 1959-07-01
+age: 64
+party: 
+phone: 860-874-2180
+address: 180 Long Hill Rd

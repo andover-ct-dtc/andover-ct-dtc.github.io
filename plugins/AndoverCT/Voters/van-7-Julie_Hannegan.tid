@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7
-  tags: Voter
-  caption: Voters/Julie Hannegan
-  first-name: Julie
-  last-name: Hannegan
-  middle-name: M
-  suffix: undefined
-  full-name: Julie Hannegan
-  gender: F
-  dob: 1941-01-11
-  age: 81
-  party: 
-  phone: 814-880-07111
-  address: 30 Ridge Rd
+tags: Voter
+caption: Voters/Julie Hannegan
+first-name: Julie
+last-name: Hannegan
+middle-name: M
+suffix: 
+full-name: Julie Hannegan
+gender: F
+dob: 1941-11-01
+age: 81
+party: 
+phone: 814-880-7111
+address: 30 Ridge Rd

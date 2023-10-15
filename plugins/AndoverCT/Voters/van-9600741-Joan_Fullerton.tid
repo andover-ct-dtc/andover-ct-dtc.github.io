@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9600741
-  tags: Voter
-  caption: Voters/Joan Fullerton
-  first-name: Joan
-  last-name: Fullerton
-  middle-name: Elaine
-  suffix: undefined
-  full-name: Joan Fullerton
-  gender: F
-  dob: 1946-01-05
-  age: 77
-  party: 
-  phone: 
-  address: 25 Hendee Rd
+tags: Voter
+caption: Voters/Joan Fullerton
+first-name: Joan
+last-name: Fullerton
+middle-name: Elaine
+suffix: 
+full-name: Joan Fullerton
+gender: F
+dob: 1946-05-01
+age: 77
+party: 
+phone: 
+address: 25 Hendee Rd

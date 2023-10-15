@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/6451005
-  tags: Voter
-  caption: Voters/Dorinda Rodrigues
-  first-name: Dorinda
-  last-name: Rodrigues
-  middle-name: P
-  suffix: undefined
-  full-name: Dorinda Rodrigues
-  gender: F
-  dob: 1958-01-06
-  age: 65
-  party: Democratic
-  phone: 860-471-16205
-  address: 85 Bear Swamp Rd
+tags: Voter
+caption: Voters/Dorinda Rodrigues
+first-name: Dorinda
+last-name: Rodrigues
+middle-name: P
+suffix: 
+full-name: Dorinda Rodrigues
+gender: F
+dob: 1958-06-01
+age: 65
+party: Democratic
+phone: 860-471-6205
+address: 85 Bear Swamp Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7455807
-  tags: Voter
-  caption: Voters/Lee Biase
-  first-name: Lee
-  last-name: Biase
-  middle-name: A
-  suffix: undefined
-  full-name: Lee Biase
-  gender: F
-  dob: 1980-01-10
-  age: 43
-  party: 
-  phone: 718-753-38062
-  address: 112 Townsend Rd
+tags: Voter
+caption: Voters/Lee Biase
+first-name: Lee
+last-name: Biase
+middle-name: A
+suffix: 
+full-name: Lee Biase
+gender: F
+dob: 1980-10-01
+age: 43
+party: 
+phone: 718-753-8062
+address: 112 Townsend Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2760750
-  tags: Voter
-  caption: Voters/Melanie Thomas
-  first-name: Melanie
-  last-name: Thomas
-  middle-name: A
-  suffix: undefined
-  full-name: Melanie Thomas
-  gender: F
-  dob: 1986-01-04
-  age: 37
-  party: Republican
-  phone: 518-321-16639
-  address: 44 Wales Rd
+tags: Voter
+caption: Voters/Melanie Thomas
+first-name: Melanie
+last-name: Thomas
+middle-name: A
+suffix: 
+full-name: Melanie Thomas
+gender: F
+dob: 1986-04-01
+age: 37
+party: Republican
+phone: 518-321-6639
+address: 44 Wales Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/280783
-  tags: Voter
-  caption: Voters/James Barrett
-  first-name: James
-  last-name: Barrett
-  middle-name: S
-  suffix: undefined
-  full-name: James Barrett
-  gender: M
-  dob: 1971-01-11
-  age: 51
-  party: Republican
-  phone: 860-759-90073
-  address: 209 Bunker Hill Rd
+tags: Voter
+caption: Voters/James Barrett
+first-name: James
+last-name: Barrett
+middle-name: S
+suffix: 
+full-name: James Barrett
+gender: M
+dob: 1971-11-01
+age: 51
+party: Republican
+phone: 860-759-0073
+address: 209 Bunker Hill Rd

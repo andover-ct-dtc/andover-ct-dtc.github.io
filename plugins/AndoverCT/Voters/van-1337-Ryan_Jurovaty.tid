@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1337
-  tags: Voter
-  caption: Voters/Ryan Jurovaty
-  first-name: Ryan
-  last-name: Jurovaty
-  middle-name: 
-  suffix: undefined
-  full-name: Ryan Jurovaty
-  gender: M
-  dob: 1977-01-11
-  age: 45
-  party: Republican
-  phone: 860-208-88140
-  address: 65 Jurovaty Rd
+tags: Voter
+caption: Voters/Ryan Jurovaty
+first-name: Ryan
+last-name: Jurovaty
+middle-name: 
+suffix: 
+full-name: Ryan Jurovaty
+gender: M
+dob: 1977-11-01
+age: 45
+party: Republican
+phone: 860-208-8140
+address: 65 Jurovaty Rd

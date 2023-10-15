@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/914
-  tags: Voter
-  caption: Voters/Kathleen Sylvester
-  first-name: Kathleen
-  last-name: Sylvester
-  middle-name: M
-  suffix: undefined
-  full-name: Kathleen Sylvester
-  gender: F
-  dob: 1960-01-05
-  age: 63
-  party: Democratic
-  phone: 860-634-40830
-  address: 17 Aspinall Dr
+tags: Voter
+caption: Voters/Kathleen Sylvester
+first-name: Kathleen
+last-name: Sylvester
+middle-name: M
+suffix: 
+full-name: Kathleen Sylvester
+gender: F
+dob: 1960-05-01
+age: 63
+party: Democratic
+phone: 860-634-0830
+address: 17 Aspinall Dr

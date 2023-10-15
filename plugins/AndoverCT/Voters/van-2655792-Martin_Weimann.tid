@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2655792
-  tags: Voter
-  caption: Voters/Martin Weimann
-  first-name: Martin
-  last-name: Weimann
-  middle-name: W
-  suffix: undefined
-  full-name: Martin Weimann
-  gender: M
-  dob: 1980-01-03
-  age: 43
-  party: 
-  phone: 860-999-92237
-  address: 330 Hebron Rd
+tags: Voter
+caption: Voters/Martin Weimann
+first-name: Martin
+last-name: Weimann
+middle-name: W
+suffix: 
+full-name: Martin Weimann
+gender: M
+dob: 1980-03-01
+age: 43
+party: 
+phone: 860-999-2237
+address: 330 Hebron Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/482
-  tags: Voter
-  caption: Voters/Kevin Berry
-  first-name: Kevin
-  last-name: Berry
-  middle-name: O
-  suffix: undefined
-  full-name: Kevin Berry
-  gender: M
-  dob: 1958-01-08
-  age: 65
-  party: Republican
-  phone: 860-742-25495
-  address: 120 Lakeside Dr
+tags: Voter
+caption: Voters/Kevin Berry
+first-name: Kevin
+last-name: Berry
+middle-name: O
+suffix: 
+full-name: Kevin Berry
+gender: M
+dob: 1958-08-01
+age: 65
+party: Republican
+phone: 860-742-5495
+address: 120 Lakeside Dr

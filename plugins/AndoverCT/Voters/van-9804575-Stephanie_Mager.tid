@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9804575
-  tags: Voter
-  caption: Voters/Stephanie Mager
-  first-name: Stephanie
-  last-name: Mager
-  middle-name: Annette
-  suffix: undefined
-  full-name: Stephanie Mager
-  gender: F
-  dob: 1997-01-03
-  age: 26
-  party: 
-  phone: 860-593-39838
-  address: 40 Birch Dr
+tags: Voter
+caption: Voters/Stephanie Mager
+first-name: Stephanie
+last-name: Mager
+middle-name: Annette
+suffix: 
+full-name: Stephanie Mager
+gender: F
+dob: 1997-03-01
+age: 26
+party: 
+phone: 860-593-9838
+address: 40 Birch Dr

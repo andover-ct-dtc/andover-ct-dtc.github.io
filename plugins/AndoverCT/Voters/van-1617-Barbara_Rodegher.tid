@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1617
-  tags: Voter
-  caption: Voters/Barbara Rodegher
-  first-name: Barbara
-  last-name: Rodegher
-  middle-name: Gosselin
-  suffix: undefined
-  full-name: Barbara Rodegher
-  gender: F
-  dob: 1965-01-11
-  age: 57
-  party: 
-  phone: 
-  address: 90 Stanley Dr
+tags: Voter
+caption: Voters/Barbara Rodegher
+first-name: Barbara
+last-name: Rodegher
+middle-name: Gosselin
+suffix: 
+full-name: Barbara Rodegher
+gender: F
+dob: 1965-11-01
+age: 57
+party: 
+phone: 
+address: 90 Stanley Dr

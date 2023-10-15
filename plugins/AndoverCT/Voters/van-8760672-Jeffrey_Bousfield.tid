@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/8760672
-  tags: Voter
-  caption: Voters/Jeffrey Bousfield
-  first-name: Jeffrey
-  last-name: Bousfield
-  middle-name: P
-  suffix: undefined
-  full-name: Jeffrey Bousfield
-  gender: M
-  dob: 1960-01-06
-  age: 63
-  party: 
-  phone: 860-328-81786
-  address: 103 Hutchinson Rd
+tags: Voter
+caption: Voters/Jeffrey Bousfield
+first-name: Jeffrey
+last-name: Bousfield
+middle-name: P
+suffix: 
+full-name: Jeffrey Bousfield
+gender: M
+dob: 1960-06-01
+age: 63
+party: 
+phone: 860-328-1786
+address: 103 Hutchinson Rd

@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/76994
-  tags: Voter
-  caption: Voters/Robert Wallace II
-  first-name: Robert
-  last-name: Wallace
-  middle-name: John
-  suffix: undefined
-  full-name: Robert Wallace II
-  gender: M
-  dob: 1970-01-03
-  age: 53
-  party: Republican
-  phone: 860-208-89520
-  address: 65 Lake Rd
+tags: Voter
+caption: Voters/Robert Wallace II
+first-name: Robert
+last-name: Wallace
+middle-name: John
+suffix: 
+full-name: Robert Wallace II
+gender: M
+dob: 1970-03-01
+age: 53
+party: Republican
+phone: 860-208-9520
+address: 65 Lake Rd

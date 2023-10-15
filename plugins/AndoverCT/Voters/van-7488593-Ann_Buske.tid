@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/7488593
-  tags: Voter
-  caption: Voters/Ann Buske
-  first-name: Ann
-  last-name: Buske
-  middle-name: M
-  suffix: undefined
-  full-name: Ann Buske
-  gender: F
-  dob: 1962-01-07
-  age: 61
-  party: 
-  phone: 860-202-25694
-  address: 44 Stanley Dr
+tags: Voter
+caption: Voters/Ann Buske
+first-name: Ann
+last-name: Buske
+middle-name: M
+suffix: 
+full-name: Ann Buske
+gender: F
+dob: 1962-07-01
+age: 61
+party: 
+phone: 860-202-5694
+address: 44 Stanley Dr

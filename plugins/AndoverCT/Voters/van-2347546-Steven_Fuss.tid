@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/2347546
-  tags: Voter
-  caption: Voters/Steven Fuss
-  first-name: Steven
-  last-name: Fuss
-  middle-name: David
-  suffix: undefined
-  full-name: Steven Fuss
-  gender: M
-  dob: 1984-01-04
-  age: 39
-  party: Republican
-  phone: 717-327-78348
-  address: 145 Lake Rd
+tags: Voter
+caption: Voters/Steven Fuss
+first-name: Steven
+last-name: Fuss
+middle-name: David
+suffix: 
+full-name: Steven Fuss
+gender: M
+dob: 1984-04-01
+age: 39
+party: Republican
+phone: 717-327-8348
+address: 145 Lake Rd

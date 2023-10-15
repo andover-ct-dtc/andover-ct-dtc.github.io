@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/885
-  tags: Voter
-  caption: Voters/Dennis Mills
-  first-name: Dennis
-  last-name: Mills
-  middle-name: Robert
-  suffix: undefined
-  full-name: Dennis Mills
-  gender: M
-  dob: 1958-01-09
-  age: 65
-  party: 
-  phone: 860-942-29827
-  address: 7 Stanley Dr
+tags: Voter
+caption: Voters/Dennis Mills
+first-name: Dennis
+last-name: Mills
+middle-name: Robert
+suffix: 
+full-name: Dennis Mills
+gender: M
+dob: 1958-09-01
+age: 65
+party: 
+phone: 860-942-9827
+address: 7 Stanley Dr

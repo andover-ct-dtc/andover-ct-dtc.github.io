@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/514
-  tags: Voter
-  caption: Voters/Michael Czajka
-  first-name: Michael
-  last-name: Czajka
-  middle-name: A
-  suffix: undefined
-  full-name: Michael Czajka
-  gender: M
-  dob: 1958-13-01
-  age: 65
-  party: 
-  phone: 860-709-92995
-  address: 323 Boston Hill Rd
+tags: Voter
+caption: Voters/Michael Czajka
+first-name: Michael
+last-name: Czajka
+middle-name: A
+suffix: 
+full-name: Michael Czajka
+gender: M
+dob: 1958-01-13
+age: 65
+party: 
+phone: 860-709-2995
+address: 323 Boston Hill Rd

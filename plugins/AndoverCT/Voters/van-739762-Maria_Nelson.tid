@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/739762
-  tags: Voter
-  caption: Voters/Maria Nelson
-  first-name: Maria
-  last-name: Nelson
-  middle-name: A
-  suffix: undefined
-  full-name: Maria Nelson
-  gender: F
-  dob: 1962-02-01
-  age: 61
-  party: 
-  phone: 860-207-73022
-  address: 4 W Street Ext
+tags: Voter
+caption: Voters/Maria Nelson
+first-name: Maria
+last-name: Nelson
+middle-name: A
+suffix: 
+full-name: Maria Nelson
+gender: F
+dob: 1962-01-02
+age: 61
+party: 
+phone: 860-207-3022
+address: 4 W Street Ext

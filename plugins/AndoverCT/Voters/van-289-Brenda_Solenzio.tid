@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/289
-  tags: Voter
-  caption: Voters/Brenda Solenzio
-  first-name: Brenda
-  last-name: Solenzio
-  middle-name: F
-  suffix: undefined
-  full-name: Brenda Solenzio
-  gender: F
-  dob: 1951-01-12
-  age: 71
-  party: Democratic
-  phone: 860-268-83947
-  address: 77 Hebron Rd
+tags: Voter
+caption: Voters/Brenda Solenzio
+first-name: Brenda
+last-name: Solenzio
+middle-name: F
+suffix: 
+full-name: Brenda Solenzio
+gender: F
+dob: 1951-12-01
+age: 71
+party: Democratic
+phone: 860-268-3947
+address: 77 Hebron Rd

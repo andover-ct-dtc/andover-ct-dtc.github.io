@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/9500971
-  tags: Voter
-  caption: Voters/John Buske Jr
-  first-name: John
-  last-name: Buske
-  middle-name: David
-  suffix: undefined
-  full-name: John Buske Jr
-  gender: M
-  dob: 1963-01-11
-  age: 59
-  party: Republican
-  phone: 617-581-12965
-  address: 44 Stanley Dr
+tags: Voter
+caption: Voters/John Buske Jr
+first-name: John
+last-name: Buske
+middle-name: David
+suffix: 
+full-name: John Buske Jr
+gender: M
+dob: 1963-11-01
+age: 59
+party: Republican
+phone: 617-581-2965
+address: 44 Stanley Dr

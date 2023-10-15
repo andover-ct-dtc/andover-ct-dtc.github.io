@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1251
-  tags: Voter
-  caption: Voters/William Meikle III
-  first-name: William
-  last-name: Meikle
-  middle-name: T
-  suffix: undefined
-  full-name: William Meikle III
-  gender: M
-  dob: 1950-01-03
-  age: 73
-  party: 
-  phone: 860-742-25231
-  address: 178 Bear Swamp Rd
+tags: Voter
+caption: Voters/William Meikle III
+first-name: William
+last-name: Meikle
+middle-name: T
+suffix: 
+full-name: William Meikle III
+gender: M
+dob: 1950-03-01
+age: 73
+party: 
+phone: 860-742-5231
+address: 178 Bear Swamp Rd

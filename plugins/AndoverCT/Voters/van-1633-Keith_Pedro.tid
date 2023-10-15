@@ -1,14 +1,14 @@
 title: $:/AndoverCT/Voters/1633
-  tags: Voter
-  caption: Voters/Keith Pedro
-  first-name: Keith
-  last-name: Pedro
-  middle-name: Allan
-  suffix: undefined
-  full-name: Keith Pedro
-  gender: M
-  dob: 1971-01-12
-  age: 51
-  party: Republican
-  phone: 860-874-48300
-  address: 84 Long Hill Rd
+tags: Voter
+caption: Voters/Keith Pedro
+first-name: Keith
+last-name: Pedro
+middle-name: Allan
+suffix: 
+full-name: Keith Pedro
+gender: M
+dob: 1971-12-01
+age: 51
+party: Republican
+phone: 860-874-8300
+address: 84 Long Hill Rd
