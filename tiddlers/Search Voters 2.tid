@@ -1,28 +1,35 @@
+chosen: $:/AndoverCT/Voters/28
 created: 20231013164421203
-log: $:/AndoverCT/Voters/7320959
-modified: 20231015005000249
+modified: 20231016012304625
 tags: 
 title: Search Voters 2
 type: text/vnd.tiddlywiki
 
 \define my-actions()
-<$action-setfield $field="log" $value=<<dom-text>> />
-<$action-log text=<<dom-text>> $message=<<dom-text>>/>
+<$action-setfield $field="chosen" $value=<<dom-text>> />
+
 \end
 
+!! Place a sign
 
-<$edit-text tiddler="$:/temp/Voters/searchstrings" field=search placeholder="Enter name..." tag=input/><br/><br/>
+Who? Where?
+
+<$edit-text tiddler="$:/temp/Voters/searchstrings" field=search placeholder="Enter name or address" tag=input/><br/><br/>
 <$list filter="[{$:/temp/Voters/searchstrings!!search}minlength{$:/config/Search/MinLength}limit[1]]" emptyMessage="""<div class="tc-search-results">{{$:/language/Search/Search/TooShort}}</div>""" variable="listItem">
-<$eventcatcher selector="a" $click=<<my-actions>> >
-<$list filter="[all[tiddlers+shadows]tag[Voter]search:full-name{$:/temp/Voters/searchstrings!!search}sort[last-name]]" emptyMessage="None">
+<$eventcatcher selector="a" $click=<<my-actions>> ><div class="name-addr-sel">
+<$list filter="[all[tiddlers+shadows]tag[Voter]search:full-name,address{$:/temp/Voters/searchstrings!!search}sort[last-name]]" emptyMessage="None">
 <div style="margin-left:1em;">
-<$link to=<<currentTiddler>>><$view field="full-name"/></$link>
-<!--a href="#{{!!title}}" text={{!!title}}>{{!!full-name}}</a-->
+<!--$link to=<<currentTiddler>>><$view field="full-name"/></$link-->
+<a href="#{{!!title}}" text={{!!title}}>{{!!full-name}} ({{!!address}})</a>
 </div>
 </$list>
-</$eventcatcher>
+</div></$eventcatcher>
 </$list>
 
 
-<pre>{{!!log}}</pre>
+<pre>{{!!chosen}}</pre>
 
+<style>
+.name-addr-sel > * {margin-left: 1em;}
+.name-addr-sel a {text-decoration: none;}
+</style>
