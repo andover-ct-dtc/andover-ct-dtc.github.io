@@ -1,0 +1,21 @@
+created: 20231016235222337
+modified: 20231017005040314
+tags: 
+title: Bio Extract
+type: text/vnd.tiddlywiki
+
+<div style="font-size: 12pt">
+<$list filter="[tag[Candidacy]] :filter[get[name]get[party]match[Democratic]] :map[get[name]] +[unique[]] +[sort[last-name]]">
+<$let cand=<<currentTiddler>> >
+<h2>{{!!title}}</h2>
+<h3 style="text-align: right; font-style: italic; margin-top: -1em; font-size: 80%;">Candidate for <$text text={{{ [tag[Candidacy]] :filter[get[name]match<cand>] :map[get[organization]] +[join[, ]] }}}/> </h3>
+<$list filter="[<currentTiddler>get[avatar]]" variable="_"><$image source={{{ [<currentTiddler>get[avatar]] }}} width="200px" height="200px"/></$list>
+<$wikify name="bio" text={{{ [{!!text}] }}} output="html">
+<<bio>>
+</$wikify>
+<br/>
+<hr/>
+<br/>
+</$let>
+</$list>
+</div>
