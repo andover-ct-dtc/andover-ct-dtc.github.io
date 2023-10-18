@@ -40,3 +40,5 @@ table.signs ul {list-style: none;}
 table.signs, table.signs td {border: none; padding-bottom: 2em;}
 
 ul.residents {list-style: none; padding-left: 1em;}
+
+.brochure-only {display: none;}

@@ -1,0 +1,35 @@
+created: 20231018025409623
+modified: 20231018035856183
+tags: 
+title: Brochure
+type: text/vnd.tiddlywiki
+
+<div class="brochure">
+<$list filter="[tag[Candidacy]] :filter[get[name]get[party]match[Democratic]] :map[get[name]] +[unique[]] +[sort[last-name]]">
+<$let cand=<<currentTiddler>> >
+<div class="brochure-page">
+
+<h3>{{!!title}} <span class="role">(<$text text = {{{ [tag[Candidacy]] :filter[get[name]match<cand>] :map[get[organization]] :map[{Organization Abbreviations}jsonget<currentTiddler>] +[sort[]] +[join[, ]] }}} />)</span></h3>
+<$list filter="[<currentTiddler>has[avatar]" variable="_">
+<div class="avatar"><$image source={{{ [<currentTiddler>get[avatar]] }}} /></div>
+</$list>
+
+<$transclude mode="block" />
+
+</div>
+
+</$let>
+<br/>
+</$list>
+</div>
+
+<style>
+.brochure-page {width: 2.75in; height: 4.25in; overflow: hidden; border:3px solid #ccc; padding:.125in; font-size: 8pt; line-height: 1}
+.brochure-page h3 {margin-top: -.1in; line-height: 1; font-size: 175%;}
+.brochure-page .role {font-size: .75em; font-style: italic;}
+.brochure-page div.avatar {margin-left: 0;}
+.brochure-page .avatar img {width: 1.25in;}
+.brochure-page ul {padding-left: 2em;}
+.brochure-page .skip-in-brochure {display: none;}
+.brochure-page .brochure-only {display: block;}
+</style>
