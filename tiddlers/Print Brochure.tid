@@ -1,50 +1,43 @@
 created: 20231018025409623
-modified: 20231019003808496
+modified: 20231019030602131
 tags: 
 title: Print Brochure
 type: text/vnd.tiddlywiki
 
 <div class="print-brochure">
-
 {{Brochure Cover Page}}
-
 <$list filter="[tag[Candidacy]] :filter[get[name]get[party]match[Democratic]] :map[get[name]] +[unique[]] +[sort[last-name]]" counter="counter">
 <$let cand=<<currentTiddler>> >
 <div class={{{ [<counter>add[1]addprefix[brochure-page page-]] }}} >
-
 <h3>{{!!title}} <span class="role">(<$text text = {{{ [tag[Candidacy]] :filter[get[name]match<cand>] :map[get[organization]] :map[{Organization Abbreviations}jsonget<currentTiddler>] +[sort[]] +[join[, ]] }}} />)</span></h3>
 <$list filter="[<currentTiddler>has[avatar]" variable="_">
 <div class="avatar"><$image source={{{ [<currentTiddler>get[avatar]] }}} /></div>
 </$list>
-
 <$transclude mode="block" />
-
 </div>
-
 </$let>
 </$list>
-
 </div>
 
 <style>
-  .print-brochure {height: 22in; width: 8.5in; position: relative; /*border: 1px solid #999;*/ padding: 0;}
-  .print-brochure .brochure-page {display: none; margin: 0 border: none; position: absolute; top: 0%; left: 0%;}
-  .print-brochure .brochure-page.page-2 {display: block; transform: matrix(0, 1, -1, 0, 70, -73)} 
-  .print-brochure .brochure-page.page-9 {display: block; transform: matrix(0, -1, 1, 0, 478, -73);} 
-  .print-brochure .brochure-page.page-3 {display: block; transform: matrix(0, 1, -1, 0, 70, 192);} 
-  .print-brochure .brochure-page.page-8 {display: block; transform: matrix(0, -1, 1, 0, 478, 192);} 
-  .print-brochure .brochure-page.page-4 {display: block; transform: matrix(0, 1, -1, 0, 70, 456);} 
-  .print-brochure .brochure-page.page-7 {display: block; transform: matrix(0, -1, 1, 0, 478, 456);} 
-  .print-brochure .brochure-page.page-5 {display: block; transform: matrix(0, 1, -1, 0, 70, 720);} 
-  .print-brochure .brochure-page.page-6 {display: block; transform: matrix(0, -1, 1, 0, 478, 720);}
-  .print-brochure .brochure-page.page-10 {display: block; transform: matrix(0, 1, -1, 0, 70, 990);} 
-  .print-brochure .brochure-page.page-1 {display: block; transform: matrix(0, -1, 1, 0, 478, 990);} 
-  .print-brochure .brochure-page.page-11 {display: block; transform: matrix(0, 1, -1, 0, 70, 1254);} 
-  .print-brochure .brochure-page.page-14 {display: block; transform: matrix(0, -1, 1, 0, 478, 1254);} 
-  .print-brochure .brochure-page.page-12 {display: block; transform: matrix(0, 1, -1, 0, 70, 1518);} 
-  .print-brochure .brochure-page.page-13 {display: block; transform: matrix(0, -1, 1, 0, 478, 1518);} 
-  .print-brochure .brochure-page.page-16 {display: block; transform: matrix(0, 1, -1, 0, 70, 1782);} 
-  .print-brochure .brochure-page.page-15 {display: block; transform: matrix(0, -1, 1, 0, 478, 1782);} 
+  .print-brochure {height: 21.5in; width: 8.5in; position: relative; /*border: 1px solid #999;*/ padding: 0;}
+  .print-brochure .brochure-page {margin: 0 border: none; position: absolute; top: 0%; left: 0%;}
+  .print-brochure .brochure-page.page-2 {transform: matrix(0, 1, -1, 0, 50, -73)} 
+  .print-brochure .brochure-page.page-9 {transform: matrix(0, -1, 1, 0, 523, -73);} 
+  .print-brochure .brochure-page.page-3 {transform: matrix(0, 1, -1, 0, 50, 197);} 
+  .print-brochure .brochure-page.page-8 {transform: matrix(0, -1, 1, 0, 523, 197);} 
+  .print-brochure .brochure-page.page-4 {transform: matrix(0, 1, -1, 0, 50, 471);} 
+  .print-brochure .brochure-page.page-7 {transform: matrix(0, -1, 1, 0, 523, 471);} 
+  .print-brochure .brochure-page.page-5 {transform: matrix(0, 1, -1, 0, 50, 755);} 
+  .print-brochure .brochure-page.page-6 {transform: matrix(0, -1, 1, 0, 523, 755);}
+  .print-brochure .brochure-page.page-10 {transform: matrix(0, 1, -1, 0, 50, 1020);} 
+  .print-brochure .brochure-page.page-1 {transform: matrix(0, -1, 1, 0, 523, 1020);} 
+  .print-brochure .brochure-page.page-11 {transform: matrix(0, 1, -1, 0, 50, 1304);} 
+  .print-brochure .brochure-page.page-14 {transform: matrix(0, -1, 1, 0, 523, 1304);} 
+  .print-brochure .brochure-page.page-12 {transform: matrix(0, 1, -1, 0, 50, 1603);} 
+  .print-brochure .brochure-page.page-13 {transform: matrix(0, -1, 1, 0, 523, 1603);} 
+  .print-brochure .brochure-page.page-16 {transform: matrix(0, 1, -1, 0, 50, 1897);} 
+  .print-brochure .brochure-page.page-15 {transform: matrix(0, 1, -1, 0, 523, 1897);} 
 
 @media print {
   div.tc-titlebar, div.tc-subtitle {display: none;}
