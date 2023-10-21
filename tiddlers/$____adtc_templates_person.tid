@@ -1,6 +1,5 @@
 created: 20230817151520063
-modified: 20231007003803432
-revision: 0
+modified: 20231021010452207
 tags: $:/tags/ViewTemplate
 title: $:/_/adtc/templates/person
 type: text/vnd.tiddlywiki
@@ -33,7 +32,7 @@ type: text/vnd.tiddlywiki
         {{{ [{!!organization}] }}}
         <$list filter="[<currentTiddler>has[role]]"><$text text={{{ [[ (]] [{!!role}] [[)]] +[join[]] }}} /></$list>
         <$list filter="[<currentTiddler>has[term-expiration]]">: {{!!term-start}} - {{!!term-expiration}}</$list> 
-        <$list filter="[[$:/status/IsReaderMode]!text[yes]]"><small><$button><$action-sendmessage $message="tm-edit-tiddler" />edit</$button></small></$list>
+        <$list filter="[[$:/status/IsReaderMode]!text[yes]]" variable="_"><small><$button><$action-sendmessage $message="tm-edit-tiddler" />edit</$button></small></$list>
       </dd>
     </$list>
   </$list>
@@ -44,7 +43,7 @@ type: text/vnd.tiddlywiki
       <$list filter="[tag[Candidacy]name<currentTiddler>!is[draft]]">
         <dd>
           {{{ [{!!organization}] }}} (endorsing party: {{{ [{!!party}] }}}): {{!!contest}}
-          <$list filter="[[$:/status/IsReaderMode]!text[yes]]"><small><$button><$action-sendmessage $message="tm-edit-tiddler" />edit</$button></small></$list>
+          <$list filter="[[$:/status/IsReaderMode]!text[yes]]" variable="_"><small><$button><$action-sendmessage $message="tm-edit-tiddler" />edit</$button></small></$list>
         </dd> 
       </$list>
   </$list>

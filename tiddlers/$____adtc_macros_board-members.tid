@@ -1,6 +1,5 @@
 created: 20230816194341161
-modified: 20231001192517259
-revision: 0
+modified: 20231021010725547
 tags: $:/tags/Macro
 title: $:/_/adtc/macros/board-members
 type: text/vnd.tiddlywiki
@@ -15,7 +14,7 @@ type: text/vnd.tiddlywiki
       <td><$link to={{{ [<person>get[party]] }}} /></td>
       <td><a href={{{ [[mailto:]] [<person>get[title]] [[<]] [<person>get[email]] [[>]] +[join[]] }}}> <$text text={{{ [<person>get[email]] }}} /> </a></td>
       <td>{{!!role}}</td>
-      <$list filter="[[$:/status/IsReaderMode]!text[yes]]"><td> <small><$button><$action-sendmessage $message="tm-edit-tiddler" />edit</$button></small></td></$list>
+      <$list filter="[[$:/status/IsReaderMode]!text[yes]]" variable="_"><td> <small><$button><$action-sendmessage $message="tm-edit-tiddler" />edit</$button></small></td></$list>
     </tr>
 </$let></$list>
   </tbody>
