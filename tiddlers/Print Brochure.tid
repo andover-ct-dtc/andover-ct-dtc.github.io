@@ -1,5 +1,5 @@
 created: 20231018025409623
-modified: 20231019041608339
+modified: 20231020225404225
 tags: 
 title: Print Brochure
 type: text/vnd.tiddlywiki
@@ -20,24 +20,41 @@ type: text/vnd.tiddlywiki
 </div>
 
 <style>
-  .print-brochure {height: 21.5in; width: 8.5in; position: relative; /*border: 1px solid #999;*/ padding: 0;}
-  .print-brochure .brochure-page {margin: 0 border: none; position: absolute; top: 0%; left: 0%;}
-  .print-brochure .brochure-page.page-2 {transform: matrix(0, 1, -1, 0, 50, -73)} 
-  .print-brochure .brochure-page.page-9 {transform: matrix(0, -1, 1, 0, 553, -73);} 
-  .print-brochure .brochure-page.page-3 {transform: matrix(0, 1, -1, 0, 50, 197);} 
-  .print-brochure .brochure-page.page-8 {transform: matrix(0, -1, 1, 0, 553, 197);} 
-  .print-brochure .brochure-page.page-4 {transform: matrix(0, 1, -1, 0, 50, 501);} 
-  .print-brochure .brochure-page.page-7 {transform: matrix(0, -1, 1, 0, 553, 501);} 
-  .print-brochure .brochure-page.page-5 {transform: matrix(0, 1, -1, 0, 50, 785);} 
-  .print-brochure .brochure-page.page-6 {transform: matrix(0, -1, 1, 0, 553, 785);}
-  .print-brochure .brochure-page.page-10 {transform: matrix(0, 1, -1, 0, 50, 1060);} 
-  .print-brochure .brochure-page.page-1 {transform: matrix(0, -1, 1, 0, 553, 1060);} 
-  .print-brochure .brochure-page.page-11 {transform: matrix(0, 1, -1, 0, 50, 1384);} 
-  .print-brochure .brochure-page.page-14 {transform: matrix(0, -1, 1, 0, 553, 1384);} 
-  .print-brochure .brochure-page.page-12 {transform: matrix(0, 1, -1, 0, 50, 1683);} 
-  .print-brochure .brochure-page.page-13 {transform: matrix(0, -1, 1, 0, 553, 1683);} 
-  .print-brochure .brochure-page.page-16 {transform: matrix(0, 1, -1, 0, 50, 1977);} 
-  .print-brochure .brochure-page.page-15 {transform: matrix(0, 1, -1, 0, 553, 1977);} 
+.brochure-page {width: 2.75in; height: 4.25in; overflow: hidden; padding:.125in; font-size: 8pt; line-height: 1; position: relative;}
+.brochure-page h1, .brochure-page h2  {text-align: center; font-weight: bold;}
+.brochure-page p.overview {text-align: center; font-size: 125%;}
+.brochure-page .logo {text-align: center;}
+.brochure-page .logo img {width: 75%; margin: 0 auto;}
+.brochure-page h3 {margin-top: -.1in; line-height: 1; font-size: 175%;}
+.brochure-page .role {font-size: .75em; font-style: italic;}
+.brochure-page div.avatar {margin-left: 0;}
+.brochure-page .avatar img {width: 1.25in;}
+.brochure-page ul {padding-left: 2em;}
+.brochure-page .footer {text-align: center; margin-top: 2em;}
+
+.print-brochure {height: 21.5in; width: 8.5in; position: relative; padding: 0;}
+.print-brochure .brochure-page {margin: 0; position: absolute; top: 0%; left: 0%; }
+.print-brochure .brochure-page.page-2 {transform: matrix(0, 1, -1, 0, 75, -100)} 
+.print-brochure .brochure-page.page-9 {transform: matrix(0, -1, 1, 0, 600, -100);} 
+.print-brochure .brochure-page.page-3 {transform: matrix(0, 1, -1, 0, 75, 200);} 
+.print-brochure .brochure-page.page-8 {transform: matrix(0, -1, 1, 0, 600, 200);} 
+.print-brochure .brochure-page.page-4 {transform: matrix(0, 1, -1, 0, 75, 525);} 
+.print-brochure .brochure-page.page-7 {transform: matrix(0, -1, 1, 0, 600, 525);} 
+.print-brochure .brochure-page.page-5 {transform: matrix(0, 1, -1, 0, 75, 825);} 
+.print-brochure .brochure-page.page-6 {transform: matrix(0, -1, 1, 0, 600, 825);}
+.print-brochure .brochure-page.page-10 {transform: matrix(0, 1, -1, 0, 75, 1150);} 
+.print-brochure .brochure-page.page-1 {transform: matrix(0, -1, 1, 0, 600, 1135);} 
+.print-brochure .brochure-page.page-11 {transform: matrix(0, 1, -1, 0, 75, 1435);} 
+.print-brochure .brochure-page.page-14 {transform: matrix(0, -1, 1, 0, 600, 1435);} 
+.print-brochure .brochure-page.page-12 {transform: matrix(0, 1, -1, 0, 75, 1740);} 
+.print-brochure .brochure-page.page-13 {transform: matrix(0, -1, 1, 0, 600, 1740);} 
+.print-brochure .brochure-page.page-16 {transform: matrix(0, 1, -1, 0, 75, 2050);} 
+.print-brochure .brochure-page.page-15 {transform: matrix(0, 1, -1, 0, 550, 2050);} 
+
+.brochure-only {display: none;}
+.print-brochure span.brochure-only {display: inline;}
+.print-brochure div.brochure-only {display: block;}
+.brochure-page .skip-in-brochure {display: none;}
 
 @media print {
   div.tc-titlebar, div.tc-subtitle {display: none;}
