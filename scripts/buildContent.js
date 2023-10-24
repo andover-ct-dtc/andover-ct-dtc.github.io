@@ -53,7 +53,6 @@ middle-name: ${r.MiddleName}
 suffix: ${r.suffix || ''}
 full-name: ${r.FirstName + ' ' + r.LastName + (r.Suffix ? (' ' + r.Suffix) : '')}
 gender: ${r.Sex}
-dob: ${r.DOB.slice(6, 10)}-${r.DOB.slice(0, 2)}-${r.DOB.slice(3, 5)}
 age: ${r.Age}
 party: ${getParty(r.Party)}
 phone: ${makePhone(r['Preferred Phone'])}
