@@ -1,8 +1,0 @@
-created: 20230918030958120
-modified: 20230918030958120
-revision: 0
-tags: [[Updating People]]
-title: Editing an existing Person
-type: text/vnd.tiddlywiki
-
-Clicking on a person's name pretty much anywhere opens that person's page.  The full list of people is at [[People|Person]].  At the top-right of that person, you can click the pencil icon <<pencil>> to change to the editing interface.  There you can fix a misspelling in the name (using the `title` and/or the `first-name` and `last-name` fields, change parties (using the `party` field), add or edit the person's description (using the `text` field), and edit the `email` field.  If you've already [[uploaded a picture|Adding Images]], you can put the name of that image in the `avatar` field.  {{Saving a tiddler}}
