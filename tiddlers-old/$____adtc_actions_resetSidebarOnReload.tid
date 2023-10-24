@@ -1,0 +1,18 @@
+created: 20221118220407264
+modified: 20230905195225953
+revision: 0
+tags: $:/tags/StartupAction
+title: $:/_/adtc/actions/resetSidebarOnReload
+type: text/vnd.tiddlywiki
+
+<$list filter="[prefix[$:/state/tab/sidebar]]" variable="sidebarTab">
+
+<$action-deletetiddler $tiddler=<<sidebarTab>>/>
+
+</$list>
+
+<$list filter="[prefix[$:/state/tab/moresidebar]]" variable="moresidebarTab">
+
+<$action-deletetiddler $tiddler=<<moresidebarTab>>/>
+
+</$list>

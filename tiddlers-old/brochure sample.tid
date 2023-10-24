@@ -1,0 +1,25 @@
+created: 20231018010144536
+modified: 20231018030154359
+revision: 0
+tags: 
+title: brochure sample
+type: text/vnd.tiddlywiki
+
+<div class="brochure-page">
+
+<h3>Brian Briggs <span class="role">(BOF)</span></h3>
+<$list filter="[[BrianBriggs]has[avatar]" variable="_">
+<div class="avatar"><$image source={{{ [[Brian Briggs]get[avatar]] }}} /></div>
+</$list>
+
+<$transclude mode="block" tiddler="Brian Briggs"/>
+
+</div>
+
+<style>
+.brochure-page {width: 2.75in; height: 4.25in; overflow: hidden; border:3px solid #ccc; padding:.125in; font-size: 8pt; line-height: 1}
+.brochure-page h3 {margin-top: 0in; line-height: 1; font-size: 175%;}
+.brochure-page .role {font-size: .75em; font-style: italic;}
+.brochure-page div.avatar {margin-left: 0;}
+.brochure-page .avatar img {width: 1.25in;}
+</style>

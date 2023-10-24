@@ -1,0 +1,8 @@
+created: 20231011001203100
+modified: 20231011003230400
+revision: 0
+tags: $:/tags/ViewTemplateTitleFilter
+title: $:/_/adtc/config/ViewTemplateTitleFilters/voter
+type: text/vnd.tiddlywiki
+
+[<currentTiddler>tag[Voter]then[$:/_/adtc/core/ui/ViewTemplate/title/voter]]

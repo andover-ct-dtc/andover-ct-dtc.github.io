@@ -1,0 +1,17 @@
+created: 20230905204350863
+list: [[Party Records]] [[Person Records]] [[Organization Records]] [[Position Records]] [[Candidacy Records]]
+modified: 20230920022354198
+revision: 0
+tags: Admin TODO
+title: Understanding the Data
+type: text/vnd.tiddlywiki
+
+To make changes to this page, we need to understand how it's structured.  Here we detail our structures.  (Note that [[Signs|Sign]] are not covered now.  These grew more complex than should be and we will add them here once they're simplified.  For the moment, if you need signs added or modified, please speak to Scott.
+
+! Data Structures
+
+<$list filter="[tag<currentTiddler>!has[draft.of]]" >
+<h2><$link/></h2>
+<$transclude mode="block"/>
+@@clear:both;<br/>@@
+</$list>

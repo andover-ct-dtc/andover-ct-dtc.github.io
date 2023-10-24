@@ -1,0 +1,27 @@
+caption: New Position
+created: 20230918013514708
+description: Create a new Position
+modified: 20230918014723821
+revision: 0
+tags: 
+title: $:/_/adtc/buttons/new-position
+type: text/vnd.tiddlywiki
+
+\define new-position-action()
+<$action-sendmessage $message="tm-new-tiddler"
+  title="New position"
+  tags="Position"
+  caption=""
+  name=""
+  organization=""
+  position=""
+  term-start=""
+  term-expiration="" />
+\end
+
+<$button actions=<<new-position-action>> tooltip={{$:/_/adtc/buttons/new-position!!description}} aria-label={{$:/_/adtc/buttons/new-position!!caption}} >
+@@font-size:2.0em;{{$:/images/font-awesome/solid/chair}}@@
+<span class="tc-btn-text">
+{{!!caption}}
+</span>
+</$button>

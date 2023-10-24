@@ -1,0 +1,12 @@
+created: 20230906161818850
+modified: 20230918225009312
+revision: 0
+tags: [[Using TiddlyWiki]]
+title: Editing
+type: text/vnd.tiddlywiki
+
+There is a great deal of information on TiddlyWiki's home page, but perhaps for our purposes, the most important pages are [[Creating and editing tiddlers|https://tiddlywiki.com/#Creating%20and%20editing%20tiddlers]] and [[WikiText|https://tiddlywiki.com/#WikiText]], which together show the basics of how create and edit content.
+
+To edit a tiddler, click its pencil icon <<pencil>>.  {{Saving a tiddler}}  And to delete a tiddler, click the trashcan icon <<trashcan>>.
+
+With the editor open, there's a reasonable bar of buttons for doing much basic formatting.

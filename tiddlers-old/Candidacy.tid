@@ -1,0 +1,21 @@
+caption: Candidacies
+created: 20230821195808453
+custom-sort: caption
+modified: 20230912212243750
+revision: 0
+tags: Data
+title: Candidacy
+type: text/vnd.tiddlywiki
+
+<table class="party">
+  <thead>
+    <tr><th>Position</th><th>Name</th><th>Party</th><th></th></tr>
+  </thead>
+  <tbody>
+<$list filter="[tag[Elected Positions]!has[draft.of]]  :filter[all[tiddlers]tag[Candidacy]organization<currentTiddler>]" variable="pos">
+  <$list filter="[tag[Candidacy]organization<pos>!has[draft.of]]">
+    <tr class={{!!party}}><td><$link to=<<pos>>/></td><td><$link to={{!!name}} /></td><td><$link to={{!!party}}/></td><td> <small><$button><$action-sendmessage $message="tm-edit-tiddler" />edit</$button></small></td></tr>
+  </$list>
+</$list>
+  </tbody>
+</table>

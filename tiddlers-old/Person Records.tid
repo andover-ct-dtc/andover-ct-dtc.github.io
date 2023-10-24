@@ -1,0 +1,26 @@
+created: 20230919010139600
+modified: 20230919013621831
+revision: 0
+tags: [[Understanding the Data]]
+title: Person Records
+type: text/vnd.tiddlywiki
+
+Anything tagged `Person` represents an individual. 
+
+As with all the data, there is a `text` field that we can fill out as we choose with additional information, most likely description.
+
+A typical `Person` entry is structured like this:
+
+<<type-description """
+title: Fred Flintstone
+tags: Person
+email: fred@bedrock.com
+first-name: Fred
+last-name: Flintstone
+party: Blockheads
+"""  """
+* `title` and `tags` are standard
+* `email` should be obvious 
+* `first-name` and `last-name` are used mostly to sort lists appropriately
+* `party`: the name of a [[political party|Party Record]], chosen from the list [[Party]]
+""">>

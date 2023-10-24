@@ -1,0 +1,12 @@
+created: 20231019035639012
+modified: 20231019040011481
+revision: 0
+tags: 
+title: New Tiddler 3
+type: text/vnd.tiddlywiki
+
+!! Hendee
+
+<$list filter="[all[shadows]tag[Voter]]  :filter[get[party]match[Democratic]]  :filter[get[address]addprefix[$:/AndoverCT/Address/]get[street]match[Hendee Rd]]">
+<$link>{{!!full-name}} </$link> ({{!!address}}): {{!!phone}}<br/>
+</$list>

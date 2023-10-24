@@ -1,0 +1,23 @@
+created: 20230919012018678
+modified: 20230919013053486
+revision: 0
+tags: [[Understanding the Data]]
+title: Organization Records
+type: text/vnd.tiddlywiki
+
+Anything tagged `Organization` represents an organization, either a volunteer position like the [[Democratic Town Committee]] or and elected one like the [[Board of Education]].  At  some point, we may want to add Appointed positions as well (something like a Charter Committee), but we've had no need yet.
+
+As with all the data, there is a `text` field that we can fill out as we choose with additional information, most likely description.
+
+A typical `Organization` entry is structured like this:
+
+<<type-description """
+title: Bureau of Red Tape
+tags: Organization [[Elected Position]]
+abbreviation: BRT
+org-type: elected
+"""  """
+* `title` and `tags` are standard.  Note that we use a second tag of `"Volunteer"` or `"Elected Person"` for differentiation and slightly different handling.
+* `abbreviation` is used in various places where a short name is better 
+* `org-type`  (either `elected` or `volunteer`).  This is being used, but we may remove it as it's redundant with the tags.
+""">>

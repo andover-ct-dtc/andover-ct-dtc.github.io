@@ -1,0 +1,62 @@
+created: 20230817151520063
+modified: 20231021010452207
+tags: $:/tags/ViewTemplate
+title: $:/_/adtc/templates/person
+type: text/vnd.tiddlywiki
+
+<$list filter="[<currentTiddler>tag[Person]first[]]" variable="_">
+
+<dl>
+  <dt>Party</dt>
+  <dd>
+    <$list filter="[<currentTiddler>has[party]]"><$link to={{{ [{!!party}] }}}/></$list>
+    <$list filter="[<currentTiddler>!has[party]]">(Unknown/Unaffiliated/Etc)</$list>
+  </dd>
+
+  <dt>Email</dt>
+    <$list filter="[<currentTiddler>has[email]]">
+      <dd><a href={{{ [[mailto:]] [<currentTiddler>get[title]] [[<]] [<currentTiddler>get[email]] [[>]] +[join[]] }}}>
+      <$text text={{{ [<currentTiddler>get[email]] }}} /> </a></dd></$list>
+    <$list filter="[<currentTiddler>!has[email]]"><dd>(Unknown)</dd></$list>
+
+    <$list filter="[<currentTiddler>has[phone]]">
+  <dt>Phone</dt>
+  <dd>{{!!phone}}</dd>
+    </$list>
+
+  <$list filter="[tag[Position]name<currentTiddler>first[]]" variable="__">
+    <br/>
+    <dt>Memberships</dt>
+    <$list filter="[tag[Position]name<currentTiddler>!is[draft]]">
+      <dd>
+        {{{ [{!!organization}] }}}
+        <$list filter="[<currentTiddler>has[role]]"><$text text={{{ [[ (]] [{!!role}] [[)]] +[join[]] }}} /></$list>
+        <$list filter="[<currentTiddler>has[term-expiration]]">: {{!!term-start}} - {{!!term-expiration}}</$list> 
+        <$list filter="[[$:/status/IsReaderMode]!text[yes]]" variable="_"><small><$button><$action-sendmessage $message="tm-edit-tiddler" />edit</$button></small></$list>
+      </dd>
+    </$list>
+  </$list>
+  
+  <$list filter="[tag[Candidacy]name<currentTiddler>first[]]" variable="___">
+    <br/>
+    <dt>Candidacies</dt>
+      <$list filter="[tag[Candidacy]name<currentTiddler>!is[draft]]">
+        <dd>
+          {{{ [{!!organization}] }}} (endorsing party: {{{ [{!!party}] }}}): {{!!contest}}
+          <$list filter="[[$:/status/IsReaderMode]!text[yes]]" variable="_"><small><$button><$action-sendmessage $message="tm-edit-tiddler" />edit</$button></small></$list>
+        </dd> 
+      </$list>
+  </$list>
+
+  <$list filter="[all[tiddlers]contains:names<currentTiddler>] :filter[tag[Lawn Sign]] +[first[]]" variable="_"> 
+    <br/>
+    <dt>Lawn Sign</dt>
+    <dd class="signs">
+      <$list filter="[all[tiddlers]contains:names<currentTiddler>] :filter[tag[Lawn Sign]]">
+        <br/><$link><$transclude tiddler=<<currentTiddler>> /> </$link><br/>
+      </$list>
+    </dd>
+  </$list>
+
+</dl>
+</$list>
