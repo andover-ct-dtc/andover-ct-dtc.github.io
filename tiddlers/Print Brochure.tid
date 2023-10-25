@@ -1,7 +1,6 @@
 created: 20231018025409623
-modified: 20231023195645233
-revision: 0
-tags: 
+modified: 20231025110944551
+tags: TableOfContents
 title: Print Brochure
 type: text/vnd.tiddlywiki
 
@@ -44,8 +43,8 @@ type: text/vnd.tiddlywiki
 .print-brochure .brochure-page.page-8 {transform: matrix(0, -1, 1, 0, 600, 200);} 
 .print-brochure .brochure-page.page-4 {transform: matrix(0, 1, -1, 0, 75, 550);} 
 .print-brochure .brochure-page.page-7 {transform: matrix(0, -1, 1, 0, 600, 550);} 
-.print-brochure .brochure-page.page-5 {transform: matrix(0, 1, -1, 0, 75, 875);} 
-.print-brochure .brochure-page.page-6 {transform: matrix(0, -1, 1, 0, 600, 875);}
+.print-brochure .brochure-page.page-5 {transform: matrix(0, 1, -1, 0, 75, 850);} 
+.print-brochure .brochure-page.page-6 {transform: matrix(0, -1, 1, 0, 600, 850);}
 .print-brochure .brochure-page.page-10 {transform: matrix(0, 1, -1, 0, 75, 1150);} 
 .print-brochure .brochure-page.page-1 {transform: matrix(0, -1, 1, 0, 600, 1135);} 
 .print-brochure .brochure-page.page-11 {transform: matrix(0, 1, -1, 0, 75, 1450);} 
@@ -61,6 +60,6 @@ type: text/vnd.tiddlywiki
 .brochure-page .skip-in-brochure {display: none;}
 
 @media print {
-  div.tc-titlebar, div.tc-subtitle {display: none;}
+  div.tc-titlebar, div.tc-subtitle, div.tc-tags-wrapper {display: none;}
 }
 </style>
