@@ -1,0 +1,19 @@
+created: 20221213205335343
+modified: 20230907024427894
+revision: 0
+tags: $:/tags/StartupAction
+title: $:/_/adtc/actions/setReadOnlyOnReload
+type: text/vnd.tiddlywiki
+
+<!-- Put ReaderMode on, if not running inside Node.  Can cancel with CTRL-Shift-/ -->
+
+<$list filter="[[$:/plugins/tiddlywiki/tiddlyweb]is[missing]]">
+
+<$action-setfield $tiddler="$:/status/IsReaderMode" $field=text $value="yes"/>
+<$action-setfield $tiddler="$:/config/DragAndDrop/Enable" $field=text $value="no"/>
+<$action-listops $tiddler="$:/core/ui/SideBar/Tools" $field=tags $subfilter=" +[remove[$:/tags/SideBar]]"/>
+<$action-listops $tiddler="$:/core/ui/SideBar/More" $field=tags $subfilter=" +[remove[$:/tags/SideBar]]"/>
+<$action-listops $tiddler="Admin" $field=tags $subfilter=" +[remove[TableOfContents]]"/>
+<$action-listops $tiddler="$:/config/DragAndDrop/Enable" $field=text $value="no"/>
+
+</$list>

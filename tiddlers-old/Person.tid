@@ -1,0 +1,13 @@
+caption: People
+created: 20230817203604668
+modified: 20230905195653772
+revision: 0
+tags: Data TableOfContents
+title: Person
+type: text/vnd.tiddlywiki
+
+<$let by-last="[{!!last-name}] [{!!first-name}] +[join[, ]]">
+
+<div style="column-width: 12em">
+<<list-links filter:[tag<currentTiddler>sortsub:string<by-last>] >>
+</div>

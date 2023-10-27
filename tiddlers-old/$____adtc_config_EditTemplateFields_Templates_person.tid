@@ -1,0 +1,16 @@
+created: 20230913175651026
+modified: 20230913175948502
+revision: 0
+tags: 
+title: $:/_/adtc/config/EditTemplateFields/Templates/person
+type: text/vnd.tiddlywiki
+
+<$let by-last ="[{!!last-name}] [{!!first-name}] +[join[, ]]">
+
+<$select tiddler=<<currentTiddler>> field=<<currentField>> class="tc-edit-texteditor tc-edit-fieldeditor" tabindex={{$:/config/EditTabIndex}} cancelPopups="yes">
+    <$list filter='[tag[Person]] +[sortsub:string<by-last>]'>
+        <option value=<<currentTiddler>>><$view field='title'/></option>
+    </$list>
+</$select>
+
+</$let>

@@ -1,0 +1,19 @@
+caption: Positions
+created: 20230821202048958
+modified: 20230830143335758
+revision: 0
+tags: Data
+title: Position
+
+<table class="party">
+  <thead>
+    <tr><th>Position</th><th>Name</th><th>Term</th><th></th></tr>
+  </thead>
+  <tbody>
+<$list filter="[tag[Elected Positions]!has[draft.of]]  :filter[all[tiddlers]tag[Position]organization<currentTiddler>]" variable="pos">
+  <$list filter="[tag[Position]organization<pos>!has[draft.of]]">
+    <tr class={{!!party}}><td><$link to=<<pos>>/></td><td><$link to={{!!name}} /></td><td>{{!!term-start}} - {{!!term-expiration}}</td><td> <small><$button><$action-sendmessage $message="tm-edit-tiddler" />edit</$button></small></td></tr>
+  </$list>
+</$list>
+  </tbody>
+</table>

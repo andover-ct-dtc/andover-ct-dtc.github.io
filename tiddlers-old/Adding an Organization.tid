@@ -1,0 +1,15 @@
+created: 20230918025837641
+modified: 20230920020407751
+revision: 0
+tags: [[Updating Organizations]]
+title: Adding an Organization
+type: text/vnd.tiddlywiki
+
+This should be extremely rare.  But it's also very easy to do. 
+
+While we could easily use the <<icon $:/core/images/new-button>> button to start a new Organization from scratch, add the tag [[Organization]] as well as either [[Volunteer]] or [[Elected Positions]] and add `org-type`, and `abbreviation`, there are shortcuts:
+
+{{$:/_/adtc/buttons/new-elected-pos}}
+{{$:/_/adtc/buttons/new-volunteer-pos}}
+
+You can click one of these, fill out the title and abbreviation and save.  If you choose, you can add a description in the `text` field.  (So far, we're not tracking any Appointed Organizations, but it will be easy enough to add them when necessary.)

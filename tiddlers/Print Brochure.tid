@@ -1,5 +1,5 @@
 created: 20231018025409623
-modified: 20231025110944551
+modified: 20231027023906761
 tags: TableOfContents
 title: Print Brochure
 type: text/vnd.tiddlywiki
@@ -9,7 +9,7 @@ type: text/vnd.tiddlywiki
 {{Brochure Cover Page}}
 </div>
 <!--$list filter="[tag[Candidacy]] :filter[get[name]get[party]match[Democratic]] :map[get[name]] +[unique[]] +[sort[last-name]]" counter="counter"-->
-<$list filter="[tag[Candidacy]] :filter[get[party]match[Democratic]] :map[get[name]] -[[Carol Lee]] -[[Kirsten Erlandsen]] -[[Mark Williams]] +[unique[]] +[sort[last-name]]" counter="counter">
+<$list filter="[tag[Candidacy]] :filter[get[party]match[Democratic]] :map[get[name]] -[[Carol Lee]] -[[Kirsten Erlandsen]] -[[Scott Sauyet]] +[unique[]] +[sort[last-name]]" counter="counter">
 <$let cand=<<currentTiddler>> >
 <div class={{{ [<counter>add[1]addprefix[brochure-page page-]] }}} >
 <h3>{{!!title}} <span class="role">(<$text text = {{{ [tag[Candidacy]] :filter[get[name]match<cand>] :map[get[organization]] :map[{Organization Abbreviations}jsonget<currentTiddler>] +[sort[]] +[join[, ]] }}} />)</span></h3>

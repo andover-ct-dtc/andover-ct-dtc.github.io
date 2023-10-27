@@ -1,0 +1,39 @@
+.brochure-page {width: 2.75in; height: 4.25in; overflow: hidden; padding:.125in; font-size: 8pt; line-height: 1; position: relative;}
+.brochure-page h1, .brochure-page h2  {text-align: center; font-weight: bold;}
+.brochure-page p.overview {text-align: center; font-size: 125%;}
+.brochure-page .logo {text-align: center;}
+.brochure-page .logo img {width: 75%; margin: 0 auto;}
+.brochure-page h3 {margin-top: -.1in; line-height: 1; font-size: 175%;}
+.brochure-page .role {font-size: .75em; font-style: italic;}
+.brochure-page div.avatar {margin-left: 0;}
+.brochure-page .avatar img {width: 1.25in;}
+.brochure-page ul {padding-left: 2em;}
+.brochure-page .skip-in-brochure {display: none;}
+.brochure-page .footer {text-align: center; margin-top: 2em;}
+
+.print-brochure {height: 21.5in; width: 8.5in; position: relative; padding: 0;}
+.print-brochure .brochure-page {margin: 0; position: absolute; top: 0%; left: 0%; }
+.print-brochure .brochure-page.page-2 {transform: matrix(0, 1, -1, 0, 75, -100)} 
+.print-brochure .brochure-page.page-9 {transform: matrix(0, -1, 1, 0, 600, -100);} 
+.print-brochure .brochure-page.page-3 {transform: matrix(0, 1, -1, 0, 75, 225);} 
+.print-brochure .brochure-page.page-8 {transform: matrix(0, -1, 1, 0, 600, 225);} 
+.print-brochure .brochure-page.page-4 {transform: matrix(0, 1, -1, 0, 75, 550);} 
+.print-brochure .brochure-page.page-7 {transform: matrix(0, -1, 1, 0, 600, 550);} 
+.print-brochure .brochure-page.page-5 {transform: matrix(0, 1, -1, 0, 75, 875);} 
+.print-brochure .brochure-page.page-6 {transform: matrix(0, -1, 1, 0, 600, 875);}
+.print-brochure .brochure-page.page-10 {transform: matrix(0, 1, -1, 0, 75, 1160);} 
+.print-brochure .brochure-page.page-1 {transform: matrix(0, -1, 1, 0, 600, 1175);} 
+.print-brochure .brochure-page.page-11 {transform: matrix(0, 1, -1, 0, 75, 1475);} 
+.print-brochure .brochure-page.page-14 {transform: matrix(0, -1, 1, 0, 600, 1475);} 
+.print-brochure .brochure-page.page-12 {transform: matrix(0, 1, -1, 0, 75, 1825);} 
+.print-brochure .brochure-page.page-13 {transform: matrix(0, -1, 1, 0, 600, 1825);} 
+.print-brochure .brochure-page.page-16 {transform: matrix(0, 1, -1, 0, 75, 2125);} 
+.print-brochure .brochure-page.page-15 {transform: matrix(0, 1, -1, 0, 600, 2125);} 
+
+.brochure-only {display: none;}
+.print-brochure span.brochure-only {display: inline;}
+.print-brochure div.brochure-only {display: block;}
+
+@media print {
+  div.tc-titlebar, div.tc-subtitle {display: none;}
+}

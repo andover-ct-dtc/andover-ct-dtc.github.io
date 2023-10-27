@@ -1,0 +1,12 @@
+author: Scott Sauyet
+core-version: >=5.3.1
+dependents: 
+description: Data plugin containing Voter information for Andover, CT, USA
+list: readme license
+name: AndoverCT
+plugin-type: plugin
+revision: 0
+source: https://github.com/andover-ct-dtc/andover-ct-dtc.github.io
+title: $:/plugins/AndoverCT
+type: application/json
+version: 0.1.0

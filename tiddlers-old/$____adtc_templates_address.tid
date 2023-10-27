@@ -1,0 +1,22 @@
+created: 20231011031711491
+modified: 20231015003836327
+revision: 0
+tags: $:/tags/ViewTemplate
+title: $:/_/adtc/templates/address
+type: text/vnd.tiddlywiki
+
+<$list filter="[<currentTiddler>tag[Address]first[]]" variable="_">
+
+{{!!address}}<br/>
+{{!!city}}, {{!!state}} {{!!zip5}}-{{!!zip4}}
+
+<a href={{{ [{!!lat}] [{!!long}] +[join[,]] +[addprefix[https://www.google.com/maps/search/?api=1&query=]] }}}  title={{{ [{!!lat}] [[°, ]] [{!!long}] [[°]] +[join[]] }}}>Map</a>
+
+!!! Residents
+<ul class="residents">
+<$list filter="[all[shadows]tag[Voter]address{!!address}]">
+  <li><$link>{{!!full-name}}</$link></li>
+</$list>
+</ul>
+
+</$list>

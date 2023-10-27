@@ -1,0 +1,10 @@
+created: 20230920020908119
+modified: 20230920020934536
+revision: 0
+tags: $:/tags/ViewTemplate
+title: $:/_/adtc/templates/candidacy
+type: text/vnd.tiddlywiki
+
+<$list filter="[<currentTiddler>tag[Candidacy]first[]]" variable="_">
+<<field-list "caption contest name organization party" >>
+</$list>

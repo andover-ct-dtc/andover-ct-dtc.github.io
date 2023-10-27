@@ -1,0 +1,33 @@
+created: 20230902004526359
+modified: 20231001192141073
+revision: 0
+tags: $:/tags/ViewTemplate
+title: $:/_/adtc/templates/volunteer
+type: text/vnd.tiddlywiki
+
+<$list filter="[<currentTiddler>tag[Volunteer]first[]]" variable="_">
+<$let by-last ="[{!!last-name}] [{!!first-name}] +[join[, ]]", by-person-last="[get[name]get[last-name]] [get[name]get[first-name]] +[join[, ]]">
+
+<table>
+  <caption><br/><<all-emails "[tag[Position]organization<currentTiddler>get[name]] +[sortsub:string<by-last>]">></caption>
+  <thead>
+    <tr><th>Name</th><th>Party</th><th>Email</th><th>Role</th><$list filter="[[$:/status/IsReaderMode]!text[yes]]"><th></th></$list></tr>
+  </thead>
+  <tbody>
+<$list filter="[tag[Position]organization<currentTiddler>] +[sortsub:string<by-person-last>] " ><$let person={{!!name}} >
+    <tr>
+      <td><$link to={{!!name}} /></td>
+      <td><$link to={{{ [<person>get[party]] }}} /></td>
+      <td><a href={{{ [[mailto:]] [<person>get[title]] [[<]] [<person>get[email]] [[>]] +[join[]] }}}> <$text text={{{ [<person>get[email]] }}} /> </a></td>
+      <td>{{!!role}}</td>
+      <$list filter="[[$:/status/IsReaderMode]!text[yes]]"><td> <small><$button><$action-sendmessage $message="tm-edit-tiddler" />edit</$button></small></td></$list>
+    </tr>
+</$let></$list>
+  </tbody>
+</table>
+
+</$let>
+
+<<signs-details>>
+
+</$list>

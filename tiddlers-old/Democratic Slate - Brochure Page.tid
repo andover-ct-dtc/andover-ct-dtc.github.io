@@ -1,0 +1,21 @@
+created: 20231021000903822
+modified: 20231021002501964
+revision: 0
+tags: 
+title: Democratic Slate - Brochure Page
+type: text/vnd.tiddlywiki
+
+!! 2023 Democratic Slate <small><em>- Vote Row A!</em></small>
+<dl class="brief">
+<$list filter='[tag[Elected Positions]org-type[elected]] -[[Town Clerk]]' variable="pos">
+  <dt><$text text ={{{ [<pos>get[title]] }}} /></dt>
+  <$list filter="[tag[Candidacy]!has[draft.of]party[Democratic]organization<pos>] :map[get[name]] +[sort[last-name]]" > 
+     <dd>{{!!title}}</dd>
+  </$list>
+</$list>
+</dl>
+
+<style>
+dl.brief {column-count: 2;}
+dl.brief dt {break-after: avoid-column;}
+</style

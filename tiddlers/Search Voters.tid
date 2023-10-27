@@ -1,15 +1,27 @@
 created: 20231011011938835
-modified: 20231024200742114
-revision: 1
+modified: 20231026163602781
+revision: 2
 tags: TableOfContents
 title: Search Voters
 type: text/vnd.tiddlywiki
 
-<$edit-text tiddler="$:/temp/Voters/searchstrings" field=search placeholder="Enter name..." tag=input/><br/><br/>
+<$edit-text tiddler="$:/temp/Voters/searchstrings" field=search placeholder="Enter name or address..." tag=input/><br/><br/><br/>
 <$list filter="[{$:/temp/Voters/searchstrings!!search}minlength{$:/config/Search/MinLength}limit[1]]" emptyMessage="""<div class="tc-search-results">{{$:/language/Search/Search/TooShort}}</div>""" variable="listItem">
-<$list filter="[all[tiddlers+shadows]tag[Voter]search:full-name{$:/temp/Voters/searchstrings!!search}sort[last-name]]" emptyMessage="None">
+<$list filter="[all[tiddlers+shadows]tag[Voter]search:full-name{$:/temp/Voters/searchstrings!!search}sort[last-name]]" emptyMessage="No matching names found" counter="counter">
+<$list filter="[<counter>match[1]]" variable="_">
+<h3>Names</h3>
+</$list>
 <div style="margin-left:1em;">
 <li><$link to=<<currentTiddler>>>{{!!full-name}}</$link></li></div>
+</$list>
+<br/>
+
+<$list filter="[all[tiddlers+shadows]tag[Address]search:address{$:/temp/Voters/searchstrings!!search}nsort[street-number]sort[street]]" emptyMessage="No matching addresses found" counter="counter">
+<$list filter="[<counter>match[1]]" variable="_">
+<h3>Addresses</h3>
+</$list>
+<div style="margin-left:1em;">
+<li><$link to=<<currentTiddler>>>{{!!address}}</$link></li></div>
 </$list>
 </$list>
 
