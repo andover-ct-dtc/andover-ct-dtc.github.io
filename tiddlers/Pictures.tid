@@ -1,0 +1,18 @@
+created: 20231027045800697
+modified: 20231027051201784
+tags: 
+title: Pictures
+type: text/vnd.tiddlywiki
+
+<hr/>
+<$list filter="[tag[Candidacy]] :filter[party[Democratic]] :map[{!!name}] :filter[has[avatar]] +[unique[]]">
+<br/>
+<h3>{{!!title}}</h3><br/>
+<div class="avatar simple"><$image source={{{ [<currentTiddler>get[avatar]] }}} /></div>
+<br/>
+<hr/>
+</$list>
+
+<style>
+div.avatar.simple {float: none; margin-bottom: 1em;}
+</style>
