@@ -1,9 +1,0 @@
-created: 20230913180044063
-list-before: $:/config/FieldEditorFilters/default
-modified: 20230913180100959
-revision: 0
-tags: $:/tags/FieldEditorFilter
-title: $:/_/adtc/config/FieldEditorFilters/person
-type: text/vnd.tiddlywiki
-
-[match[name]then[$:/_/adtc/config/EditTemplateFields/Templates/person]]
