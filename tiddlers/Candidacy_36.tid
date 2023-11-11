@@ -1,7 +1,7 @@
 caption: ZBA - Fred Oliver (R)
 contest: 2023-General
 created: 20230821202714504
-modified: 20230821202714504
+modified: 20231109161138755
 name: Fred Oliver
 organization: Zoning Board of Appeals
 party: Republican
@@ -9,3 +9,5 @@ revision: 0
 tags: Candidacy
 title: Candidacy/36
 type: text/vnd.tiddlywiki
+votes: 470
+won: yes

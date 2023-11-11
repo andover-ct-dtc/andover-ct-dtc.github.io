@@ -1,11 +1,12 @@
 created: 20230912194910364
-modified: 20231021010621889
+modified: 20231110180011781
 revision: 0
 tags: $:/tags/Macro
 title: $:/_/adtc/macros/board-candidates
 type: text/vnd.tiddlywiki
 
 \define board-candidates(board)
+<$let by-last="[get[name]get[last-name]] [get[name]get[first-name]]  +[join[, ]]">
 <$let title=<<currentTiddler>> >
 <table class="candidates">
   <thead>
@@ -15,17 +16,19 @@ type: text/vnd.tiddlywiki
   <tr>
 <$list filter="[tag[Party]] :filter[all[tiddlers]tag[Candidacy]party<currentTiddler>]" variable="party">
     <td class={{{ [<party>get[title]] }}}>
-<$list filter="[tag[Candidacy]!has[draft.of]party<party>organization<title>] :map[get[name]] +[sort[last-name]]" variable="person" >
+<$list filter="[tag[Candidacy]!has[draft.of]party<party>organization<title>] +[sortsub:string<by-last>]" variable="candidacy"><$list filter="[<candidacy>get[name]]" variable="person" >
+       <$transclude $variable="results" candidacy=<<candidacy>> />
       <$link>{{{ [<person>] }}} 
          <$list filter="[<person>has[avatar]]"><$image class="mini avatar" source={{{ [<person>get[avatar]] }}} /></$list>
-      </$link> 
+      </$link>
       <$list filter="[[$:/status/IsReaderMode]!text[yes]]" variable="_"><small><$button><$action-sendmessage $message="tm-edit-tiddler" $param={{{ [tag[Candidacy]name<person>organization<title>] }}} />edit</$button></small></$list><br/>
-</$list>
+</$list></$list>
     </td>
 </$list>
   </tr>
   </tbody>
 </table>
+</$let>
 </$let>
 \end
 

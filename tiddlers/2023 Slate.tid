@@ -1,9 +1,11 @@
 created: 20230823184446659
-modified: 20231024113813717
-revision: 0
+modified: 20231110215359988
+revision: 2
 tags: TableOfContents
 title: 2023 Slate
 type: text/vnd.tiddlywiki
+
+<$let by-last="[get[name]get[last-name]] [get[name]get[first-name]]  +[join[, ]]">
 
 We're very proud of the Democrat's diverse slate of well-qualified candidates!
 
@@ -16,8 +18,26 @@ These are the candidates for the November 2023 election.  You can also view the 
     <tr><th>Position</th><$list filter="[tag[Party]] :filter[all[tiddlers]tag[Candidacy]party<currentTiddler>]"><th class={{!!title}}>{{!!title}}</th></$list></tr>
   </thead>
   <tbody>
-<$list filter='[tag[Elected Positions]org-type[elected]]' variable="pos">
-  <tr><th>{{{ [<pos>get[title]] }}}</th><$list filter="[tag[Party]] :filter[all[tiddlers]tag[Candidacy]party<currentTiddler>]" variable="party"><td class={{{ [<party>get[title]] }}}><$list filter="[tag[Candidacy]!has[draft.of]party<party>organization<pos>] :map[get[name]] +[sort[last-name]]" ><$link>{{{ [<currentTiddler>] }}} <$list filter="[<currentTiddler>has[avatar]]"><$image class="mini avatar" source={{{ [<currentTiddler>get[avatar]] }}} /></$list></$link><br/></$list></td></$list></tr>
-</$list>
+    <$list filter='[tag[Elected Positions]org-type[elected]]' variable="pos">
+      <tr>
+         <th>{{{ [<pos>get[title]] }}}</th>
+        <$list filter="[tag[Party]] :filter[all[tiddlers]tag[Candidacy]party<currentTiddler>]" variable="party">
+          <td class={{{ [<party>get[title]] }}}>
+            <$list filter="[tag[Candidacy]!has[draft.of]party<party>organization<pos>] +[sortsub:string<by-last>]" variable="candidacy"><$list filter="[<candidacy>get[name]]" >
+              <$transclude $variable="results" candidacy=<<candidacy>> />
+              <$link>
+                {{{ [<currentTiddler>] }}} 
+                <$list filter="[<currentTiddler>has[avatar]]">
+                  <$image class="mini avatar" source={{{ [<currentTiddler>get[avatar]] }}} />
+                </$list>
+              </$link>
+              <br/>
+            </$list></$list>
+          </td>
+        </$list>
+      </tr>
+    </$list>
   </tbody>
 </table>
+
+</$let>

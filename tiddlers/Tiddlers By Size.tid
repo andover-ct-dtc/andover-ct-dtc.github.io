@@ -1,0 +1,17 @@
+created: 20231108150659552
+creator: CrossEye
+modified: 20231108151747542
+modifier: CrossEye
+revision: 0
+tags: 
+title: Tiddlers By Size
+type: text/vnd.tiddlywiki
+
+<table><tr><th>title</th><th>size</th></tr>
+<$list filter="[all[tiddlers]] :sort:integer:reverse[<currentTiddler>get[text]length[]] +[first[25]]">
+   <tr>
+      <td><$link/></td>
+      <td style="text-align:right;"><$text text={{{ [<currentTiddler>get[text]length[]] }}}/></td>
+   </tr>
+</$list>
+</table>

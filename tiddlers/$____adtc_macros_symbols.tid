@@ -1,0 +1,21 @@
+created: 20231110163110246
+modified: 20231110215214097
+revision: 10
+tags: $:/tags/Macro
+title: $:/_/adtc/macros/symbols
+type: text/vnd.tiddlywiki
+
+\define results(candidacy)
+<$text text={{{ [<__candidacy__>!has[won]then[ ]] }}} />
+<$text text={{{ [<__candidacy__>get[won]match[yes]then[✅]] }}} />
+<$text text={{{ [<__candidacy__>get[won]match[no]then[❌]] }}} />
+<$text text={{{ [<__candidacy__>get[won]match[pending]then[◎]] }}} />
+\end
+
+Jeff <<results "Candidacy/2">>
+
+Adrian <<results "Candidacy/1">>
+
+Dummy <<results "New Candidacy">>
+
+New 2 <<results "New candidacy 2">>

@@ -1,7 +1,7 @@
 caption: BOS - Scott Person (D)
 contest: 2023-General
 created: 20230821202714519
-modified: 20231021010630253
+modified: 20231109153601140
 name: Scott Person
 organization: Board of Selectmen
 party: Democratic
@@ -9,3 +9,5 @@ revision: 0
 tags: Candidacy
 title: Candidacy/21
 type: text/vnd.tiddlywiki
+votes: 465
+won: yes
