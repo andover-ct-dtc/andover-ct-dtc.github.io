@@ -1,7 +1,6 @@
 created: 20230820021606079
 list: [[Other sites]] Donations
-modified: 20231108213945453
-revision: 0
+modified: 20231115020728164
 tags: TableOfContents
 title: Miscellaneous
 type: text/vnd.tiddlywiki
@@ -19,6 +18,10 @@ type: text/vnd.tiddlywiki
 !!! Democratic candidates with no bio
 
 <<list-links filter:"[tag[Person]party[Democratic]!has[text]] :filter[all[tiddlers]tag[Candidacy]name<currentTiddler>first[]] +[sortsub:string<by-last>]">>
+
+!!! Tagged Person, with no Andover voter record
+
+<<list-links filter:"[tag[Person]!has[draft.of]] :filter[all[tiddlers+shadows]tag[Voter]get[full-name]match{!!full-name}count[]match[0]] +[sort[last-name]]">>
 
 !!! See Also
 
