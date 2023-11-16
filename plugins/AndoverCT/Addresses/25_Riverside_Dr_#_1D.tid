@@ -3,7 +3,8 @@ tags: Address
 caption: Addresses/25 Riverside Dr # 1D
 address: 25 Riverside Dr # 1D
 street-number: 25
-street: Riverside Dr # 1D
+street: Riverside Dr
+apt: 1D
 city: Andover
 state: CT
 zip5: 06232

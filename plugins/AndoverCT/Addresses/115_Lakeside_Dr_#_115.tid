@@ -3,7 +3,8 @@ tags: Address
 caption: Addresses/115 Lakeside Dr # 115
 address: 115 Lakeside Dr # 115
 street-number: 115
-street: Lakeside Dr # 115
+street: Lakeside Dr
+apt: 115
 city: Andover
 state: CT
 zip5: 06232

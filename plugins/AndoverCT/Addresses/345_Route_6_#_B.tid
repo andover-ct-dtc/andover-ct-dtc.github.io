@@ -3,7 +3,8 @@ tags: Address
 caption: Addresses/345 Route 6 # B
 address: 345 Route 6 # B
 street-number: 345
-street: Route 6 # B
+street: Route 6
+apt: B
 city: Andover
 state: CT
 zip5: 06232

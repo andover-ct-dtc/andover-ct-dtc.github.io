@@ -3,11 +3,12 @@ tags: Address
 caption: Addresses/209 Lake Rd # R
 address: 209 Lake Rd # R
 street-number: 209
-street: Lake Rd # R
+street: Lake Rd
+apt: R
 city: Andover
 state: CT
 zip5: 06232
 zip4: 1514
-lat: 41.732044
-long: -72.375151
+lat: 41.710883
+long: -72.361019
 alt: 0

@@ -3,11 +3,12 @@ tags: Address
 caption: Addresses/637 Route 6 # A
 address: 637 Route 6 # A
 street-number: 637
-street: Route 6 # A
+street: Route 6
+apt: A
 city: Andover
 state: CT
 zip5: 06232
 zip4: 1320
-lat: 41.732044
-long: -72.375151
+lat: 41.73022
+long: -72.341463
 alt: 0

@@ -3,7 +3,8 @@ tags: Address
 caption: Addresses/329 Route 6 # 2
 address: 329 Route 6 # 2
 street-number: 329
-street: Route 6 # 2
+street: Route 6
+apt: 2
 city: Andover
 state: CT
 zip5: 06232

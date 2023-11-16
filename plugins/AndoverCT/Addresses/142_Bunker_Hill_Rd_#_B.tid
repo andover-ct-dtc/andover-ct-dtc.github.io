@@ -3,11 +3,12 @@ tags: Address
 caption: Addresses/142 Bunker Hill Rd # B
 address: 142 Bunker Hill Rd # B
 street-number: 142
-street: Bunker Hill Rd # B
+street: Bunker Hill Rd
+apt: B
 city: Andover
 state: CT
 zip5: 06232
 zip4: 1301
-lat: 41.732044
-long: -72.375151
+lat: 41.739512
+long: -72.342558
 alt: 0

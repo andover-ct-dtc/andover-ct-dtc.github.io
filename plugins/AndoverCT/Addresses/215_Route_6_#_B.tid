@@ -3,11 +3,12 @@ tags: Address
 caption: Addresses/215 Route 6 # B
 address: 215 Route 6 # B
 street-number: 215
-street: Route 6 # B
+street: Route 6
+apt: B
 city: Andover
 state: CT
 zip5: 06232
 zip4: 1206
-lat: 41.732044
-long: -72.375151
+lat: 41.747775
+long: -72.390417
 alt: 0

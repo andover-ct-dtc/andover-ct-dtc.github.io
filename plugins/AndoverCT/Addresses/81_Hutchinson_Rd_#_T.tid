@@ -3,11 +3,12 @@ tags: Address
 caption: Addresses/81 Hutchinson Rd # T
 address: 81 Hutchinson Rd # T
 street-number: 81
-street: Hutchinson Rd # T
+street: Hutchinson Rd
+apt: T
 city: Andover
 state: CT
 zip5: 06232
 zip4: 1015
-lat: 41.732044
-long: -72.375151
+lat: 41.758161
+long: -72.399311
 alt: 0

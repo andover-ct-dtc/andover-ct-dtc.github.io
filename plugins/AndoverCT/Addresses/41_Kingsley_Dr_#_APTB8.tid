@@ -3,7 +3,8 @@ tags: Address
 caption: Addresses/41 Kingsley Dr # APTB8
 address: 41 Kingsley Dr # APTB8
 street-number: 41
-street: Kingsley Dr #
+street: Kingsley Dr
+apt: APTB8
 city: Andover
 state: CT
 zip5: 06232

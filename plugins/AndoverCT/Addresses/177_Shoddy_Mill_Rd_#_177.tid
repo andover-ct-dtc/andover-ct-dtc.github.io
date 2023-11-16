@@ -3,11 +3,12 @@ tags: Address
 caption: Addresses/177 Shoddy Mill Rd # 177
 address: 177 Shoddy Mill Rd # 177
 street-number: 177
-street: Shoddy Mill Rd # 177
+street: Shoddy Mill Rd
+apt: 177
 city: Andover
 state: CT
 zip5: 06232
 zip4: 1215
-lat: 41.732044
-long: -72.375151
+lat: 41.739405
+long: -72.403346
 alt: 0

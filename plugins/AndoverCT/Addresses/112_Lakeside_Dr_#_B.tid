@@ -3,11 +3,12 @@ tags: Address
 caption: Addresses/112 Lakeside Dr # B
 address: 112 Lakeside Dr # B
 street-number: 112
-street: Lakeside Dr # B
+street: Lakeside Dr
+apt: B
 city: Andover
 state: CT
 zip5: 06232
 zip4: 1519
-lat: 41.732044
-long: -72.375151
+lat: 41.72067
+long: -72.363054
 alt: 0

@@ -3,7 +3,8 @@ tags: Address
 caption: Addresses/63 Bunker Hill Rd # A
 address: 63 Bunker Hill Rd # A
 street-number: 63
-street: Bunker Hill Rd # A
+street: Bunker Hill Rd
+apt: A
 city: Andover
 state: CT
 zip5: 06232

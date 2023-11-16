@@ -85,21 +85,21 @@ tags: Address
 caption: Addresses/${r.Address}
 address: ${r.Address}
 street-number: ${r.Address.split(' ')[0]}
-street: ${r.Address.split(' ').slice(1).join(' ').replace(/ Apt.*$/i, '')}
+street: ${r.Address.split(' ').slice(1).join(' ').replace(/ (?:Apt.?|#).*$/i, '')}
 ${addApt(r.Address)
 }city: ${r.City}
 state: ${r.State}
 zip5: ${r.Zip5}
 zip4: ${r.Zip4}
 ${(
-  loc = latLong[r.Address.replace(/ Apt.*$/i, '')] || latLong['Andover'], 
+  loc = latLong[r.Address.replace(/ (?:Apt.?|#).*$/i, '')] || latLong['Andover'], 
 `lat: ${loc.latitude}
 long: ${loc.longitude}
 alt: 0`
 )}`
 ])))
 
-const addApt = (a, m = a.match(/ Apt (.*)$/)) => m ? `apt: ${m[1]}
+const addApt = (a, m = a.match(/ (?:Apt|#) (.*)$/)) => m ? `apt: ${m[1]}
 ` : ''  
 
 const writeTiddler = ([fileName, content]) => writeFile (fileName, content, 'utf8')
