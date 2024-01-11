@@ -1,7 +1,6 @@
 caption: People
 created: 20230817203604668
-modified: 20231109192601218
-revision: 0
+modified: 20240111021008460
 tags: Data TableOfContents
 title: Person
 type: text/vnd.tiddlywiki
@@ -11,3 +10,5 @@ type: text/vnd.tiddlywiki
 <div style="column-width: 12em">
 <<list-links filter:[tag<currentTiddler>sortsub:string<by-last>] >>
 </div>
+
+</$let>

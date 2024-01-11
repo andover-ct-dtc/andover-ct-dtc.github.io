@@ -1,0 +1,21 @@
+created: 20240111015337480
+modified: 20240111023050974
+tags: 
+title: Democratic Voters
+type: text/vnd.tiddlywiki
+
+<$let by-last="[{!!last-name}] [{!!first-name}] +[join[, ]]">
+
+<table>
+<thead><tr><th> </th><th>Name</th><th>Address</th><th>Phone</th></tr></thead>
+<$list filter="[all[shadows]tag[Voter]party[Democratic]sortsub:string<by-last>]" >
+<tr>
+  <td style="text-align:center;"><$checkbox></$checkbox></td>
+  <td><$link>{{!!full-name}}</$link></td>
+  <td><$link to={{{ [{!!address}addprefix[$:/AndoverCT/Address/]]}}}>{{!!address}}</$link></td>
+  <td>{{!!phone}}</td>
+</tr>
+</$list>
+</table>
+
+</$let>
