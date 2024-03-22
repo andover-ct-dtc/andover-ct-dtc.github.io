@@ -1,10 +1,28 @@
 abbreviation: DTC
 caption: DTC Membership
 created: 20230819161912133
-modified: 20231001192047867
-revision: 0
+modified: 20240322013554186
 tags: TableOfContents Volunteer
 title: Democratic Town Committee
 type: text/vnd.tiddlywiki
 
-
+<!--
+!! Data Entry
+<$let by-last ="[{!!last-name}] [{!!first-name}] +[join[, ]]", by-person-last="[get[name]get[last-name]] [get[name]get[first-name]] +[join[, ]]">
+<table>
+<thead>
+<tr><th>Name</th><th>Role</th><th>Email</th><th>Phone</th><th>Address</th></tr>
+</thead>
+<tbody>
+<$list filter="[tag[Position]organization<currentTiddler>]  +[sortsub:string<by-person-last>]"><$let person={{!!name}} >
+    <tr>
+      <td><$link to={{!!name}} /></td>
+      <td><$edit-text tiddler=<<currentTiddler>> field="role" tabindex=1 /></td>
+      <td><$edit-text tiddler=<<person>> field="email" tabindex=1 /></td>
+      <td><$edit-text tiddler=<<person>> field="phone" tabindex=1 /></td>
+      <td><$edit-text tiddler=<<person>> field="address" tabindex=1 /></td>
+    </tr>
+</$let></$list>
+  </tbody>
+<table>
+-->
