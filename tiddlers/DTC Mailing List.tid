@@ -1,9 +1,10 @@
 created: 20240322013330242
-modified: 20240326122357958
-tags: TableOfContents
+modified: 20240423170155844
+tags: TableOfContents TODO
 title: DTC Mailing List
 type: text/vnd.tiddlywiki
 
+<!-- TODO: Add checkboxes for fields to in/exclude in lists -->
 <$let by-last ="[{!!last-name}] [{!!first-name}] +[join[, ]]", by-person-last="[get[name]get[last-name]] [get[name]get[first-name]] +[join[, ]]">
 <$list filter="[tag[Position]organization[Democratic Town Committee]]  +[sortsub:string<by-person-last>]"><$let person={{!!name}} >
 <br/>
