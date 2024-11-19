@@ -1,0 +1,5 @@
+created: 20241119044044542
+list: $:/core/ui/ViewTemplate/title $:/core/ui/ViewTemplate/unfold $:/core/ui/ViewTemplate/subtitle $:/core/ui/ViewTemplate/tags $:/core/ui/ViewTemplate/classic $:/_/avl/templates/Address $:/_/avl/templates/Voter $:/core/ui/ViewTemplate/body
+modified: 20241119044047031
+title: $:/tags/ViewTemplate
+type: text/vnd.tiddlywiki
