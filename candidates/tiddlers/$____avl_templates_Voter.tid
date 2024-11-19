@@ -1,0 +1,34 @@
+created: 20241119024530343
+modified: 20241119041156230
+tags: $:/tags/ViewTemplate
+title: $:/_/avl/templates/Voter
+type: text/vnd.tiddlywiki
+
+<% if [<currentTiddler>tag[Voter]] %>
+
+; Name
+: {{!!first-name}} {{!!last-name}}
+
+; Gender
+: {{!!sex}}
+
+; Age
+: {{!!age}}
+
+; Address
+: <$link to=`Address/${ [{!!address-id}] }$`>{{!!m-address}}</$link>
+
+; Phone
+: {{!!preferred-phone}}
+
+; Party
+: {{!!party}}
+
+<details><summary>''Scores''</summary>
+<ul>
+<$list filter="[enlist{$:/_/avl/data/score-fields}]" variable="fld">
+<li><<fld>>: ''<$text text={{{ [<currentTiddler>get<fld>] }}}/>''</li>
+</$list>
+</ul>
+</details>
+<% endif %>

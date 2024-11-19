@@ -1,0 +1,14 @@
+created: 20241118203023193
+modified: 20241118210127024
+revision: 0
+tags: [[Raw Data]]
+title: Raw VAN Data
+type: text/vnd.tiddlywiki
+
+This is the raw data extracted from VAN, 2024-11-18.  (//Warning, it's ugly!//):
+
+<$macrocall $name="copy-to-clipboard-above-right" src={{$:/_/avl/data/van}}/>
+<div style="width: 95%; overflow:auto;">
+<pre style="white-space: pre;">{{$:/_/avl/data/van}}
+</pre>
+</div>

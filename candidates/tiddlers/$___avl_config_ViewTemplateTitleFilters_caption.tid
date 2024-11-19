@@ -1,0 +1,9 @@
+created: 20230830142553245
+list-before: 
+modified: 20241118202429372
+revision: 0
+tags: $:/tags/ViewTemplateTitleFilter
+title: $:/_avl/config/ViewTemplateTitleFilters/caption
+type: text/vnd.tiddlywiki
+
+[<currentTiddler>has[caption]then[$:/_/avl/core/ui/ViewTemplate/title/caption]]

@@ -1,0 +1,8 @@
+created: 20240221172918705
+modified: 20241118202646019
+revision: 0
+tags: 
+title: $:/_/avl/meta/tiddlers/filter
+type: text/vnd.tiddlywiki
+
+[prefix[$:/_/avl]] [all[tiddlers]is[shadow]] -[[$:/SiteTitle]] -[[$:/SiteSubtitle]] -[prefix[$:/temp]] -[[$:/DefaultTiddlers]] TableOfContents
