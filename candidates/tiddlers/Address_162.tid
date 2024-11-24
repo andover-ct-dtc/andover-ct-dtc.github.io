@@ -2,7 +2,10 @@ address: 6 Shadblow Ln
 address-id: 162
 caption: Address/6 Shadblow Ln
 city: Andover
+revision: 0
 state: CT
+street-name: Shadblow Ln
+street-number: 6
 tags: Address
 title: Address/162
 type: text/vnd.tiddlywiki

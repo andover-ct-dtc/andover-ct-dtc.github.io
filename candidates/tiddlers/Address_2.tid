@@ -2,7 +2,10 @@ address: 157 Lakeside Dr
 address-id: 2
 caption: Address/157 Lakeside Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Lakeside Dr
+street-number: 157
 tags: Address
 title: Address/2
 type: text/vnd.tiddlywiki

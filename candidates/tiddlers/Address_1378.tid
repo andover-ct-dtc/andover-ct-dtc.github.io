@@ -2,7 +2,10 @@ address: 52 Hendee Rd
 address-id: 1378
 caption: Address/52 Hendee Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hendee Rd
+street-number: 52
 tags: Address
 title: Address/1378
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 276 Long Hill Rd
 address-id: 1246
 caption: Address/276 Long Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Long Hill Rd
+street-number: 276
 tags: Address
 title: Address/1246
 type: text/vnd.tiddlywiki

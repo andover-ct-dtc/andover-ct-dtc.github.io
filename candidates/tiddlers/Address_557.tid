@@ -2,7 +2,10 @@ address: 159 Lakeside Dr
 address-id: 557
 caption: Address/159 Lakeside Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Lakeside Dr
+street-number: 159
 tags: Address
 title: Address/557
 type: text/vnd.tiddlywiki

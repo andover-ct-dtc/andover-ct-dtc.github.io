@@ -2,7 +2,10 @@ address: 346 Hebron Rd
 address-id: 247
 caption: Address/346 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 346
 tags: Address
 title: Address/247
 type: text/vnd.tiddlywiki

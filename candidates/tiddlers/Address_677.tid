@@ -2,7 +2,10 @@ address: 24 Brown Rd
 address-id: 677
 caption: Address/24 Brown Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Brown Rd
+street-number: 24
 tags: Address
 title: Address/677
 type: text/vnd.tiddlywiki

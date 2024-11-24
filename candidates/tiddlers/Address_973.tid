@@ -2,7 +2,10 @@ address: 125 Boston Hill Rd
 address-id: 973
 caption: Address/125 Boston Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Boston Hill Rd
+street-number: 125
 tags: Address
 title: Address/973
 type: text/vnd.tiddlywiki

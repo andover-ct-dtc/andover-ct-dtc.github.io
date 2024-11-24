@@ -2,7 +2,10 @@ address: 12 Rose Ln
 address-id: 2001
 caption: Address/12 Rose Ln
 city: Andover
+revision: 0
 state: CT
+street-name: Rose Ln
+street-number: 12
 tags: Address
 title: Address/2001
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 24 Old Coventry Rd
 address-id: 2221
 caption: Address/24 Old Coventry Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Old Coventry Rd
+street-number: 24
 tags: Address
 title: Address/2221
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 14 Hickory Hill Dr
 address-id: 139
 caption: Address/14 Hickory Hill Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Hickory Hill Dr
+street-number: 14
 tags: Address
 title: Address/139
 type: text/vnd.tiddlywiki

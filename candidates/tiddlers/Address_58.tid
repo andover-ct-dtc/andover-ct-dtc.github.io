@@ -2,7 +2,10 @@ address: 18 Stanley Dr
 address-id: 58
 caption: Address/18 Stanley Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Stanley Dr
+street-number: 18
 tags: Address
 title: Address/58
 type: text/vnd.tiddlywiki

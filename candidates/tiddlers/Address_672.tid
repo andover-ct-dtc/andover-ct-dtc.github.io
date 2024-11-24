@@ -2,7 +2,10 @@ address: 237 Lake Rd
 address-id: 672
 caption: Address/237 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 237
 tags: Address
 title: Address/672
 type: text/vnd.tiddlywiki

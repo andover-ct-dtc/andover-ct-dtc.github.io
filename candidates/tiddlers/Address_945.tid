@@ -2,7 +2,10 @@ address: 111 Lakeside Dr
 address-id: 945
 caption: Address/111 Lakeside Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Lakeside Dr
+street-number: 111
 tags: Address
 title: Address/945
 type: text/vnd.tiddlywiki

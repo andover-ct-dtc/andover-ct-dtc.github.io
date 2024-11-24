@@ -2,7 +2,10 @@ address: 323 Lake Rd
 address-id: 1119
 caption: Address/323 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 323
 tags: Address
 title: Address/1119
 type: text/vnd.tiddlywiki

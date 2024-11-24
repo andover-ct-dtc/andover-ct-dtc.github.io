@@ -2,7 +2,10 @@ address: 3 Erdoni Rd
 address-id: 164
 caption: Address/3 Erdoni Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Erdoni Rd
+street-number: 3
 tags: Address
 title: Address/164
 type: text/vnd.tiddlywiki

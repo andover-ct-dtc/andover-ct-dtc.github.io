@@ -1,8 +1,11 @@
-address: PO Box 270
+address: 26 Route 6
 address-id: 4
-caption: Address/PO Box 270
+caption: Address/26 Route 6
 city: Andover
+revision: 0
 state: CT
+street-name: Route 6
+street-number: 26
 tags: Address
 title: Address/4
 type: text/vnd.tiddlywiki

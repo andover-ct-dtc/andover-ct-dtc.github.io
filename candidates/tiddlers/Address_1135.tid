@@ -2,7 +2,10 @@ address: 173 Long Hill Rd
 address-id: 1135
 caption: Address/173 Long Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Long Hill Rd
+street-number: 173
 tags: Address
 title: Address/1135
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 76 West St
 address-id: 221
 caption: Address/76 West St
 city: Andover
+revision: 0
 state: CT
+street-name: West St
+street-number: 76
 tags: Address
 title: Address/221
 type: text/vnd.tiddlywiki

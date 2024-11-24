@@ -2,7 +2,10 @@ address: 1 Times Farm Rd
 address-id: 379
 caption: Address/1 Times Farm Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Times Farm Rd
+street-number: 1
 tags: Address
 title: Address/379
 type: text/vnd.tiddlywiki

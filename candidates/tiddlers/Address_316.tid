@@ -2,7 +2,10 @@ address: 107 Wales Rd
 address-id: 316
 caption: Address/107 Wales Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Wales Rd
+street-number: 107
 tags: Address
 title: Address/316
 type: text/vnd.tiddlywiki

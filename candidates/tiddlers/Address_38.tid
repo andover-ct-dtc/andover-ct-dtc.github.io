@@ -2,7 +2,10 @@ address: 17 Burnap Brook Rd
 address-id: 38
 caption: Address/17 Burnap Brook Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Burnap Brook Rd
+street-number: 17
 tags: Address
 title: Address/38
 type: text/vnd.tiddlywiki

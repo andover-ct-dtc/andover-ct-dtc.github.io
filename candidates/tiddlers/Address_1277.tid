@@ -2,7 +2,10 @@ address: 136 Lakeside Dr
 address-id: 1277
 caption: Address/136 Lakeside Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Lakeside Dr
+street-number: 136
 tags: Address
 title: Address/1277
 type: text/vnd.tiddlywiki

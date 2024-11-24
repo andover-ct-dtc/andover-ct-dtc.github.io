@@ -2,7 +2,10 @@ address: 56 Hendee Rd
 address-id: 219
 caption: Address/56 Hendee Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hendee Rd
+street-number: 56
 tags: Address
 title: Address/219
 type: text/vnd.tiddlywiki

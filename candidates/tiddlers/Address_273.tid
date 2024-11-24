@@ -2,7 +2,10 @@ address: 126 Lake Rd
 address-id: 273
 caption: Address/126 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 126
 tags: Address
 title: Address/273
 type: text/vnd.tiddlywiki

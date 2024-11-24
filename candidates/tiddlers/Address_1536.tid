@@ -2,7 +2,10 @@ address: 426 Lake Rd
 address-id: 1536
 caption: Address/426 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 426
 tags: Address
 title: Address/1536
 type: text/vnd.tiddlywiki

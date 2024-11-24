@@ -2,7 +2,10 @@ address: 118 Bunker Hill Rd
 address-id: 1142
 caption: Address/118 Bunker Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bunker Hill Rd
+street-number: 118
 tags: Address
 title: Address/1142
 type: text/vnd.tiddlywiki

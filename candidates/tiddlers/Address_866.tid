@@ -2,7 +2,10 @@ address: 212 Gilead Rd
 address-id: 866
 caption: Address/212 Gilead Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Gilead Rd
+street-number: 212
 tags: Address
 title: Address/866
 type: text/vnd.tiddlywiki

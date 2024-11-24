@@ -1,8 +1,11 @@
-address: 110 Lake Rd Apt B
+address: 110 Lake Rd
 address-id: 2066
-caption: Address/110 Lake Rd Apt B
+caption: Address/110 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 110
 tags: Address
 title: Address/2066
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 25 Webster Ln
 address-id: 64
 caption: Address/25 Webster Ln
 city: Bolton
+revision: 0
 state: CT
+street-name: Webster Ln
+street-number: 25
 tags: Address
 title: Address/64
 type: text/vnd.tiddlywiki

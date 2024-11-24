@@ -1,8 +1,11 @@
-address: 371 Lake Rd Apt C
+address: 371 Lake Rd
 address-id: 96
-caption: Address/371 Lake Rd Apt C
+caption: Address/371 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 371
 tags: Address
 title: Address/96
 type: text/vnd.tiddlywiki

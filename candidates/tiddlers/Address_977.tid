@@ -2,7 +2,10 @@ address: 850 East St
 address-id: 977
 caption: Address/850 East St
 city: Andover
+revision: 0
 state: CT
+street-name: East St
+street-number: 850
 tags: Address
 title: Address/977
 type: text/vnd.tiddlywiki

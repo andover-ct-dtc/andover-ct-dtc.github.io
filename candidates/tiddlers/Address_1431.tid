@@ -2,7 +2,10 @@ address: 334 Hebron Rd
 address-id: 1431
 caption: Address/334 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 334
 tags: Address
 title: Address/1431
 type: text/vnd.tiddlywiki

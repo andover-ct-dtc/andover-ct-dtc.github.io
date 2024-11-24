@@ -27,6 +27,7 @@ choice-support: 78.77
 city: Andover
 civ-part: 
 clarity-nat-to: 80.30
+created: 20241120192946003
 ct02courtney-support: 
 ct05hayes-support: 
 dga-lamont-support: 
@@ -49,10 +50,12 @@ m-state: CT
 m-zip4: 1700
 m-zip5: 06232
 middle-name: 
+modified: 20241120193200754
 party: D
 preferred-email: 
 preferred-phone: 860-985-5135
 preferred-phone-is-cell: Likely Not a Cell
+revision: 0
 salutation-informal: Sarah
 sdsup: 
 sex: F

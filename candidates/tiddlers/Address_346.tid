@@ -2,7 +2,10 @@ address: 60 Stanley Dr
 address-id: 346
 caption: Address/60 Stanley Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Stanley Dr
+street-number: 60
 tags: Address
 title: Address/346
 type: text/vnd.tiddlywiki

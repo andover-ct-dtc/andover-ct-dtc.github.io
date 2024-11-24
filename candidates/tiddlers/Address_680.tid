@@ -2,7 +2,10 @@ address: 191 Bunker Hill Rd
 address-id: 680
 caption: Address/191 Bunker Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bunker Hill Rd
+street-number: 191
 tags: Address
 title: Address/680
 type: text/vnd.tiddlywiki

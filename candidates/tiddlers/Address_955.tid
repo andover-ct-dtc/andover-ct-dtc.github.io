@@ -2,7 +2,10 @@ address: 197 Hebron Rd
 address-id: 955
 caption: Address/197 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 197
 tags: Address
 title: Address/955
 type: text/vnd.tiddlywiki

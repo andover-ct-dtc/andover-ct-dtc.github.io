@@ -2,7 +2,10 @@ address: 305 Route 6
 address-id: 1732
 caption: Address/305 Route 6
 city: Andover
+revision: 0
 state: CT
+street-name: Route 6
+street-number: 305
 tags: Address
 title: Address/1732
 type: text/vnd.tiddlywiki

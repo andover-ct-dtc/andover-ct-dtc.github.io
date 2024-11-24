@@ -2,7 +2,10 @@ address: 20 Bausola Rd
 address-id: 870
 caption: Address/20 Bausola Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bausola Rd
+street-number: 20
 tags: Address
 title: Address/870
 type: text/vnd.tiddlywiki

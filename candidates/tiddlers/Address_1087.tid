@@ -2,7 +2,10 @@ address: 4 Sunset Ln
 address-id: 1087
 caption: Address/4 Sunset Ln
 city: Andover
+revision: 0
 state: CT
+street-name: Sunset Ln
+street-number: 4
 tags: Address
 title: Address/1087
 type: text/vnd.tiddlywiki

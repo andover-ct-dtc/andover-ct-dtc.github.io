@@ -2,7 +2,10 @@ address: 14 W Street Ext
 address-id: 2135
 caption: Address/14 W Street Ext
 city: Andover
+revision: 0
 state: CT
+street-name: W Street Ext
+street-number: 14
 tags: Address
 title: Address/2135
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 25 Pine Ridge Dr
 address-id: 1021
 caption: Address/25 Pine Ridge Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Pine Ridge Dr
+street-number: 25
 tags: Address
 title: Address/1021
 type: text/vnd.tiddlywiki

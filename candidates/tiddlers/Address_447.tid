@@ -1,8 +1,11 @@
-address: 81 Hutchinson Rd # T
+address: 81 Hutchinson Rd
 address-id: 447
-caption: Address/81 Hutchinson Rd # T
+caption: Address/81 Hutchinson Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hutchinson Rd
+street-number: 81
 tags: Address
 title: Address/447
 type: text/vnd.tiddlywiki

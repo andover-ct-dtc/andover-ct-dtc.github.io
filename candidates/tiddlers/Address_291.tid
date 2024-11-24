@@ -2,7 +2,10 @@ address: 112 Long Hill Rd
 address-id: 291
 caption: Address/112 Long Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Long Hill Rd
+street-number: 112
 tags: Address
 title: Address/291
 type: text/vnd.tiddlywiki

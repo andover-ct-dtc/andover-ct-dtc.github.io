@@ -2,7 +2,10 @@ address: 70 Hebron Rd
 address-id: 404
 caption: Address/70 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 70
 tags: Address
 title: Address/404
 type: text/vnd.tiddlywiki

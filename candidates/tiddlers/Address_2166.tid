@@ -2,7 +2,10 @@ address: 907 East St
 address-id: 2166
 caption: Address/907 East St
 city: Andover
+revision: 0
 state: CT
+street-name: East St
+street-number: 907
 tags: Address
 title: Address/2166
 type: text/vnd.tiddlywiki

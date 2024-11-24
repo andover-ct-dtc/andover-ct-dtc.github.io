@@ -2,7 +2,10 @@ address: 38 Lakeside Dr
 address-id: 1161
 caption: Address/38 Lakeside Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Lakeside Dr
+street-number: 38
 tags: Address
 title: Address/1161
 type: text/vnd.tiddlywiki

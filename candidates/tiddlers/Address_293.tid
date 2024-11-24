@@ -2,7 +2,10 @@ address: 74 Route 87
 address-id: 293
 caption: Address/74 Route 87
 city: Andover
+revision: 0
 state: CT
+street-name: Route 87
+street-number: 74
 tags: Address
 title: Address/293
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 264 Gilead Rd
 address-id: 899
 caption: Address/264 Gilead Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Gilead Rd
+street-number: 264
 tags: Address
 title: Address/899
 type: text/vnd.tiddlywiki

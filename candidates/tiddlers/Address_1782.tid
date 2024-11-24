@@ -2,7 +2,10 @@ address: 75 Lakeside Dr
 address-id: 1782
 caption: Address/75 Lakeside Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Lakeside Dr
+street-number: 75
 tags: Address
 title: Address/1782
 type: text/vnd.tiddlywiki

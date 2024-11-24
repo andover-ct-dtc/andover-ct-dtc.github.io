@@ -1,8 +1,11 @@
-address: 29 Shoddy Mill Rd
+address: 15 Times Farm Rd
 address-id: 647
-caption: Address/29 Shoddy Mill Rd
+caption: Address/15 Times Farm Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Times Farm Rd
+street-number: 15
 tags: Address
 title: Address/647
 type: text/vnd.tiddlywiki

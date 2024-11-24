@@ -2,7 +2,10 @@ address: 40 Old Farms Rd
 address-id: 133
 caption: Address/40 Old Farms Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Old Farms Rd
+street-number: 40
 tags: Address
 title: Address/133
 type: text/vnd.tiddlywiki

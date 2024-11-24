@@ -2,7 +2,10 @@ address: 316 Lake Rd
 address-id: 281
 caption: Address/316 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 316
 tags: Address
 title: Address/281
 type: text/vnd.tiddlywiki

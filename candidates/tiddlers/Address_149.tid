@@ -2,7 +2,10 @@ address: 111 Wales Rd
 address-id: 149
 caption: Address/111 Wales Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Wales Rd
+street-number: 111
 tags: Address
 title: Address/149
 type: text/vnd.tiddlywiki

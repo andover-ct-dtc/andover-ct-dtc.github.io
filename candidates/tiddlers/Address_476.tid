@@ -2,7 +2,10 @@ address: 109 Bunker Hill Rd
 address-id: 476
 caption: Address/109 Bunker Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bunker Hill Rd
+street-number: 109
 tags: Address
 title: Address/476
 type: text/vnd.tiddlywiki

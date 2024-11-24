@@ -2,7 +2,10 @@ address: 32 Oak Farms Rd
 address-id: 1823
 caption: Address/32 Oak Farms Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Oak Farms Rd
+street-number: 32
 tags: Address
 title: Address/1823
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 55 Pine Ridge Dr
 address-id: 427
 caption: Address/55 Pine Ridge Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Pine Ridge Dr
+street-number: 55
 tags: Address
 title: Address/427
 type: text/vnd.tiddlywiki

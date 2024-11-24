@@ -2,7 +2,10 @@ address: 26 Stanley Dr
 address-id: 1716
 caption: Address/26 Stanley Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Stanley Dr
+street-number: 26
 tags: Address
 title: Address/1716
 type: text/vnd.tiddlywiki

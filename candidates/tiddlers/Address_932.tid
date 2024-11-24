@@ -2,7 +2,10 @@ address: 893 East St
 address-id: 932
 caption: Address/893 East St
 city: Andover
+revision: 0
 state: CT
+street-name: East St
+street-number: 893
 tags: Address
 title: Address/932
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 7 Ryan Rd
 address-id: 1748
 caption: Address/7 Ryan Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Ryan Rd
+street-number: 7
 tags: Address
 title: Address/1748
 type: text/vnd.tiddlywiki

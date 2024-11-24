@@ -2,7 +2,10 @@ address: 31 Pine Ridge Dr
 address-id: 156
 caption: Address/31 Pine Ridge Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Pine Ridge Dr
+street-number: 31
 tags: Address
 title: Address/156
 type: text/vnd.tiddlywiki

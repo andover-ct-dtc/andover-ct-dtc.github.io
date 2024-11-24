@@ -2,7 +2,10 @@ address: 16 Chesterbrook Ln
 address-id: 157
 caption: Address/16 Chesterbrook Ln
 city: Andover
+revision: 0
 state: CT
+street-name: Chesterbrook Ln
+street-number: 16
 tags: Address
 title: Address/157
 type: text/vnd.tiddlywiki

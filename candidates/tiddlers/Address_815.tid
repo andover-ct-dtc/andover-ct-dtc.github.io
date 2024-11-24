@@ -2,7 +2,10 @@ address: 36 Ridge Rd
 address-id: 815
 caption: Address/36 Ridge Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Ridge Rd
+street-number: 36
 tags: Address
 title: Address/815
 type: text/vnd.tiddlywiki

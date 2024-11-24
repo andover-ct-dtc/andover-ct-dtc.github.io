@@ -2,7 +2,10 @@ address: 335 Hebron Rd
 address-id: 467
 caption: Address/335 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 335
 tags: Address
 title: Address/467
 type: text/vnd.tiddlywiki

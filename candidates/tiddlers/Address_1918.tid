@@ -2,7 +2,10 @@ address: 197 Lake Rd
 address-id: 1918
 caption: Address/197 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 197
 tags: Address
 title: Address/1918
 type: text/vnd.tiddlywiki

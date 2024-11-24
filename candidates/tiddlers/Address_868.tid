@@ -2,7 +2,10 @@ address: 15 Times Farm Rd
 address-id: 868
 caption: Address/15 Times Farm Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Times Farm Rd
+street-number: 15
 tags: Address
 title: Address/868
 type: text/vnd.tiddlywiki

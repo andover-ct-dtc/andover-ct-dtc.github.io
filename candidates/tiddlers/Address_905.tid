@@ -2,7 +2,10 @@ address: 329 Bailey Rd
 address-id: 905
 caption: Address/329 Bailey Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bailey Rd
+street-number: 329
 tags: Address
 title: Address/905
 type: text/vnd.tiddlywiki

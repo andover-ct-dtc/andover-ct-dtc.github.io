@@ -2,7 +2,10 @@ address: 75 Bausola Rd
 address-id: 229
 caption: Address/75 Bausola Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bausola Rd
+street-number: 75
 tags: Address
 title: Address/229
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 128 Bunker Hill Rd
 address-id: 568
 caption: Address/128 Bunker Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bunker Hill Rd
+street-number: 128
 tags: Address
 title: Address/568
 type: text/vnd.tiddlywiki

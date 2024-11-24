@@ -2,7 +2,10 @@ address: 44 West St
 address-id: 252
 caption: Address/44 West St
 city: Andover
+revision: 0
 state: CT
+street-name: West St
+street-number: 44
 tags: Address
 title: Address/252
 type: text/vnd.tiddlywiki

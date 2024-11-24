@@ -2,7 +2,10 @@ address: 39 Stanley Dr
 address-id: 1201
 caption: Address/39 Stanley Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Stanley Dr
+street-number: 39
 tags: Address
 title: Address/1201
 type: text/vnd.tiddlywiki

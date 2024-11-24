@@ -2,7 +2,10 @@ address: 45 Stanley Dr
 address-id: 180
 caption: Address/45 Stanley Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Stanley Dr
+street-number: 45
 tags: Address
 title: Address/180
 type: text/vnd.tiddlywiki

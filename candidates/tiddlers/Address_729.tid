@@ -2,7 +2,10 @@ address: 152 Hebron Rd
 address-id: 729
 caption: Address/152 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 152
 tags: Address
 title: Address/729
 type: text/vnd.tiddlywiki

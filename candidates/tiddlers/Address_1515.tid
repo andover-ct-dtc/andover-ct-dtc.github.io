@@ -2,7 +2,10 @@ address: 37 Lakeside Dr
 address-id: 1515
 caption: Address/37 Lakeside Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Lakeside Dr
+street-number: 37
 tags: Address
 title: Address/1515
 type: text/vnd.tiddlywiki

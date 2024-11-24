@@ -2,7 +2,10 @@ address: 248 Bear Swamp Rd
 address-id: 939
 caption: Address/248 Bear Swamp Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bear Swamp Rd
+street-number: 248
 tags: Address
 title: Address/939
 type: text/vnd.tiddlywiki

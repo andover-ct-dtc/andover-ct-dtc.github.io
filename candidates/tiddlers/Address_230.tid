@@ -2,7 +2,10 @@ address: 255 Lake Rd
 address-id: 230
 caption: Address/255 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 255
 tags: Address
 title: Address/230
 type: text/vnd.tiddlywiki

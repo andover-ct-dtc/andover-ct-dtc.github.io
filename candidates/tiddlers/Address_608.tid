@@ -2,7 +2,10 @@ address: 127 Wales Rd
 address-id: 608
 caption: Address/127 Wales Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Wales Rd
+street-number: 127
 tags: Address
 title: Address/608
 type: text/vnd.tiddlywiki

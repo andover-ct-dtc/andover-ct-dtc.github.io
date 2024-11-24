@@ -2,7 +2,10 @@ address: 24 Pine Ridge Dr
 address-id: 1260
 caption: Address/24 Pine Ridge Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Pine Ridge Dr
+street-number: 24
 tags: Address
 title: Address/1260
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 659 Route 6
 address-id: 179
 caption: Address/659 Route 6
 city: Andover
+revision: 0
 state: CT
+street-name: Route 6
+street-number: 659
 tags: Address
 title: Address/179
 type: text/vnd.tiddlywiki

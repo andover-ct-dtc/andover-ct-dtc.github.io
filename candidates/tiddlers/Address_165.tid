@@ -2,7 +2,10 @@ address: 52 Wales Rd
 address-id: 165
 caption: Address/52 Wales Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Wales Rd
+street-number: 52
 tags: Address
 title: Address/165
 type: text/vnd.tiddlywiki

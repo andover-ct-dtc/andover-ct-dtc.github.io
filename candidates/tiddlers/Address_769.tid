@@ -2,7 +2,10 @@ address: 9 Gilead Rd
 address-id: 769
 caption: Address/9 Gilead Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Gilead Rd
+street-number: 9
 tags: Address
 title: Address/769
 type: text/vnd.tiddlywiki

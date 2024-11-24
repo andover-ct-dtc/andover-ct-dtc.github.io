@@ -2,7 +2,10 @@ address: 73 Wales Rd
 address-id: 1056
 caption: Address/73 Wales Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Wales Rd
+street-number: 73
 tags: Address
 title: Address/1056
 type: text/vnd.tiddlywiki

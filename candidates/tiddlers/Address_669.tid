@@ -2,7 +2,10 @@ address: 341 Boston Hill Rd
 address-id: 669
 caption: Address/341 Boston Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Boston Hill Rd
+street-number: 341
 tags: Address
 title: Address/669
 type: text/vnd.tiddlywiki

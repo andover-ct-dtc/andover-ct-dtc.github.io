@@ -2,7 +2,10 @@ address: 349 Route 6
 address-id: 535
 caption: Address/349 Route 6
 city: Andover
+revision: 0
 state: CT
+street-name: Route 6
+street-number: 349
 tags: Address
 title: Address/535
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 902 East St
 address-id: 1294
 caption: Address/902 East St
 city: Andover
+revision: 0
 state: CT
+street-name: East St
+street-number: 902
 tags: Address
 title: Address/1294
 type: text/vnd.tiddlywiki

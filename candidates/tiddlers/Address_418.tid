@@ -2,7 +2,10 @@ address: 34 Stanley Dr
 address-id: 418
 caption: Address/34 Stanley Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Stanley Dr
+street-number: 34
 tags: Address
 title: Address/418
 type: text/vnd.tiddlywiki

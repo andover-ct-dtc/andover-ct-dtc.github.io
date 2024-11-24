@@ -2,7 +2,10 @@ address: 55 Hebron Rd
 address-id: 480
 caption: Address/55 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 55
 tags: Address
 title: Address/480
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 84 Gilead Rd
 address-id: 1383
 caption: Address/84 Gilead Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Gilead Rd
+street-number: 84
 tags: Address
 title: Address/1383
 type: text/vnd.tiddlywiki

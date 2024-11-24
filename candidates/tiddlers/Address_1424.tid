@@ -2,7 +2,10 @@ address: 6 Pine Ridge Dr
 address-id: 1424
 caption: Address/6 Pine Ridge Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Pine Ridge Dr
+street-number: 6
 tags: Address
 title: Address/1424
 type: text/vnd.tiddlywiki

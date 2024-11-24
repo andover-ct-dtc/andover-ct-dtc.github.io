@@ -1,8 +1,11 @@
-address: PO Box 88
+address: 88 Hendee Rd
 address-id: 285
-caption: Address/PO Box 88
+caption: Address/88 Hendee Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hendee Rd
+street-number: 88
 tags: Address
 title: Address/285
 type: text/vnd.tiddlywiki

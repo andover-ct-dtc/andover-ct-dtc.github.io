@@ -2,7 +2,10 @@ address: 10 Shadblow Ln
 address-id: 2267
 caption: Address/10 Shadblow Ln
 city: Andover
+revision: 0
 state: CT
+street-name: Shadblow Ln
+street-number: 10
 tags: Address
 title: Address/2267
 type: text/vnd.tiddlywiki

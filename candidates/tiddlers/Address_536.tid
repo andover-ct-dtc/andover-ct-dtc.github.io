@@ -2,7 +2,10 @@ address: 172 Bear Swamp Rd
 address-id: 536
 caption: Address/172 Bear Swamp Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bear Swamp Rd
+street-number: 172
 tags: Address
 title: Address/536
 type: text/vnd.tiddlywiki

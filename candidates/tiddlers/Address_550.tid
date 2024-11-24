@@ -2,7 +2,10 @@ address: 167 Long Hill Rd
 address-id: 550
 caption: Address/167 Long Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Long Hill Rd
+street-number: 167
 tags: Address
 title: Address/550
 type: text/vnd.tiddlywiki

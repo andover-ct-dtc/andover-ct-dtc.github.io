@@ -2,9 +2,10 @@ address: 168 Boston Hill Rd
 address-id: 504
 caption: Address/168 Boston Hill Rd
 city: Andover
-created: 20241119040428129
-modified: 20241119040428129
+revision: 0
 state: CT
+street-name: Boston Hill Rd
+street-number: 168
 tags: Address
 title: Address/504
 type: text/vnd.tiddlywiki

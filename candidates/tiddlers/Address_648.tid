@@ -2,7 +2,10 @@ address: 63 Boston Hill Rd
 address-id: 648
 caption: Address/63 Boston Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Boston Hill Rd
+street-number: 63
 tags: Address
 title: Address/648
 type: text/vnd.tiddlywiki

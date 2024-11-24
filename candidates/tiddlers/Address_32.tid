@@ -2,7 +2,10 @@ address: 18 Lakeview Dr
 address-id: 32
 caption: Address/18 Lakeview Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Lakeview Dr
+street-number: 18
 tags: Address
 title: Address/32
 type: text/vnd.tiddlywiki

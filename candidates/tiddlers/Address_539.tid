@@ -2,7 +2,10 @@ address: 738 East St
 address-id: 539
 caption: Address/738 East St
 city: Andover
+revision: 0
 state: CT
+street-name: East St
+street-number: 738
 tags: Address
 title: Address/539
 type: text/vnd.tiddlywiki

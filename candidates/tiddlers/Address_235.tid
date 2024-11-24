@@ -2,7 +2,10 @@ address: 166 Route 6
 address-id: 235
 caption: Address/166 Route 6
 city: Andover
+revision: 0
 state: CT
+street-name: Route 6
+street-number: 166
 tags: Address
 title: Address/235
 type: text/vnd.tiddlywiki

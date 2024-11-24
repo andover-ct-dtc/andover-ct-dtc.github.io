@@ -2,7 +2,10 @@ address: 22 Chesterbrook Ln
 address-id: 159
 caption: Address/22 Chesterbrook Ln
 city: Andover
+revision: 0
 state: CT
+street-name: Chesterbrook Ln
+street-number: 22
 tags: Address
 title: Address/159
 type: text/vnd.tiddlywiki

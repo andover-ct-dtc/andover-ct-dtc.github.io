@@ -2,7 +2,10 @@ address: 220 Gilead Rd
 address-id: 1285
 caption: Address/220 Gilead Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Gilead Rd
+street-number: 220
 tags: Address
 title: Address/1285
 type: text/vnd.tiddlywiki

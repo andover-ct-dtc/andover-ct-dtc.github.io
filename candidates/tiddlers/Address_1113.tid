@@ -2,7 +2,10 @@ address: 883 East St
 address-id: 1113
 caption: Address/883 East St
 city: Andover
+revision: 0
 state: CT
+street-name: East St
+street-number: 883
 tags: Address
 title: Address/1113
 type: text/vnd.tiddlywiki

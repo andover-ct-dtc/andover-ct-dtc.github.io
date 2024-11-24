@@ -2,7 +2,10 @@ address: 22 Route 6
 address-id: 16
 caption: Address/22 Route 6
 city: Andover
+revision: 0
 state: CT
+street-name: Route 6
+street-number: 22
 tags: Address
 title: Address/16
 type: text/vnd.tiddlywiki

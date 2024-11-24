@@ -1,8 +1,11 @@
-address: 2 Center St Apt 1A
+address: 2 Center St
 address-id: 1983
-caption: Address/2 Center St Apt 1A
+caption: Address/2 Center St
 city: Andover
+revision: 0
 state: CT
+street-name: Center St
+street-number: 2
 tags: Address
 title: Address/1983
 type: text/vnd.tiddlywiki

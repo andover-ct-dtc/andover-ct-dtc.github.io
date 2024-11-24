@@ -2,7 +2,10 @@ address: 96 Gilead Rd
 address-id: 365
 caption: Address/96 Gilead Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Gilead Rd
+street-number: 96
 tags: Address
 title: Address/365
 type: text/vnd.tiddlywiki

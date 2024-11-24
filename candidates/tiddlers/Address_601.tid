@@ -2,7 +2,10 @@ address: 14 Times Farm Rd
 address-id: 601
 caption: Address/14 Times Farm Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Times Farm Rd
+street-number: 14
 tags: Address
 title: Address/601
 type: text/vnd.tiddlywiki

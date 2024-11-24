@@ -2,7 +2,10 @@ address: 7 Wood Fern Way
 address-id: 109
 caption: Address/7 Wood Fern Way
 city: Andover
+revision: 0
 state: CT
+street-name: Wood Fern Way
+street-number: 7
 tags: Address
 title: Address/109
 type: text/vnd.tiddlywiki

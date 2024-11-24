@@ -1,8 +1,11 @@
-address: 35 Center St Apt B
+address: 35 Center St
 address-id: 1380
-caption: Address/35 Center St Apt B
+caption: Address/35 Center St
 city: Andover
+revision: 0
 state: CT
+street-name: Center St
+street-number: 35
 tags: Address
 title: Address/1380
 type: text/vnd.tiddlywiki

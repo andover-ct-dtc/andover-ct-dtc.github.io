@@ -2,7 +2,10 @@ address: 9 Mathieson Dr
 address-id: 1762
 caption: Address/9 Mathieson Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Mathieson Dr
+street-number: 9
 tags: Address
 title: Address/1762
 type: text/vnd.tiddlywiki

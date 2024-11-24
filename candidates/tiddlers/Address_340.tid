@@ -2,7 +2,10 @@ address: 68 Stanley Dr
 address-id: 340
 caption: Address/68 Stanley Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Stanley Dr
+street-number: 68
 tags: Address
 title: Address/340
 type: text/vnd.tiddlywiki

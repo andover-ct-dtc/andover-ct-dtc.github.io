@@ -2,7 +2,10 @@ address: 389 Lake Rd
 address-id: 2118
 caption: Address/389 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 389
 tags: Address
 title: Address/2118
 type: text/vnd.tiddlywiki

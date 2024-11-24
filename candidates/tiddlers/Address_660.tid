@@ -2,7 +2,10 @@ address: 53 Gilead Rd
 address-id: 660
 caption: Address/53 Gilead Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Gilead Rd
+street-number: 53
 tags: Address
 title: Address/660
 type: text/vnd.tiddlywiki

@@ -1,8 +1,11 @@
-address: 8 Kingsley Dr Apt A3
+address: 8 Kingsley Dr
 address-id: 1430
-caption: Address/8 Kingsley Dr Apt A3
+caption: Address/8 Kingsley Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Kingsley Dr
+street-number: 8
 tags: Address
 title: Address/1430
 type: text/vnd.tiddlywiki

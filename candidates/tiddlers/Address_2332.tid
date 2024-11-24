@@ -2,7 +2,10 @@ address: 271 Lake Rd
 address-id: 2332
 caption: Address/271 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 271
 tags: Address
 title: Address/2332
 type: text/vnd.tiddlywiki

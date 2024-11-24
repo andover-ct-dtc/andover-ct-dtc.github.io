@@ -2,7 +2,10 @@ address: 95 Stanley Dr
 address-id: 2002
 caption: Address/95 Stanley Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Stanley Dr
+street-number: 95
 tags: Address
 title: Address/2002
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 103 Hutchinson Rd
 address-id: 198
 caption: Address/103 Hutchinson Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hutchinson Rd
+street-number: 103
 tags: Address
 title: Address/198
 type: text/vnd.tiddlywiki

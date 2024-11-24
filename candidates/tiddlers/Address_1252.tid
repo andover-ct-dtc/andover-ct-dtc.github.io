@@ -2,7 +2,10 @@ address: 98 Lake Rd
 address-id: 1252
 caption: Address/98 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 98
 tags: Address
 title: Address/1252
 type: text/vnd.tiddlywiki

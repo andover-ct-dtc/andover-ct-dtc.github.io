@@ -2,7 +2,10 @@ address: 89 Bausola Rd
 address-id: 420
 caption: Address/89 Bausola Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bausola Rd
+street-number: 89
 tags: Address
 title: Address/420
 type: text/vnd.tiddlywiki

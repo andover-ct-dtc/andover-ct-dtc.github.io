@@ -1,8 +1,11 @@
-address: PO Box 151
+address: 34 Route 87
 address-id: 1279
-caption: Address/PO Box 151
+caption: Address/34 Route 87
 city: Andover
+revision: 0
 state: CT
+street-name: Route 87
+street-number: 34
 tags: Address
 title: Address/1279
 type: text/vnd.tiddlywiki

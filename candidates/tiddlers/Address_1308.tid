@@ -2,7 +2,10 @@ address: 28 School Rd
 address-id: 1308
 caption: Address/28 School Rd
 city: Andover
+revision: 0
 state: CT
+street-name: School Rd
+street-number: 28
 tags: Address
 title: Address/1308
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 25 Aspinall Dr
 address-id: 1814
 caption: Address/25 Aspinall Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Aspinall Dr
+street-number: 25
 tags: Address
 title: Address/1814
 type: text/vnd.tiddlywiki

@@ -1,8 +1,11 @@
-address: 52 Walnut St
+address: 44 Wales Rd
 address-id: 1792
-caption: Address/52 Walnut St
+caption: Address/44 Wales Rd
 city: Glens Falls
+revision: 0
 state: NY
+street-name: Wales Rd
+street-number: 44
 tags: Address
 title: Address/1792
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 15 Oak Farms Rd
 address-id: 1387
 caption: Address/15 Oak Farms Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Oak Farms Rd
+street-number: 15
 tags: Address
 title: Address/1387
 type: text/vnd.tiddlywiki

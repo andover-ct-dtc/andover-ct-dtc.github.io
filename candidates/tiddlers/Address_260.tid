@@ -1,8 +1,11 @@
-address: 3 Beaudet Ter
+address: 25 Riverside Dr
 address-id: 260
-caption: Address/3 Beaudet Ter
+caption: Address/25 Riverside Dr
 city: Columbia
+revision: 0
 state: CT
+street-name: Riverside Dr
+street-number: 25
 tags: Address
 title: Address/260
 type: text/vnd.tiddlywiki

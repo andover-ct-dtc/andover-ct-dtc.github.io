@@ -2,7 +2,10 @@ address: 38 Lake Rd
 address-id: 1031
 caption: Address/38 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 38
 tags: Address
 title: Address/1031
 type: text/vnd.tiddlywiki

@@ -1,8 +1,11 @@
-address: PO Box 237
+address: 886 East St
 address-id: 59
-caption: Address/PO Box 237
+caption: Address/886 East St
 city: Andover
+revision: 0
 state: CT
+street-name: East St
+street-number: 886
 tags: Address
 title: Address/59
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 12 Bear Swamp Rd
 address-id: 745
 caption: Address/12 Bear Swamp Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bear Swamp Rd
+street-number: 12
 tags: Address
 title: Address/745
 type: text/vnd.tiddlywiki

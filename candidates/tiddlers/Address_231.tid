@@ -2,7 +2,10 @@ address: 53 School Rd
 address-id: 231
 caption: Address/53 School Rd
 city: Andover
+revision: 0
 state: CT
+street-name: School Rd
+street-number: 53
 tags: Address
 title: Address/231
 type: text/vnd.tiddlywiki

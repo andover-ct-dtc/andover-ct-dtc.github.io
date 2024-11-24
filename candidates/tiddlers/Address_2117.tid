@@ -2,7 +2,10 @@ address: 14 Dogwood Dr
 address-id: 2117
 caption: Address/14 Dogwood Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Dogwood Dr
+street-number: 14
 tags: Address
 title: Address/2117
 type: text/vnd.tiddlywiki

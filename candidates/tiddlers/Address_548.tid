@@ -2,7 +2,10 @@ address: 67 Stanley Dr
 address-id: 548
 caption: Address/67 Stanley Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Stanley Dr
+street-number: 67
 tags: Address
 title: Address/548
 type: text/vnd.tiddlywiki

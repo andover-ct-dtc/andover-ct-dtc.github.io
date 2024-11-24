@@ -2,7 +2,10 @@ address: 55 Boston Hill Rd
 address-id: 144
 caption: Address/55 Boston Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Boston Hill Rd
+street-number: 55
 tags: Address
 title: Address/144
 type: text/vnd.tiddlywiki

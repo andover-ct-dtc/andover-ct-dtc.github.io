@@ -1,8 +1,11 @@
-address: 34 Kingsley Dr Apt D5
+address: 34 Kingsley Dr
 address-id: 298
-caption: Address/34 Kingsley Dr Apt D5
+caption: Address/34 Kingsley Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Kingsley Dr
+street-number: 34
 tags: Address
 title: Address/298
 type: text/vnd.tiddlywiki

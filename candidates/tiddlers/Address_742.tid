@@ -2,7 +2,10 @@ address: 99 Townsend Rd
 address-id: 742
 caption: Address/99 Townsend Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Townsend Rd
+street-number: 99
 tags: Address
 title: Address/742
 type: text/vnd.tiddlywiki

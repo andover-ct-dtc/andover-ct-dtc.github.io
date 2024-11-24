@@ -2,7 +2,10 @@ address: 45 School Rd
 address-id: 1042
 caption: Address/45 School Rd
 city: Andover
+revision: 0
 state: CT
+street-name: School Rd
+street-number: 45
 tags: Address
 title: Address/1042
 type: text/vnd.tiddlywiki

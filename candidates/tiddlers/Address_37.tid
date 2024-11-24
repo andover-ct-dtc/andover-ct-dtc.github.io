@@ -2,7 +2,10 @@ address: 167 Lake Rd
 address-id: 37
 caption: Address/167 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 167
 tags: Address
 title: Address/37
 type: text/vnd.tiddlywiki

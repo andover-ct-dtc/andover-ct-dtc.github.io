@@ -2,7 +2,10 @@ address: 125 Lake Rd
 address-id: 1019
 caption: Address/125 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 125
 tags: Address
 title: Address/1019
 type: text/vnd.tiddlywiki

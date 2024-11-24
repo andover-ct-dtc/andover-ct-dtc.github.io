@@ -2,7 +2,10 @@ address: 104 Wheeling Rd
 address-id: 893
 caption: Address/104 Wheeling Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Wheeling Rd
+street-number: 104
 tags: Address
 title: Address/893
 type: text/vnd.tiddlywiki

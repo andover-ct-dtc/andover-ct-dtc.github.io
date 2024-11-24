@@ -1,8 +1,11 @@
-address: 25 Riverside Dr Apt 2A
+address: 25 Riverside Dr
 address-id: 321
-caption: Address/25 Riverside Dr Apt 2A
+caption: Address/25 Riverside Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Riverside Dr
+street-number: 25
 tags: Address
 title: Address/321
 type: text/vnd.tiddlywiki

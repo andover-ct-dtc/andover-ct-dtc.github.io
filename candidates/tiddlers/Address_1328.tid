@@ -2,7 +2,10 @@ address: 96 Hebron Rd
 address-id: 1328
 caption: Address/96 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 96
 tags: Address
 title: Address/1328
 type: text/vnd.tiddlywiki

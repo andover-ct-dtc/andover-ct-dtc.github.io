@@ -2,7 +2,10 @@ address: 58 Hebron Rd
 address-id: 1960
 caption: Address/58 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 58
 tags: Address
 title: Address/1960
 type: text/vnd.tiddlywiki

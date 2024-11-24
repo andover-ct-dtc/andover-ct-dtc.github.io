@@ -2,7 +2,10 @@ address: 64 Pine Ridge Dr
 address-id: 1969
 caption: Address/64 Pine Ridge Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Pine Ridge Dr
+street-number: 64
 tags: Address
 title: Address/1969
 type: text/vnd.tiddlywiki

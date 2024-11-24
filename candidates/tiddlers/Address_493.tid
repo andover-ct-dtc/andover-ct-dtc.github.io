@@ -2,7 +2,10 @@ address: 115 Jurovaty Rd
 address-id: 493
 caption: Address/115 Jurovaty Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Jurovaty Rd
+street-number: 115
 tags: Address
 title: Address/493
 type: text/vnd.tiddlywiki

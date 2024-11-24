@@ -2,7 +2,10 @@ address: 4 Townsend Rd
 address-id: 126
 caption: Address/4 Townsend Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Townsend Rd
+street-number: 4
 tags: Address
 title: Address/126
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 44 Wales Rd
 address-id: 2211
 caption: Address/44 Wales Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Wales Rd
+street-number: 44
 tags: Address
 title: Address/2211
 type: text/vnd.tiddlywiki

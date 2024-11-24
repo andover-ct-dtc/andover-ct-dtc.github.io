@@ -2,7 +2,10 @@ address: 25 Hebron Rd
 address-id: 934
 caption: Address/25 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 25
 tags: Address
 title: Address/934
 type: text/vnd.tiddlywiki

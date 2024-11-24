@@ -2,7 +2,10 @@ address: 68 Bear Swamp Rd
 address-id: 610
 caption: Address/68 Bear Swamp Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bear Swamp Rd
+street-number: 68
 tags: Address
 title: Address/610
 type: text/vnd.tiddlywiki

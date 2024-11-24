@@ -1,8 +1,11 @@
-address: PO Box 9127
+address: 47 Lakeside Dr
 address-id: 431
-caption: Address/PO Box 9127
+caption: Address/47 Lakeside Dr
 city: Bolton
+revision: 0
 state: CT
+street-name: Lakeside Dr
+street-number: 47
 tags: Address
 title: Address/431
 type: text/vnd.tiddlywiki

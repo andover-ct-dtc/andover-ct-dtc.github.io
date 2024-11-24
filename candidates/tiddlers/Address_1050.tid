@@ -2,7 +2,10 @@ address: 120 Lakeside Dr
 address-id: 1050
 caption: Address/120 Lakeside Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Lakeside Dr
+street-number: 120
 tags: Address
 title: Address/1050
 type: text/vnd.tiddlywiki

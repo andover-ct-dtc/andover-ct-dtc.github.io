@@ -2,7 +2,10 @@ address: 15 Brown Rd
 address-id: 985
 caption: Address/15 Brown Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Brown Rd
+street-number: 15
 tags: Address
 title: Address/985
 type: text/vnd.tiddlywiki

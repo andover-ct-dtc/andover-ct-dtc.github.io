@@ -2,7 +2,10 @@ address: 47 Skinner Hill Rd
 address-id: 1333
 caption: Address/47 Skinner Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Skinner Hill Rd
+street-number: 47
 tags: Address
 title: Address/1333
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 23 Rose Ln
 address-id: 1719
 caption: Address/23 Rose Ln
 city: Andover
+revision: 0
 state: CT
+street-name: Rose Ln
+street-number: 23
 tags: Address
 title: Address/1719
 type: text/vnd.tiddlywiki

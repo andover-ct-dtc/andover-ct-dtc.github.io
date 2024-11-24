@@ -2,7 +2,10 @@ address: 886 East St
 address-id: 1504
 caption: Address/886 East St
 city: Andover
+revision: 0
 state: CT
+street-name: East St
+street-number: 886
 tags: Address
 title: Address/1504
 type: text/vnd.tiddlywiki

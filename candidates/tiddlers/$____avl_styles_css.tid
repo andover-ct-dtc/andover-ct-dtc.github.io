@@ -1,0 +1,18 @@
+created: 20241118192632422
+modified: 20241124182914391
+tags: $:/tags/Stylesheet
+title: $:/_/avl/styles/css
+type: text/vnd.tiddlywiki
+
+table.zebra {
+  tr:nth-child(odd) {background-color: <<colour page-background>>;}
+}
+.multi {
+  ul {list-style: none; margin-block-start: 0; padding-inline-start: 1em;}
+  &.col12 {column-width: 12em;}
+  &.col16 {column-width: 16em;}
+}
+.short-number {width: 4em; border: .2em solid <<colour modal-footer-border>>;}
+table.multi {
+  td[colspan="5"] {background: #0000ff33; font-size: 150%; font-weight: 600; padding: 1em 1em .5em;}
+}

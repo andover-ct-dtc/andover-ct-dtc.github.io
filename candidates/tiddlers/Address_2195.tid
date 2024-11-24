@@ -2,7 +2,10 @@ address: 140 Long Hill Rd
 address-id: 2195
 caption: Address/140 Long Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Long Hill Rd
+street-number: 140
 tags: Address
 title: Address/2195
 type: text/vnd.tiddlywiki

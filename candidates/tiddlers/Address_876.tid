@@ -2,7 +2,10 @@ address: 61 Windrush Ln
 address-id: 876
 caption: Address/61 Windrush Ln
 city: Andover
+revision: 0
 state: CT
+street-name: Windrush Ln
+street-number: 61
 tags: Address
 title: Address/876
 type: text/vnd.tiddlywiki

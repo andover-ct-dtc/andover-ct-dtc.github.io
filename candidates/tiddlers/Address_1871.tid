@@ -2,7 +2,10 @@ address: 21 Brown Rd
 address-id: 1871
 caption: Address/21 Brown Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Brown Rd
+street-number: 21
 tags: Address
 title: Address/1871
 type: text/vnd.tiddlywiki

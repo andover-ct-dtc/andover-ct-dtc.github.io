@@ -2,7 +2,10 @@ address: 47 Jurovaty Rd
 address-id: 175
 caption: Address/47 Jurovaty Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Jurovaty Rd
+street-number: 47
 tags: Address
 title: Address/175
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 104 West St
 address-id: 88
 caption: Address/104 West St
 city: Andover
+revision: 0
 state: CT
+street-name: West St
+street-number: 104
 tags: Address
 title: Address/88
 type: text/vnd.tiddlywiki

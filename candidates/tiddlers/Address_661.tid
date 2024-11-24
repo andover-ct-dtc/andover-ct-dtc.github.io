@@ -2,7 +2,10 @@ address: 233 Route 6
 address-id: 661
 caption: Address/233 Route 6
 city: Andover
+revision: 0
 state: CT
+street-name: Route 6
+street-number: 233
 tags: Address
 title: Address/661
 type: text/vnd.tiddlywiki

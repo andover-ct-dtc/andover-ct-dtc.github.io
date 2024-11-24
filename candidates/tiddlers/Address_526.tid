@@ -2,7 +2,10 @@ address: 28 Hebron Rd
 address-id: 526
 caption: Address/28 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 28
 tags: Address
 title: Address/526
 type: text/vnd.tiddlywiki

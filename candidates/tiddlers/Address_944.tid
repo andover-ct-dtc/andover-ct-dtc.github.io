@@ -2,7 +2,10 @@ address: 60 Pine Ridge Dr
 address-id: 944
 caption: Address/60 Pine Ridge Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Pine Ridge Dr
+street-number: 60
 tags: Address
 title: Address/944
 type: text/vnd.tiddlywiki

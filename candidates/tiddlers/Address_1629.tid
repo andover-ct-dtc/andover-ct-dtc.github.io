@@ -2,7 +2,10 @@ address: 29 Lakeside Dr
 address-id: 1629
 caption: Address/29 Lakeside Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Lakeside Dr
+street-number: 29
 tags: Address
 title: Address/1629
 type: text/vnd.tiddlywiki

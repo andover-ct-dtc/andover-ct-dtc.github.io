@@ -2,7 +2,10 @@ address: 373 Hebron Rd
 address-id: 1712
 caption: Address/373 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 373
 tags: Address
 title: Address/1712
 type: text/vnd.tiddlywiki

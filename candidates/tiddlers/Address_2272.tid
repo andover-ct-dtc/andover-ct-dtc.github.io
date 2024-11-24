@@ -2,7 +2,10 @@ address: 163 Lake Rd
 address-id: 2272
 caption: Address/163 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 163
 tags: Address
 title: Address/2272
 type: text/vnd.tiddlywiki

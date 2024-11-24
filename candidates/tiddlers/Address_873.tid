@@ -2,7 +2,10 @@ address: 19 Bailey Rd
 address-id: 873
 caption: Address/19 Bailey Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bailey Rd
+street-number: 19
 tags: Address
 title: Address/873
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 39 Skinner Hill Rd
 address-id: 1156
 caption: Address/39 Skinner Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Skinner Hill Rd
+street-number: 39
 tags: Address
 title: Address/1156
 type: text/vnd.tiddlywiki

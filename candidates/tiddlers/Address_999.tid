@@ -2,7 +2,10 @@ address: 14 Old Farms Rd
 address-id: 999
 caption: Address/14 Old Farms Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Old Farms Rd
+street-number: 14
 tags: Address
 title: Address/999
 type: text/vnd.tiddlywiki

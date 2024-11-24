@@ -2,7 +2,10 @@ address: 237 Hebron Rd
 address-id: 1049
 caption: Address/237 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 237
 tags: Address
 title: Address/1049
 type: text/vnd.tiddlywiki

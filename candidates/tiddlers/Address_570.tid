@@ -2,7 +2,10 @@ address: 115 Townsend Rd
 address-id: 570
 caption: Address/115 Townsend Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Townsend Rd
+street-number: 115
 tags: Address
 title: Address/570
 type: text/vnd.tiddlywiki

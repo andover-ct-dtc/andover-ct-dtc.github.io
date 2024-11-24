@@ -2,7 +2,10 @@ address: 108 Gilead Rd
 address-id: 1273
 caption: Address/108 Gilead Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Gilead Rd
+street-number: 108
 tags: Address
 title: Address/1273
 type: text/vnd.tiddlywiki

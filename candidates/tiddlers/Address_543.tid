@@ -2,7 +2,10 @@ address: 485 Lake Rd
 address-id: 543
 caption: Address/485 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 485
 tags: Address
 title: Address/543
 type: text/vnd.tiddlywiki

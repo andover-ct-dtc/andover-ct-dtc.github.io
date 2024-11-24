@@ -2,7 +2,10 @@ address: 4 W Street Ext
 address-id: 44
 caption: Address/4 W Street Ext
 city: Andover
+revision: 0
 state: CT
+street-name: W Street Ext
+street-number: 4
 tags: Address
 title: Address/44
 type: text/vnd.tiddlywiki

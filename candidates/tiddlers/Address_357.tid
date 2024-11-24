@@ -2,7 +2,10 @@ address: 39 Gilead Rd
 address-id: 357
 caption: Address/39 Gilead Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Gilead Rd
+street-number: 39
 tags: Address
 title: Address/357
 type: text/vnd.tiddlywiki

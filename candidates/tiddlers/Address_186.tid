@@ -2,7 +2,10 @@ address: 116 Wheeling Rd
 address-id: 186
 caption: Address/116 Wheeling Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Wheeling Rd
+street-number: 116
 tags: Address
 title: Address/186
 type: text/vnd.tiddlywiki

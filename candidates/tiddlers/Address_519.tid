@@ -2,7 +2,10 @@ address: 4 Shadblow Ln
 address-id: 519
 caption: Address/4 Shadblow Ln
 city: Andover
+revision: 0
 state: CT
+street-name: Shadblow Ln
+street-number: 4
 tags: Address
 title: Address/519
 type: text/vnd.tiddlywiki

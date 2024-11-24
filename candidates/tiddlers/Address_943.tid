@@ -2,7 +2,10 @@ address: 299 Lake Rd
 address-id: 943
 caption: Address/299 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 299
 tags: Address
 title: Address/943
 type: text/vnd.tiddlywiki

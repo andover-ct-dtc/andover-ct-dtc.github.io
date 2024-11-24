@@ -2,7 +2,10 @@ address: 13 Chesterbrook Ln
 address-id: 1478
 caption: Address/13 Chesterbrook Ln
 city: Andover
+revision: 0
 state: CT
+street-name: Chesterbrook Ln
+street-number: 13
 tags: Address
 title: Address/1478
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 40 Pine Ridge Dr
 address-id: 547
 caption: Address/40 Pine Ridge Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Pine Ridge Dr
+street-number: 40
 tags: Address
 title: Address/547
 type: text/vnd.tiddlywiki

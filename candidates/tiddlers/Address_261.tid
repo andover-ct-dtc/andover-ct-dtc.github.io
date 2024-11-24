@@ -2,7 +2,10 @@ address: 125 Townsend Rd
 address-id: 261
 caption: Address/125 Townsend Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Townsend Rd
+street-number: 125
 tags: Address
 title: Address/261
 type: text/vnd.tiddlywiki

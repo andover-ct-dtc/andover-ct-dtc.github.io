@@ -2,7 +2,10 @@ address: 102 Gilead Rd
 address-id: 1553
 caption: Address/102 Gilead Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Gilead Rd
+street-number: 102
 tags: Address
 title: Address/1553
 type: text/vnd.tiddlywiki

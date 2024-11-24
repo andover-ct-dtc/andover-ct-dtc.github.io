@@ -2,7 +2,10 @@ address: 16 W Street Ext
 address-id: 351
 caption: Address/16 W Street Ext
 city: Andover
+revision: 0
 state: CT
+street-name: W Street Ext
+street-number: 16
 tags: Address
 title: Address/351
 type: text/vnd.tiddlywiki

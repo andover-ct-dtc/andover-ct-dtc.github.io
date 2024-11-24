@@ -2,7 +2,10 @@ address: 56 Pine Ridge Dr
 address-id: 709
 caption: Address/56 Pine Ridge Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Pine Ridge Dr
+street-number: 56
 tags: Address
 title: Address/709
 type: text/vnd.tiddlywiki

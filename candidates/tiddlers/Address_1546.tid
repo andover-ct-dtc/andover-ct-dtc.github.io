@@ -2,7 +2,10 @@ address: 8 W Street Ext
 address-id: 1546
 caption: Address/8 W Street Ext
 city: Andover
+revision: 0
 state: CT
+street-name: W Street Ext
+street-number: 8
 tags: Address
 title: Address/1546
 type: text/vnd.tiddlywiki

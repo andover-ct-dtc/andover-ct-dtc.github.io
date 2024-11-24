@@ -2,7 +2,10 @@ address: 68 Pine Ridge Dr
 address-id: 279
 caption: Address/68 Pine Ridge Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Pine Ridge Dr
+street-number: 68
 tags: Address
 title: Address/279
 type: text/vnd.tiddlywiki

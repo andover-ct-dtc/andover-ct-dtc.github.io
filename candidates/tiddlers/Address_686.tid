@@ -2,7 +2,10 @@ address: 253 Gilead Rd
 address-id: 686
 caption: Address/253 Gilead Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Gilead Rd
+street-number: 253
 tags: Address
 title: Address/686
 type: text/vnd.tiddlywiki

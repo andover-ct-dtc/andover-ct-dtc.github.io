@@ -2,7 +2,10 @@ address: 8 Shadblow Ln
 address-id: 85
 caption: Address/8 Shadblow Ln
 city: Andover
+revision: 0
 state: CT
+street-name: Shadblow Ln
+street-number: 8
 tags: Address
 title: Address/85
 type: text/vnd.tiddlywiki

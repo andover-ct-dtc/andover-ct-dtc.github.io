@@ -1,8 +1,11 @@
-address: PO Box 86
+address: 262 Route 6
 address-id: 1362
-caption: Address/PO Box 86
+caption: Address/262 Route 6
 city: Andover
+revision: 0
 state: CT
+street-name: Route 6
+street-number: 262
 tags: Address
 title: Address/1362
 type: text/vnd.tiddlywiki

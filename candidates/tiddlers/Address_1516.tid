@@ -2,7 +2,10 @@ address: 178 Bear Swamp Rd
 address-id: 1516
 caption: Address/178 Bear Swamp Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bear Swamp Rd
+street-number: 178
 tags: Address
 title: Address/1516
 type: text/vnd.tiddlywiki

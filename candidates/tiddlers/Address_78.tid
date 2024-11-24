@@ -2,7 +2,10 @@ address: 34 Merritt Valley Rd
 address-id: 78
 caption: Address/34 Merritt Valley Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Merritt Valley Rd
+street-number: 34
 tags: Address
 title: Address/78
 type: text/vnd.tiddlywiki

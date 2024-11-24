@@ -1,8 +1,11 @@
-address: PO Box 445
+address: 196 Route 6
 address-id: 970
-caption: Address/PO Box 445
+caption: Address/196 Route 6
 city: Andover
+revision: 0
 state: CT
+street-name: Route 6
+street-number: 196
 tags: Address
 title: Address/970
 type: text/vnd.tiddlywiki

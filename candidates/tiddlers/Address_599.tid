@@ -2,7 +2,10 @@ address: 111 Townsend Rd
 address-id: 599
 caption: Address/111 Townsend Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Townsend Rd
+street-number: 111
 tags: Address
 title: Address/599
 type: text/vnd.tiddlywiki

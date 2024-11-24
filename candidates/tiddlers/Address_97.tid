@@ -2,7 +2,10 @@ address: 110 Shoddy Mill Rd
 address-id: 97
 caption: Address/110 Shoddy Mill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Shoddy Mill Rd
+street-number: 110
 tags: Address
 title: Address/97
 type: text/vnd.tiddlywiki

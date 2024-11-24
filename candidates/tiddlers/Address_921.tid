@@ -2,7 +2,10 @@ address: 28 Shoddy Mill Rd
 address-id: 921
 caption: Address/28 Shoddy Mill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Shoddy Mill Rd
+street-number: 28
 tags: Address
 title: Address/921
 type: text/vnd.tiddlywiki

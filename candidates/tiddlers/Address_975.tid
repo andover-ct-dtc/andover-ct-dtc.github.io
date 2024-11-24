@@ -1,8 +1,11 @@
-address: PO Box 351
+address: 138 Hebron Rd
 address-id: 975
-caption: Address/PO Box 351
+caption: Address/138 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 138
 tags: Address
 title: Address/975
 type: text/vnd.tiddlywiki

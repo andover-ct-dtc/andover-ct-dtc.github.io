@@ -2,7 +2,10 @@ address: 11 Hickory Hill Dr
 address-id: 255
 caption: Address/11 Hickory Hill Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Hickory Hill Dr
+street-number: 11
 tags: Address
 title: Address/255
 type: text/vnd.tiddlywiki

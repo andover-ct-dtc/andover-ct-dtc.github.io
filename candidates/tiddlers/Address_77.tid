@@ -2,7 +2,10 @@ address: 147 Bunker Hill Rd
 address-id: 77
 caption: Address/147 Bunker Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bunker Hill Rd
+street-number: 147
 tags: Address
 title: Address/77
 type: text/vnd.tiddlywiki

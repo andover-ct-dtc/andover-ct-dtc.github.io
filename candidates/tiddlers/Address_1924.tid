@@ -2,7 +2,10 @@ address: 92 Hutchinson Rd
 address-id: 1924
 caption: Address/92 Hutchinson Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hutchinson Rd
+street-number: 92
 tags: Address
 title: Address/1924
 type: text/vnd.tiddlywiki

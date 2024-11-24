@@ -2,7 +2,10 @@ address: 355 Hebron Rd
 address-id: 257
 caption: Address/355 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 355
 tags: Address
 title: Address/257
 type: text/vnd.tiddlywiki

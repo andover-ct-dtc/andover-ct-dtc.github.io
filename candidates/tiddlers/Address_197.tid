@@ -2,7 +2,10 @@ address: 42 Gilead Rd
 address-id: 197
 caption: Address/42 Gilead Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Gilead Rd
+street-number: 42
 tags: Address
 title: Address/197
 type: text/vnd.tiddlywiki

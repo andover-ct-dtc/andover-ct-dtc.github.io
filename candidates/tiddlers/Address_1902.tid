@@ -2,7 +2,10 @@ address: 122 Hebron Rd
 address-id: 1902
 caption: Address/122 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 122
 tags: Address
 title: Address/1902
 type: text/vnd.tiddlywiki

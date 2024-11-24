@@ -2,7 +2,10 @@ address: 8 Bear Swamp Rd
 address-id: 173
 caption: Address/8 Bear Swamp Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bear Swamp Rd
+street-number: 8
 tags: Address
 title: Address/173
 type: text/vnd.tiddlywiki

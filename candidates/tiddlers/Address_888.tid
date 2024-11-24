@@ -2,7 +2,10 @@ address: 350 Hebron Rd
 address-id: 888
 caption: Address/350 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 350
 tags: Address
 title: Address/888
 type: text/vnd.tiddlywiki

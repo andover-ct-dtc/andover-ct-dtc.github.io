@@ -32,5 +32,5 @@ dnc-malaise
 edu-target 
 hdsup
 sdsup
-span
+span-pref
 tnt

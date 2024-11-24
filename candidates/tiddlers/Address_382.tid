@@ -2,7 +2,10 @@ address: 280 Hebron Rd
 address-id: 382
 caption: Address/280 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 280
 tags: Address
 title: Address/382
 type: text/vnd.tiddlywiki

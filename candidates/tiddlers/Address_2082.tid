@@ -2,7 +2,10 @@ address: 45 Bausola Rd
 address-id: 2082
 caption: Address/45 Bausola Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bausola Rd
+street-number: 45
 tags: Address
 title: Address/2082
 type: text/vnd.tiddlywiki

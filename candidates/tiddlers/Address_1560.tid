@@ -2,7 +2,10 @@ address: 6 Stanley Dr
 address-id: 1560
 caption: Address/6 Stanley Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Stanley Dr
+street-number: 6
 tags: Address
 title: Address/1560
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 101 Gilead Rd
 address-id: 759
 caption: Address/101 Gilead Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Gilead Rd
+street-number: 101
 tags: Address
 title: Address/759
 type: text/vnd.tiddlywiki

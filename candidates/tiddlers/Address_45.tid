@@ -2,7 +2,10 @@ address: 309 Boston Hill Rd
 address-id: 45
 caption: Address/309 Boston Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Boston Hill Rd
+street-number: 309
 tags: Address
 title: Address/45
 type: text/vnd.tiddlywiki

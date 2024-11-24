@@ -2,7 +2,10 @@ address: 22 Hickory Hill Dr
 address-id: 1306
 caption: Address/22 Hickory Hill Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Hickory Hill Dr
+street-number: 22
 tags: Address
 title: Address/1306
 type: text/vnd.tiddlywiki

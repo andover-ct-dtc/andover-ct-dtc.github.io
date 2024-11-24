@@ -2,7 +2,10 @@ address: 147 Wheeling Rd
 address-id: 797
 caption: Address/147 Wheeling Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Wheeling Rd
+street-number: 147
 tags: Address
 title: Address/797
 type: text/vnd.tiddlywiki

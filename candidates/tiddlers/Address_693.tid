@@ -2,7 +2,10 @@ address: 121 Boston Hill Rd
 address-id: 693
 caption: Address/121 Boston Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Boston Hill Rd
+street-number: 121
 tags: Address
 title: Address/693
 type: text/vnd.tiddlywiki

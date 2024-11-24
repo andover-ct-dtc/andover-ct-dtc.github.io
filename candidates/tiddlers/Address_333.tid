@@ -2,7 +2,10 @@ address: 26 Wood Fern Way
 address-id: 333
 caption: Address/26 Wood Fern Way
 city: Andover
+revision: 0
 state: CT
+street-name: Wood Fern Way
+street-number: 26
 tags: Address
 title: Address/333
 type: text/vnd.tiddlywiki

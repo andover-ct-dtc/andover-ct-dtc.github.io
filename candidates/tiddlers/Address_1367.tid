@@ -1,8 +1,11 @@
-address: 637 Route 6 # A
+address: 637 Route 6
 address-id: 1367
-caption: Address/637 Route 6 # A
+caption: Address/637 Route 6
 city: Andover
+revision: 0
 state: CT
+street-name: Route 6
+street-number: 637
 tags: Address
 title: Address/1367
 type: text/vnd.tiddlywiki

@@ -1,8 +1,11 @@
-address: 25 Riverside Dr Apt 1F
+address: 25 Riverside Dr
 address-id: 1660
-caption: Address/25 Riverside Dr Apt 1F
+caption: Address/25 Riverside Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Riverside Dr
+street-number: 25
 tags: Address
 title: Address/1660
 type: text/vnd.tiddlywiki

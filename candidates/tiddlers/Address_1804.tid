@@ -2,7 +2,10 @@ address: 335 Lake Rd
 address-id: 1804
 caption: Address/335 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 335
 tags: Address
 title: Address/1804
 type: text/vnd.tiddlywiki

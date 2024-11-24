@@ -2,7 +2,10 @@ address: 46 Times Farm Rd
 address-id: 1091
 caption: Address/46 Times Farm Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Times Farm Rd
+street-number: 46
 tags: Address
 title: Address/1091
 type: text/vnd.tiddlywiki

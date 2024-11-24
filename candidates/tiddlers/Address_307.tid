@@ -2,7 +2,10 @@ address: 19 Old Coventry Rd
 address-id: 307
 caption: Address/19 Old Coventry Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Old Coventry Rd
+street-number: 19
 tags: Address
 title: Address/307
 type: text/vnd.tiddlywiki

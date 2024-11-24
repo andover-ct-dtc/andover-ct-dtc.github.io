@@ -2,7 +2,10 @@ address: 5 Hickory Hill Dr
 address-id: 1239
 caption: Address/5 Hickory Hill Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Hickory Hill Dr
+street-number: 5
 tags: Address
 title: Address/1239
 type: text/vnd.tiddlywiki

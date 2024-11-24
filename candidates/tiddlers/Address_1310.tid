@@ -1,8 +1,11 @@
-address: 68 Skinner Hill Rd
+address: 135 Shoddy Mill Rd
 address-id: 1310
-caption: Address/68 Skinner Hill Rd
+caption: Address/135 Shoddy Mill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Shoddy Mill Rd
+street-number: 135
 tags: Address
 title: Address/1310
 type: text/vnd.tiddlywiki

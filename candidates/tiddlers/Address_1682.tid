@@ -2,7 +2,10 @@ address: 20 Gilead Rd
 address-id: 1682
 caption: Address/20 Gilead Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Gilead Rd
+street-number: 20
 tags: Address
 title: Address/1682
 type: text/vnd.tiddlywiki

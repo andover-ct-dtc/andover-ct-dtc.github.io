@@ -2,7 +2,10 @@ address: 180 Hebron Rd
 address-id: 507
 caption: Address/180 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 180
 tags: Address
 title: Address/507
 type: text/vnd.tiddlywiki

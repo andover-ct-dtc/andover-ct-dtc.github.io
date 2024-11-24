@@ -2,7 +2,10 @@ address: 16 Pine Ridge Dr
 address-id: 1222
 caption: Address/16 Pine Ridge Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Pine Ridge Dr
+street-number: 16
 tags: Address
 title: Address/1222
 type: text/vnd.tiddlywiki

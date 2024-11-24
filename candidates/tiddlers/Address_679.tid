@@ -2,7 +2,10 @@ address: 91 Lakeside Dr
 address-id: 679
 caption: Address/91 Lakeside Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Lakeside Dr
+street-number: 91
 tags: Address
 title: Address/679
 type: text/vnd.tiddlywiki

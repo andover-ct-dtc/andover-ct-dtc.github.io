@@ -2,7 +2,10 @@ address: 25 Center St
 address-id: 758
 caption: Address/25 Center St
 city: Andover
+revision: 0
 state: CT
+street-name: Center St
+street-number: 25
 tags: Address
 title: Address/758
 type: text/vnd.tiddlywiki

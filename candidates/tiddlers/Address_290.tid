@@ -2,7 +2,10 @@ address: 82 Lakeside Dr
 address-id: 290
 caption: Address/82 Lakeside Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Lakeside Dr
+street-number: 82
 tags: Address
 title: Address/290
 type: text/vnd.tiddlywiki

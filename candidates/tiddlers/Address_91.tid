@@ -2,7 +2,10 @@ address: 896 East St
 address-id: 91
 caption: Address/896 East St
 city: Andover
+revision: 0
 state: CT
+street-name: East St
+street-number: 896
 tags: Address
 title: Address/91
 type: text/vnd.tiddlywiki

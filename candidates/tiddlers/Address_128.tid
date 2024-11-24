@@ -2,7 +2,10 @@ address: 61 Bausola Rd
 address-id: 128
 caption: Address/61 Bausola Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bausola Rd
+street-number: 61
 tags: Address
 title: Address/128
 type: text/vnd.tiddlywiki

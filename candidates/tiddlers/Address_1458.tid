@@ -2,7 +2,10 @@ address: 768 East St
 address-id: 1458
 caption: Address/768 East St
 city: Andover
+revision: 0
 state: CT
+street-name: East St
+street-number: 768
 tags: Address
 title: Address/1458
 type: text/vnd.tiddlywiki

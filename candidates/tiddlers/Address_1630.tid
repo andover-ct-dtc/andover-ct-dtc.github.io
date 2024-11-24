@@ -2,7 +2,10 @@ address: 403 Hebron Rd
 address-id: 1630
 caption: Address/403 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 403
 tags: Address
 title: Address/1630
 type: text/vnd.tiddlywiki

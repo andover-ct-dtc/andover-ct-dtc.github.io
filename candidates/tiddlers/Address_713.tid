@@ -2,7 +2,10 @@ address: 72 Skinner Hill Rd
 address-id: 713
 caption: Address/72 Skinner Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Skinner Hill Rd
+street-number: 72
 tags: Address
 title: Address/713
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 1 Lakeside Dr
 address-id: 67
 caption: Address/1 Lakeside Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Lakeside Dr
+street-number: 1
 tags: Address
 title: Address/67
 type: text/vnd.tiddlywiki

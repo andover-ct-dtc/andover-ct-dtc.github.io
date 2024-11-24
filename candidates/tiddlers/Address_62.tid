@@ -2,7 +2,10 @@ address: 5 Chesterbrook Ln
 address-id: 62
 caption: Address/5 Chesterbrook Ln
 city: Andover
+revision: 0
 state: CT
+street-name: Chesterbrook Ln
+street-number: 5
 tags: Address
 title: Address/62
 type: text/vnd.tiddlywiki

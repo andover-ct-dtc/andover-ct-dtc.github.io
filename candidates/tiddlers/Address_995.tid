@@ -2,7 +2,10 @@ address: 47 Parker Bridge Rd
 address-id: 995
 caption: Address/47 Parker Bridge Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Parker Bridge Rd
+street-number: 47
 tags: Address
 title: Address/995
 type: text/vnd.tiddlywiki

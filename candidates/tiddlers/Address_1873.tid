@@ -2,7 +2,10 @@ address: 60 Times Farm Rd
 address-id: 1873
 caption: Address/60 Times Farm Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Times Farm Rd
+street-number: 60
 tags: Address
 title: Address/1873
 type: text/vnd.tiddlywiki

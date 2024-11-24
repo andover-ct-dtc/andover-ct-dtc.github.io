@@ -2,7 +2,10 @@ address: 80 West St
 address-id: 1844
 caption: Address/80 West St
 city: Andover
+revision: 0
 state: CT
+street-name: West St
+street-number: 80
 tags: Address
 title: Address/1844
 type: text/vnd.tiddlywiki

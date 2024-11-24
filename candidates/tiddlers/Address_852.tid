@@ -2,7 +2,10 @@ address: 21 Oak Farms Rd
 address-id: 852
 caption: Address/21 Oak Farms Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Oak Farms Rd
+street-number: 21
 tags: Address
 title: Address/852
 type: text/vnd.tiddlywiki

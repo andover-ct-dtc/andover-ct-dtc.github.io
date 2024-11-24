@@ -2,7 +2,10 @@ address: 15 Windrush Ln
 address-id: 353
 caption: Address/15 Windrush Ln
 city: Andover
+revision: 0
 state: CT
+street-name: Windrush Ln
+street-number: 15
 tags: Address
 title: Address/353
 type: text/vnd.tiddlywiki

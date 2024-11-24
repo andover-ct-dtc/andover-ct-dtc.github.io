@@ -2,7 +2,10 @@ address: 317 Boston Hill Rd
 address-id: 765
 caption: Address/317 Boston Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Boston Hill Rd
+street-number: 317
 tags: Address
 title: Address/765
 type: text/vnd.tiddlywiki

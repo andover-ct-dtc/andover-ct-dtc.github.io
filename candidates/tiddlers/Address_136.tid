@@ -2,7 +2,10 @@ address: 55 Windrush Ln
 address-id: 136
 caption: Address/55 Windrush Ln
 city: Andover
+revision: 0
 state: CT
+street-name: Windrush Ln
+street-number: 55
 tags: Address
 title: Address/136
 type: text/vnd.tiddlywiki

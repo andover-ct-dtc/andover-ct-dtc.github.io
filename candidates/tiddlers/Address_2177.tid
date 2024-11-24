@@ -2,7 +2,10 @@ address: 25 Old Farms Rd
 address-id: 2177
 caption: Address/25 Old Farms Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Old Farms Rd
+street-number: 25
 tags: Address
 title: Address/2177
 type: text/vnd.tiddlywiki

@@ -1,8 +1,11 @@
-address: PO Box 263
+address: 72 Windrush Ln
 address-id: 585
-caption: Address/PO Box 263
+caption: Address/72 Windrush Ln
 city: Andover
+revision: 0
 state: CT
+street-name: Windrush Ln
+street-number: 72
 tags: Address
 title: Address/585
 type: text/vnd.tiddlywiki

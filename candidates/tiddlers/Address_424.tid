@@ -2,7 +2,10 @@ address: 86 West St
 address-id: 424
 caption: Address/86 West St
 city: Andover
+revision: 0
 state: CT
+street-name: West St
+street-number: 86
 tags: Address
 title: Address/424
 type: text/vnd.tiddlywiki

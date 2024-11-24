@@ -2,7 +2,10 @@ address: 402 Lake Rd
 address-id: 364
 caption: Address/402 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 402
 tags: Address
 title: Address/364
 type: text/vnd.tiddlywiki

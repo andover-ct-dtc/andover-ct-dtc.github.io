@@ -2,7 +2,10 @@ address: 171 Shoddy Mill Rd
 address-id: 223
 caption: Address/171 Shoddy Mill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Shoddy Mill Rd
+street-number: 171
 tags: Address
 title: Address/223
 type: text/vnd.tiddlywiki

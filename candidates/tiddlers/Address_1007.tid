@@ -2,7 +2,10 @@ address: 173 Hendee Rd
 address-id: 1007
 caption: Address/173 Hendee Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hendee Rd
+street-number: 173
 tags: Address
 title: Address/1007
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 186 Long Hill Rd
 address-id: 1335
 caption: Address/186 Long Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Long Hill Rd
+street-number: 186
 tags: Address
 title: Address/1335
 type: text/vnd.tiddlywiki

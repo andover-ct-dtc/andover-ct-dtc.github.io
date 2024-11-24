@@ -2,7 +2,10 @@ address: 428 Lake Rd
 address-id: 217
 caption: Address/428 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 428
 tags: Address
 title: Address/217
 type: text/vnd.tiddlywiki

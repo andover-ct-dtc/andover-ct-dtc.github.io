@@ -2,7 +2,10 @@ address: 142 Wales Rd
 address-id: 936
 caption: Address/142 Wales Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Wales Rd
+street-number: 142
 tags: Address
 title: Address/936
 type: text/vnd.tiddlywiki

@@ -1,8 +1,11 @@
-address: PO Box 224
+address: 224 Boston Hill Rd
 address-id: 1396
-caption: Address/PO Box 224
+caption: Address/224 Boston Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Boston Hill Rd
+street-number: 224
 tags: Address
 title: Address/1396
 type: text/vnd.tiddlywiki

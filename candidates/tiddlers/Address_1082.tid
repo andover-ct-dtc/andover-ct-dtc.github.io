@@ -2,7 +2,10 @@ address: 20 Wheeling Rd
 address-id: 1082
 caption: Address/20 Wheeling Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Wheeling Rd
+street-number: 20
 tags: Address
 title: Address/1082
 type: text/vnd.tiddlywiki

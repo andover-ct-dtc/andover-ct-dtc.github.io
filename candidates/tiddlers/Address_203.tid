@@ -2,7 +2,10 @@ address: 45 Windrush Ln
 address-id: 203
 caption: Address/45 Windrush Ln
 city: Andover
+revision: 0
 state: CT
+street-name: Windrush Ln
+street-number: 45
 tags: Address
 title: Address/203
 type: text/vnd.tiddlywiki

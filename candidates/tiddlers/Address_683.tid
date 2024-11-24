@@ -2,7 +2,10 @@ address: 31 Aspinall Dr
 address-id: 683
 caption: Address/31 Aspinall Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Aspinall Dr
+street-number: 31
 tags: Address
 title: Address/683
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 12 Windrush Ln
 address-id: 171
 caption: Address/12 Windrush Ln
 city: Andover
+revision: 0
 state: CT
+street-name: Windrush Ln
+street-number: 12
 tags: Address
 title: Address/171
 type: text/vnd.tiddlywiki

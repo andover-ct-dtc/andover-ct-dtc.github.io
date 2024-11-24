@@ -2,7 +2,10 @@ address: 90 Hendee Rd
 address-id: 174
 caption: Address/90 Hendee Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hendee Rd
+street-number: 90
 tags: Address
 title: Address/174
 type: text/vnd.tiddlywiki

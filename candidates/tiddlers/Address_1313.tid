@@ -2,7 +2,10 @@ address: 61 Stanley Dr
 address-id: 1313
 caption: Address/61 Stanley Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Stanley Dr
+street-number: 61
 tags: Address
 title: Address/1313
 type: text/vnd.tiddlywiki

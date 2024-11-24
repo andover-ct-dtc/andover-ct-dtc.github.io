@@ -2,7 +2,10 @@ address: 48 Rockledge Dr
 address-id: 90
 caption: Address/48 Rockledge Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Rockledge Dr
+street-number: 48
 tags: Address
 title: Address/90
 type: text/vnd.tiddlywiki

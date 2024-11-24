@@ -1,8 +1,11 @@
-address: 18032 W Mustang Street 4026
+address: 457 Lake Rd
 address-id: 1768
-caption: Address/18032 W Mustang Street 4026
+caption: Address/457 Lake Rd
 city: Luke Afb
+revision: 0
 state: AZ
+street-name: Lake Rd
+street-number: 457
 tags: Address
 title: Address/1768
 type: text/vnd.tiddlywiki

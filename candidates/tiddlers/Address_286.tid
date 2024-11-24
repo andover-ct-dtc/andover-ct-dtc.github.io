@@ -1,8 +1,11 @@
-address: 177 Shoddy Mill Rd # 177
+address: 177 Shoddy Mill Rd
 address-id: 286
-caption: Address/177 Shoddy Mill Rd # 177
+caption: Address/177 Shoddy Mill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Shoddy Mill Rd
+street-number: 177
 tags: Address
 title: Address/286
 type: text/vnd.tiddlywiki

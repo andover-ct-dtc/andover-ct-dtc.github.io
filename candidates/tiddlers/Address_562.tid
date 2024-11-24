@@ -2,7 +2,10 @@ address: 28 Pine Ridge Dr
 address-id: 562
 caption: Address/28 Pine Ridge Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Pine Ridge Dr
+street-number: 28
 tags: Address
 title: Address/562
 type: text/vnd.tiddlywiki

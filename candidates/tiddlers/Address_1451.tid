@@ -2,7 +2,10 @@ address: 164 Hendee Rd
 address-id: 1451
 caption: Address/164 Hendee Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hendee Rd
+street-number: 164
 tags: Address
 title: Address/1451
 type: text/vnd.tiddlywiki

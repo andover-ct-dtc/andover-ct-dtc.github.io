@@ -2,7 +2,10 @@ address: 80 Hebron Rd
 address-id: 541
 caption: Address/80 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 80
 tags: Address
 title: Address/541
 type: text/vnd.tiddlywiki

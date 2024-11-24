@@ -2,7 +2,10 @@ address: 25 Hendee Rd
 address-id: 436
 caption: Address/25 Hendee Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hendee Rd
+street-number: 25
 tags: Address
 title: Address/436
 type: text/vnd.tiddlywiki

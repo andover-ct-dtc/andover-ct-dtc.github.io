@@ -2,7 +2,10 @@ address: 85 Lakeside Dr
 address-id: 671
 caption: Address/85 Lakeside Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Lakeside Dr
+street-number: 85
 tags: Address
 title: Address/671
 type: text/vnd.tiddlywiki

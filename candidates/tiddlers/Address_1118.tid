@@ -2,7 +2,10 @@ address: 56 Skinner Hill Rd
 address-id: 1118
 caption: Address/56 Skinner Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Skinner Hill Rd
+street-number: 56
 tags: Address
 title: Address/1118
 type: text/vnd.tiddlywiki

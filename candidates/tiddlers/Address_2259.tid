@@ -2,7 +2,10 @@ address: 32 Bausola Rd
 address-id: 2259
 caption: Address/32 Bausola Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bausola Rd
+street-number: 32
 tags: Address
 title: Address/2259
 type: text/vnd.tiddlywiki

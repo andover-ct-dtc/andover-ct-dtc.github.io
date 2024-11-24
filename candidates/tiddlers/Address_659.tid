@@ -2,7 +2,10 @@ address: 105 Townsend Rd
 address-id: 659
 caption: Address/105 Townsend Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Townsend Rd
+street-number: 105
 tags: Address
 title: Address/659
 type: text/vnd.tiddlywiki

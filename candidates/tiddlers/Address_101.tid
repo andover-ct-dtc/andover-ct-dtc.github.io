@@ -2,7 +2,10 @@ address: 44 Bausola Rd
 address-id: 101
 caption: Address/44 Bausola Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bausola Rd
+street-number: 44
 tags: Address
 title: Address/101
 type: text/vnd.tiddlywiki

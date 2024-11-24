@@ -2,7 +2,10 @@ address: 120 Wales Rd
 address-id: 372
 caption: Address/120 Wales Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Wales Rd
+street-number: 120
 tags: Address
 title: Address/372
 type: text/vnd.tiddlywiki

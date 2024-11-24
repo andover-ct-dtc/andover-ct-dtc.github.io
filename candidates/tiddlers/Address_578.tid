@@ -2,7 +2,10 @@ address: 51 Shoddy Mill Rd
 address-id: 578
 caption: Address/51 Shoddy Mill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Shoddy Mill Rd
+street-number: 51
 tags: Address
 title: Address/578
 type: text/vnd.tiddlywiki

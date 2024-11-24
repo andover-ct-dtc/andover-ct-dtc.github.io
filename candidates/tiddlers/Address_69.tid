@@ -2,7 +2,10 @@ address: 92 Shoddy Mill Rd
 address-id: 69
 caption: Address/92 Shoddy Mill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Shoddy Mill Rd
+street-number: 92
 tags: Address
 title: Address/69
 type: text/vnd.tiddlywiki

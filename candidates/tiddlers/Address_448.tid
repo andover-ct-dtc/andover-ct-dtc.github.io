@@ -2,7 +2,10 @@ address: 96 Shoddy Mill Rd
 address-id: 448
 caption: Address/96 Shoddy Mill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Shoddy Mill Rd
+street-number: 96
 tags: Address
 title: Address/448
 type: text/vnd.tiddlywiki

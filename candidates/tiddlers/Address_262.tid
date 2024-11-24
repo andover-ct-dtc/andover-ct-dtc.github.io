@@ -2,7 +2,10 @@ address: 229 Long Hill Rd
 address-id: 262
 caption: Address/229 Long Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Long Hill Rd
+street-number: 229
 tags: Address
 title: Address/262
 type: text/vnd.tiddlywiki

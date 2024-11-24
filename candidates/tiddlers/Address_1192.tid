@@ -2,7 +2,10 @@ address: 258 Gilead Rd
 address-id: 1192
 caption: Address/258 Gilead Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Gilead Rd
+street-number: 258
 tags: Address
 title: Address/1192
 type: text/vnd.tiddlywiki

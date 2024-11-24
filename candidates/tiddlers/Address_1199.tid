@@ -2,7 +2,10 @@ address: 31 Ridge Rd
 address-id: 1199
 caption: Address/31 Ridge Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Ridge Rd
+street-number: 31
 tags: Address
 title: Address/1199
 type: text/vnd.tiddlywiki

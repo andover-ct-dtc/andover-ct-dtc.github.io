@@ -2,7 +2,10 @@ address: 203 Bunker Hill Rd
 address-id: 931
 caption: Address/203 Bunker Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bunker Hill Rd
+street-number: 203
 tags: Address
 title: Address/931
 type: text/vnd.tiddlywiki

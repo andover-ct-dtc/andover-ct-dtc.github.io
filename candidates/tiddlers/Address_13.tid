@@ -2,7 +2,10 @@ address: 226 Gilead Rd
 address-id: 13
 caption: Address/226 Gilead Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Gilead Rd
+street-number: 226
 tags: Address
 title: Address/13
 type: text/vnd.tiddlywiki

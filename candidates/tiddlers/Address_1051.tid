@@ -2,7 +2,10 @@ address: 66 Bausola Rd
 address-id: 1051
 caption: Address/66 Bausola Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bausola Rd
+street-number: 66
 tags: Address
 title: Address/1051
 type: text/vnd.tiddlywiki

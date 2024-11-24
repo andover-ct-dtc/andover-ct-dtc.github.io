@@ -2,7 +2,10 @@ address: 146 Lakeside Dr
 address-id: 824
 caption: Address/146 Lakeside Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Lakeside Dr
+street-number: 146
 tags: Address
 title: Address/824
 type: text/vnd.tiddlywiki

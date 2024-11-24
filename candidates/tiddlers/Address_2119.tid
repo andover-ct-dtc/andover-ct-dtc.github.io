@@ -2,7 +2,10 @@ address: 74 Hendee Rd
 address-id: 2119
 caption: Address/74 Hendee Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hendee Rd
+street-number: 74
 tags: Address
 title: Address/2119
 type: text/vnd.tiddlywiki

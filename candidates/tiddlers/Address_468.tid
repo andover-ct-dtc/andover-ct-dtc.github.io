@@ -1,8 +1,11 @@
-address: PO Box 64
+address: 463 Lake Rd
 address-id: 468
-caption: Address/PO Box 64
+caption: Address/463 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 463
 tags: Address
 title: Address/468
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 17 Hickory Hill Dr
 address-id: 450
 caption: Address/17 Hickory Hill Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Hickory Hill Dr
+street-number: 17
 tags: Address
 title: Address/450
 type: text/vnd.tiddlywiki

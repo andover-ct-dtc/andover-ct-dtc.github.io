@@ -2,7 +2,10 @@ address: 530 Lake Rd
 address-id: 308
 caption: Address/530 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 530
 tags: Address
 title: Address/308
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 25 Old Coventry Rd
 address-id: 837
 caption: Address/25 Old Coventry Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Old Coventry Rd
+street-number: 25
 tags: Address
 title: Address/837
 type: text/vnd.tiddlywiki

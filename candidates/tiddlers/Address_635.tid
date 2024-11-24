@@ -2,7 +2,10 @@ address: 145 Boston Hill Rd
 address-id: 635
 caption: Address/145 Boston Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Boston Hill Rd
+street-number: 145
 tags: Address
 title: Address/635
 type: text/vnd.tiddlywiki

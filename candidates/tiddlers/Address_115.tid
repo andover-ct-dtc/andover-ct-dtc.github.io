@@ -2,7 +2,10 @@ address: 278 Gilead Rd
 address-id: 115
 caption: Address/278 Gilead Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Gilead Rd
+street-number: 278
 tags: Address
 title: Address/115
 type: text/vnd.tiddlywiki

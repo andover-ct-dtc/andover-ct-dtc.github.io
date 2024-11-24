@@ -2,7 +2,10 @@ address: 21 Skinner Hill Rd
 address-id: 1899
 caption: Address/21 Skinner Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Skinner Hill Rd
+street-number: 21
 tags: Address
 title: Address/1899
 type: text/vnd.tiddlywiki

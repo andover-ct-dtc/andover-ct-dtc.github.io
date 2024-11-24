@@ -2,7 +2,10 @@ address: 72 Bausola Rd
 address-id: 670
 caption: Address/72 Bausola Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bausola Rd
+street-number: 72
 tags: Address
 title: Address/670
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 93 Boston Hill Rd
 address-id: 764
 caption: Address/93 Boston Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Boston Hill Rd
+street-number: 93
 tags: Address
 title: Address/764
 type: text/vnd.tiddlywiki

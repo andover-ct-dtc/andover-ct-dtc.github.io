@@ -2,7 +2,10 @@ address: 252 Gilead Rd
 address-id: 1549
 caption: Address/252 Gilead Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Gilead Rd
+street-number: 252
 tags: Address
 title: Address/1549
 type: text/vnd.tiddlywiki

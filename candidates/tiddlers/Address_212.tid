@@ -2,7 +2,10 @@ address: 321 Lake Rd
 address-id: 212
 caption: Address/321 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 321
 tags: Address
 title: Address/212
 type: text/vnd.tiddlywiki

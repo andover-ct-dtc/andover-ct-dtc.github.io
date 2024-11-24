@@ -2,7 +2,10 @@ address: 100 Cone Rd
 address-id: 1114
 caption: Address/100 Cone Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Cone Rd
+street-number: 100
 tags: Address
 title: Address/1114
 type: text/vnd.tiddlywiki

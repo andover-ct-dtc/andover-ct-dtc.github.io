@@ -2,7 +2,10 @@ address: 253 Boston Hill Rd
 address-id: 120
 caption: Address/253 Boston Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Boston Hill Rd
+street-number: 253
 tags: Address
 title: Address/120
 type: text/vnd.tiddlywiki

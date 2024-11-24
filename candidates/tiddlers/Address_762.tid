@@ -2,7 +2,10 @@ address: 62 School Rd
 address-id: 762
 caption: Address/62 School Rd
 city: Andover
+revision: 0
 state: CT
+street-name: School Rd
+street-number: 62
 tags: Address
 title: Address/762
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 230 Gilead Rd
 address-id: 1875
 caption: Address/230 Gilead Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Gilead Rd
+street-number: 230
 tags: Address
 title: Address/1875
 type: text/vnd.tiddlywiki

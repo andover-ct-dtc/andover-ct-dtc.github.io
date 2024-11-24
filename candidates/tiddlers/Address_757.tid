@@ -2,7 +2,10 @@ address: 178 Hebron Rd
 address-id: 757
 caption: Address/178 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 178
 tags: Address
 title: Address/757
 type: text/vnd.tiddlywiki

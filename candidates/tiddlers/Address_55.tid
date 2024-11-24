@@ -2,7 +2,10 @@ address: 170 Boston Hill Rd
 address-id: 55
 caption: Address/170 Boston Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Boston Hill Rd
+street-number: 170
 tags: Address
 title: Address/55
 type: text/vnd.tiddlywiki

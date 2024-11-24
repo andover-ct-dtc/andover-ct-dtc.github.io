@@ -2,7 +2,10 @@ address: 100 Hutchinson Rd
 address-id: 1084
 caption: Address/100 Hutchinson Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hutchinson Rd
+street-number: 100
 tags: Address
 title: Address/1084
 type: text/vnd.tiddlywiki

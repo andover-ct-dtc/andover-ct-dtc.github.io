@@ -1,8 +1,11 @@
-address: PO Box 72
+address: 157 Wales Rd
 address-id: 1826
-caption: Address/PO Box 72
+caption: Address/157 Wales Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Wales Rd
+street-number: 157
 tags: Address
 title: Address/1826
 type: text/vnd.tiddlywiki

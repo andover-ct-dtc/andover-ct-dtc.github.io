@@ -2,7 +2,10 @@ address: 1 Jurovaty Ln
 address-id: 446
 caption: Address/1 Jurovaty Ln
 city: Andover
+revision: 0
 state: CT
+street-name: Jurovaty Ln
+street-number: 1
 tags: Address
 title: Address/446
 type: text/vnd.tiddlywiki

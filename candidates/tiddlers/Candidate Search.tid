@@ -1,15 +1,11 @@
 created: 20241118170555684
 min-support: 95
-modified: 20241119044734278
+modified: 20241120225311899
+revision: 6
 tags: TableOfContents
 title: Candidate Search
 type: text/vnd.tiddlywiki
 
-Democrats with a minimum Democrat support value of <$edit-text field="min-support" size="2" type="number"/> (count: ''<$text text={{{ [tag[Voter]party[D]!has[draft.of]] :filter[get[dnc-dem-party-support]compare:number:gteq{Candidate Search!!min-support}] +[count[]] }}}/>'')
+Democrats with a minimum Democrat support value of <$edit-text field="min-support" class="short-number" type="number"/> (count: ''<$text text={{{ [tag[Voter]party[D]!has[draft.of]] :filter[get[dnc-dem-party-support]compare:number:gteq{Candidate Search!!min-support}] +[count[]] }}}/>'')
 
-<table class="zebra">
-<tr><th>Name</th><th>Age</th><th>Gender</th><th>Address</th><th>Phone</th></tr>
-<$list filter="[tag[Voter]party[D]!has[draft.of]] :filter[get[dnc-dem-party-support]compare:number:gteq{Candidate Search!!min-support}] +[sort[suffix]sort[first-name]sort[last-name]]">
-<tr><td><$link>{{!!first-name}} {{!!last-name}} {{!!suffix}}</$link></td><td>{{!!age}}</td><td>{{!!sex}}</td><td>{{!!m-address}}</td><td>{{!!preferred-phone}}</td></tr>
-</$list>
-</table>
+<<voter-table "[tag[Voter]party[D]!has[draft.of]] :filter[get[dnc-dem-party-support]compare:number:gteq{Candidate Search!!min-support}] +[sort[suffix]sort[first-name]sort[last-name]]">>

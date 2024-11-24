@@ -2,7 +2,10 @@ address: 97 Long Hill Rd
 address-id: 834
 caption: Address/97 Long Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Long Hill Rd
+street-number: 97
 tags: Address
 title: Address/834
 type: text/vnd.tiddlywiki

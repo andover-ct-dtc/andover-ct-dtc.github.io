@@ -2,7 +2,10 @@ address: 12 Shadblow Ln
 address-id: 531
 caption: Address/12 Shadblow Ln
 city: Andover
+revision: 0
 state: CT
+street-name: Shadblow Ln
+street-number: 12
 tags: Address
 title: Address/531
 type: text/vnd.tiddlywiki

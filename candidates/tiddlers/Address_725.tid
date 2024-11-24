@@ -2,7 +2,10 @@ address: 205 Long Hill Rd
 address-id: 725
 caption: Address/205 Long Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Long Hill Rd
+street-number: 205
 tags: Address
 title: Address/725
 type: text/vnd.tiddlywiki

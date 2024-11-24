@@ -2,7 +2,10 @@ address: 110 Cone Rd
 address-id: 935
 caption: Address/110 Cone Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Cone Rd
+street-number: 110
 tags: Address
 title: Address/935
 type: text/vnd.tiddlywiki

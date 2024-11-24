@@ -2,7 +2,10 @@ address: 43 Shoddy Mill Rd
 address-id: 258
 caption: Address/43 Shoddy Mill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Shoddy Mill Rd
+street-number: 43
 tags: Address
 title: Address/258
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 13 Dogwood Dr
 address-id: 477
 caption: Address/13 Dogwood Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Dogwood Dr
+street-number: 13
 tags: Address
 title: Address/477
 type: text/vnd.tiddlywiki

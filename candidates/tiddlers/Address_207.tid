@@ -2,7 +2,10 @@ address: 20 School Rd
 address-id: 207
 caption: Address/20 School Rd
 city: Andover
+revision: 0
 state: CT
+street-name: School Rd
+street-number: 20
 tags: Address
 title: Address/207
 type: text/vnd.tiddlywiki

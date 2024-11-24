@@ -2,7 +2,10 @@ address: 33 Route 87
 address-id: 1198
 caption: Address/33 Route 87
 city: Andover
+revision: 0
 state: CT
+street-name: Route 87
+street-number: 33
 tags: Address
 title: Address/1198
 type: text/vnd.tiddlywiki

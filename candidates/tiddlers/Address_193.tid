@@ -1,8 +1,11 @@
-address: 134 Main St Apt 109
+address: 674 Route 6
 address-id: 193
-caption: Address/134 Main St Apt 109
+caption: Address/674 Route 6
 city: Upton
+revision: 0
 state: MA
+street-name: Route 6
+street-number: 674
 tags: Address
 title: Address/193
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 28 Old Coventry Rd
 address-id: 1862
 caption: Address/28 Old Coventry Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Old Coventry Rd
+street-number: 28
 tags: Address
 title: Address/1862
 type: text/vnd.tiddlywiki

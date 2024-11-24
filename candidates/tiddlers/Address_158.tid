@@ -2,7 +2,10 @@ address: 8 School Rd
 address-id: 158
 caption: Address/8 School Rd
 city: Andover
+revision: 0
 state: CT
+street-name: School Rd
+street-number: 8
 tags: Address
 title: Address/158
 type: text/vnd.tiddlywiki

@@ -1,8 +1,11 @@
-address: 33 Kingsley Dr Apt C5
+address: 33 Kingsley Dr
 address-id: 1179
-caption: Address/33 Kingsley Dr Apt C5
+caption: Address/33 Kingsley Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Kingsley Dr
+street-number: 33
 tags: Address
 title: Address/1179
 type: text/vnd.tiddlywiki

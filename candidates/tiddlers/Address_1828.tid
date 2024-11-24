@@ -2,7 +2,10 @@ address: 323 Boston Hill Rd
 address-id: 1828
 caption: Address/323 Boston Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Boston Hill Rd
+street-number: 323
 tags: Address
 title: Address/1828
 type: text/vnd.tiddlywiki

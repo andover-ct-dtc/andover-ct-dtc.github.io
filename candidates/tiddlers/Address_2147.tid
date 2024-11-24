@@ -2,7 +2,10 @@ address: 132 Wales Rd
 address-id: 2147
 caption: Address/132 Wales Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Wales Rd
+street-number: 132
 tags: Address
 title: Address/2147
 type: text/vnd.tiddlywiki

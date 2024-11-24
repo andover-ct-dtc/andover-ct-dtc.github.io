@@ -2,7 +2,10 @@ address: 315 Hebron Rd
 address-id: 114
 caption: Address/315 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 315
 tags: Address
 title: Address/114
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 344 Lake Rd
 address-id: 1267
 caption: Address/344 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 344
 tags: Address
 title: Address/1267
 type: text/vnd.tiddlywiki

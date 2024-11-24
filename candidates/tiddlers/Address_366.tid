@@ -2,7 +2,10 @@ address: 240 Lake Rd
 address-id: 366
 caption: Address/240 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 240
 tags: Address
 title: Address/366
 type: text/vnd.tiddlywiki

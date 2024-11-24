@@ -2,7 +2,10 @@ address: 9 Hebron Rd
 address-id: 146
 caption: Address/9 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 9
 tags: Address
 title: Address/146
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 242 Gilead Rd
 address-id: 1423
 caption: Address/242 Gilead Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Gilead Rd
+street-number: 242
 tags: Address
 title: Address/1423
 type: text/vnd.tiddlywiki

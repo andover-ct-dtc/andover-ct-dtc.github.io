@@ -2,7 +2,10 @@ address: 40 Shoddy Mill Rd
 address-id: 1037
 caption: Address/40 Shoddy Mill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Shoddy Mill Rd
+street-number: 40
 tags: Address
 title: Address/1037
 type: text/vnd.tiddlywiki

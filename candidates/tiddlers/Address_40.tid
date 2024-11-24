@@ -2,7 +2,10 @@ address: 41 Stanley Dr
 address-id: 40
 caption: Address/41 Stanley Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Stanley Dr
+street-number: 41
 tags: Address
 title: Address/40
 type: text/vnd.tiddlywiki

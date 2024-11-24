@@ -2,7 +2,10 @@ address: 18 Dogwood Dr
 address-id: 1510
 caption: Address/18 Dogwood Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Dogwood Dr
+street-number: 18
 tags: Address
 title: Address/1510
 type: text/vnd.tiddlywiki

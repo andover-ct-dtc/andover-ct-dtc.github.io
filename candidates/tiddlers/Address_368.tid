@@ -2,7 +2,10 @@ address: 177 Hebron Rd
 address-id: 368
 caption: Address/177 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 177
 tags: Address
 title: Address/368
 type: text/vnd.tiddlywiki

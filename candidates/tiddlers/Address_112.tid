@@ -2,7 +2,10 @@ address: 187 A Route 6
 address-id: 112
 caption: Address/187 A Route 6
 city: Andover
+revision: 0
 state: CT
+street-name: Route 6
+street-number: 187 A
 tags: Address
 title: Address/112
 type: text/vnd.tiddlywiki

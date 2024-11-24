@@ -2,7 +2,10 @@ address: 34 West St
 address-id: 1006
 caption: Address/34 West St
 city: Andover
+revision: 0
 state: CT
+street-name: West St
+street-number: 34
 tags: Address
 title: Address/1006
 type: text/vnd.tiddlywiki

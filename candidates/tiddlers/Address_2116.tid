@@ -2,7 +2,10 @@ address: 146 Hebron Rd
 address-id: 2116
 caption: Address/146 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 146
 tags: Address
 title: Address/2116
 type: text/vnd.tiddlywiki

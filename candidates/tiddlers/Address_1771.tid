@@ -2,7 +2,10 @@ address: 184 Hebron Rd
 address-id: 1771
 caption: Address/184 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 184
 tags: Address
 title: Address/1771
 type: text/vnd.tiddlywiki

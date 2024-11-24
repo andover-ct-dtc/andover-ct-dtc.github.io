@@ -2,7 +2,10 @@ address: 24 Webster Ln
 address-id: 1212
 caption: Address/24 Webster Ln
 city: Bolton
+revision: 0
 state: CT
+street-name: Webster Ln
+street-number: 24
 tags: Address
 title: Address/1212
 type: text/vnd.tiddlywiki

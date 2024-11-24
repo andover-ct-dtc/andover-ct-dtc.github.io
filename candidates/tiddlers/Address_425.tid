@@ -2,7 +2,10 @@ address: 6 Lake Rd
 address-id: 425
 caption: Address/6 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 6
 tags: Address
 title: Address/425
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 48 Pine Ridge Dr
 address-id: 100
 caption: Address/48 Pine Ridge Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Pine Ridge Dr
+street-number: 48
 tags: Address
 title: Address/100
 type: text/vnd.tiddlywiki

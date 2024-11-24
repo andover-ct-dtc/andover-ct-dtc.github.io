@@ -1,8 +1,11 @@
-address: PO Box 25
+address: 901 East St
 address-id: 1152
-caption: Address/PO Box 25
+caption: Address/901 East St
 city: Andover
+revision: 0
 state: CT
+street-name: East St
+street-number: 901
 tags: Address
 title: Address/1152
 type: text/vnd.tiddlywiki

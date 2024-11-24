@@ -2,7 +2,10 @@ address: 258 Boston Hill Rd
 address-id: 297
 caption: Address/258 Boston Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Boston Hill Rd
+street-number: 258
 tags: Address
 title: Address/297
 type: text/vnd.tiddlywiki

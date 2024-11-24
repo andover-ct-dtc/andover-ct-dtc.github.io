@@ -2,7 +2,10 @@ address: 134 Wales Rd
 address-id: 1872
 caption: Address/134 Wales Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Wales Rd
+street-number: 134
 tags: Address
 title: Address/1872
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 16 Oak Farms Rd
 address-id: 674
 caption: Address/16 Oak Farms Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Oak Farms Rd
+street-number: 16
 tags: Address
 title: Address/674
 type: text/vnd.tiddlywiki

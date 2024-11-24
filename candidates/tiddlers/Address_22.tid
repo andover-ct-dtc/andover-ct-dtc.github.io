@@ -2,7 +2,10 @@ address: 74 Windrush Ln
 address-id: 22
 caption: Address/74 Windrush Ln
 city: Andover
+revision: 0
 state: CT
+street-name: Windrush Ln
+street-number: 74
 tags: Address
 title: Address/22
 type: text/vnd.tiddlywiki

@@ -1,8 +1,11 @@
-address: PO Box 357
+address: 12 Lakeview Dr
 address-id: 1245
-caption: Address/PO Box 357
+caption: Address/12 Lakeview Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Lakeview Dr
+street-number: 12
 tags: Address
 title: Address/1245
 type: text/vnd.tiddlywiki

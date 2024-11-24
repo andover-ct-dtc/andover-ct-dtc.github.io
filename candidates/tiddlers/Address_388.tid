@@ -2,7 +2,10 @@ address: 329 Lake Rd
 address-id: 388
 caption: Address/329 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 329
 tags: Address
 title: Address/388
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 40 Times Farm Rd
 address-id: 1255
 caption: Address/40 Times Farm Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Times Farm Rd
+street-number: 40
 tags: Address
 title: Address/1255
 type: text/vnd.tiddlywiki

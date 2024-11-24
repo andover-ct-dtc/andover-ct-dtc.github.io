@@ -1,8 +1,11 @@
-address: PO Box 58
+address: 241 Lake Rd
 address-id: 125
-caption: Address/PO Box 58
+caption: Address/241 Lake Rd
 city: Columbia
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 241
 tags: Address
 title: Address/125
 type: text/vnd.tiddlywiki

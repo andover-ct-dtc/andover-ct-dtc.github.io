@@ -2,7 +2,10 @@ address: 114 Hendee Rd
 address-id: 445
 caption: Address/114 Hendee Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hendee Rd
+street-number: 114
 tags: Address
 title: Address/445
 type: text/vnd.tiddlywiki

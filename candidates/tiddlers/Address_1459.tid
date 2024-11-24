@@ -2,7 +2,10 @@ address: 200 Bear Swamp Rd
 address-id: 1459
 caption: Address/200 Bear Swamp Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bear Swamp Rd
+street-number: 200
 tags: Address
 title: Address/1459
 type: text/vnd.tiddlywiki

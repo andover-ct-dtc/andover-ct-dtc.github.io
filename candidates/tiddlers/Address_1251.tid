@@ -2,7 +2,10 @@ address: 93 Hutchinson Rd
 address-id: 1251
 caption: Address/93 Hutchinson Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hutchinson Rd
+street-number: 93
 tags: Address
 title: Address/1251
 type: text/vnd.tiddlywiki

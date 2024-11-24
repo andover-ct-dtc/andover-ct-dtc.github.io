@@ -2,7 +2,10 @@ address: 110 Hutchinson Rd
 address-id: 1562
 caption: Address/110 Hutchinson Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hutchinson Rd
+street-number: 110
 tags: Address
 title: Address/1562
 type: text/vnd.tiddlywiki

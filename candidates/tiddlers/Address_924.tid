@@ -2,7 +2,10 @@ address: 65 Parker Bridge Rd
 address-id: 924
 caption: Address/65 Parker Bridge Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Parker Bridge Rd
+street-number: 65
 tags: Address
 title: Address/924
 type: text/vnd.tiddlywiki

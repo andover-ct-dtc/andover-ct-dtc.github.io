@@ -2,7 +2,10 @@ address: 10 Chesterbrook Ln
 address-id: 734
 caption: Address/10 Chesterbrook Ln
 city: Andover
+revision: 0
 state: CT
+street-name: Chesterbrook Ln
+street-number: 10
 tags: Address
 title: Address/734
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 227 Lake Rd
 address-id: 345
 caption: Address/227 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 227
 tags: Address
 title: Address/345
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 126 Wales Rd
 address-id: 1466
 caption: Address/126 Wales Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Wales Rd
+street-number: 126
 tags: Address
 title: Address/1466
 type: text/vnd.tiddlywiki

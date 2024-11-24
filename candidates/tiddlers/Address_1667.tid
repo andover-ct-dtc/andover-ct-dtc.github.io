@@ -2,7 +2,10 @@ address: 81 Stanley Dr
 address-id: 1667
 caption: Address/81 Stanley Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Stanley Dr
+street-number: 81
 tags: Address
 title: Address/1667
 type: text/vnd.tiddlywiki

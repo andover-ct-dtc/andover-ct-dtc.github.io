@@ -2,7 +2,10 @@ address: 3 W Street Ext
 address-id: 12
 caption: Address/3 W Street Ext
 city: Andover
+revision: 0
 state: CT
+street-name: W Street Ext
+street-number: 3
 tags: Address
 title: Address/12
 type: text/vnd.tiddlywiki

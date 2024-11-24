@@ -2,7 +2,10 @@ address: 11 Center St
 address-id: 1520
 caption: Address/11 Center St
 city: Andover
+revision: 0
 state: CT
+street-name: Center St
+street-number: 11
 tags: Address
 title: Address/1520
 type: text/vnd.tiddlywiki

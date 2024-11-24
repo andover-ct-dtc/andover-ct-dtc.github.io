@@ -1,8 +1,11 @@
-address: PO Box 395
+address: 126 Gilead Rd
 address-id: 1151
-caption: Address/PO Box 395
+caption: Address/126 Gilead Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Gilead Rd
+street-number: 126
 tags: Address
 title: Address/1151
 type: text/vnd.tiddlywiki

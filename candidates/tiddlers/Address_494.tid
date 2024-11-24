@@ -2,7 +2,10 @@ address: 161 Hebron Rd
 address-id: 494
 caption: Address/161 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 161
 tags: Address
 title: Address/494
 type: text/vnd.tiddlywiki

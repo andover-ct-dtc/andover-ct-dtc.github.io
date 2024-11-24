@@ -2,7 +2,10 @@ address: 80 Stanley Dr
 address-id: 1445
 caption: Address/80 Stanley Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Stanley Dr
+street-number: 80
 tags: Address
 title: Address/1445
 type: text/vnd.tiddlywiki

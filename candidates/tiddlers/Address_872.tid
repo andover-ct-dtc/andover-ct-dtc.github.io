@@ -2,7 +2,10 @@ address: 78 Hendee Rd
 address-id: 872
 caption: Address/78 Hendee Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hendee Rd
+street-number: 78
 tags: Address
 title: Address/872
 type: text/vnd.tiddlywiki

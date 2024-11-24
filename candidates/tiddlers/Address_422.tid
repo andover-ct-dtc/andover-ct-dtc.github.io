@@ -2,7 +2,10 @@ address: 3 Lakeside Dr
 address-id: 422
 caption: Address/3 Lakeside Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Lakeside Dr
+street-number: 3
 tags: Address
 title: Address/422
 type: text/vnd.tiddlywiki

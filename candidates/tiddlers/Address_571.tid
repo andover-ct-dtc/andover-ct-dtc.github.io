@@ -2,7 +2,10 @@ address: 587 Route 6
 address-id: 571
 caption: Address/587 Route 6
 city: Andover
+revision: 0
 state: CT
+street-name: Route 6
+street-number: 587
 tags: Address
 title: Address/571
 type: text/vnd.tiddlywiki

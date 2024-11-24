@@ -2,7 +2,10 @@ address: 72 Jurovaty Rd
 address-id: 1033
 caption: Address/72 Jurovaty Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Jurovaty Rd
+street-number: 72
 tags: Address
 title: Address/1033
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 35 Center St
 address-id: 572
 caption: Address/35 Center St
 city: Andover
+revision: 0
 state: CT
+street-name: Center St
+street-number: 35
 tags: Address
 title: Address/572
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 29 Brown Rd
 address-id: 188
 caption: Address/29 Brown Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Brown Rd
+street-number: 29
 tags: Address
 title: Address/188
 type: text/vnd.tiddlywiki

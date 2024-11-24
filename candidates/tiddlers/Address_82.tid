@@ -1,8 +1,11 @@
-address: PO Box 214
+address: 183 Bunker Hill Rd
 address-id: 82
-caption: Address/PO Box 214
+caption: Address/183 Bunker Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bunker Hill Rd
+street-number: 183
 tags: Address
 title: Address/82
 type: text/vnd.tiddlywiki

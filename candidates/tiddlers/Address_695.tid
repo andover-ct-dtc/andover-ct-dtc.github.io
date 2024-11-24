@@ -2,7 +2,10 @@ address: 38 Aspinall Dr
 address-id: 695
 caption: Address/38 Aspinall Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Aspinall Dr
+street-number: 38
 tags: Address
 title: Address/695
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 37 Lake Rd
 address-id: 251
 caption: Address/37 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 37
 tags: Address
 title: Address/251
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 746 East St
 address-id: 270
 caption: Address/746 East St
 city: Andover
+revision: 0
 state: CT
+street-name: East St
+street-number: 746
 tags: Address
 title: Address/270
 type: text/vnd.tiddlywiki

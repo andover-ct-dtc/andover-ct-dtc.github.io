@@ -2,7 +2,10 @@ address: 77 Bear Swamp Rd
 address-id: 1348
 caption: Address/77 Bear Swamp Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bear Swamp Rd
+street-number: 77
 tags: Address
 title: Address/1348
 type: text/vnd.tiddlywiki

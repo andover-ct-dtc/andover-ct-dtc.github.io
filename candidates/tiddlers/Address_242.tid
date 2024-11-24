@@ -2,7 +2,10 @@ address: 106 Hendee Rd
 address-id: 242
 caption: Address/106 Hendee Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hendee Rd
+street-number: 106
 tags: Address
 title: Address/242
 type: text/vnd.tiddlywiki

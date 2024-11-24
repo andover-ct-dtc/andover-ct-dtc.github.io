@@ -2,7 +2,10 @@ address: 275 Gilead Rd
 address-id: 651
 caption: Address/275 Gilead Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Gilead Rd
+street-number: 275
 tags: Address
 title: Address/651
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 13 Mathieson Dr
 address-id: 39
 caption: Address/13 Mathieson Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Mathieson Dr
+street-number: 13
 tags: Address
 title: Address/39
 type: text/vnd.tiddlywiki

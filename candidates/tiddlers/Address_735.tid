@@ -2,7 +2,10 @@ address: 239 Lake Rd
 address-id: 735
 caption: Address/239 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 239
 tags: Address
 title: Address/735
 type: text/vnd.tiddlywiki

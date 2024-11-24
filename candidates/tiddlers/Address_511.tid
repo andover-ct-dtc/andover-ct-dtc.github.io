@@ -2,7 +2,10 @@ address: 61 Hutchinson Rd
 address-id: 511
 caption: Address/61 Hutchinson Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hutchinson Rd
+street-number: 61
 tags: Address
 title: Address/511
 type: text/vnd.tiddlywiki

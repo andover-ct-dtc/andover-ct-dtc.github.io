@@ -2,7 +2,10 @@ address: 6 Rose Ln
 address-id: 1895
 caption: Address/6 Rose Ln
 city: Andover
+revision: 0
 state: CT
+street-name: Rose Ln
+street-number: 6
 tags: Address
 title: Address/1895
 type: text/vnd.tiddlywiki

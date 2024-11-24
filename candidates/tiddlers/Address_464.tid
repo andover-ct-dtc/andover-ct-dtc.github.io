@@ -2,7 +2,10 @@ address: 24 Oak Farms Rd
 address-id: 464
 caption: Address/24 Oak Farms Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Oak Farms Rd
+street-number: 24
 tags: Address
 title: Address/464
 type: text/vnd.tiddlywiki

@@ -1,8 +1,11 @@
-address: 222 PO
+address: 108 West St
 address-id: 2208
-caption: Address/222 PO
+caption: Address/108 West St
 city: Columbia
+revision: 0
 state: CT
+street-name: West St
+street-number: 108
 tags: Address
 title: Address/2208
 type: text/vnd.tiddlywiki

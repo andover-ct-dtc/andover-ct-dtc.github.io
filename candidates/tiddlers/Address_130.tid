@@ -2,7 +2,10 @@ address: 40 Ridge Rd
 address-id: 130
 caption: Address/40 Ridge Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Ridge Rd
+street-number: 40
 tags: Address
 title: Address/130
 type: text/vnd.tiddlywiki

@@ -1,5 +1,6 @@
 created: 20241119024530343
-modified: 20241119041156230
+modified: 20241120220540948
+revision: 1
 tags: $:/tags/ViewTemplate
 title: $:/_/avl/templates/Voter
 type: text/vnd.tiddlywiki
@@ -24,10 +25,21 @@ type: text/vnd.tiddlywiki
 ; Party
 : {{!!party}}
 
+; Other registered voters at this address
+<$let me={{{ [<currentTiddler>] }}}>
+<$list filter="[tag[Voter]address-id{!!address-id}] -[<me>] +[sort[suffix]sort[first-name]sort[last-name]]">
+
+: <$link>{{!!first-name}} {{!!last-name}} {{!!suffix}}</$link>
+</$list>
+</$let>
+
 <details><summary>''Scores''</summary>
 <ul>
-<$list filter="[enlist{$:/_/avl/data/score-fields}]" variable="fld">
+<$list filter="[enlist{$:/_/avl/data/score-fields}] :filter[<..currentTiddler>has{!!title}]" variable="fld">
 <li><<fld>>: ''<$text text={{{ [<currentTiddler>get<fld>] }}}/>''</li>
+</$list>
+<$list filter="[enlist{$:/_/avl/data/score-fields}] :filter[<..currentTiddler>!has{!!title}] +[first[]]" variable="ignore">
+<hr/>''Not set'': <$list filter="[enlist{$:/_/avl/data/score-fields}] :filter[<..currentTiddler>!has{!!title}]" join=", ">{{!!title}}</$list>
 </$list>
 </ul>
 </details>

@@ -2,7 +2,10 @@ address: 918 East St
 address-id: 278
 caption: Address/918 East St
 city: Andover
+revision: 0
 state: CT
+street-name: East St
+street-number: 918
 tags: Address
 title: Address/278
 type: text/vnd.tiddlywiki

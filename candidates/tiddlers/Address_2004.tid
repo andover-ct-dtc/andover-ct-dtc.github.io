@@ -1,8 +1,11 @@
-address: 208 Talcott Hill Rd
+address: 27 Hebron Rd
 address-id: 2004
-caption: Address/208 Talcott Hill Rd
+caption: Address/27 Hebron Rd
 city: Coventry
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 27
 tags: Address
 title: Address/2004
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 295 Lake Rd
 address-id: 525
 caption: Address/295 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 295
 tags: Address
 title: Address/525
 type: text/vnd.tiddlywiki

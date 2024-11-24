@@ -2,7 +2,10 @@ address: 55 Gilead Rd
 address-id: 122
 caption: Address/55 Gilead Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Gilead Rd
+street-number: 55
 tags: Address
 title: Address/122
 type: text/vnd.tiddlywiki

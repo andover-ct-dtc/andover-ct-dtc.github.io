@@ -2,7 +2,10 @@ address: 128 Wheeling Rd
 address-id: 378
 caption: Address/128 Wheeling Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Wheeling Rd
+street-number: 128
 tags: Address
 title: Address/378
 type: text/vnd.tiddlywiki

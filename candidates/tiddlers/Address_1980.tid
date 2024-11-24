@@ -2,7 +2,10 @@ address: 9 West St
 address-id: 1980
 caption: Address/9 West St
 city: Andover
+revision: 0
 state: CT
+street-name: West St
+street-number: 9
 tags: Address
 title: Address/1980
 type: text/vnd.tiddlywiki

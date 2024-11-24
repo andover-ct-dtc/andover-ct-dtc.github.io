@@ -2,7 +2,10 @@ address: 94 Wales Rd
 address-id: 813
 caption: Address/94 Wales Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Wales Rd
+street-number: 94
 tags: Address
 title: Address/813
 type: text/vnd.tiddlywiki

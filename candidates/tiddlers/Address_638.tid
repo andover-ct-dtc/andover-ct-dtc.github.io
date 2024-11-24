@@ -2,7 +2,10 @@ address: 52 Lakeside Dr
 address-id: 638
 caption: Address/52 Lakeside Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Lakeside Dr
+street-number: 52
 tags: Address
 title: Address/638
 type: text/vnd.tiddlywiki

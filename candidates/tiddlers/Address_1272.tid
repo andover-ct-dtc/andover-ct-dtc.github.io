@@ -2,7 +2,10 @@ address: 149 Hebron Rd
 address-id: 1272
 caption: Address/149 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 149
 tags: Address
 title: Address/1272
 type: text/vnd.tiddlywiki

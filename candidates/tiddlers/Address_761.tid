@@ -2,7 +2,10 @@ address: 8 Aspinall Dr
 address-id: 761
 caption: Address/8 Aspinall Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Aspinall Dr
+street-number: 8
 tags: Address
 title: Address/761
 type: text/vnd.tiddlywiki

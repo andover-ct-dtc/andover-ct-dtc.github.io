@@ -2,7 +2,10 @@ address: 75 Pine Ridge Dr
 address-id: 267
 caption: Address/75 Pine Ridge Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Pine Ridge Dr
+street-number: 75
 tags: Address
 title: Address/267
 type: text/vnd.tiddlywiki

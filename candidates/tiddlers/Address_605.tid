@@ -2,7 +2,10 @@ address: 79 Windrush Ln
 address-id: 605
 caption: Address/79 Windrush Ln
 city: Andover
+revision: 0
 state: CT
+street-name: Windrush Ln
+street-number: 79
 tags: Address
 title: Address/605
 type: text/vnd.tiddlywiki

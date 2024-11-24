@@ -2,7 +2,10 @@ address: 276 Gilead Rd
 address-id: 1181
 caption: Address/276 Gilead Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Gilead Rd
+street-number: 276
 tags: Address
 title: Address/1181
 type: text/vnd.tiddlywiki

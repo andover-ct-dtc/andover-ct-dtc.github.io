@@ -2,7 +2,10 @@ address: 25 Cider Mill Rd
 address-id: 65
 caption: Address/25 Cider Mill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Cider Mill Rd
+street-number: 25
 tags: Address
 title: Address/65
 type: text/vnd.tiddlywiki

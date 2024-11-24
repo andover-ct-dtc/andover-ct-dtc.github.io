@@ -2,7 +2,10 @@ address: 1 Dogwood Dr
 address-id: 305
 caption: Address/1 Dogwood Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Dogwood Dr
+street-number: 1
 tags: Address
 title: Address/305
 type: text/vnd.tiddlywiki

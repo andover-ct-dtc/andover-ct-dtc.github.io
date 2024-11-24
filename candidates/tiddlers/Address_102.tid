@@ -2,7 +2,10 @@ address: 141 Wales Rd
 address-id: 102
 caption: Address/141 Wales Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Wales Rd
+street-number: 141
 tags: Address
 title: Address/102
 type: text/vnd.tiddlywiki

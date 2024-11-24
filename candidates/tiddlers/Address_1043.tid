@@ -2,7 +2,10 @@ address: 135 Bear Swamp Rd
 address-id: 1043
 caption: Address/135 Bear Swamp Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bear Swamp Rd
+street-number: 135
 tags: Address
 title: Address/1043
 type: text/vnd.tiddlywiki

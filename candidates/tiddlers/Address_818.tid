@@ -2,7 +2,10 @@ address: 14 Center St
 address-id: 818
 caption: Address/14 Center St
 city: Andover
+revision: 0
 state: CT
+street-name: Center St
+street-number: 14
 tags: Address
 title: Address/818
 type: text/vnd.tiddlywiki

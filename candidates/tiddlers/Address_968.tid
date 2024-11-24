@@ -2,7 +2,10 @@ address: 26 Hickory Hill Dr
 address-id: 968
 caption: Address/26 Hickory Hill Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Hickory Hill Dr
+street-number: 26
 tags: Address
 title: Address/968
 type: text/vnd.tiddlywiki

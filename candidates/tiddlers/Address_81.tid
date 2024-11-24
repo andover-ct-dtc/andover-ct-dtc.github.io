@@ -2,7 +2,10 @@ address: 125 Long Hill Rd
 address-id: 81
 caption: Address/125 Long Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Long Hill Rd
+street-number: 125
 tags: Address
 title: Address/81
 type: text/vnd.tiddlywiki

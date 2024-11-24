@@ -2,7 +2,10 @@ address: 125 Hebron Rd
 address-id: 736
 caption: Address/125 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 125
 tags: Address
 title: Address/736
 type: text/vnd.tiddlywiki

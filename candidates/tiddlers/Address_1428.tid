@@ -2,7 +2,10 @@ address: 23 Jurovaty Rd
 address-id: 1428
 caption: Address/23 Jurovaty Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Jurovaty Rd
+street-number: 23
 tags: Address
 title: Address/1428
 type: text/vnd.tiddlywiki

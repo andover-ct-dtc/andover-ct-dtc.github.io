@@ -2,7 +2,10 @@ address: 36 Oak Farms Rd
 address-id: 1101
 caption: Address/36 Oak Farms Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Oak Farms Rd
+street-number: 36
 tags: Address
 title: Address/1101
 type: text/vnd.tiddlywiki

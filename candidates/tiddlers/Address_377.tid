@@ -2,7 +2,10 @@ address: 61 Times Farm Rd
 address-id: 377
 caption: Address/61 Times Farm Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Times Farm Rd
+street-number: 61
 tags: Address
 title: Address/377
 type: text/vnd.tiddlywiki

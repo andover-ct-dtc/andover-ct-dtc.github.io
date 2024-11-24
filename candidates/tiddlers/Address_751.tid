@@ -1,8 +1,11 @@
-address: 329 Route 6 Unit 1
+address: 329 Route 6
 address-id: 751
-caption: Address/329 Route 6 Unit 1
+caption: Address/329 Route 6
 city: Andover
+revision: 0
 state: CT
+street-name: Route 6
+street-number: 329
 tags: Address
 title: Address/751
 type: text/vnd.tiddlywiki

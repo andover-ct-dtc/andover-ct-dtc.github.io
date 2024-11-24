@@ -2,7 +2,10 @@ address: 16 Bear Swamp Rd
 address-id: 1785
 caption: Address/16 Bear Swamp Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bear Swamp Rd
+street-number: 16
 tags: Address
 title: Address/1785
 type: text/vnd.tiddlywiki

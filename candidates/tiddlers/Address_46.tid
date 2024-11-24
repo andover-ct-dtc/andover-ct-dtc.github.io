@@ -2,7 +2,10 @@ address: 344 Hebron Rd
 address-id: 46
 caption: Address/344 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 344
 tags: Address
 title: Address/46
 type: text/vnd.tiddlywiki

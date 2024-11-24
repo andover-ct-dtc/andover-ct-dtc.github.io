@@ -1,8 +1,11 @@
-address: 70 University Hts # 161
+address: 248 Bear Swamp Rd
 address-id: 1479
-caption: Address/70 University Hts # 161
+caption: Address/248 Bear Swamp Rd
 city: Burlington
+revision: 0
 state: VT
+street-name: Bear Swamp Rd
+street-number: 248
 tags: Address
 title: Address/1479
 type: text/vnd.tiddlywiki

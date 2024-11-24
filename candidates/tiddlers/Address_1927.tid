@@ -1,8 +1,11 @@
-address: PO Box 22
+address: 66 Route 87
 address-id: 1927
-caption: Address/PO Box 22
+caption: Address/66 Route 87
 city: Andover
+revision: 0
 state: CT
+street-name: Route 87
+street-number: 66
 tags: Address
 title: Address/1927
 type: text/vnd.tiddlywiki

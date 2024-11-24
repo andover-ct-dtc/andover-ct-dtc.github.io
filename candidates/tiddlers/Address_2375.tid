@@ -2,7 +2,10 @@ address: 193 Lake Rd
 address-id: 2375
 caption: Address/193 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 193
 tags: Address
 title: Address/2375
 type: text/vnd.tiddlywiki

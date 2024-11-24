@@ -1,8 +1,11 @@
-address: 63 Bunker Hill Rd # A
+address: 63 Bunker Hill Rd
 address-id: 300
-caption: Address/63 Bunker Hill Rd # A
+caption: Address/63 Bunker Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bunker Hill Rd
+street-number: 63
 tags: Address
 title: Address/300
 type: text/vnd.tiddlywiki

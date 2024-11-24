@@ -1,8 +1,11 @@
-address: PO Box 262
+address: 11 Wheeling Rd
 address-id: 1992
-caption: Address/PO Box 262
+caption: Address/11 Wheeling Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Wheeling Rd
+street-number: 11
 tags: Address
 title: Address/1992
 type: text/vnd.tiddlywiki

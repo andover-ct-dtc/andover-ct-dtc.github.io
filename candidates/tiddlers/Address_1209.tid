@@ -2,7 +2,10 @@ address: 35 Riverside Dr
 address-id: 1209
 caption: Address/35 Riverside Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Riverside Dr
+street-number: 35
 tags: Address
 title: Address/1209
 type: text/vnd.tiddlywiki

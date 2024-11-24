@@ -2,7 +2,10 @@ address: 180 Long Hill Rd
 address-id: 94
 caption: Address/180 Long Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Long Hill Rd
+street-number: 180
 tags: Address
 title: Address/94
 type: text/vnd.tiddlywiki

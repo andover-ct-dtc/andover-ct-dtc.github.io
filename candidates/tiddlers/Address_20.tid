@@ -2,7 +2,10 @@ address: 265 Route 6
 address-id: 20
 caption: Address/265 Route 6
 city: Andover
+revision: 0
 state: CT
+street-name: Route 6
+street-number: 265
 tags: Address
 title: Address/20
 type: text/vnd.tiddlywiki

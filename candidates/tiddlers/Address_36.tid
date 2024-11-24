@@ -2,7 +2,10 @@ address: 38 Bunker Hill Rd
 address-id: 36
 caption: Address/38 Bunker Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bunker Hill Rd
+street-number: 38
 tags: Address
 title: Address/36
 type: text/vnd.tiddlywiki

@@ -1,0 +1,11 @@
+caption: Data Corrections
+created: 20241119162727047
+modified: 20241120195256744
+revision: 0
+tags: [[Raw Data]]
+title: $:/_/avl/data/Data Corrections
+type: text/vnd.tiddlywiki
+
+These are corrections directly to the VAN input data.
+
+  * VANID: 856 (George Atkins).  Replaced "He Hebron Rd" with "Hebron Rd"  and "He Hebron" with "Hebron"

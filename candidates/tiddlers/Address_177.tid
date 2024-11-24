@@ -2,7 +2,10 @@ address: 187 Boston Hill Rd
 address-id: 177
 caption: Address/187 Boston Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Boston Hill Rd
+street-number: 187
 tags: Address
 title: Address/177
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 261 Lake Rd
 address-id: 616
 caption: Address/261 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 261
 tags: Address
 title: Address/616
 type: text/vnd.tiddlywiki

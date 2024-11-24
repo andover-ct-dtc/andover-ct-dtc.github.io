@@ -2,7 +2,10 @@ address: 132 Bunker Hill Rd
 address-id: 2171
 caption: Address/132 Bunker Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bunker Hill Rd
+street-number: 132
 tags: Address
 title: Address/2171
 type: text/vnd.tiddlywiki

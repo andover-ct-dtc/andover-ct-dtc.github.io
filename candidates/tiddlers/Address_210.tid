@@ -2,7 +2,10 @@ address: 191 Lake Rd
 address-id: 210
 caption: Address/191 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 191
 tags: Address
 title: Address/210
 type: text/vnd.tiddlywiki

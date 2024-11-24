@@ -2,7 +2,10 @@ address: 9 Erdoni Rd
 address-id: 778
 caption: Address/9 Erdoni Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Erdoni Rd
+street-number: 9
 tags: Address
 title: Address/778
 type: text/vnd.tiddlywiki

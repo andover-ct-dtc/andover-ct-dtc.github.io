@@ -2,7 +2,10 @@ address: 114 Wales Rd
 address-id: 483
 caption: Address/114 Wales Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Wales Rd
+street-number: 114
 tags: Address
 title: Address/483
 type: text/vnd.tiddlywiki

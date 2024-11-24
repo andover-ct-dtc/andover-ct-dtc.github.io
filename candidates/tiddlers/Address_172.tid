@@ -2,7 +2,10 @@ address: 26 Parker Bridge Rd
 address-id: 172
 caption: Address/26 Parker Bridge Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Parker Bridge Rd
+street-number: 26
 tags: Address
 title: Address/172
 type: text/vnd.tiddlywiki

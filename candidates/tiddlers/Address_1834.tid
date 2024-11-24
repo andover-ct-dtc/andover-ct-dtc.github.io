@@ -1,8 +1,11 @@
-address: PO Box 164
+address: 288 Boston Hill Rd
 address-id: 1834
-caption: Address/PO Box 164
+caption: Address/288 Boston Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Boston Hill Rd
+street-number: 288
 tags: Address
 title: Address/1834
 type: text/vnd.tiddlywiki

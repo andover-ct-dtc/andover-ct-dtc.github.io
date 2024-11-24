@@ -2,7 +2,10 @@ address: 127 Bear Swamp Rd
 address-id: 2024
 caption: Address/127 Bear Swamp Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bear Swamp Rd
+street-number: 127
 tags: Address
 title: Address/2024
 type: text/vnd.tiddlywiki

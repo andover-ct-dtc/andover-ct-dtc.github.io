@@ -2,7 +2,10 @@ address: 53 Rockledge Dr
 address-id: 916
 caption: Address/53 Rockledge Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Rockledge Dr
+street-number: 53
 tags: Address
 title: Address/916
 type: text/vnd.tiddlywiki

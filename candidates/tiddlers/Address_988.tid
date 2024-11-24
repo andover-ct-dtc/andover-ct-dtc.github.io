@@ -2,7 +2,10 @@ address: 12 Chesterbrook Ln
 address-id: 988
 caption: Address/12 Chesterbrook Ln
 city: Andover
+revision: 0
 state: CT
+street-name: Chesterbrook Ln
+street-number: 12
 tags: Address
 title: Address/988
 type: text/vnd.tiddlywiki

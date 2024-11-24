@@ -2,7 +2,10 @@ address: 39 Jurovaty Rd
 address-id: 1167
 caption: Address/39 Jurovaty Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Jurovaty Rd
+street-number: 39
 tags: Address
 title: Address/1167
 type: text/vnd.tiddlywiki

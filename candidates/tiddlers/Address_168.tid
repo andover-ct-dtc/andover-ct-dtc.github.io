@@ -2,7 +2,10 @@ address: 58 Shoddy Mill Rd
 address-id: 168
 caption: Address/58 Shoddy Mill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Shoddy Mill Rd
+street-number: 58
 tags: Address
 title: Address/168
 type: text/vnd.tiddlywiki

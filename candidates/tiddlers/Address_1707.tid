@@ -2,7 +2,10 @@ address: 11 Shadblow Ln
 address-id: 1707
 caption: Address/11 Shadblow Ln
 city: Andover
+revision: 0
 state: CT
+street-name: Shadblow Ln
+street-number: 11
 tags: Address
 title: Address/1707
 type: text/vnd.tiddlywiki

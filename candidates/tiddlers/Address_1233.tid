@@ -2,7 +2,10 @@ address: 10 Dogwood Dr
 address-id: 1233
 caption: Address/10 Dogwood Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Dogwood Dr
+street-number: 10
 tags: Address
 title: Address/1233
 type: text/vnd.tiddlywiki

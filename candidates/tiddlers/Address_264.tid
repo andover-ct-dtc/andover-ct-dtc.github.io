@@ -2,7 +2,10 @@ address: 372 Hebron Rd
 address-id: 264
 caption: Address/372 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 372
 tags: Address
 title: Address/264
 type: text/vnd.tiddlywiki

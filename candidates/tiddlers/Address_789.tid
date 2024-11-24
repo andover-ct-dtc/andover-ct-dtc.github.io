@@ -2,7 +2,10 @@ address: 191 Hebron Rd
 address-id: 789
 caption: Address/191 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 191
 tags: Address
 title: Address/789
 type: text/vnd.tiddlywiki

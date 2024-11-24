@@ -2,7 +2,10 @@ address: 155 Hebron Rd
 address-id: 538
 caption: Address/155 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 155
 tags: Address
 title: Address/538
 type: text/vnd.tiddlywiki

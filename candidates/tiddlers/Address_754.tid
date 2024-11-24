@@ -2,7 +2,10 @@ address: 22 Birch Dr
 address-id: 754
 caption: Address/22 Birch Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Birch Dr
+street-number: 22
 tags: Address
 title: Address/754
 type: text/vnd.tiddlywiki

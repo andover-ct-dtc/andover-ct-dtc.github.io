@@ -2,7 +2,10 @@ address: 35 Birch Dr
 address-id: 798
 caption: Address/35 Birch Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Birch Dr
+street-number: 35
 tags: Address
 title: Address/798
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 340 Lake Rd
 address-id: 93
 caption: Address/340 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 340
 tags: Address
 title: Address/93
 type: text/vnd.tiddlywiki

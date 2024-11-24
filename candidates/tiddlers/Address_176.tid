@@ -1,8 +1,11 @@
-address: PO Box 183
+address: 146 Hebron Rd
 address-id: 176
-caption: Address/PO Box 183
+caption: Address/146 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 146
 tags: Address
 title: Address/176
 type: text/vnd.tiddlywiki

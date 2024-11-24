@@ -2,7 +2,10 @@ address: 76 Route 87
 address-id: 141
 caption: Address/76 Route 87
 city: Andover
+revision: 0
 state: CT
+street-name: Route 87
+street-number: 76
 tags: Address
 title: Address/141
 type: text/vnd.tiddlywiki

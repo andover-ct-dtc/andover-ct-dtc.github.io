@@ -2,7 +2,10 @@ address: 231 Gilead Rd
 address-id: 1174
 caption: Address/231 Gilead Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Gilead Rd
+street-number: 231
 tags: Address
 title: Address/1174
 type: text/vnd.tiddlywiki

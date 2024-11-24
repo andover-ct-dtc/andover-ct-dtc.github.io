@@ -2,7 +2,10 @@ address: 780 East St
 address-id: 54
 caption: Address/780 East St
 city: Andover
+revision: 0
 state: CT
+street-name: East St
+street-number: 780
 tags: Address
 title: Address/54
 type: text/vnd.tiddlywiki

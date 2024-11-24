@@ -2,7 +2,10 @@ address: 24 Wales Rd
 address-id: 964
 caption: Address/24 Wales Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Wales Rd
+street-number: 24
 tags: Address
 title: Address/964
 type: text/vnd.tiddlywiki

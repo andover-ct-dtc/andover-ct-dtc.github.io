@@ -2,7 +2,10 @@ address: 90 Lakeside Dr
 address-id: 1132
 caption: Address/90 Lakeside Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Lakeside Dr
+street-number: 90
 tags: Address
 title: Address/1132
 type: text/vnd.tiddlywiki

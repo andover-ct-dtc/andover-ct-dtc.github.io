@@ -1,0 +1,23 @@
+created: 20241120224114094
+modified: 20241120224929273
+revision: 5
+tags: $:/tags/Global
+title: $:/_/avl/procedures/voter-table
+type: text/vnd.tiddlywiki
+
+\procedure voter-table(filter)
+
+<table class="zebra">
+<tr><th>Name</th><th>Age</th><th>Gender</th><th>Address</th><th>Phone</th></tr>
+<$list filter="[subfilter<filter>]" >
+<tr>
+  <td><$link>{{!!first-name}} {{!!last-name}} {{!!suffix}}</$link></td>
+  <td>{{!!age}}</td>
+  <td>{{!!sex}}</td>
+  <td><$link to ={{{ [{!!address-id}addprefix[Address/]] }}} >{{!!m-address}}</$link></td>
+  <td><a href=`tel:+1${[{!!preferred-phone}search-replace:g:regexp[\D],[]]}$`>{{!!preferred-phone}}</a></td>
+</tr>
+</$list>
+</table>
+
+\end

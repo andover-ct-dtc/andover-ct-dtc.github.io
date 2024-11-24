@@ -2,7 +2,10 @@ address: 674 Route 6
 address-id: 718
 caption: Address/674 Route 6
 city: Andover
+revision: 0
 state: CT
+street-name: Route 6
+street-number: 674
 tags: Address
 title: Address/718
 type: text/vnd.tiddlywiki

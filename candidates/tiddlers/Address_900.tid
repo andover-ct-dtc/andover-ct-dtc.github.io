@@ -2,7 +2,10 @@ address: 411 Lake Rd
 address-id: 900
 caption: Address/411 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 411
 tags: Address
 title: Address/900
 type: text/vnd.tiddlywiki

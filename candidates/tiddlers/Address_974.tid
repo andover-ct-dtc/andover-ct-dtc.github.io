@@ -1,8 +1,11 @@
-address: 950 194
+address: 305 Route 6
 address-id: 974
-caption: Address/950 194
+caption: Address/305 Route 6
 city: Worcester
+revision: 0
 state: MA
+street-name: Route 6
+street-number: 305
 tags: Address
 title: Address/974
 type: text/vnd.tiddlywiki

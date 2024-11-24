@@ -2,7 +2,10 @@ address: 3 Sunset Ln
 address-id: 31
 caption: Address/3 Sunset Ln
 city: Andover
+revision: 0
 state: CT
+street-name: Sunset Ln
+street-number: 3
 tags: Address
 title: Address/31
 type: text/vnd.tiddlywiki

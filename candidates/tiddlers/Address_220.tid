@@ -2,7 +2,10 @@ address: 1 Sunset Ln
 address-id: 220
 caption: Address/1 Sunset Ln
 city: Andover
+revision: 0
 state: CT
+street-name: Sunset Ln
+street-number: 1
 tags: Address
 title: Address/220
 type: text/vnd.tiddlywiki

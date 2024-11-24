@@ -2,7 +2,10 @@ address: 54 Times Farm Rd
 address-id: 523
 caption: Address/54 Times Farm Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Times Farm Rd
+street-number: 54
 tags: Address
 title: Address/523
 type: text/vnd.tiddlywiki

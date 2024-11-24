@@ -2,7 +2,10 @@ address: 78 Merritt Valley Rd
 address-id: 582
 caption: Address/78 Merritt Valley Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Merritt Valley Rd
+street-number: 78
 tags: Address
 title: Address/582
 type: text/vnd.tiddlywiki

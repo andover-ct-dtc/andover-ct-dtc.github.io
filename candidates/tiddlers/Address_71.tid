@@ -1,8 +1,11 @@
-address: 8 Kingsley Dr Apt A4
+address: 8 Kingsley Dr
 address-id: 71
-caption: Address/8 Kingsley Dr Apt A4
+caption: Address/8 Kingsley Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Kingsley Dr
+street-number: 8
 tags: Address
 title: Address/71
 type: text/vnd.tiddlywiki

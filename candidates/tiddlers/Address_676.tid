@@ -2,7 +2,10 @@ address: 18 Bailey Rd
 address-id: 676
 caption: Address/18 Bailey Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bailey Rd
+street-number: 18
 tags: Address
 title: Address/676
 type: text/vnd.tiddlywiki

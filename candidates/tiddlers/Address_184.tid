@@ -2,7 +2,10 @@ address: 79 Lakeside Dr
 address-id: 184
 caption: Address/79 Lakeside Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Lakeside Dr
+street-number: 79
 tags: Address
 title: Address/184
 type: text/vnd.tiddlywiki

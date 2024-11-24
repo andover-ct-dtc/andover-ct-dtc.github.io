@@ -2,7 +2,10 @@ address: 59 Times Farm Rd
 address-id: 1368
 caption: Address/59 Times Farm Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Times Farm Rd
+street-number: 59
 tags: Address
 title: Address/1368
 type: text/vnd.tiddlywiki

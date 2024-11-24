@@ -1,8 +1,11 @@
-address: 25 Riverside Dr Apt 4C
+address: 25 Riverside Dr
 address-id: 1391
-caption: Address/25 Riverside Dr Apt 4C
+caption: Address/25 Riverside Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Riverside Dr
+street-number: 25
 tags: Address
 title: Address/1391
 type: text/vnd.tiddlywiki

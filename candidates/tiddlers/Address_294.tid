@@ -2,7 +2,10 @@ address: 67 Times Farm Rd
 address-id: 294
 caption: Address/67 Times Farm Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Times Farm Rd
+street-number: 67
 tags: Address
 title: Address/294
 type: text/vnd.tiddlywiki

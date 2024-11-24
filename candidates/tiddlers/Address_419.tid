@@ -2,7 +2,10 @@ address: 121 Townsend Rd
 address-id: 419
 caption: Address/121 Townsend Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Townsend Rd
+street-number: 121
 tags: Address
 title: Address/419
 type: text/vnd.tiddlywiki

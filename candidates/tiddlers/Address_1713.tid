@@ -2,7 +2,10 @@ address: 219 Route 6
 address-id: 1713
 caption: Address/219 Route 6
 city: Andover
+revision: 0
 state: CT
+street-name: Route 6
+street-number: 219
 tags: Address
 title: Address/1713
 type: text/vnd.tiddlywiki

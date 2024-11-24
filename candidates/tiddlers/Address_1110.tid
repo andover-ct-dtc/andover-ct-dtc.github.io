@@ -2,7 +2,10 @@ address: 54 Windrush Ln
 address-id: 1110
 caption: Address/54 Windrush Ln
 city: Andover
+revision: 0
 state: CT
+street-name: Windrush Ln
+street-number: 54
 tags: Address
 title: Address/1110
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 11 Rose Ln
 address-id: 283
 caption: Address/11 Rose Ln
 city: Andover
+revision: 0
 state: CT
+street-name: Rose Ln
+street-number: 11
 tags: Address
 title: Address/283
 type: text/vnd.tiddlywiki

@@ -1,8 +1,11 @@
-address: 329 Route 6 Apt 1
+address: 329 Route 6
 address-id: 2191
-caption: Address/329 Route 6 Apt 1
+caption: Address/329 Route 6
 city: Andover
+revision: 0
 state: CT
+street-name: Route 6
+street-number: 329
 tags: Address
 title: Address/2191
 type: text/vnd.tiddlywiki

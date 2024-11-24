@@ -2,7 +2,10 @@ address: 83 Merritt Valley Rd
 address-id: 196
 caption: Address/83 Merritt Valley Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Merritt Valley Rd
+street-number: 83
 tags: Address
 title: Address/196
 type: text/vnd.tiddlywiki

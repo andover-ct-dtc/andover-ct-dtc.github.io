@@ -2,7 +2,10 @@ address: 70 Shoddy Mill Rd
 address-id: 1552
 caption: Address/70 Shoddy Mill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Shoddy Mill Rd
+street-number: 70
 tags: Address
 title: Address/1552
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 390 Hebron Rd
 address-id: 1370
 caption: Address/390 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 390
 tags: Address
 title: Address/1370
 type: text/vnd.tiddlywiki

@@ -2,7 +2,12 @@ address: 187 Lake Rd
 address-id: 1957
 caption: Address/187 Lake Rd
 city: Andover
+created: 20241119163439902
+modified: 20241119163439902
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 187
 tags: Address
 title: Address/1957
 type: text/vnd.tiddlywiki

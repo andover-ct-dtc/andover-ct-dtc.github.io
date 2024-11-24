@@ -2,7 +2,10 @@ address: 366 Hebron Rd
 address-id: 218
 caption: Address/366 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 366
 tags: Address
 title: Address/218
 type: text/vnd.tiddlywiki

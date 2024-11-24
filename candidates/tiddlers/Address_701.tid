@@ -2,7 +2,10 @@ address: 102 Hendee Rd
 address-id: 701
 caption: Address/102 Hendee Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hendee Rd
+street-number: 102
 tags: Address
 title: Address/701
 type: text/vnd.tiddlywiki

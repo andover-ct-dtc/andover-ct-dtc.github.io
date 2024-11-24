@@ -2,7 +2,10 @@ address: 12 West St
 address-id: 561
 caption: Address/12 West St
 city: Andover
+revision: 0
 state: CT
+street-name: West St
+street-number: 12
 tags: Address
 title: Address/561
 type: text/vnd.tiddlywiki

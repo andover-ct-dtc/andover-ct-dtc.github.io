@@ -2,7 +2,10 @@ address: 154 Wales Rd
 address-id: 471
 caption: Address/154 Wales Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Wales Rd
+street-number: 154
 tags: Address
 title: Address/471
 type: text/vnd.tiddlywiki

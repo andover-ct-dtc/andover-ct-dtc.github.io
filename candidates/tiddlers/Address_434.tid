@@ -2,7 +2,10 @@ address: 30 Ridge Rd
 address-id: 434
 caption: Address/30 Ridge Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Ridge Rd
+street-number: 30
 tags: Address
 title: Address/434
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 16 Jurovaty Rd
 address-id: 1221
 caption: Address/16 Jurovaty Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Jurovaty Rd
+street-number: 16
 tags: Address
 title: Address/1221
 type: text/vnd.tiddlywiki

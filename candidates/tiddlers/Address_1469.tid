@@ -2,7 +2,10 @@ address: 64 Hendee Rd
 address-id: 1469
 caption: Address/64 Hendee Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hendee Rd
+street-number: 64
 tags: Address
 title: Address/1469
 type: text/vnd.tiddlywiki

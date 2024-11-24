@@ -2,7 +2,10 @@ address: 43 Gilead Rd
 address-id: 795
 caption: Address/43 Gilead Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Gilead Rd
+street-number: 43
 tags: Address
 title: Address/795
 type: text/vnd.tiddlywiki

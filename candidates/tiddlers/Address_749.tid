@@ -2,7 +2,10 @@ address: 86 Jurovaty Rd
 address-id: 749
 caption: Address/86 Jurovaty Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Jurovaty Rd
+street-number: 86
 tags: Address
 title: Address/749
 type: text/vnd.tiddlywiki

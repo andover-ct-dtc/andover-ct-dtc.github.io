@@ -1,8 +1,11 @@
-address: PO Box 222
+address: 206 Route 6
 address-id: 1923
-caption: Address/PO Box 222
+caption: Address/206 Route 6
 city: Andover
+revision: 0
 state: CT
+street-name: Route 6
+street-number: 206
 tags: Address
 title: Address/1923
 type: text/vnd.tiddlywiki

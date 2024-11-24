@@ -2,7 +2,10 @@ address: 330 Lake Rd
 address-id: 178
 caption: Address/330 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 330
 tags: Address
 title: Address/178
 type: text/vnd.tiddlywiki

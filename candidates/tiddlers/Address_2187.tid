@@ -2,7 +2,10 @@ address: 406 Lake Rd
 address-id: 2187
 caption: Address/406 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 406
 tags: Address
 title: Address/2187
 type: text/vnd.tiddlywiki

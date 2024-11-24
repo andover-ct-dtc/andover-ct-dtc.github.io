@@ -2,7 +2,10 @@ address: 369 Lake Rd
 address-id: 1587
 caption: Address/369 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 369
 tags: Address
 title: Address/1587
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 27 Townsend Rd
 address-id: 853
 caption: Address/27 Townsend Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Townsend Rd
+street-number: 27
 tags: Address
 title: Address/853
 type: text/vnd.tiddlywiki

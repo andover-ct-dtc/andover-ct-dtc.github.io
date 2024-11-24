@@ -2,7 +2,10 @@ address: 56 Long Hill Rd
 address-id: 234
 caption: Address/56 Long Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Long Hill Rd
+street-number: 56
 tags: Address
 title: Address/234
 type: text/vnd.tiddlywiki

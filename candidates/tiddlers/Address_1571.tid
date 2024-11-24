@@ -2,7 +2,10 @@ address: 19 Shoddy Mill Rd
 address-id: 1571
 caption: Address/19 Shoddy Mill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Shoddy Mill Rd
+street-number: 19
 tags: Address
 title: Address/1571
 type: text/vnd.tiddlywiki

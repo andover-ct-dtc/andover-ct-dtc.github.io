@@ -2,7 +2,10 @@ address: 87 Merritt Valley Rd
 address-id: 1806
 caption: Address/87 Merritt Valley Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Merritt Valley Rd
+street-number: 87
 tags: Address
 title: Address/1806
 type: text/vnd.tiddlywiki

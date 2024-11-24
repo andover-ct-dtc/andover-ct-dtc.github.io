@@ -2,7 +2,10 @@ address: 236 Boston Hill Rd
 address-id: 236
 caption: Address/236 Boston Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Boston Hill Rd
+street-number: 236
 tags: Address
 title: Address/236
 type: text/vnd.tiddlywiki

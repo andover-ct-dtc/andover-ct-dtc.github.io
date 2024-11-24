@@ -2,7 +2,10 @@ address: 19 Lakeview Dr
 address-id: 640
 caption: Address/19 Lakeview Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Lakeview Dr
+street-number: 19
 tags: Address
 title: Address/640
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 115 Lakeside Dr
 address-id: 485
 caption: Address/115 Lakeside Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Lakeside Dr
+street-number: 115
 tags: Address
 title: Address/485
 type: text/vnd.tiddlywiki

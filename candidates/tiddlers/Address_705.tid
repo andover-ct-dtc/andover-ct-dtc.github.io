@@ -2,7 +2,10 @@ address: 10 Woodside Ln
 address-id: 705
 caption: Address/10 Woodside Ln
 city: Andover
+revision: 0
 state: CT
+street-name: Woodside Ln
+street-number: 10
 tags: Address
 title: Address/705
 type: text/vnd.tiddlywiki

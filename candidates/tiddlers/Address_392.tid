@@ -2,7 +2,10 @@ address: 228 Bunker Hill Rd
 address-id: 392
 caption: Address/228 Bunker Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bunker Hill Rd
+street-number: 228
 tags: Address
 title: Address/392
 type: text/vnd.tiddlywiki

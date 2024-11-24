@@ -2,7 +2,10 @@ address: 29 Parker Bridge Rd
 address-id: 720
 caption: Address/29 Parker Bridge Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Parker Bridge Rd
+street-number: 29
 tags: Address
 title: Address/720
 type: text/vnd.tiddlywiki

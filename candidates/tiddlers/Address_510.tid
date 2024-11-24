@@ -2,7 +2,10 @@ address: 198 Hebron Rd
 address-id: 510
 caption: Address/198 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 198
 tags: Address
 title: Address/510
 type: text/vnd.tiddlywiki

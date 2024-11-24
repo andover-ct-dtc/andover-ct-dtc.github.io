@@ -2,7 +2,10 @@ address: 76 Long Hill Rd
 address-id: 1832
 caption: Address/76 Long Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Long Hill Rd
+street-number: 76
 tags: Address
 title: Address/1832
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 281 Gilead Rd
 address-id: 809
 caption: Address/281 Gilead Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Gilead Rd
+street-number: 281
 tags: Address
 title: Address/809
 type: text/vnd.tiddlywiki

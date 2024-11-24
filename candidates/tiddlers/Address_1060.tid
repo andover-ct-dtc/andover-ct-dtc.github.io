@@ -2,7 +2,10 @@ address: 53 Jurovaty Rd
 address-id: 1060
 caption: Address/53 Jurovaty Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Jurovaty Rd
+street-number: 53
 tags: Address
 title: Address/1060
 type: text/vnd.tiddlywiki

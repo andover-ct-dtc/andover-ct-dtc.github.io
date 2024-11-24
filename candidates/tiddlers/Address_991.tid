@@ -2,7 +2,10 @@ address: 236 Bear Swamp Rd
 address-id: 991
 caption: Address/236 Bear Swamp Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bear Swamp Rd
+street-number: 236
 tags: Address
 title: Address/991
 type: text/vnd.tiddlywiki

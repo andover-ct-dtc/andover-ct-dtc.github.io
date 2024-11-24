@@ -2,7 +2,10 @@ address: 26 Ridge Rd
 address-id: 250
 caption: Address/26 Ridge Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Ridge Rd
+street-number: 26
 tags: Address
 title: Address/250
 type: text/vnd.tiddlywiki

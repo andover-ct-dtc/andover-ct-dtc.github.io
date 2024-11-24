@@ -2,7 +2,10 @@ address: 357 Lake Rd
 address-id: 1702
 caption: Address/357 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 357
 tags: Address
 title: Address/1702
 type: text/vnd.tiddlywiki

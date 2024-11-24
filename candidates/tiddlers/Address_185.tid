@@ -1,8 +1,11 @@
-address: PO Box 145
+address: 242 Bear Swamp Rd
 address-id: 185
-caption: Address/PO Box 145
+caption: Address/242 Bear Swamp Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bear Swamp Rd
+street-number: 242
 tags: Address
 title: Address/185
 type: text/vnd.tiddlywiki

@@ -43,11 +43,12 @@ const addAddresses = (voters, addresses = voters.reduce((a, v, i) => ({...a, [v[
   tags: 'Address',
   caption: `Address/${v['m-address']}`,
   address: v['m-address'],
+  'street-number': `${v['street-no']} ${v['street-no-half']}`.trim(),
+  'street-name': `${v['street-prefix']} ${v['street-name']} ${v['street-type']}`.trim(),
   city: v['m-city'],
   state: v['m-state'],
   zip5: v['m-zip5'],
   zip4: v['m-zip4'],
-  city: v['m-city'],
   'address-id': String(i + 1),
 })}), {})) => [
   ...voters.map(v => ({

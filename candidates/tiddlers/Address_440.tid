@@ -2,7 +2,10 @@ address: 14 Lakeview Dr
 address-id: 440
 caption: Address/14 Lakeview Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Lakeview Dr
+street-number: 14
 tags: Address
 title: Address/440
 type: text/vnd.tiddlywiki

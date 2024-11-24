@@ -2,7 +2,10 @@ address: 149 Lake Rd
 address-id: 354
 caption: Address/149 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 149
 tags: Address
 title: Address/354
 type: text/vnd.tiddlywiki

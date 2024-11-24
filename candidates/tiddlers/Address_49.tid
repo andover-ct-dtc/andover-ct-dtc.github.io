@@ -2,7 +2,10 @@ address: 15 Hebron Rd
 address-id: 49
 caption: Address/15 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 15
 tags: Address
 title: Address/49
 type: text/vnd.tiddlywiki

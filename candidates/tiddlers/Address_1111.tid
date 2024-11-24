@@ -2,7 +2,10 @@ address: 78 Windrush Ln
 address-id: 1111
 caption: Address/78 Windrush Ln
 city: Andover
+revision: 0
 state: CT
+street-name: Windrush Ln
+street-number: 78
 tags: Address
 title: Address/1111
 type: text/vnd.tiddlywiki

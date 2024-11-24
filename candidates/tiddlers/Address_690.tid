@@ -2,7 +2,10 @@ address: 143 Hebron Rd
 address-id: 690
 caption: Address/143 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 143
 tags: Address
 title: Address/690
 type: text/vnd.tiddlywiki

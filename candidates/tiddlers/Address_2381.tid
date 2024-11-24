@@ -2,7 +2,10 @@ address: 4 Center St
 address-id: 2381
 caption: Address/4 Center St
 city: Andover
+revision: 0
 state: CT
+street-name: Center St
+street-number: 4
 tags: Address
 title: Address/2381
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 30 Route 6
 address-id: 2068
 caption: Address/30 Route 6
 city: Andover
+revision: 0
 state: CT
+street-name: Route 6
+street-number: 30
 tags: Address
 title: Address/2068
 type: text/vnd.tiddlywiki

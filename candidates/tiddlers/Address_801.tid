@@ -2,7 +2,10 @@ address: 294 Boston Hill Rd
 address-id: 801
 caption: Address/294 Boston Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Boston Hill Rd
+street-number: 294
 tags: Address
 title: Address/801
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 71 Pine Ridge Dr
 address-id: 48
 caption: Address/71 Pine Ridge Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Pine Ridge Dr
+street-number: 71
 tags: Address
 title: Address/48
 type: text/vnd.tiddlywiki

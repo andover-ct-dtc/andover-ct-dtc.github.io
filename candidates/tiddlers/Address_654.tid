@@ -2,7 +2,10 @@ address: 927 East St
 address-id: 654
 caption: Address/927 East St
 city: Andover
+revision: 0
 state: CT
+street-name: East St
+street-number: 927
 tags: Address
 title: Address/654
 type: text/vnd.tiddlywiki

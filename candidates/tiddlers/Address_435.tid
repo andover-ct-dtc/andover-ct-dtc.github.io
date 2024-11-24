@@ -2,7 +2,10 @@ address: 80 Bausola Rd
 address-id: 435
 caption: Address/80 Bausola Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bausola Rd
+street-number: 80
 tags: Address
 title: Address/435
 type: text/vnd.tiddlywiki

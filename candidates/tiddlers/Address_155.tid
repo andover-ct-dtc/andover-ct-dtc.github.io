@@ -2,7 +2,10 @@ address: 740 East St
 address-id: 155
 caption: Address/740 East St
 city: Andover
+revision: 0
 state: CT
+street-name: East St
+street-number: 740
 tags: Address
 title: Address/155
 type: text/vnd.tiddlywiki

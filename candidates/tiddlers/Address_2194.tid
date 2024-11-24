@@ -2,7 +2,10 @@ address: 22 Brown Rd
 address-id: 2194
 caption: Address/22 Brown Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Brown Rd
+street-number: 22
 tags: Address
 title: Address/2194
 type: text/vnd.tiddlywiki

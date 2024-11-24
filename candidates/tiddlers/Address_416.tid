@@ -2,7 +2,10 @@ address: 10 Hickory Hill Dr
 address-id: 416
 caption: Address/10 Hickory Hill Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Hickory Hill Dr
+street-number: 10
 tags: Address
 title: Address/416
 type: text/vnd.tiddlywiki

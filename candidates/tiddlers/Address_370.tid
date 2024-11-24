@@ -2,7 +2,10 @@ address: 16 Windrush Ln
 address-id: 370
 caption: Address/16 Windrush Ln
 city: Andover
+revision: 0
 state: CT
+street-name: Windrush Ln
+street-number: 16
 tags: Address
 title: Address/370
 type: text/vnd.tiddlywiki

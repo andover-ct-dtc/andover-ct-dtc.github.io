@@ -2,7 +2,10 @@ address: 722 East St
 address-id: 594
 caption: Address/722 East St
 city: Andover
+revision: 0
 state: CT
+street-name: East St
+street-number: 722
 tags: Address
 title: Address/594
 type: text/vnd.tiddlywiki

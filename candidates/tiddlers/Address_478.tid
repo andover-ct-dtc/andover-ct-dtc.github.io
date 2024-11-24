@@ -2,7 +2,10 @@ address: 9 Woodside Ln
 address-id: 478
 caption: Address/9 Woodside Ln
 city: Andover
+revision: 0
 state: CT
+street-name: Woodside Ln
+street-number: 9
 tags: Address
 title: Address/478
 type: text/vnd.tiddlywiki

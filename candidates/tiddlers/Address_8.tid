@@ -2,7 +2,10 @@ address: 172 Wheeling Rd
 address-id: 8
 caption: Address/172 Wheeling Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Wheeling Rd
+street-number: 172
 tags: Address
 title: Address/8
 type: text/vnd.tiddlywiki

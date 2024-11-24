@@ -2,7 +2,10 @@ address: 139 Hebron Rd
 address-id: 280
 caption: Address/139 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 139
 tags: Address
 title: Address/280
 type: text/vnd.tiddlywiki

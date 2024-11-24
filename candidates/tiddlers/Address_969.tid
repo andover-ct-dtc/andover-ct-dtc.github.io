@@ -2,7 +2,10 @@ address: 37 Rockledge Dr
 address-id: 969
 caption: Address/37 Rockledge Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Rockledge Dr
+street-number: 37
 tags: Address
 title: Address/969
 type: text/vnd.tiddlywiki

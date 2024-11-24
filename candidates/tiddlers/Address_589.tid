@@ -2,7 +2,10 @@ address: 184 Boston Hill Rd
 address-id: 589
 caption: Address/184 Boston Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Boston Hill Rd
+street-number: 184
 tags: Address
 title: Address/589
 type: text/vnd.tiddlywiki

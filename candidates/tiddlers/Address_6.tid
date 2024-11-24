@@ -2,7 +2,10 @@ address: 488 Lake Rd
 address-id: 6
 caption: Address/488 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 488
 tags: Address
 title: Address/6
 type: text/vnd.tiddlywiki

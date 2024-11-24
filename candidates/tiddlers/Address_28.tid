@@ -2,7 +2,10 @@ address: 124 Wales Rd
 address-id: 28
 caption: Address/124 Wales Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Wales Rd
+street-number: 124
 tags: Address
 title: Address/28
 type: text/vnd.tiddlywiki

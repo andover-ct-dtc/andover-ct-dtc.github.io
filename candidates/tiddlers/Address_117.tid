@@ -2,7 +2,10 @@ address: 34 Wheeling Rd
 address-id: 117
 caption: Address/34 Wheeling Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Wheeling Rd
+street-number: 34
 tags: Address
 title: Address/117
 type: text/vnd.tiddlywiki

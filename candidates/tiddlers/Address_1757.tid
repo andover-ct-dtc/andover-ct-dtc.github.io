@@ -2,7 +2,10 @@ address: 14 Wood Fern Way
 address-id: 1757
 caption: Address/14 Wood Fern Way
 city: Andover
+revision: 0
 state: CT
+street-name: Wood Fern Way
+street-number: 14
 tags: Address
 title: Address/1757
 type: text/vnd.tiddlywiki

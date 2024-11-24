@@ -2,7 +2,10 @@ address: 64 Windrush Ln
 address-id: 124
 caption: Address/64 Windrush Ln
 city: Andover
+revision: 0
 state: CT
+street-name: Windrush Ln
+street-number: 64
 tags: Address
 title: Address/124
 type: text/vnd.tiddlywiki

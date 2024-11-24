@@ -2,7 +2,10 @@ address: 760 East St
 address-id: 812
 caption: Address/760 East St
 city: Andover
+revision: 0
 state: CT
+street-name: East St
+street-number: 760
 tags: Address
 title: Address/812
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 306 Hebron Rd
 address-id: 859
 caption: Address/306 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 306
 tags: Address
 title: Address/859
 type: text/vnd.tiddlywiki

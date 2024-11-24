@@ -2,7 +2,10 @@ address: 315 Lake Rd
 address-id: 1460
 caption: Address/315 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 315
 tags: Address
 title: Address/1460
 type: text/vnd.tiddlywiki

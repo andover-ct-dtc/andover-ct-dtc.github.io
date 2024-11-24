@@ -2,7 +2,10 @@ address: 554 Lake Rd
 address-id: 726
 caption: Address/554 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 554
 tags: Address
 title: Address/726
 type: text/vnd.tiddlywiki

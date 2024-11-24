@@ -2,7 +2,10 @@ address: 714 East St
 address-id: 1770
 caption: Address/714 East St
 city: Andover
+revision: 0
 state: CT
+street-name: East St
+street-number: 714
 tags: Address
 title: Address/1770
 type: text/vnd.tiddlywiki

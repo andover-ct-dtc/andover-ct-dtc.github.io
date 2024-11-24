@@ -2,7 +2,10 @@ address: 333 Boston Hill Rd
 address-id: 487
 caption: Address/333 Boston Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Boston Hill Rd
+street-number: 333
 tags: Address
 title: Address/487
 type: text/vnd.tiddlywiki

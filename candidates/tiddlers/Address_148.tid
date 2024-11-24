@@ -2,7 +2,10 @@ address: 155 Lake Rd
 address-id: 148
 caption: Address/155 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 155
 tags: Address
 title: Address/148
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 160 Hendee Rd
 address-id: 886
 caption: Address/160 Hendee Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hendee Rd
+street-number: 160
 tags: Address
 title: Address/886
 type: text/vnd.tiddlywiki

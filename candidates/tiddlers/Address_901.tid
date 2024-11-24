@@ -1,8 +1,11 @@
-address: 35 Uncas Dr
+address: 157 Lakeside Dr
 address-id: 901
-caption: Address/35 Uncas Dr
+caption: Address/157 Lakeside Dr
 city: Amston
+revision: 0
 state: CT
+street-name: Lakeside Dr
+street-number: 157
 tags: Address
 title: Address/901
 type: text/vnd.tiddlywiki

@@ -1,8 +1,11 @@
-address: PO Box 115
+address: 345 Route 6
 address-id: 61
-caption: Address/PO Box 115
+caption: Address/345 Route 6
 city: Andover
+revision: 0
 state: CT
+street-name: Route 6
+street-number: 345
 tags: Address
 title: Address/61
 type: text/vnd.tiddlywiki

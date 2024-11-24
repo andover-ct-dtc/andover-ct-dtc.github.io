@@ -2,7 +2,10 @@ address: 43 Times Farm Rd
 address-id: 469
 caption: Address/43 Times Farm Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Times Farm Rd
+street-number: 43
 tags: Address
 title: Address/469
 type: text/vnd.tiddlywiki

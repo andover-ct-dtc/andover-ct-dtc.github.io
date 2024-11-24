@@ -2,7 +2,10 @@ address: 706 East St
 address-id: 68
 caption: Address/706 East St
 city: Andover
+revision: 0
 state: CT
+street-name: East St
+street-number: 706
 tags: Address
 title: Address/68
 type: text/vnd.tiddlywiki

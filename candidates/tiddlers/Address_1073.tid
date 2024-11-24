@@ -2,7 +2,10 @@ address: 84 Hendee Rd
 address-id: 1073
 caption: Address/84 Hendee Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hendee Rd
+street-number: 84
 tags: Address
 title: Address/1073
 type: text/vnd.tiddlywiki

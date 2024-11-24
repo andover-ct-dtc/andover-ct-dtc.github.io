@@ -2,7 +2,10 @@ address: 2 Merritt Valley Rd
 address-id: 402
 caption: Address/2 Merritt Valley Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Merritt Valley Rd
+street-number: 2
 tags: Address
 title: Address/402
 type: text/vnd.tiddlywiki

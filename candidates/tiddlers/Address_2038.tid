@@ -2,7 +2,10 @@ address: 85 Hutchinson Rd
 address-id: 2038
 caption: Address/85 Hutchinson Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hutchinson Rd
+street-number: 85
 tags: Address
 title: Address/2038
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 88 Hendee Rd
 address-id: 103
 caption: Address/88 Hendee Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hendee Rd
+street-number: 88
 tags: Address
 title: Address/103
 type: text/vnd.tiddlywiki

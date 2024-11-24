@@ -2,7 +2,10 @@ address: 162 Boston Hill Rd
 address-id: 1194
 caption: Address/162 Boston Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Boston Hill Rd
+street-number: 162
 tags: Address
 title: Address/1194
 type: text/vnd.tiddlywiki

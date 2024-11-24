@@ -2,7 +2,10 @@ address: 328 Boston Hill Rd
 address-id: 1450
 caption: Address/328 Boston Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Boston Hill Rd
+street-number: 328
 tags: Address
 title: Address/1450
 type: text/vnd.tiddlywiki

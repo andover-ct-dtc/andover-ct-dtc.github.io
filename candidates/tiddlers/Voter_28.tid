@@ -27,6 +27,7 @@ choice-support: 78.04
 city: Andover
 civ-part: 95.57
 clarity-nat-to: 96.69
+created: 20241120215138821
 ct02courtney-support: 93.90
 ct05hayes-support: 
 dga-lamont-support: 84.25
@@ -49,10 +50,12 @@ m-state: CT
 m-zip4: 1404
 m-zip5: 06232
 middle-name: David
+modified: 20241120215138821
 party: D
 preferred-email: scott@sauyet.com
 preferred-phone: 860-335-2869
 preferred-phone-is-cell: Verified Cell
+revision: 0
 salutation-informal: Scott
 sdsup: 84.06
 sex: M

@@ -2,7 +2,10 @@ address: 112 Lake Rd
 address-id: 1347
 caption: Address/112 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 112
 tags: Address
 title: Address/1347
 type: text/vnd.tiddlywiki

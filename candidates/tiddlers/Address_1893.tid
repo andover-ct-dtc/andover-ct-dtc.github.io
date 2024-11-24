@@ -2,7 +2,10 @@ address: 320 Boston Hill Rd
 address-id: 1893
 caption: Address/320 Boston Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Boston Hill Rd
+street-number: 320
 tags: Address
 title: Address/1893
 type: text/vnd.tiddlywiki

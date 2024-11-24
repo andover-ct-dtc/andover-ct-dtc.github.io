@@ -2,7 +2,10 @@ address: 165 Wheeling Rd
 address-id: 1590
 caption: Address/165 Wheeling Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Wheeling Rd
+street-number: 165
 tags: Address
 title: Address/1590
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 68 Route 87
 address-id: 580
 caption: Address/68 Route 87
 city: Andover
+revision: 0
 state: CT
+street-name: Route 87
+street-number: 68
 tags: Address
 title: Address/580
 type: text/vnd.tiddlywiki

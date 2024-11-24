@@ -2,7 +2,10 @@ address: 441 Lake Rd
 address-id: 472
 caption: Address/441 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 441
 tags: Address
 title: Address/472
 type: text/vnd.tiddlywiki

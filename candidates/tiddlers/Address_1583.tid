@@ -2,7 +2,10 @@ address: 302 Lake Rd
 address-id: 1583
 caption: Address/302 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 302
 tags: Address
 title: Address/1583
 type: text/vnd.tiddlywiki

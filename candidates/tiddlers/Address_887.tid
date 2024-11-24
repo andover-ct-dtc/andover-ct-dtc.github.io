@@ -2,7 +2,10 @@ address: 19 Ridge Rd
 address-id: 887
 caption: Address/19 Ridge Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Ridge Rd
+street-number: 19
 tags: Address
 title: Address/887
 type: text/vnd.tiddlywiki

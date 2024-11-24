@@ -1,8 +1,11 @@
-address: PO Box 204
+address: 130 Bunker Hill Rd
 address-id: 1972
-caption: Address/PO Box 204
+caption: Address/130 Bunker Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bunker Hill Rd
+street-number: 130
 tags: Address
 title: Address/1972
 type: text/vnd.tiddlywiki

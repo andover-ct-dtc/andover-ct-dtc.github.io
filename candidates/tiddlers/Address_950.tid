@@ -2,7 +2,10 @@ address: 19 Bausola Rd
 address-id: 950
 caption: Address/19 Bausola Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Bausola Rd
+street-number: 19
 tags: Address
 title: Address/950
 type: text/vnd.tiddlywiki

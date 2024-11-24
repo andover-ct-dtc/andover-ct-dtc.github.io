@@ -2,7 +2,10 @@ address: 51 Gilead Rd
 address-id: 484
 caption: Address/51 Gilead Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Gilead Rd
+street-number: 51
 tags: Address
 title: Address/484
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 239 Gilead Rd
 address-id: 190
 caption: Address/239 Gilead Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Gilead Rd
+street-number: 239
 tags: Address
 title: Address/190
 type: text/vnd.tiddlywiki

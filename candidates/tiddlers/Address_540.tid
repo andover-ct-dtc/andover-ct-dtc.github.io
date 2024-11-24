@@ -2,7 +2,10 @@ address: 19 Parker Bridge Rd
 address-id: 540
 caption: Address/19 Parker Bridge Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Parker Bridge Rd
+street-number: 19
 tags: Address
 title: Address/540
 type: text/vnd.tiddlywiki

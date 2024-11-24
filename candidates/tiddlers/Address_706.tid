@@ -2,7 +2,10 @@ address: 15 Dogwood Dr
 address-id: 706
 caption: Address/15 Dogwood Dr
 city: Andover
+revision: 0
 state: CT
+street-name: Dogwood Dr
+street-number: 15
 tags: Address
 title: Address/706
 type: text/vnd.tiddlywiki

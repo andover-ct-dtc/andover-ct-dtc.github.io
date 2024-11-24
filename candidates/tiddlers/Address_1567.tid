@@ -2,7 +2,10 @@ address: 644 Route 6
 address-id: 1567
 caption: Address/644 Route 6
 city: Andover
+revision: 0
 state: CT
+street-name: Route 6
+street-number: 644
 tags: Address
 title: Address/1567
 type: text/vnd.tiddlywiki

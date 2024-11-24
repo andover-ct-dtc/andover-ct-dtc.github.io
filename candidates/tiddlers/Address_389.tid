@@ -2,7 +2,10 @@ address: 195 Long Hill Rd
 address-id: 389
 caption: Address/195 Long Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Long Hill Rd
+street-number: 195
 tags: Address
 title: Address/389
 type: text/vnd.tiddlywiki

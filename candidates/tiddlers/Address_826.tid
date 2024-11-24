@@ -2,7 +2,10 @@ address: 200 Hebron Rd
 address-id: 826
 caption: Address/200 Hebron Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Hebron Rd
+street-number: 200
 tags: Address
 title: Address/826
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 64 Route 87
 address-id: 142
 caption: Address/64 Route 87
 city: Andover
+revision: 0
 state: CT
+street-name: Route 87
+street-number: 64
 tags: Address
 title: Address/142
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 16 Wales Rd
 address-id: 89
 caption: Address/16 Wales Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Wales Rd
+street-number: 16
 tags: Address
 title: Address/89
 type: text/vnd.tiddlywiki

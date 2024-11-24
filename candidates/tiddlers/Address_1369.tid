@@ -2,7 +2,10 @@ address: 169 Wheeling Rd
 address-id: 1369
 caption: Address/169 Wheeling Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Wheeling Rd
+street-number: 169
 tags: Address
 title: Address/1369
 type: text/vnd.tiddlywiki

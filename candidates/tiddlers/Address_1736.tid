@@ -2,7 +2,10 @@ address: 1078 Shoddy Mill Rd
 address-id: 1736
 caption: Address/1078 Shoddy Mill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Shoddy Mill Rd
+street-number: 1078
 tags: Address
 title: Address/1736
 type: text/vnd.tiddlywiki

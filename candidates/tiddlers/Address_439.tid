@@ -2,7 +2,10 @@ address: 12 Brown Rd
 address-id: 439
 caption: Address/12 Brown Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Brown Rd
+street-number: 12
 tags: Address
 title: Address/439
 type: text/vnd.tiddlywiki

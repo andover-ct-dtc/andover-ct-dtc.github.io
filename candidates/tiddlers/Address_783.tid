@@ -2,7 +2,10 @@ address: 288 Lake Rd
 address-id: 783
 caption: Address/288 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 288
 tags: Address
 title: Address/783
 type: text/vnd.tiddlywiki

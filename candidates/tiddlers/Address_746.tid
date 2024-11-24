@@ -1,8 +1,11 @@
-address: PO Box 27
+address: 405 Route 6
 address-id: 746
-caption: Address/PO Box 27
+caption: Address/405 Route 6
 city: Andover
+revision: 0
 state: CT
+street-name: Route 6
+street-number: 405
 tags: Address
 title: Address/746
 type: text/vnd.tiddlywiki

@@ -16,7 +16,7 @@
 2020-civ-kidsin-hh: 5.11
 2020-civ-lib-ideo: 32.28
 2020-civ-marriage: 93.98
-address-id: 2014
+address-id: 586
 age: 78
 apt-no: 
 apt-type: 
@@ -42,7 +42,7 @@ first-name: George
 hdsup: 50.83
 home-phone: 860-742-1499
 last-name: Atkins
-m-address: 367 He Hebron Rd
+m-address: 367 Hebron Rd
 m-address-id: 325776065
 m-city: Andover
 m-state: CT
@@ -53,13 +53,14 @@ party: R
 preferred-email: 
 preferred-phone: 256-326-4083
 preferred-phone-is-cell: Verified Cell
+revision: 0
 salutation-informal: George
 sdsup: 57.17
 sex: M
 span-pref: .02
 state: CT
 state-file-id: 000283222
-street-name: He Hebron
+street-name: Hebron
 street-no: 367
 street-no-half: 
 street-prefix: 

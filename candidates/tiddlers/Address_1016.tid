@@ -2,7 +2,10 @@ address: 105 Boston Hill Rd
 address-id: 1016
 caption: Address/105 Boston Hill Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Boston Hill Rd
+street-number: 105
 tags: Address
 title: Address/1016
 type: text/vnd.tiddlywiki

@@ -2,7 +2,10 @@ address: 410 Lake Rd
 address-id: 92
 caption: Address/410 Lake Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Lake Rd
+street-number: 410
 tags: Address
 title: Address/92
 type: text/vnd.tiddlywiki

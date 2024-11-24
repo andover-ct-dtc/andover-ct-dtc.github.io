@@ -2,7 +2,10 @@ address: 208 Gilead Rd
 address-id: 628
 caption: Address/208 Gilead Rd
 city: Andover
+revision: 0
 state: CT
+street-name: Gilead Rd
+street-number: 208
 tags: Address
 title: Address/628
 type: text/vnd.tiddlywiki
