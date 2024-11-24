@@ -3,7 +3,7 @@
   "version": "0.6.3",
   "config": {
     "voters-version": "0.1.1",
-    "candidates-version": "0.1.0",
+    "candidates-version": "0.2.0",
     "anon-version": "0.1.0"
   },
   "description": "Notes for the Andover (CT) Democratic Town Committee",
