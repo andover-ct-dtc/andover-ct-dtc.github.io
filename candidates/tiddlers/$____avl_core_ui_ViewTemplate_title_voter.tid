@@ -1,0 +1,9 @@
+created: 20231011001257272
+modified: 20241207165159634
+title: $:/_/avl/core/ui/ViewTemplate/title/voter
+type: text/vnd.tiddlywiki
+
+\whitespace trim
+<h2 class="tc-title" title={{$:/language/SystemTiddler/Tooltip}}>
+<span class="tc-system-title-prefix">Voter/</span> <$text text={{{ [<currentTiddler>get[caption]removeprefix[Voter/]] }}} />
+</h2>
