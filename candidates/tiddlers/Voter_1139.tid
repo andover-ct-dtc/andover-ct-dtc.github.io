@@ -27,6 +27,7 @@ choice-support: 70.49
 city: Andover
 civ-part: 97.84
 clarity-nat-to: 99.20
+created: 20250321004640573
 ct02courtney-support: 99.10
 ct05hayes-support: 
 dga-lamont-support: 93.15
@@ -49,11 +50,11 @@ m-state: CT
 m-zip4: 1409
 m-zip5: 06232
 middle-name: L
+modified: 20250321004640573
 party: D
 preferred-email: 
 preferred-phone: 860-377-1985
 preferred-phone-is-cell: Likely Not a Cell
-revision: 0
 salutation-informal: Linda
 sdsup: 91.16
 sex: F

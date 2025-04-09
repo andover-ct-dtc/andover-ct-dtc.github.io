@@ -1,0 +1,9 @@
+created: 20241207165244306
+modified: 20241207165415698
+title: $:/_/avl/core/ui/ViewTemplate/title/address
+type: text/vnd.tiddlywiki
+
+\whitespace trim
+<h2 class="tc-title" title={{$:/language/SystemTiddler/Tooltip}}>
+<span class="tc-system-title-prefix">Address/</span> <$text text={{{ [<currentTiddler>get[caption]removeprefix[Address/]] }}} />
+</h2>

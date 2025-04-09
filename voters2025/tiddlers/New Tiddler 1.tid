@@ -1,0 +1,33 @@
+created: 20250320022510602
+modified: 20250321014923291
+tags: $:/tags/Global
+title: New Tiddler 1
+type: text/vnd.tiddlywiki
+
+\procedure show-filter(flt)
+<div class="filter-demo">
+<h3>Filter: <code><<flt>></code></h3>
+<$text text={{{ [subfilter<flt>count[]] }}} /> records returned
+<ul><$list filter="[subfilter<flt>first[5]]" >
+<li><$link><$view field="caption"><$view field="title"/></$view></$link></li>
+</$list></ul>
+<details>
+  <summary>More</summary>
+<<list-links filter:"[subfilter<flt>butfirst[5]]" >>
+</details>
+</div>
+\end
+
+<<show-filter "[tag[Voter]sex[F]]" >>
+<<show-filter "[tag[Voter]sex[F]party[D]] :filter[get[age]compare::gteq[30]compare::lteq[45]]" >>
+<<show-filter "[tag[Voter]sex[F]party[D]] :filter[get[age]compare::lteq[50]] :filter[get[address-id]addprefix[Address/]street-name[Lake Rd]]" >>
+
+<style>
+p:has(div.filter-demo) {
+     display: inline-block;
+    width: 30em;
+    margin: 1em;
+    padding: 1em;
+    border: 1px solid #999;
+}
+</style>

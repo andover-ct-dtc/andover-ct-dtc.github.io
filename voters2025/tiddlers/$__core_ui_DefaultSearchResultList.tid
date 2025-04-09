@@ -1,0 +1,34 @@
+caption: {{$:/language/Search/DefaultResults/Caption}}
+created: 20241120194056394
+first-search-filter: [!is[system]search:title,caption<userInput>sort[title]limit[250]]
+modified: 20241120195012578
+revision: 0
+second-search-filter: [!is[system]search:text,title,caption<userInput>sort[title]limit[250]]
+tags: $:/tags/SearchResults
+title: $:/core/ui/DefaultSearchResultList
+type: text/vnd.tiddlywiki
+
+\define searchResultList()
+\whitespace trim
+//<small>{{$:/language/Search/Matches/Title}}</small>//
+
+<$list filter="[<userInput>minlength[1]]" variable="ignore">
+<$list filter={{{ [<configTiddler>get[first-search-filter]] }}} emptyMessage={{$:/language/Search/Matches/NoResult}}>
+<span class={{{[<currentTiddler>addsuffix[-primaryList]] -[<searchListState>get[text]] +[then[]else[tc-list-item-selected]] }}}>
+<$transclude tiddler="$:/_/avl/core/ui/SearchListItemTemplate"/>
+</span>
+</$list>
+</$list>
+
+//<small>{{$:/language/Search/Matches/All}}</small>//
+
+<$list filter="[<userInput>minlength[1]]" variable="ignore">
+<$list filter={{{ [<configTiddler>get[second-search-filter]] }}} emptyMessage={{$:/language/Search/Matches/NoResult}}>
+<span class={{{[<currentTiddler>addsuffix[-secondaryList]] -[<searchListState>get[text]] +[then[]else[tc-list-item-selected]] }}}>
+<$transclude tiddler="$:/_/avl/core/ui/SearchListItemTemplate"/>
+</span>
+</$list>
+</$list>
+
+\end
+<<searchResultList>>

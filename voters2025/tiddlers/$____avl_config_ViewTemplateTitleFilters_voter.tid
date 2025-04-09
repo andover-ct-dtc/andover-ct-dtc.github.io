@@ -1,0 +1,8 @@
+created: 20231011001203100
+list-before: $:/_avl/config/ViewTemplateTitleFilters/caption
+modified: 20241207165424790
+tags: $:/tags/ViewTemplateTitleFilter
+title: $:/_/avl/config/ViewTemplateTitleFilters/voter
+type: text/vnd.tiddlywiki
+
+[<currentTiddler>tag[Voter]then[$:/_/avl/core/ui/ViewTemplate/title/voter]]

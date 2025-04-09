@@ -1,0 +1,8 @@
+created: 20241207165428607
+list-before: $:/_avl/config/ViewTemplateTitleFilters/caption
+modified: 20241207165443351
+tags: $:/tags/ViewTemplateTitleFilter
+title: $:/_/avl/config/ViewTemplateTitleFilters/address
+type: text/vnd.tiddlywiki
+
+[<currentTiddler>tag[Address]then[$:/_/avl/core/ui/ViewTemplate/title/address]]

@@ -1,0 +1,11 @@
+created: 20250409015023452
+modified: 20250409015602697
+tags: 
+title: Fix
+type: text/vnd.tiddlywiki
+
+<$button>Remove data
+<$list filter=[tag[Voter]]>
+<$action-deletetiddler $tiddler=<<currentTiddler>> />
+</$list>
+</$button>

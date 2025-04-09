@@ -3,6 +3,7 @@
   "version": "0.6.4",
   "config": {
     "voters-version": "0.1.1",
+    "voters2025-version": "0.1.0",
     "candidates-version": "0.2.1",
     "anon-version": "0.1.0"
   },
@@ -12,14 +13,17 @@
     "pkg": "cross-var echo Package $npm_package_version",
     "build": "cross-var tiddlywiki . --output docs/latest --build index",
     "build-voters": "cross-var tiddlywiki voters --output docs/voters/latest --build index",
+    "build-voters2025": "cross-var tiddlywiki voters2025 --output docs/voters2025/latest --build index",
     "build-candidates": "cross-var tiddlywiki candidates --output docs/candidates/latest --build index",
     "build-anon": "cross-var tiddlywiki voters --output docs/anon/latest --build index",
     "release": "cross-var tiddlywiki . --output docs --build index && cross-var shx mkdir -p docs/$npm_package_version && cross-var shx cp docs/index.html docs/$npm_package_version/index.html",
     "release-voters": "cross-var tiddlywiki voters --output docs/voters --build index && cross-var shx mkdir -p docs/voters/$npm_package_config_voters-version && cross-var shx cp docs/voters/index.html docs/voters/$npm_package_config_voters-version/index.html",
+    "release-voters2025": "cross-var tiddlywiki voters2025 --output docs/voters2025 --build index && cross-var shx mkdir -p docs/voters2025/$npm_package_config_voters2025-version && cross-var shx cp docs/voters2025/index.html docs/voters2025/$npm_package_config_voters2025-version/index.html",
     "release-candidates": "cross-var tiddlywiki candidates --output docs/candidates --build index && cross-var shx mkdir -p docs/candidates/$npm_package_config_candidates-version && cross-var shx cp docs/candidates/index.html docs/candidates/$npm_package_config_candidates-version/index.html",
     "release-anon": "cross-var tiddlywiki anon --output docs/anon --build index && cross-var shx mkdir -p docs/voters/$npm_package_config_anon-version && cross-var shx cp docs/anon/index.html docs/anon/$npm_package_config_anon-version/index.html",
     "start": "tiddlywiki . --listen port=7420",
     "start-voters": "tiddlywiki voters --listen port=7421",
+    "start-voters2025": "tiddlywiki voters2025 --listen port=7424",
     "start-candidates": "tiddlywiki candidates --listen port=7422",
     "start-anon": "tiddlywiki anon --listen port=7423"
   },

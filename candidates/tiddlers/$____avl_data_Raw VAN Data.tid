@@ -1,11 +1,26 @@
 caption: Raw VAN Data
 created: 20241118203023193
-modified: 20241124173847450
+modified: 20250409011826886
 tags: [[Raw Data]]
 title: $:/_/avl/data/Raw VAN Data
 type: text/vnd.tiddlywiki
 
 This is the raw data extracted from VAN, 2024-11-18.  (//Warning, it's ugly!//):
+
+We used these VAN fields:
+
+* Voter File VANID
+* Mailing Address (Concatenated)
+* Name
+* Age
+* Party
+* Source File Sex
+* Preferred Email
+* Preferred Phone
+* Scores
+* Voting Address (Single Field)
+
+In a pipe-delimited format
 
 <$macrocall $name="copy-to-clipboard-above-right" src={{$:/_/avl/data/van}}/>
 <div style="width: 95%; overflow:auto;">

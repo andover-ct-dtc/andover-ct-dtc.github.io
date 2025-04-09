@@ -1,0 +1,29 @@
+created: 20241119035743286
+modified: 20241119040938081
+revision: 0
+tags: $:/tags/ViewTemplate
+title: $:/_/avl/templates/Address
+type: text/vnd.tiddlywiki
+
+<% if [<currentTiddler>tag[Address]] %>
+
+; Address
+: {{!!address}}
+
+; City
+: {{!!city}}
+
+; State
+: {{!!state}}
+
+; Zip
+: {{!!zip5}}-{{!!zip4}}
+
+; Voters
+<$list filter=[tag[Voter]address-id{!!address-id}sort[suffix]sort[first-name]sort[last-name]]>
+
+: <$link>{{!!first-name}} {{!!last-name}} {{!!suffix}}</$link>
+</$list>
+
+
+<% endif %>

@@ -1,0 +1,7 @@
+created: 20241120194514004
+modified: 20241120194544176
+revision: 0
+title: $:/_/avl/core/ui/SearchListItemTemplate
+type: text/vnd.tiddlywiki
+
+<div class="tc-menu-list-item"><$link><$view field="caption"><$view field="title"/></$view></$link></div>

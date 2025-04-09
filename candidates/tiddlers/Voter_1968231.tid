@@ -27,6 +27,7 @@ choice-support: 62.60
 city: Andover
 civ-part: 8.17
 clarity-nat-to: 59.33
+created: 20250320022734342
 ct02courtney-support: 46.10
 ct05hayes-support: 
 dga-lamont-support: 7.62
@@ -49,11 +50,11 @@ m-state: CT
 m-zip4: 1228
 m-zip5: 06232
 middle-name: A
+modified: 20250320022734342
 party: U
 preferred-email: 
 preferred-phone: 860-639-8637
 preferred-phone-is-cell: Verified Cell
-revision: 0
 salutation-informal: Brenda
 sdsup: 9.33
 sex: F

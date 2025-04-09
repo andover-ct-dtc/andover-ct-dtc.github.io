@@ -1,0 +1,11 @@
+caption: Registered Voters
+created: 20241118170010458
+modified: 20241119161802768
+revision: 0
+tags: TableOfContents
+title: Voter
+type: text/vnd.tiddlywiki
+
+<div class="multi col12">
+<ul><$list filter="[tag[Voter]!has[draft.of]sort[suffix]sort[first-name]sort[last-name]]"><li><$link>{{!!first-name}} {{!!last-name}} {{!!suffix}}</$link></li></$list></ul>
+</div>
