@@ -3,7 +3,7 @@
   "version": "0.6.4",
   "config": {
     "voters-version": "0.1.1",
-    "voters2025-version": "0.1.0",
+    "voters2025-version": "0.1.1",
     "candidates-version": "0.2.1",
     "anon-version": "0.1.0"
   },
