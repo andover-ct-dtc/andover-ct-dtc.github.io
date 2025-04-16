@@ -1,0 +1,47 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+candidate-id: S2CT00314
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 50
+contribution-receipt-date: 2022-08-10 00:00:00
+contributor-aggregate-ytd: 317
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: VINCENT
+contributor-id: C00804377
+contributor-last-name: ZUJEWSKI
+contributor-name: ZUJEWSKI, VINCENT
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 28 HEBRON RD
+contributor-zip: 062321310
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1672783
+filing-form: F3X
+image-number: 202212159568362200
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4122120221644623000
+load-date: 2023-08-08 14:08:01
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202212159568362200
+receipt-type: 24T
+receipt-type-desc: EARMARKED CONTRIBUTION
+receipt-type-full: EARMARKED FOR LEORA LEVY FOR U.S. SENATE, INC. (C00804377)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: Q3
+report-year: 2022
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4011720231700493300
+tags: Donation
+title: Donation/202212159568362200
+transaction-id: ADF584928A7A346D1803
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00804377

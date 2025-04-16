@@ -1,0 +1,45 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00344697
+committee-name: LANGEVIN FOR CONGRESS
+contribution-receipt-amount: 250
+contribution-receipt-date: 2020-09-22 00:00:00
+contributor-aggregate-ytd: 250
+contributor-city: ANDOVER
+contributor-employer: ELECTRIC BOAT
+contributor-first-name: JUDITH
+contributor-last-name: RUTHKO
+contributor-middle-name: M.
+contributor-name: RUTHKO, JUDITH M.
+contributor-occupation: ENGINEER
+contributor-state: CT
+contributor-street-1: 47 BURNAP BROOK RD
+contributor-zip: 062321205
+election-type: G2020
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2020
+file-number: 1450167
+filing-form: F3
+image-number: 202010159294302850
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4101620201857655000
+load-date: 2020-11-20 08:58:43.313
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?202010159294302834
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: H
+report-type: Q3
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4111920201958463500
+tags: Donation
+title: Donation/202010159294302850
+transaction-id: VPFB7SSEXH2
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

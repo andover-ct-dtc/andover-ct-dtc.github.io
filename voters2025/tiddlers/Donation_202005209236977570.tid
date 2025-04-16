@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 2
+contribution-receipt-date: 2020-04-04 00:00:00
+contributor-aggregate-ytd: 128.3
+contributor-city: ANDOVER
+contributor-employer: PW POWER SYSTEMS LLC
+contributor-first-name: ROARKE
+contributor-last-name: MCCORMICK
+contributor-name: MCCORMICK, ROARKE
+contributor-occupation: ELECTRIAL ENGINEER
+contributor-state: CT
+contributor-street-1: 7 JUROVATY ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1407307
+filing-form: F3X
+image-number: 202005209236977570
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4052120201762244000
+load-date: 2020-05-28 08:01:53.316
+memo-text: EARMARKED FOR BERNIE 2020 (C00696948)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?202005209236977561
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: M5
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4052720201769437700
+tags: Donation
+title: Donation/202005209236977570
+transaction-id: SA11AI_224768002
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

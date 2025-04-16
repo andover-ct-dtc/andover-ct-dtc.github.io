@@ -1,0 +1,44 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00836916
+committee-name: TEAM KENNEDY
+contribution-receipt-amount: 50
+contribution-receipt-date: 2024-04-23 00:00:00
+contributor-aggregate-ytd: 596.09
+contributor-city: ANDOVER
+contributor-employer: SELF EMPLOYED
+contributor-first-name: LOIS
+contributor-last-name: BARRETT
+contributor-name: BARRETT, LOIS
+contributor-occupation: HEALTH COACH
+contributor-state: CT
+contributor-street-1: 151 WALES RD
+contributor-zip: 062321224
+election-type: P2024
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2024
+file-number: 1783819
+filing-form: F3P
+image-number: 202405179646067070
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4051720241949536000
+load-date: 2024-05-22 04:06:48
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202405179646067057
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: M5
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4052120241949808600
+tags: Donation
+title: Donation/202405179646067070
+transaction-id: AE16AA6C2B62343AEB70
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

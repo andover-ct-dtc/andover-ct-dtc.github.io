@@ -1,0 +1,46 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA11AI
+back-reference-transaction-id: VR05RXX5N48E
+committee-id: C00580068
+committee-name: PROGRESSIVE TURNOUT PROJECT
+contribution-receipt-amount: 100
+contribution-receipt-date: 2020-10-20 00:00:00
+contributor-aggregate-ytd: 350
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: BARBARA
+contributor-last-name: CLOSE
+contributor-name: CLOSE, BARBARA
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 79 GILEAD RD
+contributor-zip: 062321608
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1502317
+filing-form: F3X
+image-number: 202102289429205630
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4030120211190323000
+load-date: 2021-03-05 15:26:41.572
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202102289429205630
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: 30G
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4030420211225564000
+tags: Donation
+title: Donation/202102289429205630
+transaction-id: VR05RXX5N48
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

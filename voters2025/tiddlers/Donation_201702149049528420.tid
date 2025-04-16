@@ -1,0 +1,44 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00575795
+committee-name: HILLARY FOR AMERICA
+contribution-receipt-amount: 75
+contribution-receipt-date: 2016-11-01 00:00:00
+contributor-aggregate-ytd: 590
+contributor-city: ANDOVER
+contributor-employer: REGIONAL SCHOOL DISTRICT
+contributor-first-name: MARIA
+contributor-last-name: TULMAN
+contributor-name: TULMAN, MARIA
+contributor-occupation: PARAPROFESSIONAL
+contributor-state: CT
+contributor-street-1: 139 HEBRON RD
+contributor-zip: 062321505
+election-type: G2016
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2016
+file-number: 1148953
+filing-form: F3P
+image-number: 201702149049528420
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4021720171370988000
+load-date: 2017-05-31 13:27:14.31838
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201702149049528415
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: 30G
+report-year: 2016
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4021720171371418000
+tags: Donation
+title: Donation/201702149049528420
+transaction-id: C14772654
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

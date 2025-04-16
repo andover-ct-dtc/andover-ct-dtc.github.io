@@ -1,0 +1,49 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA11AI
+back-reference-transaction-id: 10764272E
+committee-id: C00213512
+committee-name: NANCY PELOSI FOR CONGRESS
+contribution-receipt-amount: 35
+contribution-receipt-date: 2024-10-23 00:00:00
+contributor-aggregate-ytd: 435
+contributor-city: ANDOVER
+contributor-employer: AETNA
+contributor-first-name: SUSAN
+contributor-id: C00401224
+contributor-last-name: FREIMUTH
+contributor-name: FREIMUTH, SUSAN
+contributor-occupation: MANAGER
+contributor-state: CT
+contributor-street-1: 75 BURNAP BROOK RD
+contributor-zip: 062321205
+election-type: G2024
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2024
+file-number: 1856268
+filing-form: F3
+image-number: 202412059720981340
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4120520241074539500
+load-date: 2025-01-16 03:06:13
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202412059720981330
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: H
+report-type: 30G
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4011520251130607000
+tags: Donation
+title: Donation/202412059720981340
+transaction-id: 10764272
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

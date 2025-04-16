@@ -1,0 +1,43 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00630012
+committee-name: IT STARTS TODAY
+contribution-receipt-amount: 41.43
+contribution-receipt-date: 2018-10-14 00:00:00
+contributor-aggregate-ytd: 46.02
+contributor-city: ANDOVER
+contributor-employer: THE HARTFORD FIRE INSURANCE COMPANY
+contributor-first-name: SCOTT
+contributor-last-name: SAUYET
+contributor-name: SAUYET, SCOTT
+contributor-occupation: COMPUTER PROGRAMMER
+contributor-state: CT
+contributor-street-1: 168 BOSTON HILL RD
+contributor-zip: 06232
+election-type: O2018
+election-type-full: NON-CAND COMMITTEE
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-year: 2018
+file-number: 1347320
+filing-form: F3X
+image-number: 201908099162559330
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4081020191663275000
+load-date: 2019-08-23 08:22:03.647
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201908099162559326
+receipt-type-full: EARMARKED FOR S-ME-02-D NOMINEE FUND 2020
+recipient-committee-designation: U
+recipient-committee-type: N
+report-type: 12G
+report-year: 2018
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4082220191668845600
+tags: Donation
+title: Donation/201908099162559330
+transaction-id: L22021138
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

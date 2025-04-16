@@ -1,0 +1,43 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00000935
+committee-name: DCCC
+contribution-receipt-amount: 300
+contribution-receipt-date: 2022-07-25 00:00:00
+contributor-aggregate-ytd: 300
+contributor-city: ANDOVER
+contributor-employer: TOWN OF MANCHESTER, CT
+contributor-first-name: DOUGLAS
+contributor-last-name: MCDONOUGH
+contributor-name: MCDONOUGH, DOUGLAS
+contributor-occupation: LIBRARIAN
+contributor-state: CT
+contributor-street-1: 280 HEBRON RD
+contributor-zip: 062321706
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1693783
+filing-form: F3X
+image-number: 202303179579355070
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4031720231735082000
+load-date: 2023-03-21 04:05:56
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202303179579355082
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: U
+recipient-committee-type: Y
+report-type: M8
+report-year: 2022
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4032020231736414000
+tags: Donation
+title: Donation/202303179579355070
+transaction-id: 38255674
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

@@ -1,0 +1,42 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00330894
+committee-name: RYAN FOR CONGRESS, INC.
+contribution-receipt-amount: 100
+contribution-receipt-date: 2014-05-23 00:00:00
+contributor-aggregate-ytd: 100
+contributor-city: ANDOVER
+contributor-first-name: WILLIAM
+contributor-last-name: LARSON
+contributor-middle-name: J
+contributor-name: LARSON, WILLIAM J MR
+contributor-prefix: MR
+contributor-state: CT
+contributor-street-1: 278 LAKE ROAD
+contributor-zip: 062321709
+election-type: P2014
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2014
+file-number: 936061
+filing-form: F3
+image-number: 14961544160
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4071020141216738300
+load-date: 2017-05-31 17:34:02.953375
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?14961544160
+recipient-committee-designation: P
+recipient-committee-type: H
+report-type: Q2
+report-year: 2014
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4071020141216779000
+tags: Donation
+title: Donation/14961544160
+transaction-id: A-CF157808
+two-year-transaction-period: 2014
+type: text/vnd.tiddlywiki

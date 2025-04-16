@@ -1,0 +1,49 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA11AI
+back-reference-transaction-id: 7106599E
+committee-id: C00213512
+committee-name: NANCY PELOSI FOR CONGRESS
+contribution-receipt-amount: 50
+contribution-receipt-date: 2021-12-07 00:00:00
+contributor-aggregate-ytd: 210
+contributor-city: ANDOVER
+contributor-employer: REGIONAL SCHOOL DISTRICT #8
+contributor-first-name: MARIA
+contributor-id: C00401224
+contributor-last-name: TULMAN
+contributor-name: TULMAN, MARIA
+contributor-occupation: PARAPROFESSIONAL
+contributor-state: CT
+contributor-street-1: 139 HEBRON RD
+contributor-zip: 062321505
+election-type: P2022
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2022
+file-number: 1565158
+filing-form: F3
+image-number: 202201319485824100
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4013120221403735000
+load-date: 2022-02-13 03:34:48.353
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202201319485824110
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: H
+report-type: YE
+report-year: 2021
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4021220221407500300
+tags: Donation
+title: Donation/202201319485824100
+transaction-id: 7106599
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

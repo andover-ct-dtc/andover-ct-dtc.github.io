@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 25
+contribution-receipt-date: 2018-10-19 00:00:00
+contributor-aggregate-ytd: 25
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: ALICIA
+contributor-last-name: WILLETT
+contributor-name: WILLETT, ALICIA
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 316 LAKE ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1300352
+filing-form: F3X
+image-number: 201812079140609100
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4120920181620675000
+load-date: 2019-01-08 14:36:27.71
+memo-text: EARMARKED FOR MOVEON.ORG POLITICAL ACTION (C00341396)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201812079140609099
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: 30G
+report-year: 2018
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4010720191633487400
+tags: Donation
+title: Donation/201812079140609100
+transaction-id: SA11AI_134383236
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

@@ -1,0 +1,49 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA17A
+back-reference-transaction-id: 16230986E
+committee-id: C00696948
+committee-name: BERNIE 2020
+contribution-receipt-amount: 15
+contribution-receipt-date: 2020-01-23 00:00:00
+contributor-aggregate-ytd: 273
+contributor-city: ANDOVER
+contributor-employer: BREATHING ROOM YOGA CENTER
+contributor-first-name: HALEY
+contributor-id: C00401224
+contributor-last-name: PROTO
+contributor-name: PROTO, HALEY
+contributor-occupation: MANAGER
+contributor-state: CT
+contributor-street-1: 76 LONG HILL RD
+contributor-zip: 062321123
+election-type: P2020
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2020
+file-number: 1384482
+filing-form: F3P
+image-number: 202002209186796930
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4022020201693209000
+load-date: 2020-03-05 13:26:33.338
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?202002209186796927
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: M2
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4030420201701023000
+tags: Donation
+title: Donation/202002209186796930
+transaction-id: 16230986
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 20
+contribution-receipt-date: 2022-10-16 00:00:00
+contributor-aggregate-ytd: 20
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: JULIA
+contributor-last-name: HAVERL
+contributor-name: HAVERL, JULIA
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: P O BOX 267
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1654436
+filing-form: F3X
+image-number: 202210279543953760
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4102820221592654000
+load-date: 2022-11-10 05:29:48
+memo-text: EARMARKED FOR DEMOCRATIC VICTORY PAC- UNLIMITED (C00753558)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202210279543953747
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: 12G
+report-year: 2022
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4110920221619542500
+tags: Donation
+title: Donation/202210279543953760
+transaction-id: SA11AI_492802135
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

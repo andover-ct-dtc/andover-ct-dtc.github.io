@@ -1,0 +1,41 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 25
+contribution-receipt-date: 2018-02-20 00:00:00
+contributor-aggregate-ytd: 25
+contributor-city: ANDOVER
+contributor-employer: SELF
+contributor-first-name: JANE
+contributor-last-name: RAINWATER
+contributor-name: RAINWATER, JANE
+contributor-occupation: ARTIST
+contributor-state: CT
+contributor-street-1: 165 WHEELING ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1301107
+filing-form: F3X
+image-number: 201812139142727000
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4121420181621968400
+load-date: 2019-01-16 04:22:42.539
+memo-text: EARMARKED FOR FRIENDS OF CHRIS MURPHY (C00492645)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201812139142727023
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M3
+report-year: 2018
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4011520191636276000
+tags: Donation
+title: Donation/201812139142727000
+transaction-id: SA11AI_103834398
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

@@ -1,0 +1,40 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 25
+contribution-receipt-date: 2020-10-14 00:00:00
+contributor-aggregate-ytd: 145
+contributor-city: ANDOVER
+contributor-employer: RHAM MIDDLE SCHOOL
+contributor-first-name: JULIE
+contributor-last-name: CHIFFER
+contributor-name: CHIFFER, JULIE
+contributor-occupation: TEACHER
+contributor-state: CT
+contributor-street-1: 450 LAKE RD
+contributor-zip: 062321534
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1502397
+filing-form: F3X
+image-number: 202103019430176700
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4030220211190415000
+load-date: 2021-03-03 14:11:26.942
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202103019430176720
+receipt-type-full: EARMARKED FOR TEAM GRAHAM, INC. (C00458828)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: 12G
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4030220211196192000
+tags: Donation
+title: Donation/202103019430176700
+transaction-id: AB35D326B0348403196C
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 15
+contribution-receipt-date: 2024-01-14 00:00:00
+contributor-aggregate-ytd: 35
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: CATHERINE
+contributor-last-name: GALE
+contributor-name: GALE, CATHERINE
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 45 BIRCH DRIVE
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1758569
+filing-form: F3X
+image-number: 202402209620362780
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4022120241825502000
+load-date: 2024-03-07 03:06:22
+memo-text: EARMARKED FOR DEMOCRATIC ACTION (C00562983)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202402209620362783
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: M2
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4030620241879646000
+tags: Donation
+title: Donation/202402209620362780
+transaction-id: SA11AI_564642656
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

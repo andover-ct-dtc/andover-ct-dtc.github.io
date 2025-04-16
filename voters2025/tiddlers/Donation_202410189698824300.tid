@@ -1,0 +1,49 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA17A
+back-reference-transaction-id: 11110591E
+committee-id: C00703975
+committee-name: HARRIS FOR PRESIDENT
+contribution-receipt-amount: 50
+contribution-receipt-date: 2024-07-21 00:00:00
+contributor-aggregate-ytd: 205
+contributor-city: ANDOVER
+contributor-employer: ENTECH TECHNICAL TRAINING
+contributor-first-name: CHARLES
+contributor-id: C00401224
+contributor-last-name: CAISSE
+contributor-name: CAISSE, CHARLES
+contributor-occupation: TEACHER
+contributor-state: CT
+contributor-street-1: 184 WHEELING RD
+contributor-zip: 062321113
+election-type: P2024
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2024
+file-number: 1832056
+filing-form: F3P
+image-number: 202410189698824300
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4102020242075583000
+load-date: 2024-10-24 04:06:13
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202410189698824292
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: M8
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4102320242076437500
+tags: Donation
+title: Donation/202410189698824300
+transaction-id: 11110591
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

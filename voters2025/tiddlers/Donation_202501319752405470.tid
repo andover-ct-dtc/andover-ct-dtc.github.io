@@ -1,0 +1,45 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+back-reference-schedule-name: SA11AI
+back-reference-transaction-id: 14634309E
+committee-id: C00326801
+committee-name: TAMMY BALDWIN FOR SENATE
+contribution-receipt-amount: 50
+contribution-receipt-date: 2024-10-31 00:00:00
+contributor-aggregate-ytd: 192
+contributor-city: ANDOVER
+contributor-employer: N/A
+contributor-first-name: MARIA
+contributor-last-name: TULMAN
+contributor-name: TULMAN, MARIA
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 139 HEBRON RD
+contributor-zip: 062321505
+election-type: G2024
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2024
+file-number: 1873089
+filing-form: F3
+image-number: 202501319752405470
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4013120251139337700
+load-date: 2025-02-07 03:11:14
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202501319752405470
+recipient-committee-designation: P
+recipient-committee-type: S
+report-type: 30G
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4020620251143406600
+tags: Donation
+title: Donation/202501319752405470
+transaction-id: 14634309
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

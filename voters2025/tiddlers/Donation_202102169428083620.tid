@@ -1,0 +1,43 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00580100
+committee-name: DONALD J. TRUMP FOR PRESIDENT, INC.
+contribution-receipt-amount: 100
+contribution-receipt-date: 2020-09-10 00:00:00
+contributor-aggregate-ytd: 100
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: MARGARET
+contributor-last-name: HOHENGARTEN
+contributor-name: HOHENGARTEN, MARGARET
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: PO BOX 236
+contributor-zip: 06232
+election-type: G2020
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2020
+file-number: 1500233
+filing-form: F3P
+image-number: 202102169428083620
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4021720211155899000
+load-date: 2021-02-18 08:50:14.562
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202102169428083625
+receipt-type-full: EARMARKED THROUGH WINRED [SA17A.4988]
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: M10
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4021720211156881000
+tags: Donation
+title: Donation/202102169428083620
+transaction-id: SA17A.729432
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

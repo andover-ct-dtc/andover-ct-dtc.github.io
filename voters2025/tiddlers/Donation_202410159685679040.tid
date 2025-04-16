@@ -1,0 +1,46 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00784926
+committee-name: GEORGE LOGAN FOR CONGRESS
+contribution-receipt-amount: 75
+contribution-receipt-date: 2024-08-12 00:00:00
+contributor-aggregate-ytd: 450
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: JOSEPH
+contributor-last-name: POLAND
+contributor-middle-name: A
+contributor-name: POLAND, JOSEPH A III
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: PO BOX 330
+contributor-suffix: III
+contributor-zip: 06232
+election-type: G2024
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2024
+file-number: 1826319
+filing-form: F3
+image-number: 202410159685679040
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4101520242069565400
+load-date: 2024-11-14 03:06:05
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202410159685679027
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: H
+report-type: Q3
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4111320241068353000
+tags: Donation
+title: Donation/202410159685679040
+transaction-id: A-2815623
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

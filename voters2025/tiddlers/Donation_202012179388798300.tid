@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 15
+contribution-receipt-date: 2020-10-10 00:00:00
+contributor-aggregate-ytd: 15
+contributor-city: ANDOVER
+contributor-employer: FM GLOBAL
+contributor-first-name: JAY
+contributor-last-name: KAMINS
+contributor-name: KAMINS, JAY
+contributor-occupation: DESIGNER
+contributor-state: CT
+contributor-street-1: 104 WEST STREET
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1483193
+filing-form: F3X
+image-number: 202012179388798300
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4121920201978218000
+load-date: 2021-02-04 10:31:32.679
+memo-text: EARMARKED FOR JAIME HARRISON FOR US SENATE (C00696153)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202012179388798313
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: 12G
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4020320212013719000
+tags: Donation
+title: Donation/202012179388798300
+transaction-id: SA11AI_321524870
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

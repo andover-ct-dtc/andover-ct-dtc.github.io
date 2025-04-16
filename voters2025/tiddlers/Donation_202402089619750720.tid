@@ -1,0 +1,44 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00000935
+committee-name: DCCC
+contribution-receipt-amount: 10
+contribution-receipt-date: 2023-11-12 00:00:00
+contributor-aggregate-ytd: 260
+contributor-city: ANDOVER
+contributor-employer: REGIONAL SCHOOL DISTRICT 8
+contributor-first-name: MARIA
+contributor-last-name: TULMAN
+contributor-name: TULMAN, MARIA
+contributor-occupation: EDUCATOR
+contributor-state: CT
+contributor-street-1: 139 HEBRON RD
+contributor-zip: 062321505
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1754923
+filing-form: F3X
+image-number: 202402089619750720
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4020820241823351300
+load-date: 2024-02-10 03:06:14
+memo-text: * EARMARKED CONTRIBUTION THROUGH ACTBLUE PAC ON 11/12/2023
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202402089619750710
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: U
+recipient-committee-type: Y
+report-type: M12
+report-year: 2023
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4020920241824317000
+tags: Donation
+title: Donation/202402089619750720
+transaction-id: 41616687
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

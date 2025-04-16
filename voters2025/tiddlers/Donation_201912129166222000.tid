@@ -1,0 +1,49 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+back-reference-schedule-name: SA17A
+back-reference-transaction-id: 4080204E
+committee-id: C00693234
+committee-name: WARREN FOR PRESIDENT, INC.
+contribution-receipt-amount: 50
+contribution-receipt-date: 2019-08-31 00:00:00
+contributor-aggregate-ytd: 308
+contributor-city: ANDOVER
+contributor-employer: NONE
+contributor-first-name: JULIA
+contributor-id: C00401224
+contributor-last-name: HAVERL
+contributor-name: HAVERL, JULIA
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: PO BOX 267
+contributor-zip: 062320267
+election-type: P2020
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2020
+file-number: 1366132
+filing-form: F3P
+image-number: 201912129166222000
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4121320191681469000
+load-date: 2019-12-23 03:52:59.765
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201912129166222014
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: Q3
+report-year: 2019
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4122220191682207000
+tags: Donation
+title: Donation/201912129166222000
+transaction-id: 4080204
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

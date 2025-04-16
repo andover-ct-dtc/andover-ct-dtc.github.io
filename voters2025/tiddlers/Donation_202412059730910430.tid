@@ -1,0 +1,49 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA11AI
+back-reference-transaction-id: 22693717E
+committee-id: C00411330
+committee-name: FRIENDS OF BERNIE SANDERS
+contribution-receipt-amount: 25
+contribution-receipt-date: 2024-10-21 00:00:00
+contributor-aggregate-ytd: 350
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: MARIA
+contributor-id: C00401224
+contributor-last-name: TULMAN
+contributor-name: TULMAN, MARIA
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 139 HEBRON RD
+contributor-zip: 062321505
+election-type: G2024
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2024
+file-number: 1856815
+filing-form: F3
+image-number: 202412059730910430
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4120520241074539500
+load-date: 2024-12-20 03:06:08
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202412059730910442
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: S
+report-type: 30G
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4121920241109207000
+tags: Donation
+title: Donation/202412059730910430
+transaction-id: 22693717
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

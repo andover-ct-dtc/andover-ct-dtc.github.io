@@ -1,0 +1,41 @@
+amendment-indicator: C
+amendment-indicator-desc: CHANGE
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 25
+contribution-receipt-date: 2016-03-01 00:00:00
+contributor-aggregate-ytd: 25
+contributor-city: ANDOVER
+contributor-employer: AETNA
+contributor-first-name: JOANN
+contributor-last-name: AZZARA
+contributor-name: AZZARA, JOANN
+contributor-occupation: FULL TIME
+contributor-state: CT
+contributor-street-1: 276 LONG HILL RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1147747
+filing-form: F3X
+image-number: 201702069042452400
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4020820171369945000
+load-date: 2017-05-31 13:27:14.31838
+memo-text: EARMARKED FOR BLUMENTHAL FOR CONNECTICUT (C00492991)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201702069042452424
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M4
+report-year: 2016
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4030820171375060500
+tags: Donation
+title: Donation/201702069042452400
+transaction-id: SA11AI_40895791
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

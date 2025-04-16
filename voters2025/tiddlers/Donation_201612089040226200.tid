@@ -1,0 +1,44 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00238865
+committee-name: FRIENDS OF ROSA DELAURO
+contribution-receipt-amount: 250
+contribution-receipt-date: 2016-11-01 00:00:00
+contributor-aggregate-ytd: 250
+contributor-city: ANDOVER
+contributor-employer: PENN GLOBE
+contributor-first-name: MARCIA
+contributor-last-name: LEFEMINA
+contributor-name: LEFEMINA, MARCIA
+contributor-occupation: CEO
+contributor-state: CT
+contributor-street-1: 120 BUNKER HILL RD
+contributor-zip: 062321301
+election-type: G2016
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2016
+file-number: 1133819
+filing-form: F3
+image-number: 201612089040226200
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4120920161357095400
+load-date: 2017-05-31 13:27:14.31838
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201612089040226205
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: H
+report-type: 30G
+report-year: 2016
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4122720161358091300
+tags: Donation
+title: Donation/201612089040226200
+transaction-id: C10729824
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

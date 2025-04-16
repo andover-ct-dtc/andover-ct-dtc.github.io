@@ -1,0 +1,49 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA11AI
+back-reference-transaction-id: VTRAAGQVTT4E
+committee-id: C00492645
+committee-name: FRIENDS OF CHRIS MURPHY
+contribution-receipt-amount: 10
+contribution-receipt-date: 2018-10-21 00:00:00
+contributor-aggregate-ytd: 277.5
+contributor-city: ANDOVER
+contributor-employer: SELF
+contributor-first-name: CARRIE
+contributor-id: C00401224
+contributor-last-name: CROMPTON
+contributor-name: CROMPTON, CARRIE
+contributor-occupation: COPYEDITOR
+contributor-state: CT
+contributor-street-1: 197 HEBRON RD
+contributor-zip: 062321707
+election-type: G2018
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2018
+file-number: 1298752
+filing-form: F3
+image-number: 201812069134832100
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4120620181620450300
+load-date: 2019-02-02 04:24:21.746
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201812069134832101
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: S
+report-type: 30G
+report-year: 2018
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4020120191637084000
+tags: Donation
+title: Donation/201812069134832100
+transaction-id: VTRAAGQVTT4
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

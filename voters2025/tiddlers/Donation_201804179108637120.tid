@@ -1,0 +1,41 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 1
+contribution-receipt-date: 2018-01-10 00:00:00
+contributor-aggregate-ytd: 5
+contributor-city: ANDOVER
+contributor-employer: RISE VISION
+contributor-first-name: NICHOLAS
+contributor-last-name: RIMSA
+contributor-name: RIMSA, NICHOLAS
+contributor-occupation: DESIGNER
+contributor-state: CT
+contributor-street-1: 75 SCHOOL ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1224404
+filing-form: F3X
+image-number: 201804179108637120
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4041720181525985000
+load-date: 2018-05-13 04:39:53.007
+memo-text: EARMARKED FOR SWING LEFT CONDUIT (C00632133)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201804179108637116
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M2
+report-year: 2018
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4051220181561748500
+tags: Donation
+title: Donation/201804179108637120
+transaction-id: SA11AI_100583361
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

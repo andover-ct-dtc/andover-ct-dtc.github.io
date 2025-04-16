@@ -1,0 +1,50 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA12
+back-reference-transaction-id: SA12.83894603
+committee-id: C00003418
+committee-name: REPUBLICAN NATIONAL COMMITTEE
+contribution-receipt-amount: 8.75
+contribution-receipt-date: 2019-10-23 00:00:00
+contributor-aggregate-ytd: 446.25
+contributor-city: ANDOVER
+contributor-employer: SELF-EMPLOYED
+contributor-first-name: ROBERT
+contributor-last-name: MANGILLO
+contributor-middle-name: A.
+contributor-name: MANGILLO, ROBERT A. MR.
+contributor-occupation: CONSULTANT
+contributor-prefix: MR.
+contributor-state: CT
+contributor-street-1: 136 WALES RD
+contributor-zip: 062321220
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1367597
+filing-form: F3X
+image-number: 201912209166832300
+is-individual: t
+line-number: 12
+line-number-label: Transfers from Authorized Committees
+link-id: 4122020191681865700
+load-date: 2020-01-18 03:52:03.482
+memo-code: X
+memo-text: TRANSFER FROM TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201912209166832285
+receipt-type: 15J
+receipt-type-desc: MEMO (FILER'S % OF CONTRIBUTION GIVEN TO JOIN
+receipt-type-full: CONTRIBUTION
+recipient-committee-designation: U
+recipient-committee-type: Y
+report-type: M12
+report-year: 2019
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4011720201685166000
+tags: Donation
+title: Donation/201912209166832300
+transaction-id: SA.83632466.1.TM25
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

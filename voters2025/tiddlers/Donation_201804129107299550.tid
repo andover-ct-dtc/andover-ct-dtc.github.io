@@ -1,0 +1,41 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 20
+contribution-receipt-date: 2017-11-08 00:00:00
+contributor-aggregate-ytd: 20
+contributor-city: ANDOVER
+contributor-employer: UTC
+contributor-first-name: DESIREE
+contributor-last-name: JERRICK
+contributor-name: JERRICK, DESIREE
+contributor-occupation: DBA
+contributor-state: CT
+contributor-street-1: 75 BURNAP BROOK RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1219434
+filing-form: F3X
+image-number: 201804129107299550
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4041220181525803500
+load-date: 2018-05-13 04:44:28.462
+memo-text: EARMARKED FOR FRIENDS OF ELIZABETH ESTY (C00494203)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201804129107299567
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M12
+report-year: 2017
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4051220181558168000
+tags: Donation
+title: Donation/201804129107299550
+transaction-id: SA11AI_95248552
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

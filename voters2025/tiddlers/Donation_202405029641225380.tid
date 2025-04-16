@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 20
+contribution-receipt-date: 2019-04-25 00:00:00
+contributor-aggregate-ytd: 20
+contributor-city: ANDOVER
+contributor-employer: MASSMUTUAL
+contributor-first-name: BARBARA
+contributor-last-name: UPTON
+contributor-name: UPTON, BARBARA
+contributor-occupation: COMPLIANCE OFFICER
+contributor-state: CT
+contributor-street-1: 107 SHODDY MILL ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1780795
+filing-form: F3X
+image-number: 202405029641225380
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4050720241921791000
+load-date: 2024-05-17 05:08:16
+memo-text: EARMARKED FOR BIDEN FOR PRESIDENT (C00703975)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202405029641225382
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: MY
+report-year: 2019
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4051620241931588000
+tags: Donation
+title: Donation/202405029641225380
+transaction-id: SA11AI_155446165
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

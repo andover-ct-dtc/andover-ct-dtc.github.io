@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 10
+contribution-receipt-date: 2024-06-24 00:00:00
+contributor-aggregate-ytd: 10
+contributor-city: ANDOVER
+contributor-employer: NANCY FARR
+contributor-first-name: NANCY
+contributor-last-name: FARR
+contributor-name: FARR, NANCY
+contributor-occupation: MIDWIFE
+contributor-state: CT
+contributor-street-1: PO BOX 296
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1805179
+filing-form: F3X
+image-number: 202407209662181100
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4072120241978293000
+load-date: 2024-08-06 04:06:28
+memo-text: EARMARKED FOR STOP MAGA PAC (C00874115)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202407209662181078
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: M7
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4080520242001878500
+tags: Donation
+title: Donation/202407209662181100
+transaction-id: SA11AI_597400745
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

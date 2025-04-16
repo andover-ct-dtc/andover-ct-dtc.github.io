@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 11
+contribution-receipt-date: 2022-06-22 00:00:00
+contributor-aggregate-ytd: 11
+contributor-city: ANDOVER
+contributor-employer: AETNA
+contributor-first-name: SUSAN
+contributor-last-name: FREIMUTH
+contributor-name: FREIMUTH, SUSAN
+contributor-occupation: MANAGER
+contributor-state: CT
+contributor-street-1: 75 BURNAP BROOK RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1618546
+filing-form: F3X
+image-number: 202207209522911100
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4072120221542770000
+load-date: 2022-08-05 03:43:53.724
+memo-text: EARMARKED FOR DCCC (C00000935)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202207209522911104
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: M7
+report-year: 2022
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4080420221557297000
+tags: Donation
+title: Donation/202207209522911100
+transaction-id: SA11AI_455215119
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

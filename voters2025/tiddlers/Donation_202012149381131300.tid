@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 15
+contribution-receipt-date: 2020-09-16 00:00:00
+contributor-aggregate-ytd: 15
+contributor-city: ANDOVER
+contributor-employer: HEALTHCARE
+contributor-first-name: CARRIE
+contributor-last-name: WILLIAMS
+contributor-name: WILLIAMS, CARRIE
+contributor-occupation: NURSE
+contributor-state: CT
+contributor-street-1: 178 HEBRON RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1482832
+filing-form: F3X
+image-number: 202012149381131300
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4121620201974289400
+load-date: 2021-01-22 19:28:18.04
+memo-text: EARMARKED FOR CONGRESSIONAL BLACK CAUCUS PAC (C00147512)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202012149381131283
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: M10
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4012120212107800600
+tags: Donation
+title: Donation/202012149381131300
+transaction-id: SA11AI_296108367
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

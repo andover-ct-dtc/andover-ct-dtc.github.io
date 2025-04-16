@@ -1,0 +1,40 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 15
+contribution-receipt-date: 2023-06-30 00:00:00
+contributor-aggregate-ytd: 89.52
+contributor-city: ANDOVER
+contributor-employer: SELF EMPLOYED
+contributor-first-name: LOIS
+contributor-last-name: BARRETT
+contributor-name: BARRETT, LOIS
+contributor-occupation: HEALTH COACH
+contributor-state: CT
+contributor-street-1: 151 WALES RD
+contributor-zip: 062321224
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1720509
+filing-form: F3X
+image-number: 202307319586987330
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4080120231758587400
+load-date: 2023-08-18 04:45:31
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202307319586987334
+receipt-type-full: EARMARKED FOR JIM NELSON FOR CONGRESS (C00837559)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: MY
+report-year: 2023
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4081720231794606000
+tags: Donation
+title: Donation/202307319586987330
+transaction-id: A816802F1F54A488B806
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

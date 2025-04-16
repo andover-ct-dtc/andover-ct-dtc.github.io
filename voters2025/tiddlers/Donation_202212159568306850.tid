@@ -1,0 +1,40 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 5
+contribution-receipt-date: 2022-08-10 00:00:00
+contributor-aggregate-ytd: 105
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: JOSEPH
+contributor-last-name: A POLAND
+contributor-name: A POLAND, JOSEPH
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: PO BOX 330
+contributor-zip: 062320330
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1672783
+filing-form: F3X
+image-number: 202212159568306850
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4122120221644623000
+load-date: 2023-01-18 06:22:00
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202212159568306833
+receipt-type-full: EARMARKED FOR LEORA LEVY FOR U.S. SENATE, INC. (C00804377)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: Q3
+report-year: 2022
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4011720231700321300
+tags: Donation
+title: Donation/202212159568306850
+transaction-id: A65280801C81F4FAF9E8
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

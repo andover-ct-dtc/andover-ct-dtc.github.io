@@ -1,0 +1,48 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+back-reference-schedule-name: SA11AI
+back-reference-transaction-id: 47879637E
+committee-id: C00580068
+committee-name: PROGRESSIVE TURNOUT PROJECT
+contribution-receipt-amount: 25
+contribution-receipt-date: 2024-09-22 00:00:00
+contributor-aggregate-ytd: 210
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: MARIA
+contributor-id: C00401224
+contributor-last-name: TULMAN
+contributor-name: TULMAN, MARIA
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 139 HEBRON RD
+contributor-zip: 062321505
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1876463
+filing-form: F3X
+image-number: 202502169753453900
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4021720251177312000
+load-date: 2025-02-19 03:06:13
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202502169753453878
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M10
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4021820251177429500
+tags: Donation
+title: Donation/202502169753453900
+transaction-id: 47879637
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

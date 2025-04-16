@@ -1,0 +1,44 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00410233
+committee-name: COURTNEY FOR CONGRESS
+contribution-receipt-amount: 250
+contribution-receipt-date: 2022-07-06 00:00:00
+contributor-aggregate-ytd: 250
+contributor-city: ANDOVER
+contributor-employer: ELECTRIC BOAT
+contributor-first-name: JUDY
+contributor-last-name: RUTHKO
+contributor-name: RUTHKO, JUDY
+contributor-occupation: ENGINEER
+contributor-state: CT
+contributor-street-1: 47 BURNAP BROOK RD
+contributor-zip: 062321205
+election-type: G2022
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2022
+file-number: 1639842
+filing-form: F3
+image-number: 202210149532424700
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4101420221588146700
+load-date: 2022-10-27 03:36:16
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202210149532424709
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: H
+report-type: Q3
+report-year: 2022
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4102620221592058000
+tags: Donation
+title: Donation/202210149532424700
+transaction-id: 12062023
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

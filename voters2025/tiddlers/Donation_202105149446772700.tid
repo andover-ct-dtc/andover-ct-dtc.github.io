@@ -1,0 +1,43 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00666040
+committee-name: MCSALLY FOR SENATE INC
+contribution-receipt-amount: 105
+contribution-receipt-date: 2020-11-06 00:00:00
+contributor-aggregate-ytd: 305
+contributor-city: ANDOVER
+contributor-first-name: JOSEPH
+contributor-last-name: POLAND
+contributor-name: POLAND, JOSEPH
+contributor-state: CT
+contributor-street-1: PO BOX 330
+contributor-zip: 062320330
+election-type: G2020
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2020
+file-number: 1516251
+filing-form: F3
+image-number: 202105149446772700
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4051520211293011000
+load-date: 2021-05-20 05:02:40.821
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202105149446772709
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+receipt-type-full: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: S
+report-type: 30G
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4052020211295265000
+tags: Donation
+title: Donation/202105149446772700
+transaction-id: SA11A.2015548
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

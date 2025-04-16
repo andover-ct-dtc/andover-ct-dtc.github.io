@@ -1,0 +1,50 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA17A
+back-reference-transaction-id: 20877972E
+committee-id: C00703975
+committee-name: HARRIS FOR PRESIDENT
+contribution-receipt-amount: 100
+contribution-receipt-date: 2024-09-09 00:00:00
+contributor-aggregate-ytd: 350
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: MARIA
+contributor-id: C00401224
+contributor-last-name: TULMAN
+contributor-middle-name: A
+contributor-name: TULMAN, MARIA A
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 139 HEBRON RD
+contributor-zip: 062321505
+election-type: G2024
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2024
+file-number: 1833711
+filing-form: F3P
+image-number: 202410209700201800
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4102120242075612000
+load-date: 2024-10-24 04:06:29
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202410209700201808
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: M10
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4102320242079609000
+tags: Donation
+title: Donation/202410209700201800
+transaction-id: 20877972
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

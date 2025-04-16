@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 5
+contribution-receipt-date: 2014-06-30 00:00:00
+contributor-aggregate-ytd: 5
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: THOMAS
+contributor-last-name: MCBRIARTY
+contributor-name: MCBRIARTY, THOMAS
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 267 LONG HILL RD.
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 942637
+filing-form: F3X
+image-number: 14961837428
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4072520141218391000
+load-date: 2017-05-31 17:34:02.953375
+memo-text: EARMARKED FOR DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE (C00000935)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?14961837428
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M7
+report-year: 2014
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4073020141219145700
+tags: Donation
+title: Donation/14961837428
+transaction-id: SA11AI_17397139
+two-year-transaction-period: 2014
+type: text/vnd.tiddlywiki

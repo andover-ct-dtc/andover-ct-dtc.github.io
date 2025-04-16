@@ -1,0 +1,46 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00003418
+committee-name: REPUBLICAN NATIONAL COMMITTEE
+contribution-receipt-amount: 35
+contribution-receipt-date: 2019-08-14 00:00:00
+contributor-aggregate-ytd: 358.75
+contributor-city: ANDOVER
+contributor-employer: SELF-EMPLOYED
+contributor-first-name: ROBERT
+contributor-last-name: MANGILLO
+contributor-middle-name: A.
+contributor-name: MANGILLO, ROBERT A. MR.
+contributor-occupation: CONSULTANT
+contributor-prefix: MR.
+contributor-state: CT
+contributor-street-1: 136 WALES RD
+contributor-zip: 062321220
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1353552
+filing-form: F3X
+image-number: 201909209163506880
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4092020191673217000
+load-date: 2019-10-02 03:59:52.834
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201909209163506873
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+receipt-type-full: CONTRIBUTION
+recipient-committee-designation: U
+recipient-committee-type: Y
+report-type: M9
+report-year: 2019
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4100120191673602600
+tags: Donation
+title: Donation/201909209163506880
+transaction-id: SA11A.81434409
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

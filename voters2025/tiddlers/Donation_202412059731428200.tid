@@ -1,0 +1,49 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA11AI
+back-reference-transaction-id: 26428517E
+committee-id: C00042366
+committee-name: DSCC
+contribution-receipt-amount: 25
+contribution-receipt-date: 2024-10-26 00:00:00
+contributor-aggregate-ytd: 250
+contributor-city: ANDOVER
+contributor-employer: TRAVELERS INSURANCE
+contributor-first-name: SCOTT
+contributor-id: C00401224
+contributor-last-name: SAUYET
+contributor-name: SAUYET, SCOTT
+contributor-occupation: COMPUTER PROGRAMER
+contributor-state: CT
+contributor-street-1: 168 BOSTON HILL RD
+contributor-street-2: APT L
+contributor-zip: 062321404
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1857612
+filing-form: F3X
+image-number: 202412059731428200
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4120520241074550300
+load-date: 2024-12-17 03:06:13
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202412059731428177
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: U
+recipient-committee-type: Y
+report-type: 30G
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4121620241076838400
+tags: Donation
+title: Donation/202412059731428200
+transaction-id: 26428517
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

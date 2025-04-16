@@ -1,0 +1,40 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00252940
+committee-name: LEAGUE OF CONSERVATION VOTERS ACTION FUND
+contribution-receipt-amount: 10
+contribution-receipt-date: 2016-09-16 00:00:00
+contributor-city: ANDOVER
+contributor-employer: REGIONAL SCHOOL DISTRICT 8
+contributor-first-name: MARIA
+contributor-last-name: TULMAN
+contributor-name: TULMAN, MARIA
+contributor-occupation: EDUCATIONAL ASSISTANT
+contributor-state: CT
+contributor-street-1: 139 HEBRON RD
+contributor-zip: 062321505
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1112208
+filing-form: F3X
+image-number: 201610209034485440
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4102120161344422400
+load-date: 2017-05-31 13:27:14.31838
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201610209034485439
+receipt-type-full: ERMK: STRICKLAND FOR SENATE
+recipient-committee-designation: B
+recipient-committee-org-type: M
+recipient-committee-type: Q
+report-type: M10
+report-year: 2016
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4112120161351018000
+tags: Donation
+title: Donation/201610209034485440
+transaction-id: A74FA682CE3854FB8BE6
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

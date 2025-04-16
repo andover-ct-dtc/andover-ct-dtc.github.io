@@ -1,0 +1,47 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA11AI
+back-reference-transaction-id: VSH8GQPFN88E
+committee-id: C00437889
+committee-name: PETERS FOR MICHIGAN
+contribution-receipt-amount: 100
+contribution-receipt-date: 2020-10-30 00:00:00
+contributor-aggregate-ytd: 750
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: BARBARA
+contributor-last-name: CLOSE
+contributor-name: CLOSE, BARBARA
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 79 GILEAD RD
+contributor-zip: 062321608
+election-type: G2020
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2020
+file-number: 1503027
+filing-form: F3
+image-number: 202103059440277340
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4030620211226340000
+load-date: 2021-03-09 04:07:17.834
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202103059440277333
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: S
+report-type: 30G
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4030920211227895000
+tags: Donation
+title: Donation/202103059440277340
+transaction-id: VSH8GQPFN88
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

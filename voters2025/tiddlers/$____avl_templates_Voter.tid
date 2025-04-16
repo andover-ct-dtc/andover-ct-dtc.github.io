@@ -1,5 +1,5 @@
 created: 20241119024530343
-modified: 20250320014419656
+modified: 20250415231337181
 tags: $:/tags/ViewTemplate
 title: $:/_/avl/templates/Voter
 type: text/vnd.tiddlywiki
@@ -45,4 +45,17 @@ type: text/vnd.tiddlywiki
 </$list>
 </ul>
 </details>
+
+<$let first={{{ [{!!first-name}uppercase[]] }}}, last={{{ [{!!last-name}uppercase[]] }}} >
+<% if [tag[Donation]contributor-first-name<first>contributor-last-name<last>] %>
+<details><summary>''Donations''</summary>
+<ul>
+<$list filter="[tag[Donation]contributor-first-name<first>contributor-last-name<last>!sort[contribution-receipt-date]]">
+<li><$transclude tiddler="$:/_/avl/templates/donation/no-name" /></li>
+</$list>
+</ul>
+</details>
+<% endif %>
+</$let>
+
 <% endif %>

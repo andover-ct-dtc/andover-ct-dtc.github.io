@@ -1,0 +1,47 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+back-reference-transaction-id: SA18.118582136
+committee-id: C00828541
+committee-name: NEVER SURRENDER, INC.
+contribution-receipt-amount: 90
+contribution-receipt-date: 2024-04-11 00:00:00
+contributor-aggregate-ytd: 1265.19
+contributor-city: ANDOVER
+contributor-employer: MOUNTAIN OF WORSHIP
+contributor-first-name: DANNY
+contributor-last-name: STEYNE
+contributor-name: STEYNE, DANNY
+contributor-occupation: PASTOR
+contributor-state: CT
+contributor-street-1: 80 SHODDY MILL RD
+contributor-zip: 06232
+election-type: P2024
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2024
+file-number: 1795717
+filing-form: F3P
+image-number: 202407109653005000
+is-individual: t
+line-number: 18
+line-number-label: Transfers From Other Authorized Committees
+link-id: 4071120241972756000
+load-date: 2024-07-18 04:06:25
+memo-code: X
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202407109653004993
+receipt-type: 15J
+receipt-type-desc: MEMO (FILER'S % OF CONTRIBUTION GIVEN TO JOIN
+receipt-type-full: JFC TRANSFER: TRUMP NATIONAL COMMITTEE JFC, INC.
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: M6
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4071720241977092600
+tags: Donation
+title: Donation/202407109653005000
+transaction-id: SA18.121227373
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

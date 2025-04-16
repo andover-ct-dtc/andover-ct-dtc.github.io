@@ -1,0 +1,8 @@
+created: 20250416032322942
+list-before: $:/_avl/config/ViewTemplateTitleFilters/caption
+modified: 20250416032347021
+tags: $:/tags/ViewTemplateTitleFilter
+title: $:/_/avl/config/ViewTemplateTitleFilters/donation
+type: text/vnd.tiddlywiki
+
+[<currentTiddler>tag[Donation]then[$:/_/avl/core/ui/ViewTemplate/title/donation]]

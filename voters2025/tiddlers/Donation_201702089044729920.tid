@@ -1,0 +1,41 @@
+amendment-indicator: C
+amendment-indicator-desc: CHANGE
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 10
+contribution-receipt-date: 2016-04-01 00:00:00
+contributor-aggregate-ytd: 10
+contributor-city: ANDOVER
+contributor-employer: UCONN
+contributor-first-name: ERIKA
+contributor-last-name: MCNEIL
+contributor-name: MCNEIL, ERIKA
+contributor-occupation: LIBRARIAN
+contributor-state: CT
+contributor-street-1: 10 BAUSOLA RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1148088
+filing-form: F3X
+image-number: 201702089044729920
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4020820171369945000
+load-date: 2017-05-31 13:27:14.31838
+memo-text: EARMARKED FOR BERNIE 2016 (C00577130)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201702089044729916
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M5
+report-year: 2016
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4032420171383291000
+tags: Donation
+title: Donation/201702089044729920
+transaction-id: SA11AI_44937401
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

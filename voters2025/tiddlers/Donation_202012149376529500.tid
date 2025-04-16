@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 5
+contribution-receipt-date: 2020-09-20 00:00:00
+contributor-aggregate-ytd: 5
+contributor-city: AMSTON
+contributor-employer: NOT EMPLOYED
+contributor-first-name: KATHLEEN
+contributor-last-name: GARVIE
+contributor-name: GARVIE, KATHLEEN
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 195 DEEPWOOD DR
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1482832
+filing-form: F3X
+image-number: 202012149376529500
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4121620201974289400
+load-date: 2021-01-22 18:50:42.405
+memo-text: EARMARKED FOR DEMOCRATIC ACTION (C00562983)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202012149376529496
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: M10
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4012120212117777400
+tags: Donation
+title: Donation/202012149376529500
+transaction-id: SA11AI_302713523
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

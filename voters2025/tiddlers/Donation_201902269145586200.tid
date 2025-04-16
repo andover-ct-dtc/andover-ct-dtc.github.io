@@ -1,0 +1,42 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00078451
+committee-name: GENERAL DYNAMICS CORPORATION POLITICAL ACTION COMMITTEE (GDC PAC)
+contribution-receipt-amount: 30
+contribution-receipt-date: 2015-09-30 00:00:00
+contributor-aggregate-ytd: 285
+contributor-city: ANDOVER
+contributor-employer: ELECTRIC BOAT CORPORATION
+contributor-first-name: WILLIAM
+contributor-last-name: LARSON
+contributor-middle-name: JED
+contributor-name: LARSON, WILLIAM JED
+contributor-occupation: ENGINEER PRINCIPAL
+contributor-state: CT
+contributor-street-1: 278 LAKE ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1317814
+filing-form: F3X
+image-number: 201902269145586200
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4022620191643723000
+load-date: 2019-03-01 03:48:09.141
+memo-text: P/R DEDUCTION ($15.00 BI-WEEKLY)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201902269145586223
+recipient-committee-designation: B
+recipient-committee-org-type: C
+recipient-committee-type: Q
+report-type: M10
+report-year: 2015
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4022820191644671500
+tags: Donation
+title: Donation/201902269145586200
+transaction-id: PR1039233842969
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

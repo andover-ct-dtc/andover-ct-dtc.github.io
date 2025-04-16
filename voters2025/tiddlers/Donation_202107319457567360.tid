@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 5
+contribution-receipt-date: 2021-04-15 00:00:00
+contributor-aggregate-ytd: 5
+contributor-city: ANDOVER
+contributor-employer: HOP ENERGY
+contributor-first-name: CHARLES
+contributor-last-name: CAISSE
+contributor-name: CAISSE, CHARLES
+contributor-occupation: SUPERVISOR
+contributor-state: CT
+contributor-street-1: 184 WHEELING ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1533121
+filing-form: F3X
+image-number: 202107319457567360
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4080120211324274000
+load-date: 2021-08-26 11:32:22.408
+memo-text: EARMARKED FOR RETIRED AMERICANS PAC (C00483883)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202107319457567375
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: MY
+report-year: 2021
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4082520211351140000
+tags: Donation
+title: Donation/202107319457567360
+transaction-id: SA11AI_385104627
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

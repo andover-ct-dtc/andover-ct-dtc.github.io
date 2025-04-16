@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 18
+contribution-receipt-date: 2020-05-05 00:00:00
+contributor-aggregate-ytd: 18
+contributor-city: ANDOVER
+contributor-employer: GREAT OAKS CHARTER SCHOOL
+contributor-first-name: ELENA
+contributor-last-name: BOUSHEE
+contributor-name: BOUSHEE, ELENA
+contributor-occupation: TEACHER
+contributor-state: CT
+contributor-street-1: 148 BEAR SWAMP ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1413483
+filing-form: F3X
+image-number: 202006209240376800
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4062120201776167400
+load-date: 2020-07-10 07:58:07.73
+memo-text: EARMARKED FOR THERESA GREENFIELD FOR IOWA (C00708164)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?202006209240376785
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: M6
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4070920201780683300
+tags: Donation
+title: Donation/202006209240376800
+transaction-id: SA11AI_232358870
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

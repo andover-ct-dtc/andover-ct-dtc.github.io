@@ -1,0 +1,44 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00035683
+committee-name: UNITED TECHNOLOGIES CORPORATION POLITICAL ACTION COMMITTEE
+contribution-receipt-amount: 30
+contribution-receipt-date: 2015-08-31 00:00:00
+contributor-aggregate-ytd: 240
+contributor-city: ANDOVER
+contributor-employer: OTIS
+contributor-first-name: DOUGLAS
+contributor-last-name: SMITH
+contributor-middle-name: C
+contributor-name: SMITH, DOUGLAS C
+contributor-occupation: VP, WORLDWIDE EH&S
+contributor-state: CT
+contributor-street-1: 86 WINDRUSH LANE
+contributor-zip: 062321610
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1025042
+filing-form: F3X
+image-number: 201509179002686700
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4091720151253093400
+load-date: 2017-05-31 13:27:14.31838
+memo-text: P/R DEDUCTION ($15.00 SEMI-MONTHLY)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201509179002686701
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: B
+recipient-committee-org-type: C
+recipient-committee-type: Q
+report-type: M9
+report-year: 2015
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4091720151253114400
+tags: Donation
+title: Donation/201509179002686700
+transaction-id: PR1143842842331
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

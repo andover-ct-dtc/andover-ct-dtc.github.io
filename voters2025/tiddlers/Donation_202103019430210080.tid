@@ -1,0 +1,45 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 7.5
+contribution-receipt-date: 2020-10-14 00:00:00
+contributor-aggregate-ytd: 332.5
+contributor-city: ANDOVER
+contributor-employer: THE HARTFORD
+contributor-first-name: STEPHEN
+contributor-id: C00458828
+contributor-last-name: DONAHUE
+contributor-name: DONAHUE, STEPHEN
+contributor-occupation: IT/ARCHITECT
+contributor-state: CT
+contributor-street-1: 57 WALES RD
+contributor-zip: 062321221
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1502397
+filing-form: F3X
+image-number: 202103019430210080
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4030220211190415000
+load-date: 2023-09-27 12:14:57
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202103019430210095
+receipt-type-desc: EARMARKED CONTRIBUTION
+receipt-type-full: EARMARKED FOR TEAM GRAHAM, INC. (C00458828)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: 12G
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4030220211196300000
+tags: Donation
+title: Donation/202103019430210080
+transaction-id: AB4B022AC79334A44B32
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00458828

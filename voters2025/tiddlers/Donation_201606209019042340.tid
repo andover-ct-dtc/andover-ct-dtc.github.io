@@ -1,0 +1,49 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+back-reference-schedule-name: SA17A
+back-reference-transaction-id: VPF7BPCXBK8E
+committee-id: C00577130
+committee-name: BERNIE 2016
+contribution-receipt-amount: 12.5
+contribution-receipt-date: 2016-04-30 00:00:00
+contributor-aggregate-ytd: 252.5
+contributor-city: ANDOVER
+contributor-employer: REGIONAL SCHOOL DISTRICT #8, HEBRON, C
+contributor-first-name: MARIA
+contributor-id: C00401224
+contributor-last-name: TULMAN
+contributor-name: TULMAN, MARIA
+contributor-occupation: PARAPROFESSIONAL
+contributor-state: CT
+contributor-street-1: 139 HEBRON RD
+contributor-zip: 062321505
+election-type: P2016
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2016
+file-number: 1079445
+filing-form: F3P
+image-number: 201606209019042340
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4062820161300317700
+load-date: 2017-05-31 13:27:14.31838
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201606209019042329
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: M5
+report-year: 2016
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4063020161302500000
+tags: Donation
+title: Donation/201606209019042340
+transaction-id: VPF7BPCXBK8
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

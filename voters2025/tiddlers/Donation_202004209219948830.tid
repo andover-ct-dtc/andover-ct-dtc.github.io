@@ -1,0 +1,49 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA17A
+back-reference-transaction-id: 19146365E
+committee-id: C00696948
+committee-name: BERNIE 2020
+contribution-receipt-amount: 2
+contribution-receipt-date: 2020-03-04 00:00:00
+contributor-aggregate-ytd: 229
+contributor-city: ANDOVER
+contributor-employer: PW POWER SYSTEMS LLC
+contributor-first-name: ROARKE
+contributor-id: C00401224
+contributor-last-name: MCCORMICK
+contributor-name: MCCORMICK, ROARKE
+contributor-occupation: ELECTRIAL ENGINEER
+contributor-state: CT
+contributor-street-1: 7 JUROVATY RD
+contributor-zip: 062321427
+election-type: P2020
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2020
+file-number: 1402435
+filing-form: F3P
+image-number: 202004209219948830
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4042020201737356300
+load-date: 2020-04-24 04:08:59.149
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?202004209219948818
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: M4
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4042320201739485000
+tags: Donation
+title: Donation/202004209219948830
+transaction-id: 19146365
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

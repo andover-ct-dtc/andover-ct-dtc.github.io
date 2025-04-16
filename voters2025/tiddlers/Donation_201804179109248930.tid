@@ -1,0 +1,41 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 5
+contribution-receipt-date: 2017-12-04 00:00:00
+contributor-aggregate-ytd: 7.5
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: EDWIN
+contributor-last-name: CRANDALL
+contributor-name: CRANDALL, EDWIN
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 94 WALES ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1224416
+filing-form: F3X
+image-number: 201804179109248930
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4041720181525985000
+load-date: 2018-05-15 03:15:55.097
+memo-text: EARMARKED FOR DOUG JONES FOR US SENATE (C00640623)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201804179109248930
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: YE
+report-year: 2017
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4051420181562843600
+tags: Donation
+title: Donation/201804179109248930
+transaction-id: SA11AI_97477306
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

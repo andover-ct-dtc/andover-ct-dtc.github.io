@@ -1,0 +1,40 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 5
+contribution-receipt-date: 2020-09-25 00:00:00
+contributor-aggregate-ytd: 10
+contributor-city: ANDOVER
+contributor-employer: PANDA HOME HEALTHCARE
+contributor-first-name: JACQUELINE
+contributor-last-name: ROSS
+contributor-name: ROSS, JACQUELINE
+contributor-occupation: HOME MAKER
+contributor-state: CT
+contributor-street-1: 164 LAKE RD
+contributor-zip: 062321509
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1490496
+filing-form: F3X
+image-number: 202101259408830620
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4012520212137769500
+load-date: 2021-02-25 14:26:34.485
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202101259408830624
+receipt-type-full: EARMARKED FOR TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE (C00618371)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: Q3
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4022420211178106400
+tags: Donation
+title: Donation/202101259408830620
+transaction-id: A25A85AF841EF44699E1
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

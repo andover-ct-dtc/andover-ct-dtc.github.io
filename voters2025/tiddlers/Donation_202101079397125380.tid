@@ -1,0 +1,40 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 25
+contribution-receipt-date: 2020-03-29 00:00:00
+contributor-aggregate-ytd: 120
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: VINCENT
+contributor-last-name: ZUJEWSKI
+contributor-name: ZUJEWSKI, VINCENT
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 28 HEBRON RD
+contributor-zip: 062321310
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1485991
+filing-form: F3X
+image-number: 202101079397125380
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4011120212068200000
+load-date: 2021-02-12 04:33:38.217
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202101079397125360
+receipt-type-full: EARMARKED FOR COTTON FOR SENATE, INC. (C00499988)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: Q1
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4021120211137909000
+tags: Donation
+title: Donation/202101079397125380
+transaction-id: A115F3E9ED7D64AECA2A
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

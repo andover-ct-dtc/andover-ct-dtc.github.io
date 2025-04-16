@@ -1,0 +1,46 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00745786
+committee-name: DSI
+contribution-receipt-amount: 15
+contribution-receipt-date: 2023-11-07 00:00:00
+contributor-aggregate-ytd: 205
+contributor-city: ANDOVER
+contributor-employer: MYSELF
+contributor-first-name: SHEILA
+contributor-id: C00401224
+contributor-last-name: KEARNEY
+contributor-name: KEARNEY, SHEILA
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 68 PINE RIDGE DR
+contributor-zip: 062321029
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1738116
+filing-form: F3X
+image-number: 202312109599433470
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4121020231812187000
+load-date: 2023-12-12 03:06:25
+memo-text: * EARMARKED CONTRIBUTION THROUGH ACTBLUE ON 11/13/2023
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202312109599433472
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: M12
+report-year: 2023
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4121120231812210700
+tags: Donation
+title: Donation/202312109599433470
+transaction-id: 17091254
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

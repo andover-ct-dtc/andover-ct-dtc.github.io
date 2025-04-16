@@ -1,0 +1,10 @@
+code-body: yes
+created: 20250415224131179
+modified: 20250415231937737
+tags: 
+title: $:/_/avl/templates/donation/no-name
+type: text/vnd.tiddlywiki
+
+<$link to=<<currentTiddler>> ><$text text= {{{ [{!!contribution-receipt-date}search-replace:g:regexp[\D],[]addsuffix[000]format:date[MMM DD, YYYY]] }}} /></$link> :
+{{!!committee-name}}<% if [{!!memo-text}] %> ({{!!memo-text}}) <% endif %> :
+$<$text text = {{{ [{!!contribution-receipt-amount}fixed[2]] }}} />

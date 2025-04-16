@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 10
+contribution-receipt-date: 2020-02-26 00:00:00
+contributor-aggregate-ytd: 20
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: SHEILA
+contributor-last-name: KEARNEY
+contributor-name: KEARNEY, SHEILA
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 68 PINE RIDGE DRIVE
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1391686
+filing-form: F3X
+image-number: 202003209211579680
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4032320201704405000
+load-date: 2020-04-03 12:10:59.13
+memo-text: EARMARKED FOR BIDEN FOR PRESIDENT (C00703975)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?202003209211579691
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: M3
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4040220201726644000
+tags: Donation
+title: Donation/202003209211579680
+transaction-id: SA11AI_213053726
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

@@ -1,0 +1,46 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00410233
+committee-name: COURTNEY FOR CONGRESS
+contribution-receipt-amount: 250
+contribution-receipt-date: 2017-06-15 00:00:00
+contributor-aggregate-ytd: 250
+contributor-city: ANDOVER
+contributor-employer: SELF EMPLOYED
+contributor-first-name: AATREYEE
+contributor-last-name: EITLAND
+contributor-name: EITLAND, AATREYEE
+contributor-occupation: ARTIST
+contributor-state: CT
+contributor-street-1: 33 CIDER MILL RD
+contributor-zip: 06232
+election-type: P2018
+election-type-full: CONVENTION
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2018
+file-number: 1212382
+filing-form: F3
+image-number: 201803059095645220
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4030520181518828000
+load-date: 2018-03-06 03:35:26.739
+memo-text: CONVENTION ACCOUNT
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201803059095645204
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: H
+report-type: Q2
+report-year: 2017
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4030520181518831600
+tags: Donation
+title: Donation/201803059095645220
+transaction-id: C22516219
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

@@ -1,0 +1,41 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 1.5
+contribution-receipt-date: 2018-02-17 00:00:00
+contributor-aggregate-ytd: 1.5
+contributor-city: ANDOVER
+contributor-employer: ST FRANCIS HODPITAL
+contributor-first-name: ANNE
+contributor-last-name: TRUSLOW HARDERS
+contributor-name: TRUSLOW HARDERS, ANNE
+contributor-occupation: SOCIAL WORKER
+contributor-state: CT
+contributor-street-1: 55 WINDRUSH RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1301107
+filing-form: F3X
+image-number: 201812139142834750
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4121420181621968400
+load-date: 2019-01-16 03:54:04.463
+memo-text: CONTRIBUTION TO ACTBLUE
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201812139142834736
+receipt-type-full: CONTRIBUTION TO ACT BLUE
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M3
+report-year: 2018
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4011520191636708400
+tags: Donation
+title: Donation/201812139142834750
+transaction-id: SA11AI_103554082
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

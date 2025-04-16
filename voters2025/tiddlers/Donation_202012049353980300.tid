@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 5
+contribution-receipt-date: 2020-10-19 00:00:00
+contributor-aggregate-ytd: 5
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: TODD
+contributor-last-name: ELLER
+contributor-name: ELLER, TODD
+contributor-occupation: DELIVERIES
+contributor-state: CT
+contributor-street-1: 92 MERRITT VALLEY ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1481637
+filing-form: F3X
+image-number: 202012049353980300
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4120520201964455000
+load-date: 2021-01-05 18:36:29.728
+memo-text: EARMARKED FOR PROGRESSIVE TURNOUT PROJECT (C00580068)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202012049353980284
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: 30G
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4010420211992094700
+tags: Donation
+title: Donation/202012049353980300
+transaction-id: SA11AI_329509980
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 15
+contribution-receipt-date: 2013-03-30 00:00:00
+contributor-aggregate-ytd: 15
+contributor-city: ANDOVER
+contributor-employer: NONE
+contributor-first-name: PETER
+contributor-last-name: MORTENSEN
+contributor-name: MORTENSEN, PETER
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 385 LAKE RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 868286
+filing-form: F3X
+image-number: 13962006910
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4042020131187654700
+load-date: 2017-05-31 17:34:02.953375
+memo-text: EARMARKED FOR DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE (C00000935)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?13962006910
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M4
+report-year: 2013
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4051020131188831000
+tags: Donation
+title: Donation/13962006910
+transaction-id: SA11AI_11039174
+two-year-transaction-period: 2014
+type: text/vnd.tiddlywiki

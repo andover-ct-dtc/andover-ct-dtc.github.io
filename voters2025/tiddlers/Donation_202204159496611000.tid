@@ -1,0 +1,48 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00768689
+committee-name: MIKE FRANCE CT2
+contribution-receipt-amount: 50
+contribution-receipt-date: 2022-02-01 00:00:00
+contributor-aggregate-ytd: 225
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: JOSEPH
+contributor-last-name: POLAND
+contributor-middle-name: A
+contributor-name: POLAND, JOSEPH A MR III
+contributor-occupation: RETIRED
+contributor-prefix: MR
+contributor-state: CT
+contributor-street-1: PO BOX 330
+contributor-suffix: III
+contributor-zip: 062320330
+election-type: C2022
+election-type-full: CONVENTION
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: CONVENTION
+fec-election-year: 2022
+file-number: 1585526
+filing-form: F3
+image-number: 202204159496611000
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4041520221470811000
+load-date: 2022-05-10 03:48:21.855
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202204159496611011
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: H
+report-type: Q1
+report-year: 2022
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4050920221475192000
+tags: Donation
+title: Donation/202204159496611000
+transaction-id: AD944A214F9B84511A72
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

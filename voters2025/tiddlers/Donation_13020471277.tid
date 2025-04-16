@@ -1,0 +1,43 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00432955
+committee-name: PAUL BROUN COMMITTEE
+contribution-receipt-amount: 500
+contribution-receipt-date: 2013-07-31 00:00:00
+contributor-aggregate-ytd: 500
+contributor-city: ANDOVER
+contributor-employer: TRAVELERS
+contributor-first-name: ROBERT
+contributor-last-name: SALO
+contributor-name: SALO, ROBERT
+contributor-occupation: ATTORNEY
+contributor-state: CT
+contributor-street-1: 19 BEAR SWAMP ROAD
+contributor-zip: 062321100
+election-type: P
+election-type-full: 2014
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 893960
+filing-form: F3
+image-number: 13020471277
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 1102220130014704100
+load-date: 2017-05-31 17:34:02.953375
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?13020471277
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: S
+report-type: Q3
+report-year: 2013
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 2110420131198468600
+tags: Donation
+title: Donation/13020471277
+two-year-transaction-period: 2014
+type: text/vnd.tiddlywiki

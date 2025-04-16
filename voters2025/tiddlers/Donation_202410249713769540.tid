@@ -1,0 +1,49 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA17A
+back-reference-transaction-id: 28602878E
+committee-id: C00703975
+committee-name: HARRIS FOR PRESIDENT
+contribution-receipt-amount: 100
+contribution-receipt-date: 2024-10-16 00:00:00
+contributor-aggregate-ytd: 300
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: SUSAN
+contributor-id: C00401224
+contributor-last-name: ENGLAND
+contributor-name: ENGLAND, SUSAN
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 27 BAILEY RD
+contributor-zip: 062321004
+election-type: G2024
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2024
+file-number: 1841738
+filing-form: F3P
+image-number: 202410249713769540
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4102520242081502000
+load-date: 2024-10-31 04:06:26
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202410249713769526
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: 12G
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4103020241012534000
+tags: Donation
+title: Donation/202410249713769540
+transaction-id: 28602878
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

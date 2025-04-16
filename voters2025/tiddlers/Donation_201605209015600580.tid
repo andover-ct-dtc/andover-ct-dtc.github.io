@@ -1,0 +1,45 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00573519
+committee-name: CARSON AMERICA
+contribution-receipt-amount: 50
+contribution-receipt-date: 2016-01-16 00:00:00
+contributor-aggregate-ytd: 550
+contributor-city: ANDOVER
+contributor-employer: FIBREDUST LLC
+contributor-first-name: EDWARD
+contributor-last-name: TURN
+contributor-middle-name: F.
+contributor-name: TURN, EDWARD F. MR.
+contributor-occupation: SALES
+contributor-prefix: MR.
+contributor-state: CT
+contributor-street-1: 31 BURNAP BROOK RD
+contributor-zip: 062321205
+election-type: P2016
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2016
+file-number: 1073637
+filing-form: F3P
+image-number: 201605209015600580
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4052020161292974000
+load-date: 2017-05-31 13:27:14.31838
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201605209015600583
+receipt-type-full: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: M2
+report-year: 2016
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4052520161293199400
+tags: Donation
+title: Donation/201605209015600580
+transaction-id: SA17.1143523
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

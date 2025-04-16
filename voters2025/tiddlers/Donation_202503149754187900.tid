@@ -1,0 +1,45 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00836916
+committee-name: TEAM KENNEDY
+contribution-receipt-amount: 25
+contribution-receipt-date: 2024-11-11 00:00:00
+contributor-aggregate-ytd: 1096.09
+contributor-city: ANDOVER
+contributor-employer: SELF EMPLOYED
+contributor-first-name: LOIS
+contributor-last-name: BARRETT
+contributor-name: BARRETT, LOIS
+contributor-occupation: HOLISTIC BREATHING COACH
+contributor-state: CT
+contributor-street-1: 151 WALES RD
+contributor-zip: 062321224
+election-type: P2024
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2024
+file-number: 1880498
+filing-form: F3P
+image-number: 202503149754187900
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4031420251180045000
+load-date: 2025-03-18 04:05:55
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202503149754187898
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+receipt-type-full: 2024 PRIMARY DEBT
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: 30G
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4031720251180247600
+tags: Donation
+title: Donation/202503149754187900
+transaction-id: AD071D88F84234FE6988
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

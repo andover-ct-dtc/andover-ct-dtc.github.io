@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 1.5
+contribution-receipt-date: 2020-09-18 00:00:00
+contributor-aggregate-ytd: 7
+contributor-city: ANDOVER
+contributor-employer: CANTOR COLBURN
+contributor-first-name: MICHELLE
+contributor-last-name: BUSQUE
+contributor-name: BUSQUE, MICHELLE
+contributor-occupation: ATTORNEY
+contributor-state: CT
+contributor-street-1: 345 HEBRON ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1482832
+filing-form: F3X
+image-number: 202012149375222200
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4121620201974289400
+load-date: 2021-01-22 19:37:26.858
+memo-text: CONTRIBUTION TO ACTBLUE
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202012149375222223
+receipt-type-full: CONTRIBUTION TO ACT BLUE
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: M10
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4012120212108972000
+tags: Donation
+title: Donation/202012149375222200
+transaction-id: SA11AI_297270119
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 20
+contribution-receipt-date: 2024-04-09 00:00:00
+contributor-aggregate-ytd: 20
+contributor-city: ANDOVER
+contributor-employer: NATURESCAPE, LLC
+contributor-first-name: MARCIE
+contributor-last-name: MINER
+contributor-name: MINER, MARCIE
+contributor-occupation: SELF EMPLOYED
+contributor-state: CT
+contributor-street-1: 80 WEST ST
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1785179
+filing-form: F3X
+image-number: 202405209647030430
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4052120241949781000
+load-date: 2024-06-05 04:06:31
+memo-text: EARMARKED FOR DSCC (C00042366)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202405209647030418
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: M5
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4060420241957035000
+tags: Donation
+title: Donation/202405209647030430
+transaction-id: SA11AI_581556269
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

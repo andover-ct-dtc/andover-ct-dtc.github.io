@@ -1,0 +1,49 @@
+amendment-indicator: C
+amendment-indicator-desc: CHANGE
+back-reference-schedule-name: SA17A
+back-reference-transaction-id: VPF7BNYYMW6E
+committee-id: C00577130
+committee-name: BERNIE 2016
+contribution-receipt-amount: 3.53
+contribution-receipt-date: 2016-04-15 00:00:00
+contributor-aggregate-ytd: 205.53
+contributor-city: ANDOVER
+contributor-employer: NONE
+contributor-first-name: BRIGID
+contributor-id: C00401224
+contributor-last-name: DONOHUE
+contributor-name: DONOHUE, BRIGID
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 504 LAKE RD
+contributor-zip: 062321339
+election-type: P2016
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2016
+file-number: 1079445
+filing-form: F3P
+image-number: 201606209018855400
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4062820161300317700
+load-date: 2017-05-31 13:27:14.31838
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201606209018855390
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: M5
+report-year: 2016
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4063020161301938700
+tags: Donation
+title: Donation/201606209018855400
+transaction-id: VPF7BNYYMW6
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

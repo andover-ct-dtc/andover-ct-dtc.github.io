@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 12
+contribution-receipt-date: 2018-03-15 00:00:00
+contributor-aggregate-ytd: 12
+contributor-city: ANDOVER
+contributor-employer: RISE VISION
+contributor-first-name: NICHOLAS
+contributor-last-name: RIMSA
+contributor-name: RIMSA, NICHOLAS
+contributor-occupation: DESIGNER
+contributor-state: CT
+contributor-street-1: 75 SCHOOL ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1225971
+filing-form: F3X
+image-number: 201804209110896900
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4042020181526228000
+load-date: 2018-04-27 02:57:38.937
+memo-text: EARMARKED FOR FRIENDS OF ANDREW YANG (C00659938)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201804209110896893
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M4
+report-year: 2018
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4042620181529587700
+tags: Donation
+title: Donation/201804209110896900
+transaction-id: SA11AI_106149216
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

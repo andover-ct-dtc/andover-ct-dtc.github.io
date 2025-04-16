@@ -1,0 +1,46 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00768689
+committee-name: MIKE FRANCE CT2
+contribution-receipt-amount: 100
+contribution-receipt-date: 2024-03-15 00:00:00
+contributor-aggregate-ytd: 300
+contributor-city: ANDOVER
+contributor-employer: ELECTRIC BOAT CORPORATION
+contributor-first-name: WILLIAM
+contributor-last-name: LARSON
+contributor-middle-name: J
+contributor-name: LARSON, WILLIAM J MR.
+contributor-occupation: ENGINEER PRINCIPAL
+contributor-prefix: MR.
+contributor-state: CT
+contributor-street-1: 278 LAKE RD
+contributor-zip: 062321709
+election-type: O2024
+election-type-full: CONVENTION
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-year: 2024
+file-number: 1868091
+filing-form: F3
+image-number: 202501299748114300
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4012920251138006000
+load-date: 2025-01-31 03:06:08
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202501299748114313
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: H
+report-type: Q1
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4013020251138562600
+tags: Donation
+title: Donation/202501299748114300
+transaction-id: A832FDD24C7994C4C884
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

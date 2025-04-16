@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 10
+contribution-receipt-date: 2021-04-16 00:00:00
+contributor-aggregate-ytd: 30
+contributor-city: ANDOVER
+contributor-employer: BLOOMFIELD PUBLIC SCHOOLS
+contributor-first-name: DELTHIA
+contributor-last-name: ISHMAEL
+contributor-name: ISHMAEL, DELTHIA
+contributor-occupation: AABA  INSTRUCTOR
+contributor-state: CT
+contributor-street-1: 16 SHADBLOW LANE
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1533121
+filing-form: F3X
+image-number: 202107319458972130
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4080120211324274000
+load-date: 2021-08-26 11:36:09.069
+memo-text: EARMARKED FOR DEMOCRATIC NATIONAL COMMITTEE (C00010603)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202107319458972137
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: MY
+report-year: 2021
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4082520211351190500
+tags: Donation
+title: Donation/202107319458972130
+transaction-id: SA11AI_385250008
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

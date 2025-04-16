@@ -1,0 +1,41 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 100
+contribution-receipt-date: 2017-08-30 00:00:00
+contributor-aggregate-ytd: 200
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: ELISABETH
+contributor-last-name: HOULE
+contributor-name: HOULE, ELISABETH
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 225 BUNKER HILL ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1217404
+filing-form: F3X
+image-number: 201804069104310460
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4041020181525732000
+load-date: 2018-05-11 08:48:05.912
+memo-text: EARMARKED FOR FRIENDS OF CHRIS MURPHY (C00492645)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201804069104310471
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M9
+report-year: 2017
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4051020181551359500
+tags: Donation
+title: Donation/201804069104310460
+transaction-id: SA11AI_89872937
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

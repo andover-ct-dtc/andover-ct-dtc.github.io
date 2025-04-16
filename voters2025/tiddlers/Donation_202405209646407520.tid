@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 2
+contribution-receipt-date: 2024-04-01 00:00:00
+contributor-aggregate-ytd: 41.5
+contributor-city: ANDOVER
+contributor-employer: STATE OF CONNECTICUT
+contributor-first-name: CHARLES
+contributor-last-name: CAISSE
+contributor-name: CAISSE, CHARLES
+contributor-occupation: TEACHER
+contributor-state: CT
+contributor-street-1: 184 WHEELING RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1785179
+filing-form: F3X
+image-number: 202405209646407520
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4052120241949781000
+load-date: 2024-06-05 04:06:25
+memo-text: CONTRIBUTION TO ACTBLUE
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202405209646407527
+receipt-type-full: CONTRIBUTION TO ACT BLUE
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: M5
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4060420241953934300
+tags: Donation
+title: Donation/202405209646407520
+transaction-id: SA11AI_580144140
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

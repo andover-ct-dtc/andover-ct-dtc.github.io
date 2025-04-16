@@ -1,0 +1,49 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+back-reference-schedule-name: SA17A
+back-reference-transaction-id: 4457189E
+committee-id: C00693234
+committee-name: WARREN FOR PRESIDENT, INC.
+contribution-receipt-amount: 50
+contribution-receipt-date: 2019-09-30 00:00:00
+contributor-aggregate-ytd: 350
+contributor-city: ANDOVER
+contributor-employer: TRAVELERS INSURANCE
+contributor-first-name: SCOTT
+contributor-id: C00401224
+contributor-last-name: SAUYET
+contributor-name: SAUYET, SCOTT
+contributor-occupation: COMPUTER PROGRAMMER
+contributor-state: CT
+contributor-street-1: 168 BOSTON HILL RD
+contributor-zip: 062321404
+election-type: P2020
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2020
+file-number: 1366132
+filing-form: F3P
+image-number: 201912129166259700
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4121320191681469000
+load-date: 2019-12-23 03:57:58.131
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201912129166259699
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: Q3
+report-year: 2019
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4122220191682321400
+tags: Donation
+title: Donation/201912129166259700
+transaction-id: 4457189
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

@@ -1,0 +1,45 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00768689
+committee-name: MIKE FRANCE CT2
+contribution-receipt-amount: 50
+contribution-receipt-date: 2022-10-27 00:00:00
+contributor-aggregate-ytd: 403
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: VINCENT
+contributor-last-name: ZUJEWSKI
+contributor-name: ZUJEWSKI, VINCENT MR.
+contributor-occupation: RETIRED
+contributor-prefix: MR.
+contributor-state: CT
+contributor-street-1: 28 HEBRON RD
+contributor-zip: 062321310
+election-type: G2022
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2022
+file-number: 1868075
+filing-form: F3
+image-number: 202501299748113920
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4012920251138006000
+load-date: 2025-01-31 03:06:03
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202501299748113931
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: H
+report-type: 30G
+report-year: 2022
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4013020251138637000
+tags: Donation
+title: Donation/202501299748113920
+transaction-id: AEF7786411CF44152B3A
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

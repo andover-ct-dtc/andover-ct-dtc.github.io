@@ -1,0 +1,45 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00078451
+committee-name: GENERAL DYNAMICS CORPORATION POLITICAL ACTION COMMITTEE (GENERAL DYNAMICS EMPLOYEE PAC)
+contribution-receipt-amount: 570
+contribution-receipt-date: 2024-12-31 00:00:00
+contributor-aggregate-ytd: 4940
+contributor-city: ANDOVER
+contributor-employer: ELECTRIC BOAT CORPORATION
+contributor-first-name: JUDITH
+contributor-last-name: RUTHKO
+contributor-name: RUTHKO, JUDITH
+contributor-occupation: DIR-NUC QUAL CONTROL
+contributor-state: CT
+contributor-street-1: 47 BURNAP BROOK RD
+contributor-zip: 062321205
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1865468
+filing-form: F3X
+image-number: 202501249747742940
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4012420251134834000
+load-date: 2025-01-29 03:05:53
+memo-text: P/R DEDUCTION ($190.00 BI-WEEKLY)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202501249747742945
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: B
+recipient-committee-org-type: C
+recipient-committee-type: Q
+report-type: YE
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4012820251137997000
+tags: Donation
+title: Donation/202501249747742940
+transaction-id: PR1730483498694
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

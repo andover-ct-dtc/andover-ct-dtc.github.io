@@ -1,0 +1,47 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+back-reference-schedule-name: SA12
+back-reference-transaction-id: SA12.11857
+committee-id: C00706614
+committee-name: TONY GONZALES FOR CONGRESS
+contribution-receipt-amount: 24.99
+contribution-receipt-date: 2020-09-26 00:00:00
+contributor-aggregate-ytd: 24.99
+contributor-city: ANDOVER
+contributor-employer: NONE
+contributor-first-name: VINCENT
+contributor-last-name: ZUJEWSKI
+contributor-name: ZUJEWSKI, VINCENT
+contributor-occupation: NONE
+contributor-state: CT
+contributor-street-1: 28 HEBRON ROAD
+contributor-zip: 06232
+election-type: G2020
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2020
+file-number: 1520052
+filing-form: F3
+image-number: 202106169449136220
+is-individual: t
+line-number: 12
+line-number-label: Transfers from authorized committees
+link-id: 4061720211308479000
+load-date: 2021-06-18 04:51:39.921
+memo-code: X
+memo-text: JFC ATTRIB: TEXAS RELOADED
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202106169449136232
+receipt-type-full: TRANSFER
+recipient-committee-designation: P
+recipient-committee-type: H
+report-type: Q3
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4061820211308567600
+tags: Donation
+title: Donation/202106169449136220
+transaction-id: SA12.15491
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

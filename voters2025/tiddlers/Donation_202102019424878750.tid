@@ -1,0 +1,42 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00618371
+committee-name: TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+contribution-receipt-amount: 250
+contribution-receipt-date: 2020-06-16 00:00:00
+contributor-aggregate-ytd: 250
+contributor-city: ANDOVER
+contributor-employer: SELF-EMPLOYED
+contributor-first-name: LENARD
+contributor-last-name: WERNER
+contributor-name: WERNER, LENARD
+contributor-state: CT
+contributor-street-1: 84 GILEAD ROAD
+contributor-zip: 06232
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1497918
+filing-form: F3X
+image-number: 202102019424878750
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4020320212140284000
+load-date: 2021-02-14 04:14:50.154
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202102019424878746
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: J
+recipient-committee-type: N
+report-type: Q2
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4021420211141559000
+tags: Donation
+title: Donation/202102019424878750
+transaction-id: SA11AI.167782
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

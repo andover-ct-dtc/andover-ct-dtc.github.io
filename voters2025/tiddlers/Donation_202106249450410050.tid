@@ -1,0 +1,48 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA12
+back-reference-transaction-id: SA12.102118449
+committee-id: C00003418
+committee-name: REPUBLICAN NATIONAL COMMITTEE
+contribution-receipt-amount: 42.75
+contribution-receipt-date: 2020-11-04 00:00:00
+contributor-aggregate-ytd: 445.88
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: CHRIS
+contributor-last-name: HOULE
+contributor-name: HOULE, CHRIS
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 220 BUNKER HILL RD
+contributor-zip: 062321337
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1521551
+filing-form: F3X
+image-number: 202106249450410050
+is-individual: t
+line-number: 12
+line-number-label: Transfers from Authorized Committees
+link-id: 4062620211311693000
+load-date: 2021-06-30 05:46:48.989
+memo-code: X
+memo-text: TRANSFER FROM TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202106249450410033
+receipt-type: 15J
+receipt-type-desc: MEMO (FILER'S % OF CONTRIBUTION GIVEN TO JOIN
+receipt-type-full: CONTRIBUTION
+recipient-committee-designation: U
+recipient-committee-type: Y
+report-type: 30G
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4063020211315282400
+tags: Donation
+title: Donation/202106249450410050
+transaction-id: SA.102804561.1.TM32
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

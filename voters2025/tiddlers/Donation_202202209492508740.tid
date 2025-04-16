@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 50
+contribution-receipt-date: 2022-01-14 00:00:00
+contributor-aggregate-ytd: 50
+contributor-city: ANDOVER
+contributor-employer: NATURESCAPE, LLC
+contributor-first-name: MARCIE
+contributor-last-name: MINER
+contributor-name: MINER, MARCIE
+contributor-occupation: LANDSCAPE DESIGN
+contributor-state: CT
+contributor-street-1: 80 WEST ST
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1571224
+filing-form: F3X
+image-number: 202202209492508740
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4022120221409207300
+load-date: 2022-03-04 03:59:03.739
+memo-text: EARMARKED FOR FRIENDS OF CHRIS MURPHY (C00492645)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202202209492508742
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: M2
+report-year: 2022
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4030320221456634000
+tags: Donation
+title: Donation/202202209492508740
+transaction-id: SA11AI_426253573
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

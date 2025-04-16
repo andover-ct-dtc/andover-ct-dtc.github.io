@@ -1,0 +1,41 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 5
+contribution-receipt-date: 2017-12-11 00:00:00
+contributor-aggregate-ytd: 20
+contributor-city: ANDOVER
+contributor-employer: TRAVELERS INSURANCE
+contributor-first-name: SCOTT
+contributor-last-name: SAUYET
+contributor-name: SAUYET, SCOTT
+contributor-occupation: COMPUTER PROGRAMMER
+contributor-state: CT
+contributor-street-1: 168 BOSTON HILL ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1224416
+filing-form: F3X
+image-number: 201804179109640350
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4041720181525985000
+load-date: 2018-05-15 02:54:31.873
+memo-text: CONTRIBUTION TO ACTBLUE
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201804179109640347
+receipt-type-full: CONTRIBUTION TO ACT BLUE
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: YE
+report-year: 2017
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4051420181565185500
+tags: Donation
+title: Donation/201804179109640350
+transaction-id: SA11AI_98307914
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

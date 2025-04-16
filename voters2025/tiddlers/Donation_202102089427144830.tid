@@ -1,0 +1,43 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00618371
+committee-name: TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+contribution-receipt-amount: 200
+contribution-receipt-date: 2020-10-13 00:00:00
+contributor-aggregate-ytd: 200
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: SABINA
+contributor-last-name: WILSON
+contributor-name: WILSON, SABINA
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 18 LAKEVIEW DR
+contributor-zip: 06232
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1499074
+filing-form: F3X
+image-number: 202102089427144830
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4020920211122168000
+load-date: 2021-02-19 04:33:33.404
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202102089427144834
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: J
+recipient-committee-type: N
+report-type: 12G
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4021920211159970000
+tags: Donation
+title: Donation/202102089427144830
+transaction-id: SA11AI.81464
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 1
+contribution-receipt-date: 2018-12-17 00:00:00
+contributor-aggregate-ytd: 41.5
+contributor-city: ANDOVER
+contributor-employer: AETNA
+contributor-first-name: SUSAN
+contributor-last-name: FREIMUTH
+contributor-name: FREIMUTH, SUSAN
+contributor-occupation: MANAGER
+contributor-state: CT
+contributor-street-1: 75 BURNAP BROOK RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1312107
+filing-form: F3X
+image-number: 201901319144604450
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4020120191637007400
+load-date: 2019-02-22 03:58:00.033
+memo-text: CONTRIBUTION TO ACTBLUE
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201901319144604452
+receipt-type-full: CONTRIBUTION TO ACT BLUE
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: YE
+report-year: 2018
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4022120191642119000
+tags: Donation
+title: Donation/201901319144604450
+transaction-id: SA11AI_143437192
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

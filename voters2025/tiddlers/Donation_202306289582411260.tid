@@ -1,0 +1,47 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA11AI
+back-reference-transaction-id: 5275945E
+committee-id: C00606939
+committee-name: ROSEN FOR NEVADA
+contribution-receipt-amount: 100
+contribution-receipt-date: 2022-09-16 00:00:00
+contributor-aggregate-ytd: 300
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: BARBARA
+contributor-last-name: CLOSE
+contributor-name: CLOSE, BARBARA
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 79 GILEAD RD
+contributor-zip: 062321608
+election-type: P2024
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2024
+file-number: 1709068
+filing-form: F3
+image-number: 202306289582411260
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4062820231752618000
+load-date: 2023-06-30 04:07:01
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202306289582411280
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: S
+report-type: Q3
+report-year: 2022
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4062920231752734700
+tags: Donation
+title: Donation/202306289582411260
+transaction-id: 5275945
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

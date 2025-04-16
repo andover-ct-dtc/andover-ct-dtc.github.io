@@ -1,0 +1,48 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+back-reference-schedule-name: SA11AI
+back-reference-transaction-id: VTE4YVBCC99E
+committee-id: C00167320
+committee-name: CONNECTICUT DEMOCRATIC STATE CENTRAL COMMITTEE
+contribution-receipt-amount: 25
+contribution-receipt-date: 2018-09-19 00:00:00
+contributor-aggregate-ytd: 225
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: SUSAN
+contributor-id: C00401224
+contributor-last-name: FREIMUTH
+contributor-name: FREIMUTH, SUSAN
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 75 BURNAP BROOK RD
+contributor-zip: 062321205
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1334538
+filing-form: F3X
+image-number: 201906189150088400
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4061820191658164700
+load-date: 2019-06-21 03:44:51.564
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201906189150088383
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: U
+recipient-committee-type: Y
+report-type: M10
+report-year: 2018
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4062020191658301000
+tags: Donation
+title: Donation/201906189150088400
+transaction-id: VTE4YVBCC99
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

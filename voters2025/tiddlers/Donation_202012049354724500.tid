@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 25
+contribution-receipt-date: 2020-11-13 00:00:00
+contributor-aggregate-ytd: 25
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: NATALIE
+contributor-last-name: GRIFFIN
+contributor-name: GRIFFIN, NATALIE
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 29 STANLEY DRIVE
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1481637
+filing-form: F3X
+image-number: 202012049354724500
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4120520201964455000
+load-date: 2021-01-05 18:44:35.381
+memo-text: EARMARKED FOR DEMOCRATIC ACTION (C00562983)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202012049354724515
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: 30G
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4010420212009550000
+tags: Donation
+title: Donation/202012049354724500
+transaction-id: SA11AI_350999179
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

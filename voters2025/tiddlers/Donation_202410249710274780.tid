@@ -1,0 +1,49 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA11AI
+back-reference-transaction-id: 36588959E
+committee-id: C00264697
+committee-name: FRIENDS OF SHERROD BROWN
+contribution-receipt-amount: 50
+contribution-receipt-date: 2024-10-12 00:00:00
+contributor-aggregate-ytd: 400
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: MARIA
+contributor-id: C00401224
+contributor-last-name: TULMAN
+contributor-name: TULMAN, MARIA
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 139 HEBRON RD
+contributor-zip: 062321505
+election-type: G2024
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2024
+file-number: 1838517
+filing-form: F3
+image-number: 202410249710274780
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4102420242081239000
+load-date: 2024-11-23 03:06:01
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202410249710274799
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: S
+report-type: 12G
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4112220241072784400
+tags: Donation
+title: Donation/202410249710274780
+transaction-id: 36588959
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

@@ -1,0 +1,48 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA18
+back-reference-transaction-id: 20397321
+committee-id: C00703975
+committee-name: HARRIS FOR PRESIDENT
+contribution-receipt-amount: 25
+contribution-receipt-date: 2024-08-25 00:00:00
+contributor-aggregate-ytd: 265
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: SHEILA
+contributor-last-name: KEARNEY
+contributor-name: KEARNEY, SHEILA
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 68 PINE RIDGE DR
+contributor-zip: 062321029
+election-type: G2024
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2024
+file-number: 1817925
+filing-form: F3P
+image-number: 202409209683997900
+is-individual: t
+line-number: 18
+line-number-label: Transfers From Other Authorized Committees
+link-id: 4092120242041247000
+load-date: 2024-10-02 05:50:42
+memo-code: X
+memo-text: * HARRIS VICTORY FUND
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202409209683997879
+receipt-type: 15J
+receipt-type-desc: MEMO (FILER'S % OF CONTRIBUTION GIVEN TO JOIN
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: M9
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4100120242068764000
+tags: Donation
+title: Donation/202409209683997900
+transaction-id: 24660158
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

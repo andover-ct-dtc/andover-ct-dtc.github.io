@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 10
+contribution-receipt-date: 2018-06-27 00:00:00
+contributor-aggregate-ytd: 10
+contributor-city: ANDOVER
+contributor-employer: AETNA
+contributor-first-name: SUSAN
+contributor-last-name: FREIMUTH
+contributor-name: FREIMUTH, SUSAN
+contributor-occupation: MANAGER
+contributor-state: CT
+contributor-street-1: 75 BURNAP BROOK RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1251343
+filing-form: F3X
+image-number: 201807209116519740
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4072120181576530000
+load-date: 2018-08-01 03:41:55.129
+memo-text: EARMARKED FOR FRIENDS OF CHRIS MURPHY (C00492645)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201807209116519729
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M7
+report-year: 2018
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4073120181579027500
+tags: Donation
+title: Donation/201807209116519740
+transaction-id: SA11AI_115772335
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

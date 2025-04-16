@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 5
+contribution-receipt-date: 2018-05-20 00:00:00
+contributor-aggregate-ytd: 30
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: CHARLES
+contributor-last-name: WILCOX
+contributor-name: WILCOX, CHARLES
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 11 ROSE LANE
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1240253
+filing-form: F3X
+image-number: 201806219114665250
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4062120181570952000
+load-date: 2018-06-28 03:50:26.36
+memo-text: EARMARKED FOR ROSEN FOR NEVADA (C00606939)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201806219114665254
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M6
+report-year: 2018
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4062720181575050000
+tags: Donation
+title: Donation/201806219114665250
+transaction-id: SA11AI_111371268
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

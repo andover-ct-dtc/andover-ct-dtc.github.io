@@ -1,0 +1,50 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA11AI
+back-reference-transaction-id: 2990765E
+committee-id: C00736876
+committee-name: WARNOCK FOR GEORGIA
+contribution-receipt-amount: 150
+contribution-receipt-date: 2020-11-12 00:00:00
+contributor-aggregate-ytd: 730
+contributor-city: ANDOVER
+contributor-employer: VOYA
+contributor-first-name: CATHERINE
+contributor-id: C00401224
+contributor-last-name: GALE
+contributor-name: GALE, CATHERINE
+contributor-occupation: IT BUSINESS ANALYST
+contributor-state: CT
+contributor-street-1: 45 BIRCH DR
+contributor-zip: 062321203
+election-type: S2020
+election-type-full: RUN-OFF SPECIAL
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: SPECIAL
+fec-election-year: 2020
+file-number: 1607692
+filing-form: F3
+image-number: 202207089517973220
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4070820221539573000
+load-date: 2022-08-04 03:50:25.371
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202207089517973206
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: S
+report-type: 12S
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4080320221554342400
+tags: Donation
+title: Donation/202207089517973220
+transaction-id: 2990765
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

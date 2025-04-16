@@ -1,0 +1,40 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 75
+contribution-receipt-date: 2020-04-19 00:00:00
+contributor-aggregate-ytd: 125
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: MARGARET
+contributor-last-name: HOHENGARTEN
+contributor-name: HOHENGARTEN, MARGARET
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: PO BOX 236
+contributor-zip: 062320236
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1487725
+filing-form: F3X
+image-number: 202101149400257060
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4012020212093836300
+load-date: 2021-02-18 09:03:17.321
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202101149400257044
+receipt-type-full: EARMARKED FOR DONALD J. TRUMP FOR PRESIDENT, INC. (C00580100)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: Q2
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4021720211150870000
+tags: Donation
+title: Donation/202101149400257060
+transaction-id: A44A278E44AE6464B929
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

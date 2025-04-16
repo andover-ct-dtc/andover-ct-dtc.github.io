@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 100
+contribution-receipt-date: 2024-08-22 00:00:00
+contributor-aggregate-ytd: 100
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: CONNIE
+contributor-last-name: STANLEY
+contributor-name: STANLEY, CONNIE
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 200 LONG HILL RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1817884
+filing-form: F3X
+image-number: 202409209679442600
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4092120242041246000
+load-date: 2024-10-02 05:32:27
+memo-text: EARMARKED FOR HARRIS FOR PRESIDENT (C00703975)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202409209679442597
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: M9
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4100120242061572600
+tags: Donation
+title: Donation/202409209679442600
+transaction-id: SA11AI_625495139
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

@@ -1,0 +1,46 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00118943
+committee-name: MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY POLITICAL ACTION COMMITTEE
+contribution-receipt-amount: 15.4
+contribution-receipt-date: 2016-12-31 00:00:00
+contributor-aggregate-ytd: 200.2
+contributor-city: ANDOVER
+contributor-employer: MASSACHUSETTS MUTUAL LIFE INS.
+contributor-first-name: HEIDI
+contributor-last-name: XENOPHONTOS
+contributor-name: XENOPHONTOS, HEIDI MS.
+contributor-occupation: ACTUARIAL DIRECTOR
+contributor-prefix: MS.
+contributor-state: CT
+contributor-street-1: 34 OLD FARMS RD
+contributor-zip: 062321028
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1146678
+filing-form: F3X
+image-number: 201701319042399500
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4020120171369205000
+load-date: 2017-05-31 13:27:14.31838
+memo-text: P/R DEDUCTION ($7.70 BI-WEEKLY)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201701319042399481
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: B
+recipient-committee-org-type: W
+recipient-committee-type: Q
+report-type: YE
+report-year: 2016
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4020820171370014700
+tags: Donation
+title: Donation/201701319042399500
+transaction-id: PR1596855352865
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

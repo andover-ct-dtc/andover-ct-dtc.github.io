@@ -1,0 +1,42 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00492645
+committee-name: FRIENDS OF CHRIS MURPHY
+contribution-receipt-amount: 200
+contribution-receipt-date: 2024-06-21 00:00:00
+contributor-aggregate-ytd: 400
+contributor-city: ANDOVER
+contributor-first-name: PATRICIA
+contributor-last-name: MORIARTY
+contributor-name: MORIARTY, PATRICIA
+contributor-state: CT
+contributor-street-1: 43 PARKER BRIDGE RD
+contributor-zip: 062321330
+election-type: G2024
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2024
+file-number: 1799198
+filing-form: F3
+image-number: 202407159653419520
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4071520241972990500
+load-date: 2024-07-24 04:06:31
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202407159653419534
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: S
+report-type: Q2
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4072320241978526700
+tags: Donation
+title: Donation/202407159653419520
+transaction-id: 19488379
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

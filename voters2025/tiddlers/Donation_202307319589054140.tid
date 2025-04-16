@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 10
+contribution-receipt-date: 2023-05-22 00:00:00
+contributor-aggregate-ytd: 10
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: THOMAS
+contributor-last-name: ANDERSON
+contributor-name: ANDERSON, THOMAS
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 34 WHEELING ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1720554
+filing-form: F3X
+image-number: 202307319589054140
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4080120231758587400
+load-date: 2023-08-11 10:36:24
+memo-text: EARMARKED FOR SCHIFF FOR CONGRESS (C00343871)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202307319589054154
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: MY
+report-year: 2023
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4081020231765311500
+tags: Donation
+title: Donation/202307319589054140
+transaction-id: SA11AI_529773339
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

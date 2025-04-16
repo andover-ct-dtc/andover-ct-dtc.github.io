@@ -1,0 +1,39 @@
+created: 20250415220920692
+modified: 20250416021050478
+tags: $:/tags/ViewTemplate
+title: $:/_/avl/templates/Donation
+type: text/vnd.tiddlywiki
+
+<% if [<currentTiddler>tag[Donation]] %>
+<$let 
+  voter={{{ [tag[Voter]] :filter[get[first-name]uppercase[]match{!!contributor-first-name}] :filter[get[last-name]uppercase[]match{!!contributor-last-name}] }}}
+>
+
+; Transaction Id
+: {{!!transaction-id}}
+
+; Date
+: <$text text= {{{ [{!!contribution-receipt-date}search-replace:g:regexp[\D],[]addsuffix[000]format:date[MMM DD, YYYY]] }}} />
+
+; From
+: <% if [<voter>!match[]] %>
+    <$link to=<<voter>> >{{!!contributor-first-name}} {{!!contributor-last-name}} </$link>
+  <% else %>
+    {{!!contributor-first-name}} {{!!contributor-last-name}}
+<% endif %>
+
+
+; To
+: {{!!committee-name}}
+
+<% if [{!!memo-text}] %>
+
+; Memo
+: {{!!memo-text}}
+<% endif %>
+
+; Amount
+: $<$text text = {{{ [{!!contribution-receipt-amount}fixed[2]] }}} />
+
+</$let>
+<% endif %>

@@ -1,0 +1,42 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA11AI
+back-reference-transaction-id: 12059465E
+committee-id: C00744946
+committee-name: HARRIS VICTORY FUND
+contribution-receipt-amount: 150
+contribution-receipt-date: 2024-07-22 00:00:00
+contributor-aggregate-ytd: 150
+contributor-city: ANDOVER
+contributor-employer: HSB
+contributor-first-name: NATHAN
+contributor-last-name: LALLY
+contributor-name: LALLY, NATHAN
+contributor-occupation: DATA SCIENCE
+contributor-state: CT
+contributor-street-1: 281 GILEAD RD
+contributor-zip: 062321605
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1827767
+filing-form: F3X
+image-number: 202410159687208540
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4101620242069881000
+load-date: 2024-10-19 04:06:22
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202410159687208547
+recipient-committee-designation: J
+recipient-committee-type: N
+report-type: Q3
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4101820242072087000
+tags: Donation
+title: Donation/202410159687208540
+transaction-id: 12059465
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

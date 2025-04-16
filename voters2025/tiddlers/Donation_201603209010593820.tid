@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 2.5
+contribution-receipt-date: 2016-02-08 00:00:00
+contributor-aggregate-ytd: 7
+contributor-city: ANDOVER
+contributor-employer: CT REGIONAL SCHOOL DISTRICT #8
+contributor-first-name: MARIA
+contributor-last-name: TULMAN
+contributor-name: TULMAN, MARIA
+contributor-occupation: TEACHING ASSISTANT
+contributor-state: CT
+contributor-street-1: 139 HEBRON RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1056917
+filing-form: F3X
+image-number: 201603209010593820
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4032120161276542000
+load-date: 2017-05-31 13:27:14.31838
+memo-text: CONTRIBUTION TO ACTBLUE
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201603209010593822
+receipt-type-full: CONTRIBUTION TO ACT BLUE
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M3
+report-year: 2016
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4032920161281373700
+tags: Donation
+title: Donation/201603209010593820
+transaction-id: SA11AI_38265177
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

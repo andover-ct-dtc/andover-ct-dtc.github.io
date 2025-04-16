@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 10
+contribution-receipt-date: 2016-01-29 00:00:00
+contributor-aggregate-ytd: 10
+contributor-city: EASTFORD
+contributor-employer: WHOLE FOODS MARKET
+contributor-first-name: MARTHA
+contributor-last-name: CASAVANT
+contributor-name: CASAVANT, MARTHA
+contributor-occupation: TEAM MEMBER
+contributor-state: CT
+contributor-street-1: 457 JONES STREET
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1051660
+filing-form: F3X
+image-number: 201602219008748960
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4022220161272587300
+load-date: 2017-05-31 13:27:14.31838
+memo-text: EARMARKED FOR BERNIE 2016 (C00577130)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201602219008748950
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M2
+report-year: 2016
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4030120161273426000
+tags: Donation
+title: Donation/201602219008748960
+transaction-id: SA11AI_37232179
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

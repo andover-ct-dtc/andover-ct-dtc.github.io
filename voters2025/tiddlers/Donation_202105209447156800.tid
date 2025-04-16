@@ -1,0 +1,46 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00580100
+committee-name: DONALD J. TRUMP FOR PRESIDENT, INC.
+contribution-receipt-amount: 38
+contribution-receipt-date: 2020-10-30 00:00:00
+contributor-aggregate-ytd: 38
+contributor-city: ANDOVER
+contributor-employer: INFORMATION REQUESTED
+contributor-first-name: DONALD
+contributor-last-name: DENLEY
+contributor-middle-name: F
+contributor-name: DENLEY, DONALD F JR
+contributor-occupation: INFORMATION REQUESTED
+contributor-state: CT
+contributor-street-1: 89 LAKESIDE DR
+contributor-suffix: JR
+contributor-zip: 06232
+election-type: G2020
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2020
+file-number: 1517562
+filing-form: F3P
+image-number: 202105209447156800
+is-individual: t
+line-number: 18
+line-number-label: Transfers From Other Authorized Committees
+link-id: 4052120211296779000
+load-date: 2021-05-28 05:03:39.428
+memo-code: X
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202105209447156808
+receipt-type-full: JFC TRANSFER: TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE [SA18.8126]
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: YE
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4052820211297819000
+tags: Donation
+title: Donation/202105209447156800
+transaction-id: SA18.285357
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

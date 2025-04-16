@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 0.3
+contribution-receipt-date: 2018-07-31 00:00:00
+contributor-aggregate-ytd: 3.9
+contributor-city: ANDOVER
+contributor-employer: NONE
+contributor-first-name: EDWIN
+contributor-last-name: CRANDALL
+contributor-name: CRANDALL, EDWIN
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 94 WALES ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1258193
+filing-form: F3X
+image-number: 201808209120178000
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4082120181584928000
+load-date: 2018-08-29 03:29:57.555
+memo-text: CONTRIBUTION TO ACTBLUE
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201808209120177997
+receipt-type-full: CONTRIBUTION TO ACT BLUE
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M8
+report-year: 2018
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4082820181587004000
+tags: Donation
+title: Donation/201808209120178000
+transaction-id: SA11AI_119769502
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

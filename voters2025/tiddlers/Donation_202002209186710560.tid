@@ -1,0 +1,49 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA17A
+back-reference-transaction-id: 15778428E
+committee-id: C00696948
+committee-name: BERNIE 2020
+contribution-receipt-amount: 27
+contribution-receipt-date: 2020-01-13 00:00:00
+contributor-aggregate-ytd: 620.4
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: JULIA
+contributor-id: C00401224
+contributor-last-name: HAVERL
+contributor-name: HAVERL, JULIA
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 172 LONG HILL RD
+contributor-zip: 062321124
+election-type: P2020
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2020
+file-number: 1384482
+filing-form: F3P
+image-number: 202002209186710560
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4022020201693209000
+load-date: 2020-03-05 13:25:08.113
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?202002209186710547
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: M2
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4030420201700727300
+tags: Donation
+title: Donation/202002209186710560
+transaction-id: 15778428
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

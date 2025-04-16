@@ -1,0 +1,7 @@
+created: 20250413233746179
+modified: 20250416023220334
+tags: TableOfContents
+title: Donation
+type: text/vnd.tiddlywiki
+
+<ul><$list filter="[tag[Donation]!has[draft.of]]"><li><$transclude tiddler="$:/_/avl/templates/donation/full" /></li></$list></ul>

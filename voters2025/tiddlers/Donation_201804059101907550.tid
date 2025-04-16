@@ -1,0 +1,41 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 10
+contribution-receipt-date: 2017-05-11 00:00:00
+contributor-aggregate-ytd: 60
+contributor-city: ANDOVER
+contributor-employer: REGIONAL SCHOOL DISTRICT #8, HEBRON, C
+contributor-first-name: MARIA
+contributor-last-name: TULMAN
+contributor-name: TULMAN, MARIA
+contributor-occupation: PARAPROFESSIONAL
+contributor-state: CT
+contributor-street-1: 139 HEBRON RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1217152
+filing-form: F3X
+image-number: 201804059101907550
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4040620181525702000
+load-date: 2018-05-09 06:40:37.493
+memo-text: EARMARKED FOR JON OSSOFF FOR CONGRESS (C00630426)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201804059101907538
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M6
+report-year: 2017
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4050820181544890000
+tags: Donation
+title: Donation/201804059101907550
+transaction-id: SA11AI_80936892
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

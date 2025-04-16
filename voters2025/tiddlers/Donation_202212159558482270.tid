@@ -1,0 +1,40 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 20
+contribution-receipt-date: 2021-09-11 00:00:00
+contributor-aggregate-ytd: 60
+contributor-city: ANDOVER
+contributor-employer: ACOUSTICS, INC
+contributor-first-name: SCOTT
+contributor-last-name: KITCHIN
+contributor-name: KITCHIN, SCOTT
+contributor-occupation: DRYWALL FINISHER
+contributor-state: CT
+contributor-street-1: 36 BEAR SWAMP RD
+contributor-zip: 062321102
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1672706
+filing-form: F3X
+image-number: 202212159558482270
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4121520221636605000
+load-date: 2023-01-11 12:25:01
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202212159558482268
+receipt-type-full: EARMARKED FOR AMERICANS FOR PARNELL COMMITTEE (C00724914)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: YE
+report-year: 2021
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4011020231669713400
+tags: Donation
+title: Donation/202212159558482270
+transaction-id: AEDD533EB66F34553941
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

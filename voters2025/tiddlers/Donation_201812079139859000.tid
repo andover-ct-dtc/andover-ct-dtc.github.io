@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 50
+contribution-receipt-date: 2018-11-04 00:00:00
+contributor-aggregate-ytd: 150
+contributor-city: ANDOVER
+contributor-employer: SELF
+contributor-first-name: KENNETH
+contributor-last-name: MARCIA
+contributor-name: MARCIA, KENNETH
+contributor-occupation: REAL ESTATE
+contributor-state: CT
+contributor-street-1: 17 LAKESIDE
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1300352
+filing-form: F3X
+image-number: 201812079139859000
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4120920181620675000
+load-date: 2019-01-08 14:13:47.276
+memo-text: EARMARKED FOR DEMOCRATIC NATIONAL COMMITTEE (C00010603)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201812079139858994
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: 30G
+report-year: 2018
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4010720191629635000
+tags: Donation
+title: Donation/201812079139859000
+transaction-id: SA11AI_139501182
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

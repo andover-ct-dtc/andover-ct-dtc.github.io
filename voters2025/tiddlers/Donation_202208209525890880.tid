@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 10
+contribution-receipt-date: 2022-07-27 00:00:00
+contributor-aggregate-ytd: 20
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: EDWARD
+contributor-last-name: BOSK
+contributor-name: BOSK, EDWARD
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 5 WOODSIDE LN
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1626598
+filing-form: F3X
+image-number: 202208209525890880
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4082420221565996000
+load-date: 2022-09-07 03:42:38.197
+memo-text: EARMARKED FOR MIKIE SHERRILL FOR CONGRESS (C00640003)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202208209525890865
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: M8
+report-year: 2022
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4090620221568425000
+tags: Donation
+title: Donation/202208209525890880
+transaction-id: SA11AI_468210183
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

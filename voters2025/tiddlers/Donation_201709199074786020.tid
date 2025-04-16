@@ -1,0 +1,46 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00003418
+committee-name: REPUBLICAN NATIONAL COMMITTEE
+contribution-receipt-amount: 35
+contribution-receipt-date: 2017-07-21 00:00:00
+contributor-aggregate-ytd: 215
+contributor-city: ANDOVER
+contributor-employer: SELF-EMPLOYED
+contributor-first-name: ROBERT
+contributor-last-name: MANGILLO
+contributor-middle-name: A.
+contributor-name: MANGILLO, ROBERT A. MR.
+contributor-occupation: VOCATIONAL EDUCATOR
+contributor-prefix: MR.
+contributor-state: CT
+contributor-street-1: 136 WALES RD.
+contributor-zip: 062321220
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1182534
+filing-form: F3X
+image-number: 201709199074786020
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4091920171455667700
+load-date: 2017-09-20 05:35:24.351
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201709199074786016
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+receipt-type-full: CONTRIBUTION
+recipient-committee-designation: U
+recipient-committee-type: Y
+report-type: M8
+report-year: 2017
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4091920171455784000
+tags: Donation
+title: Donation/201709199074786020
+transaction-id: SA11A.72281552
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

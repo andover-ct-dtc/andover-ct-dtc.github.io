@@ -1,0 +1,46 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA11AI
+back-reference-transaction-id: 17248988E
+committee-id: C00492645
+committee-name: FRIENDS OF CHRIS MURPHY
+contribution-receipt-amount: 10
+contribution-receipt-date: 2023-11-30 00:00:00
+contributor-aggregate-ytd: 195
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: MARIA
+contributor-last-name: TULMAN
+contributor-name: TULMAN, MARIA
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 139 HEBRON RD
+contributor-zip: 062321505
+election-type: C2024
+election-type-full: CONVENTION
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: CONVENTION
+fec-election-year: 2024
+file-number: 1751545
+filing-form: F3
+image-number: 202401319607809020
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4013120241817772500
+load-date: 2024-02-10 03:06:14
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202401319607809021
+recipient-committee-designation: P
+recipient-committee-type: S
+report-type: YE
+report-year: 2023
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4020920241824015400
+tags: Donation
+title: Donation/202401319607809020
+transaction-id: 17248988
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

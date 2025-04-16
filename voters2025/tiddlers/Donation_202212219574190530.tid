@@ -1,0 +1,45 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00666040
+committee-name: MCSALLY PAC
+contribution-receipt-amount: 50
+contribution-receipt-date: 2021-03-15 00:00:00
+contributor-aggregate-ytd: 250
+contributor-city: ANDOVER
+contributor-first-name: WILLIAM
+contributor-last-name: LARSON
+contributor-middle-name: J.
+contributor-name: LARSON, WILLIAM J. MR.
+contributor-prefix: MR.
+contributor-state: CT
+contributor-street-1: 278 LAKE RD
+contributor-zip: 062321709
+election-type: G2020
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2020
+file-number: 1673118
+filing-form: F3
+image-number: 202212219574190530
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4122120221644617000
+load-date: 2023-01-18 06:21:32
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202212219574190539
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+receipt-type-full: CONTRIBUTION
+recipient-committee-designation: U
+recipient-committee-type: N
+report-type: Q1
+report-year: 2021
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4011720231698394600
+tags: Donation
+title: Donation/202212219574190530
+transaction-id: SA11A.2062005
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

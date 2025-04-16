@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 5
+contribution-receipt-date: 2019-07-31 00:00:00
+contributor-aggregate-ytd: 15
+contributor-city: ANDOVER
+contributor-employer: HEIRLOOM RESTAURANT GROUP
+contributor-first-name: LAUREL
+contributor-last-name: TEIXEIRA
+contributor-name: TEIXEIRA, LAUREL
+contributor-occupation: GENERAL MANAGER
+contributor-state: CT
+contributor-street-1: 96 MERRITT VALLEY RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1378435
+filing-form: F3X
+image-number: 202001299174744030
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4020120201686383000
+load-date: 2020-03-05 00:43:41.611
+memo-text: EARMARKED FOR KAMALA HARRIS FOR THE PEOPLE (C00694455)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?202001299174744025
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: YE
+report-year: 2019
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4030220201236680700
+tags: Donation
+title: Donation/202001299174744030
+transaction-id: SA11AI_169277200
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

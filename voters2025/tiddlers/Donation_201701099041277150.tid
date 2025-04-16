@@ -1,0 +1,44 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00575795
+committee-name: HILLARY FOR AMERICA
+contribution-receipt-amount: 50
+contribution-receipt-date: 2016-10-12 00:00:00
+contributor-aggregate-ytd: 226
+contributor-city: ANDOVER
+contributor-employer: SELF-EMPLOYED
+contributor-first-name: PATRICIA
+contributor-last-name: CHRISTIANA
+contributor-name: CHRISTIANA, PATRICIA
+contributor-occupation: PSYCHOLOGIST
+contributor-state: CT
+contributor-street-1: 23 CHESTERBROOK LN
+contributor-zip: 062321037
+election-type: G2016
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2016
+file-number: 1137788
+filing-form: F3P
+image-number: 201701099041277150
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4010920171359608000
+load-date: 2017-05-31 13:27:14.31838
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201701099041277157
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: 12G
+report-year: 2016
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4011120171366565000
+tags: Donation
+title: Donation/201701099041277150
+transaction-id: C12814816
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

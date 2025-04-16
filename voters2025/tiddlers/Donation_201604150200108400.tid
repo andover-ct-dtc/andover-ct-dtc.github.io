@@ -1,0 +1,44 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00464297
+committee-name: FRIENDS OF KELLY AYOTTE INC
+contribution-receipt-amount: 90
+contribution-receipt-date: 2016-02-04 00:00:00
+contributor-aggregate-ytd: 215
+contributor-city: ANDOVER
+contributor-employer: GDEB
+contributor-first-name: WILLIAM
+contributor-last-name: LARSON
+contributor-middle-name: J
+contributor-name: LARSON, WILLIAM J
+contributor-occupation: ENGINEER
+contributor-state: CT
+contributor-street-1: 278 LAKE ROAD
+contributor-zip: 062321709
+election-type: P
+election-type-full: PRIMARY
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1066846
+filing-form: F3
+image-number: 201604150200108400
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 1041820160018608100
+load-date: 2017-05-31 13:27:14.31838
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201604150200108425
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: S
+report-type: Q1
+report-year: 2016
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 2042920161284578600
+tags: Donation
+title: Donation/201604150200108400
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

@@ -1,0 +1,44 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00492645
+committee-name: FRIENDS OF CHRIS MURPHY
+contribution-receipt-amount: 50
+contribution-receipt-date: 2018-08-27 00:00:00
+contributor-aggregate-ytd: 300
+contributor-city: ANDOVER
+contributor-employer: ROBINSON & COLE, LLP
+contributor-first-name: LINDA
+contributor-last-name: MCDOWELL
+contributor-name: MCDOWELL, LINDA
+contributor-occupation: COUNSEL
+contributor-state: CT
+contributor-street-1: 35 OLD FARMS RD
+contributor-zip: 062321027
+election-type: G2018
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2018
+file-number: 1268827
+filing-form: F3
+image-number: 201810129124529540
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4101220181599201300
+load-date: 2018-10-16 04:15:23.499
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201810129124529533
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: S
+report-type: Q3
+report-year: 2018
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4101520181599408600
+tags: Donation
+title: Donation/201810129124529540
+transaction-id: VTRAAFFP7C7
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

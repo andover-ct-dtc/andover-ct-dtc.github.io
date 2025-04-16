@@ -1,0 +1,43 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00341396
+committee-name: MOVEON.ORG POLITICAL ACTION
+contribution-receipt-amount: 50
+contribution-receipt-date: 2020-11-17 00:00:00
+contributor-aggregate-ytd: 220
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: ALICIA
+contributor-last-name: WILLETT
+contributor-name: WILLETT, ALICIA
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 316 LAKE RD
+contributor-zip: 062321511
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1508394
+filing-form: F3X
+image-number: 202104079443120000
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4040720211276535300
+load-date: 2021-04-10 04:26:58.932
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202104079443120014
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: 30G
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4041020211276841500
+tags: Donation
+title: Donation/202104079443120000
+transaction-id: 3782090
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

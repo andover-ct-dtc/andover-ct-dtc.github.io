@@ -1,0 +1,46 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00003418
+committee-name: REPUBLICAN NATIONAL COMMITTEE
+contribution-receipt-amount: 45
+contribution-receipt-date: 2016-12-27 00:00:00
+contributor-aggregate-ytd: 286
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: RUSSELL
+contributor-last-name: MULLER
+contributor-middle-name: J.
+contributor-name: MULLER, RUSSELL J. MR.
+contributor-occupation: RETIRED
+contributor-prefix: MR.
+contributor-state: CT
+contributor-street-1: P.O. BOX 267
+contributor-zip: 062320267
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1193422
+filing-form: F3X
+image-number: 201712089089140030
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4120820171484583400
+load-date: 2017-12-10 03:36:01.735
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201712089089140047
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+receipt-type-full: CONTRIBUTION
+recipient-committee-designation: U
+recipient-committee-type: Y
+report-type: YE
+report-year: 2016
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4120920171484634000
+tags: Donation
+title: Donation/201712089089140030
+transaction-id: SA11A.70702401
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

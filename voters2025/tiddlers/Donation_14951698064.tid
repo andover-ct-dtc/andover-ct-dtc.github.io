@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00248716
+committee-name: COMCAST CORPORATION & NBCUNIVERSAL POLITICAL ACTION COMMITTEE - FEDERAL
+contribution-receipt-amount: 16
+contribution-receipt-date: 2014-09-05 00:00:00
+contributor-aggregate-ytd: 304
+contributor-city: ANDOVER
+contributor-employer: COMCAST CABLE HOLDINGS, LLC
+contributor-first-name: JASON
+contributor-last-name: HALLA
+contributor-middle-name: J.
+contributor-name: HALLA, JASON J.
+contributor-occupation: MGR 2, ENGINEERING
+contributor-state: CT
+contributor-street-1: 219 RT 6
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 962239
+filing-form: F3X
+image-number: 14951698064
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4102020141226193000
+load-date: 2017-05-31 17:34:02.953375
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?14951698064
+recipient-committee-designation: B
+recipient-committee-org-type: C
+recipient-committee-type: Q
+report-type: M10
+report-year: 2014
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4111220141231023000
+tags: Donation
+title: Donation/14951698064
+transaction-id: 20140903-3000-6-37
+two-year-transaction-period: 2014
+type: text/vnd.tiddlywiki

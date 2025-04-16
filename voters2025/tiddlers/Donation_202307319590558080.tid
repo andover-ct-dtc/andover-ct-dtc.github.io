@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 5
+contribution-receipt-date: 2023-04-25 00:00:00
+contributor-aggregate-ytd: 5
+contributor-city: ANDOVER
+contributor-employer: CINTAS
+contributor-first-name: SIOBHAN
+contributor-last-name: HENNESSY
+contributor-name: HENNESSY, SIOBHAN
+contributor-occupation: MANAGER
+contributor-state: CT
+contributor-street-1: 83 HEBRON RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1720554
+filing-form: F3X
+image-number: 202307319590558080
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4080120231758587400
+load-date: 2023-08-11 11:01:29
+memo-text: EARMARKED FOR DSCC (C00042366)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202307319590558065
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: MY
+report-year: 2023
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4081020231772369400
+tags: Donation
+title: Donation/202307319590558080
+transaction-id: SA11AI_526469189
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

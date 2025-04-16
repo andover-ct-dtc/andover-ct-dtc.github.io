@@ -1,0 +1,44 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00580100
+committee-name: DONALD J. TRUMP FOR PRESIDENT, INC.
+contribution-receipt-amount: -25
+contribution-receipt-date: 2020-11-24 00:00:00
+contributor-aggregate-ytd: 50
+contributor-city: ANDOVER
+contributor-employer: THE ANDREW ANSALDI CO
+contributor-first-name: EINSIEDEL
+contributor-last-name: STEPHANIE
+contributor-name: STEPHANIE, EINSIEDEL
+contributor-occupation: PROPERTY MANAGER
+contributor-state: CT
+contributor-street-1: 173 LONG HILL RD
+contributor-zip: 06232
+election-type: G2020
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2020
+file-number: 1517562
+filing-form: F3P
+image-number: 202105209447125920
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4052120211296779000
+load-date: 2021-05-28 04:59:43.498
+memo-code: X
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202105209447125905
+receipt-type-full: REDESIGNATION TO RECOUNT - SEE LINE SA21
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: YE
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4052820211297725400
+tags: Donation
+title: Donation/202105209447125920
+transaction-id: SA17A.798026
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

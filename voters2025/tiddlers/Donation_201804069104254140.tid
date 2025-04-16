@@ -1,0 +1,41 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 28
+contribution-receipt-date: 2017-08-31 00:00:00
+contributor-aggregate-ytd: 112
+contributor-city: ANDOVER
+contributor-employer: SELF
+contributor-first-name: TODD
+contributor-last-name: ELLER
+contributor-name: ELLER, TODD
+contributor-occupation: DELIVERIES
+contributor-state: CT
+contributor-street-1: 92 MERRITT VALLEY ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1217404
+filing-form: F3X
+image-number: 201804069104254140
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4041020181525732000
+load-date: 2018-05-11 08:51:23.237
+memo-text: EARMARKED FOR DSCC (C00042366)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201804069104254146
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M9
+report-year: 2017
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4051020181551022600
+tags: Donation
+title: Donation/201804069104254140
+transaction-id: SA11AI_89957806
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

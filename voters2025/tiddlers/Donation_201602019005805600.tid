@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 0.4
+contribution-receipt-date: 2015-11-28 00:00:00
+contributor-aggregate-ytd: 8.4
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: JOAN
+contributor-last-name: FORAN
+contributor-name: FORAN, JOAN
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 143 HEBRON ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1047732
+filing-form: F3X
+image-number: 201602019005805600
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4020320161261468000
+load-date: 2017-05-31 13:27:14.31838
+memo-text: CONTRIBUTION TO ACTBLUE
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201602019005805610
+receipt-type-full: CONTRIBUTION TO ACT BLUE
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: YE
+report-year: 2015
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4021620161264468000
+tags: Donation
+title: Donation/201602019005805600
+transaction-id: SA11AI_33494529
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

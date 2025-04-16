@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 1
+contribution-receipt-date: 2018-07-22 00:00:00
+contributor-aggregate-ytd: 4
+contributor-city: ANDOVER
+contributor-employer: NATURES CLASSROOM
+contributor-first-name: EMMA
+contributor-last-name: LEIGH
+contributor-name: LEIGH, EMMA
+contributor-occupation: TEACHER
+contributor-state: CT
+contributor-street-1: 73 TIMES FARM ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1258193
+filing-form: F3X
+image-number: 201808209120426270
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4082120181584928000
+load-date: 2018-08-29 03:03:24.384
+memo-text: CONTRIBUTION TO ACTBLUE
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201808209120426286
+receipt-type-full: CONTRIBUTION TO ACT BLUE
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M8
+report-year: 2018
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4082820181588491300
+tags: Donation
+title: Donation/201808209120426270
+transaction-id: SA11AI_118551806
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

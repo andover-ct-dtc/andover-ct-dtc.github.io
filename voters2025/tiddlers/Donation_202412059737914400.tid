@@ -1,0 +1,48 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA18
+back-reference-transaction-id: SA18.140980454
+committee-id: C00828541
+committee-name: NEVER SURRENDER, INC.
+contribution-receipt-amount: 50
+contribution-receipt-date: 2024-08-02 00:00:00
+contributor-aggregate-ytd: 287.3
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: MICHAEL
+contributor-last-name: EMERLING
+contributor-name: EMERLING, MICHAEL
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 50 LAKESIDE DR
+contributor-zip: 06232
+election-type: G2024
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2024
+file-number: 1858277
+filing-form: F3P
+image-number: 202412059737914400
+is-individual: t
+line-number: 18
+line-number-label: Transfers From Other Authorized Committees
+link-id: 4120620241074933000
+load-date: 2025-01-29 03:06:12
+memo-code: X
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202412059737914388
+receipt-type: 15J
+receipt-type-desc: MEMO (FILER'S % OF CONTRIBUTION GIVEN TO JOIN
+receipt-type-full: JFC TRANSFER: TRUMP SAVE AMERICA JOINT FUNDRAISING COMMITTEE
+recipient-committee-designation: D
+recipient-committee-type: N
+report-type: 30G
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4012820251137089500
+tags: Donation
+title: Donation/202412059737914400
+transaction-id: SA18.145706735
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

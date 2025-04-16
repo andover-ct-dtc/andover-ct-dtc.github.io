@@ -1,0 +1,44 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00696948
+committee-name: BERNIE 2020
+contribution-receipt-amount: 100
+contribution-receipt-date: 2019-12-31 00:00:00
+contributor-aggregate-ytd: 280
+contributor-city: ANDOVER
+contributor-employer: PARAPROFESSIONAL
+contributor-first-name: MARIA
+contributor-last-name: TULMAN
+contributor-name: TULMAN, MARIA
+contributor-occupation: REGIONAL SCHOOL DIST
+contributor-state: CT
+contributor-street-1: 139 HEBRON RD
+contributor-zip: 062321505
+election-type: P2020
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2020
+file-number: 1392261
+filing-form: F3P
+image-number: 202003309216358660
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4040120201718589000
+load-date: 2020-04-15 03:49:08.595
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?202003309216358656
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: YE
+report-year: 2019
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4041420201736665600
+tags: Donation
+title: Donation/202003309216358660
+transaction-id: 15435785
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

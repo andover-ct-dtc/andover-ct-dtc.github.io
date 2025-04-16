@@ -1,0 +1,46 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00482984
+committee-name: RON JOHNSON FOR SENATE, INC.
+contribution-receipt-amount: 75
+contribution-receipt-date: 2023-05-23 00:00:00
+contributor-aggregate-ytd: 275
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: JOSEPH
+contributor-last-name: POLAND
+contributor-name: POLAND, JOSEPH
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: PO BOX 330  300 LAKE RD
+contributor-zip: 062320330
+election-type: G2022
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2022
+file-number: 1734001
+filing-form: F3
+image-number: 202310309598895800
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4103020231807568000
+load-date: 2023-11-02 04:08:13
+memo-text: DEBT RETIREMENT
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202310309598895821
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+receipt-type-full: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: S
+report-type: Q2
+report-year: 2023
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4110120231808133000
+tags: Donation
+title: Donation/202310309598895800
+transaction-id: SA11A.914186
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

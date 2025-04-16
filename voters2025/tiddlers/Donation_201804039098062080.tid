@@ -1,0 +1,41 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 50
+contribution-receipt-date: 2017-02-18 00:00:00
+contributor-aggregate-ytd: 50
+contributor-city: ANDOVER
+contributor-employer: TRAVELERS
+contributor-first-name: ROBERT
+contributor-last-name: ENGLAND
+contributor-name: ENGLAND, ROBERT
+contributor-occupation: INSURANCE CLAIMS
+contributor-state: CT
+contributor-street-1: 45 GILEAD ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1216764
+filing-form: F3X
+image-number: 201804039098062080
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4040420181525671400
+load-date: 2018-05-01 02:51:08.976
+memo-text: EARMARKED FOR JON OSSOFF FOR CONGRESS (C00630426)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201804039098062094
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M3
+report-year: 2017
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4043020181531352600
+tags: Donation
+title: Donation/201804039098062080
+transaction-id: SA11AI_71750915
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

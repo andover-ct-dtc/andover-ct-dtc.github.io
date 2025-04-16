@@ -1,0 +1,49 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA17A
+back-reference-transaction-id: 27971337E
+committee-id: C00703975
+committee-name: HARRIS FOR PRESIDENT
+contribution-receipt-amount: 50
+contribution-receipt-date: 2024-10-12 00:00:00
+contributor-aggregate-ytd: 291.94
+contributor-city: ANDOVER
+contributor-employer: COMPUTER PROGRAMMER
+contributor-first-name: SHAWN
+contributor-id: C00401224
+contributor-last-name: KELLY
+contributor-name: KELLY, SHAWN
+contributor-occupation: TRAVELERS
+contributor-state: CT
+contributor-street-1: 57 LAKE RD
+contributor-zip: 062321546
+election-type: G2024
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2024
+file-number: 1841738
+filing-form: F3P
+image-number: 202410249713675870
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4102520242081502000
+load-date: 2024-10-31 04:05:58
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202410249713675881
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: 12G
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4103020241012227600
+tags: Donation
+title: Donation/202410249713675870
+transaction-id: 27971337
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

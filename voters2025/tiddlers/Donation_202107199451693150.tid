@@ -1,0 +1,46 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA11AI
+back-reference-transaction-id: 18738982E
+committee-id: C00573261
+committee-name: END CITIZENS UNITED
+contribution-receipt-amount: 25
+contribution-receipt-date: 2021-05-16 00:00:00
+contributor-aggregate-ytd: 225
+contributor-city: ANDOVER
+contributor-employer: NONE
+contributor-first-name: MARIA
+contributor-last-name: TULMAN
+contributor-name: TULMAN, MARIA
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 139 HEBRON RD
+contributor-zip: 062321505
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1528479
+filing-form: F3X
+image-number: 202107199451693150
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4072020211321090000
+load-date: 2021-07-29 05:02:10.484
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202107199451693160
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: U
+recipient-committee-type: Q
+report-type: M6
+report-year: 2021
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4072920211323256300
+tags: Donation
+title: Donation/202107199451693150
+transaction-id: 18738982
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

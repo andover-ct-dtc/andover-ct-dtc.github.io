@@ -1,0 +1,48 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA12
+back-reference-transaction-id: 5702191
+committee-id: C00492991
+committee-name: BLUMENTHAL FOR CONNECTICUT
+contribution-receipt-amount: 250
+contribution-receipt-date: 2022-04-30 00:00:00
+contributor-aggregate-ytd: 250
+contributor-city: ANDOVER
+contributor-employer: GENERAL DYNAMICS
+contributor-first-name: JUDY
+contributor-last-name: RUTHKO
+contributor-name: RUTHKO, JUDY
+contributor-occupation: ENGINEER
+contributor-state: CT
+contributor-street-1: 47 BURNAP BROOK RD
+contributor-zip: 062321205
+election-type: C2022
+election-type-full: CONVENTION
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: CONVENTION
+fec-election-year: 2022
+file-number: 1613698
+filing-form: F3
+image-number: 202207159521296130
+is-individual: t
+line-number: 12
+line-number-label: Transfers from authorized committees
+link-id: 4071520221540559000
+load-date: 2022-08-04 04:00:12.692
+memo-code: X
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202207159521296140
+receipt-type: 15J
+receipt-type-desc: MEMO (FILER'S % OF CONTRIBUTION GIVEN TO JOIN
+recipient-committee-designation: P
+recipient-committee-type: S
+report-type: Q2
+report-year: 2022
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4080320221553995000
+tags: Donation
+title: Donation/202207159521296130
+transaction-id: 5702344
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

@@ -1,0 +1,40 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 7.92
+contribution-receipt-date: 2024-05-29 00:00:00
+contributor-aggregate-ytd: 672.45
+contributor-city: ANDOVER
+contributor-employer: MYSTIC LOGISTICS
+contributor-first-name: DEBORAH
+contributor-last-name: CASSELLS
+contributor-name: CASSELLS, DEBORAH
+contributor-occupation: DISPATCHER
+contributor-state: CT
+contributor-street-1: 116 WHEELING RD
+contributor-zip: 062321113
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1800865
+filing-form: F3X
+image-number: 202407159655421250
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4071620241973493000
+load-date: 2024-08-01 07:37:15
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202407159655421251
+receipt-type-full: EARMARKED FOR TEAM ELISE (C00830679)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: Q2
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4073120241986610000
+tags: Donation
+title: Donation/202407159655421250
+transaction-id: A95F57A88D31B46D0ABA
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

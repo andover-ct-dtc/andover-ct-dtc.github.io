@@ -1,0 +1,48 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+candidate-id: S0AL00156
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 50
+contribution-receipt-date: 2018-09-12 00:00:00
+contributor-aggregate-ytd: 900
+contributor-city: ANDOVER
+contributor-employer: TRAVELERS INSURANCE
+contributor-first-name: SCOTT
+contributor-id: C00640623
+contributor-last-name: SAUYET
+contributor-name: SAUYET, SCOTT
+contributor-occupation: COMPUTER PROGRAMER
+contributor-state: CT
+contributor-street-1: 168 BOSTON HILL ROAD
+contributor-zip: 06232
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1277598
+filing-form: F3X
+image-number: 201810219129267100
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4102220181600355300
+load-date: 2018-10-31 14:11:20.156
+memo-text: EARMARKED FOR DOUG JONES FOR US SENATE (C00640623)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201810219129267119
+receipt-type: 24T
+receipt-type-desc: EARMARKED INTERMEDIARY TREASURY OUT
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M10
+report-year: 2018
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4103020181607012000
+tags: Donation
+title: Donation/201810219129267100
+transaction-id: SA11AI_125530157
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00640623

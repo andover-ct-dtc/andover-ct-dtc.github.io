@@ -1,0 +1,48 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+back-reference-schedule-name: SA11AI
+back-reference-transaction-id: 15057126E
+committee-id: C00492645
+committee-name: FRIENDS OF CHRIS MURPHY
+contribution-receipt-amount: 250
+contribution-receipt-date: 2023-03-26 00:00:00
+contributor-aggregate-ytd: 250
+contributor-city: ANDOVER
+contributor-employer: GENERAL DYNAMICS
+contributor-first-name: JUDY
+contributor-last-name: RUTHKO
+contributor-name: RUTHKO, JUDY
+contributor-occupation: ENGINEER
+contributor-state: CT
+contributor-street-1: 47 BURNAP BROOK RD
+contributor-zip: 062321205
+election-type: C2024
+election-type-full: CONVENTION
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: CONVENTION
+fec-election-year: 2024
+file-number: 1775147
+filing-form: F3
+image-number: 202404159632661730
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4041520241895747000
+load-date: 2024-05-31 04:06:37
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202404159632661736
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: S
+report-type: Q1
+report-year: 2023
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4053020241951397400
+tags: Donation
+title: Donation/202404159632661730
+transaction-id: 15057126
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

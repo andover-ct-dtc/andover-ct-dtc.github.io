@@ -1,0 +1,40 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 1.04
+contribution-receipt-date: 2024-12-12 00:00:00
+contributor-aggregate-ytd: 164.12
+contributor-city: ANDOVER
+contributor-employer: UNIVERSITY OF CONNECTICUT
+contributor-first-name: ALLISON
+contributor-last-name: WADDINGTON
+contributor-name: WADDINGTON, ALLISON
+contributor-occupation: SECRETARY
+contributor-state: CT
+contributor-street-1: 890 EAST ST
+contributor-zip: 062321416
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1872938
+filing-form: F3X
+image-number: 202501319751203740
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4013120251139346400
+load-date: 2025-02-14 03:06:12
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202501319751203749
+receipt-type-full: EARMARKED FOR TRUMP NATIONAL COMMITTEE JFC, INC. (C00873893)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: YE
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4021320251174317000
+tags: Donation
+title: Donation/202501319751203740
+transaction-id: ADE7FB03382A4421C92E
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

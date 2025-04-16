@@ -1,0 +1,40 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 100
+contribution-receipt-date: 2019-12-12 00:00:00
+contributor-aggregate-ytd: 100
+contributor-city: ANDOVER
+contributor-employer: LEGRAND
+contributor-first-name: WILLIAM
+contributor-last-name: DESROSIERS
+contributor-name: DESROSIERS, WILLIAM
+contributor-occupation: SALES
+contributor-state: CT
+contributor-street-1: 232 BEAR SWAMP RD
+contributor-zip: 062321122
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1485974
+filing-form: F3X
+image-number: 202101079395138780
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4011120212068200000
+load-date: 2021-02-10 12:31:14.701
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202101079395138771
+receipt-type-full: EARMARKED FOR DONALD J. TRUMP FOR PRESIDENT, INC. (C00580100)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: YE
+report-year: 2019
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4020920211126349000
+tags: Donation
+title: Donation/202101079395138780
+transaction-id: A33B62226D9D34F7C8AF
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

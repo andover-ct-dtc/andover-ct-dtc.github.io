@@ -1,0 +1,49 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+back-reference-schedule-name: SA17A
+back-reference-transaction-id: VPF7BNN7ZM8E
+committee-id: C00577130
+committee-name: BERNIE 2016
+contribution-receipt-amount: 50
+contribution-receipt-date: 2016-04-08 00:00:00
+contributor-aggregate-ytd: 223.7
+contributor-city: ANDOVER
+contributor-employer: TRINITY COLLEGE
+contributor-first-name: ANDREW
+contributor-id: C00401224
+contributor-last-name: WERTZ
+contributor-name: WERTZ, ANDREW
+contributor-occupation: COLLEGE PROFESSOR
+contributor-state: CT
+contributor-street-1: 84 BEAR SWAMP RD
+contributor-zip: 062321102
+election-type: P2016
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2016
+file-number: 1079445
+filing-form: F3P
+image-number: 201606209019053900
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4062820161300317700
+load-date: 2017-05-31 13:27:14.31838
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201606209019053878
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: M5
+report-year: 2016
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4063020161302534000
+tags: Donation
+title: Donation/201606209019053900
+transaction-id: VPF7BNN7ZM8
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

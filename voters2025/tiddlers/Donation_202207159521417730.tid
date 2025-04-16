@@ -1,0 +1,49 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA11AI
+back-reference-transaction-id: 22057415E
+committee-id: C00411330
+committee-name: FRIENDS OF BERNIE SANDERS
+contribution-receipt-amount: 7
+contribution-receipt-date: 2022-04-10 00:00:00
+contributor-aggregate-ytd: 300.1
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: JULIA
+contributor-id: C00401224
+contributor-last-name: HAVERL
+contributor-name: HAVERL, JULIA
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: PO BOX 267
+contributor-zip: 062320267
+election-type: P2024
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2024
+file-number: 1614110
+filing-form: F3
+image-number: 202207159521417730
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4071520221540559000
+load-date: 2022-07-28 03:37:42.669
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202207159521417721
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: S
+report-type: Q2
+report-year: 2022
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4072720221552520700
+tags: Donation
+title: Donation/202207159521417730
+transaction-id: 22057415
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

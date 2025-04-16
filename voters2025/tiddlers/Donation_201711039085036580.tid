@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 25
+contribution-receipt-date: 2016-10-21 00:00:00
+contributor-aggregate-ytd: 25
+contributor-city: ANDOVER
+contributor-employer: CIVIL ENGINEERING SERVICES, LLC
+contributor-first-name: GERALD
+contributor-last-name: HARDISTY
+contributor-name: HARDISTY, GERALD
+contributor-occupation: ENGINEER
+contributor-state: CT
+contributor-street-1: 203 BOSTON HILL ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1190211
+filing-form: F3X
+image-number: 201711039085036580
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4110420171461731300
+load-date: 2017-12-27 04:05:08.688
+memo-text: EARMARKED FOR DSCC (C00042366)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201711039085036563
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: 30G
+report-year: 2016
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4122620171491794000
+tags: Donation
+title: Donation/201711039085036580
+transaction-id: SA11AI_61716921
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

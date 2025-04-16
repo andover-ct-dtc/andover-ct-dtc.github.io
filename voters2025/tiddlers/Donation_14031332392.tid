@@ -1,0 +1,42 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00492280
+committee-name: GRASSROOTS EAST - FEDERAL
+contribution-receipt-amount: 210
+contribution-receipt-date: 2014-08-14 00:00:00
+contributor-aggregate-ytd: 210
+contributor-city: ANDOVER
+contributor-employer: EAST HARTFORD BO. OF. ED.
+contributor-first-name: TED
+contributor-last-name: SAKELARAKIS
+contributor-name: SAKELARAKIS, TED
+contributor-occupation: AFTER SCHOOL COORDINATOR
+contributor-state: CT
+contributor-street-1: 171 BOLTON HILL ROAD
+contributor-zip: 06232
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 995833
+filing-form: F3X
+image-number: 14031332392
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 1102920140016264300
+load-date: 2017-05-31 17:34:02.953375
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?14031332392
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: U
+recipient-committee-type: Q
+report-type: Q3
+report-year: 2014
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 2030420151240532500
+tags: Donation
+title: Donation/14031332392
+two-year-transaction-period: 2014
+type: text/vnd.tiddlywiki

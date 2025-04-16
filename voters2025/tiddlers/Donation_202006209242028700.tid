@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 5
+contribution-receipt-date: 2020-05-29 00:00:00
+contributor-aggregate-ytd: 25
+contributor-city: ANDOVER
+contributor-employer: COMMUNITY COLLEGE
+contributor-first-name: CHARLIE
+contributor-last-name: WILCOX
+contributor-name: WILCOX, CHARLIE
+contributor-occupation: ADJUNCT PROFESSOR
+contributor-state: CT
+contributor-street-1: 11 ROSE LANE
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1413483
+filing-form: F3X
+image-number: 202006209242028700
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4062120201776167400
+load-date: 2020-07-10 08:24:48.554
+memo-text: EARMARKED FOR SCHIFF FOR CONGRESS (C00343871)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?202006209242028698
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: M6
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4070920201789908000
+tags: Donation
+title: Donation/202006209242028700
+transaction-id: SA11AI_237974589
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

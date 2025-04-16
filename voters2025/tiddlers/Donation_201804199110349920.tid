@@ -1,0 +1,46 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00035683
+committee-name: UNITED TECHNOLOGIES CORPORATION POLITICAL ACTION COMMITTEE
+contribution-receipt-amount: 250
+contribution-receipt-date: 2018-03-31 00:00:00
+contributor-aggregate-ytd: 750
+contributor-city: ANDOVER
+contributor-employer: PRATT & WHITNEY
+contributor-first-name: THEODORE
+contributor-last-name: ADAMS
+contributor-middle-name: M
+contributor-name: ADAMS, THEODORE M
+contributor-occupation: GEN LEGAL - EXEC
+contributor-state: CT
+contributor-street-1: 36 BOSTON HILL ROAD
+contributor-zip: 062321402
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1225244
+filing-form: F3X
+image-number: 201804199110349920
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4041920181526141000
+load-date: 2018-04-24 02:56:32.226
+memo-text: P/R DEDUCTION ($125.00 SEMI-MONTHLY)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201804199110349910
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: B
+recipient-committee-org-type: C
+recipient-committee-type: Q
+report-type: M4
+report-year: 2018
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4042320181526357500
+tags: Donation
+title: Donation/201804199110349920
+transaction-id: PR1144426758709
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

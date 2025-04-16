@@ -1,0 +1,48 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+back-reference-schedule-name: SA17A
+back-reference-transaction-id: VPF7BH1F6F3E
+committee-id: C00577130
+committee-name: BERNIE 2016
+contribution-receipt-amount: 10
+contribution-receipt-date: 2015-12-30 00:00:00
+contributor-aggregate-ytd: 217.7
+contributor-city: ANDOVER
+contributor-employer: CREC
+contributor-first-name: EDMUND
+contributor-last-name: SMITH
+contributor-name: SMITH, EDMUND
+contributor-occupation: TEACHER
+contributor-state: CT
+contributor-street-1: 488 LAKE RD
+contributor-zip: 062321322
+election-type: P2016
+election-type-full: PRIMARY
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2016
+file-number: 1077572
+filing-form: F3P
+image-number: 201606159018033470
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4061720161299100700
+load-date: 2017-05-31 13:27:14.31838
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201606159018033469
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: YE
+report-year: 2015
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4061720161299740000
+tags: Donation
+title: Donation/201606159018033470
+transaction-id: VPF7BH1F6F3
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

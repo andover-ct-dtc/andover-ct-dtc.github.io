@@ -1,0 +1,44 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00580100
+committee-name: DONALD J. TRUMP FOR PRESIDENT, INC.
+contribution-receipt-amount: 37.5
+contribution-receipt-date: 2020-06-07 00:00:00
+contributor-aggregate-ytd: 37.5
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: MARGARET
+contributor-last-name: HOHENGARTEN
+contributor-name: HOHENGARTEN, MARGARET
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: PO BOX 236
+contributor-zip: 06232
+election-type: P2020
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2020
+file-number: 1513938
+filing-form: F3P
+image-number: 202104209444556800
+is-individual: t
+line-number: 18
+line-number-label: Transfers From Other Authorized Committees
+link-id: 4042320211278761000
+load-date: 2021-04-29 04:06:44.36
+memo-code: X
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202104209444556813
+receipt-type-full: JFC TRANSFER: TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE [SA18.6044]
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: M7
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4042820211282328600
+tags: Donation
+title: Donation/202104209444556800
+transaction-id: SA18.807893
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

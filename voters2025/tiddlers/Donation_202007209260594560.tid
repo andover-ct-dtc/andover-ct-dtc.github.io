@@ -1,0 +1,42 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00703975
+committee-name: BIDEN FOR PRESIDENT
+contribution-receipt-amount: 250
+contribution-receipt-date: 2020-06-10 00:00:00
+contributor-aggregate-ytd: 250
+contributor-city: ANDOVER
+contributor-first-name: LINDA
+contributor-last-name: MCDOWELL
+contributor-name: MCDOWELL, LINDA
+contributor-state: CT
+contributor-street-1: 35 OLD FARMS RD
+contributor-zip: 062321027
+election-type: P2020
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2020
+file-number: 1427451
+filing-form: F3P
+image-number: 202007209260594560
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4072120201792260000
+load-date: 2020-07-22 04:06:47.459
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?202007209260594563
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: M7
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4072120201793331000
+tags: Donation
+title: Donation/202007209260594560
+transaction-id: 6339633
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

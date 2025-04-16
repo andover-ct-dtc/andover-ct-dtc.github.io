@@ -1,0 +1,44 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00410233
+committee-name: COURTNEY FOR CONGRESS
+contribution-receipt-amount: 125
+contribution-receipt-date: 2013-12-24 00:00:00
+contributor-aggregate-ytd: 360
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: JOSEPH
+contributor-last-name: POLAND
+contributor-middle-name: A.
+contributor-name: POLAND, JOSEPH A. III
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 300 LAKE RD
+contributor-suffix: III
+contributor-zip: 062321511
+election-type: O2014
+election-type-full: CONVENTION
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-year: 2014
+file-number: 904994
+filing-form: F3
+image-number: 14940231675
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4013120141204850000
+load-date: 2017-05-31 17:34:02.953375
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?14940231675
+recipient-committee-designation: P
+recipient-committee-type: H
+report-type: YE
+report-year: 2013
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4022620141205598000
+tags: Donation
+title: Donation/14940231675
+transaction-id: C20410594
+two-year-transaction-period: 2014
+type: text/vnd.tiddlywiki

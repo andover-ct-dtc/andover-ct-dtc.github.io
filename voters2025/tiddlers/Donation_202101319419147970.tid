@@ -1,0 +1,45 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 150
+contribution-receipt-date: 2020-11-29 00:00:00
+contributor-aggregate-ytd: 697
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: BARBARA
+contributor-id: C00659599
+contributor-last-name: CLOSE
+contributor-name: CLOSE, BARBARA
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 79 GILEAD ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1496802
+filing-form: F3X
+image-number: 202101319419147970
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4020120212140041700
+load-date: 2021-03-12 04:41:15.912
+memo-text: EARMARKED FOR PROGRESSIVE TAKEOVER (C00659599)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202101319419147983
+receipt-type: 24T
+receipt-type-desc: EARMARKED INTERMEDIARY TREASURY OUT
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: YE
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4031120211247194600
+tags: Donation
+title: Donation/202101319419147970
+transaction-id: SA11AI_356493613
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00659599

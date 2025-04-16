@@ -1,0 +1,48 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA11AI
+back-reference-transaction-id: 28403042E
+committee-id: C00271338
+committee-name: AMERIPAC: THE FUND FOR A GREATER AMERICA
+contribution-receipt-amount: 15
+contribution-receipt-date: 2023-09-28 00:00:00
+contributor-aggregate-ytd: 375
+contributor-city: ANDOVER
+contributor-employer: N/A
+contributor-first-name: SHEILA
+contributor-id: C00401224
+contributor-last-name: KEARNEY
+contributor-name: KEARNEY, SHEILA
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 68 PINE RIDGE DR
+contributor-zip: 062321029
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1736341
+filing-form: F3X
+image-number: 202311209599185800
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4112020231810936300
+load-date: 2023-11-21 03:10:20
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202311209599185797
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: D
+recipient-committee-type: Q
+report-type: M11
+report-year: 2023
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4112020231810996000
+tags: Donation
+title: Donation/202311209599185800
+transaction-id: 28403042
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

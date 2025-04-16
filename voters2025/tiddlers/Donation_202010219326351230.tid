@@ -1,0 +1,48 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA17A
+back-reference-transaction-id: 17307523E
+committee-id: C00703975
+committee-name: BIDEN FOR PRESIDENT
+contribution-receipt-amount: 266
+contribution-receipt-date: 2020-09-27 00:00:00
+contributor-aggregate-ytd: 666
+contributor-city: ANDOVER
+contributor-employer: SHIPMAN & GOODWIN
+contributor-first-name: JOHN
+contributor-id: C00401224
+contributor-last-name: LAWRENCE
+contributor-name: LAWRENCE, JOHN
+contributor-occupation: LAWYER
+contributor-state: CT
+contributor-street-1: 414 LAKE RD
+contributor-zip: 062321534
+election-type: G2020
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2020
+file-number: 1458940
+filing-form: F3P
+image-number: 202010219326351230
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4102220201882664000
+load-date: 2020-11-05 05:49:24.275
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?202010219326351233
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: P
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4102320201884249000
+tags: Donation
+title: Donation/202010219326351230
+transaction-id: 17307523
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

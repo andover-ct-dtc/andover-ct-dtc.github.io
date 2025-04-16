@@ -1,0 +1,43 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00580100
+committee-name: DONALD J. TRUMP FOR PRESIDENT, INC.
+contribution-receipt-amount: 20
+contribution-receipt-date: 2020-07-28 00:00:00
+contributor-aggregate-ytd: 71.75
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: VINCENT
+contributor-last-name: ZUJEWSKI
+contributor-name: ZUJEWSKI, VINCENT
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 28 HEBRON RD
+contributor-zip: 06232
+election-type: P2020
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2020
+file-number: 1513940
+filing-form: F3P
+image-number: 202104209444685760
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4042320211278761000
+load-date: 2021-04-29 04:05:36.133
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202104209444685757
+receipt-type-full: EARMARKED THROUGH WINRED [SA17A.4910]
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: M8
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4042820211283399700
+tags: Donation
+title: Donation/202104209444685760
+transaction-id: SA17A.686667
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

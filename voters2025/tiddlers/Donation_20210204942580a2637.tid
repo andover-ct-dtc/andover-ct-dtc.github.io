@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 2.7
+contribution-receipt-date: 2021-01-11 00:00:00
+contributor-aggregate-ytd: 2.7
+contributor-city: ANDOVER
+contributor-employer: PW POWER SYSTEMS LLC
+contributor-first-name: ROARKE
+contributor-last-name: MCCORMICK
+contributor-name: MCCORMICK, ROARKE
+contributor-occupation: ELECTRICAL ENGINEER
+contributor-state: CT
+contributor-street-1: 7 JUROVATY ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1498693
+filing-form: F3X
+image-number: 20210204942580a2637
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4020920211123477000
+load-date: 2021-03-16 04:34:01.467
+memo-text: EARMARKED FOR FRIENDS OF BERNIE SANDERS (C00411330)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202102049425802637
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: 30R
+report-year: 2021
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4031520211258824000
+tags: Donation
+title: Donation/20210204942580a2637
+transaction-id: SA11AI_369150848
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

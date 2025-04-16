@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 10
+contribution-receipt-date: 2024-03-14 00:00:00
+contributor-aggregate-ytd: 45
+contributor-city: ANDOVER
+contributor-employer: STATE OF CONNECTICUT
+contributor-first-name: CHARLES
+contributor-last-name: CAISSE
+contributor-name: CAISSE, CHARLES
+contributor-occupation: TEACHER
+contributor-state: CT
+contributor-street-1: 184 WHEELING RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1779040
+filing-form: F3X
+image-number: 202404209633962080
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4042120241897368000
+load-date: 2024-04-26 04:06:27
+memo-text: EARMARKED FOR MCCORKLE FOR COLORADO (C00697334)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202404209633962079
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: M4
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4042520241912668000
+tags: Donation
+title: Donation/202404209633962080
+transaction-id: SA11AI_576177706
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

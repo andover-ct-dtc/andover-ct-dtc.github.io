@@ -1,0 +1,43 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00522730
+committee-name: CITIZENS FOR JOE MILLER
+contribution-receipt-amount: 500
+contribution-receipt-date: 2014-08-11 00:00:00
+contributor-aggregate-ytd: 500
+contributor-city: ANDOVER
+contributor-employer: TRAVELERS
+contributor-first-name: ROBERT
+contributor-last-name: SALO
+contributor-name: SALO, ROBERT
+contributor-occupation: ATTORNEY
+contributor-state: CT
+contributor-street-1: 19 BEAR SWAMP ROAD
+contributor-zip: 062321100
+election-type: P
+election-type-full: 2014
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1005736
+filing-form: F3
+image-number: 15020032529
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 1011220150016574600
+load-date: 2017-05-31 17:34:02.953375
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?15020032529
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: S
+report-type: Q3
+report-year: 2014
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 2111620151257203200
+tags: Donation
+title: Donation/15020032529
+two-year-transaction-period: 2014
+type: text/vnd.tiddlywiki

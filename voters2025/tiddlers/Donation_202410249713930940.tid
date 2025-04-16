@@ -1,0 +1,48 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA18
+back-reference-transaction-id: 29726146
+committee-id: C00703975
+committee-name: HARRIS FOR PRESIDENT
+contribution-receipt-amount: 25
+contribution-receipt-date: 2024-10-03 00:00:00
+contributor-aggregate-ytd: 243.21
+contributor-city: ANDOVER
+contributor-employer: BEMAN MIDDLE SCHOOL
+contributor-first-name: KRISTEN
+contributor-last-name: SIXBEY
+contributor-name: SIXBEY, KRISTEN
+contributor-occupation: READING INTERVENTION TEACHER
+contributor-state: CT
+contributor-street-1: 113 LONG HILL RD
+contributor-zip: 062321106
+election-type: G2024
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2024
+file-number: 1841738
+filing-form: F3P
+image-number: 202410249713930940
+is-individual: t
+line-number: 18
+line-number-label: Transfers From Other Authorized Committees
+link-id: 4102520242081502000
+load-date: 2024-10-31 04:06:26
+memo-code: X
+memo-text: * HARRIS VICTORY FUND
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202410249713930951
+receipt-type: 15J
+receipt-type-desc: MEMO (FILER'S % OF CONTRIBUTION GIVEN TO JOIN
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: 12G
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4103020241013046000
+tags: Donation
+title: Donation/202410249713930940
+transaction-id: 32547333
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

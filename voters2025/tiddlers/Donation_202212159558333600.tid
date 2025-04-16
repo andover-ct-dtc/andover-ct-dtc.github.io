@@ -1,0 +1,47 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+candidate-id: H0OR04107
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 25
+contribution-receipt-date: 2021-08-31 00:00:00
+contributor-aggregate-ytd: 250
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: VINCENT
+contributor-id: C00715854
+contributor-last-name: ZUJEWSKI
+contributor-name: ZUJEWSKI, VINCENT
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 28 HEBRON RD
+contributor-zip: 062321310
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1672706
+filing-form: F3X
+image-number: 202212159558333600
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4121520221636605000
+load-date: 2023-08-08 12:26:09
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202212159558333610
+receipt-type: 24T
+receipt-type-desc: EARMARKED CONTRIBUTION
+receipt-type-full: EARMARKED FOR ALEK FOR OREGON (C00715854)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: YE
+report-year: 2021
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4011020231669251600
+tags: Donation
+title: Donation/202212159558333600
+transaction-id: A4E9854FC7B114B618B1
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00715854

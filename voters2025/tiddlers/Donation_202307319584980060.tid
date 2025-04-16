@@ -1,0 +1,48 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA12
+back-reference-transaction-id: SA12.82660633
+committee-id: C00762591
+committee-name: SAVE AMERICA
+contribution-receipt-amount: 22.5
+contribution-receipt-date: 2022-07-09 00:00:00
+contributor-aggregate-ytd: 247.5
+contributor-city: ANDOVER
+contributor-employer: SELPH
+contributor-first-name: MICHAEL
+contributor-last-name: EINSIEDEL
+contributor-name: EINSIEDEL, MICHAEL JR
+contributor-occupation: CARPINTER
+contributor-state: CT
+contributor-street-1: 173 LONG HILL RD
+contributor-suffix: JR
+contributor-zip: 06232
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1720285
+filing-form: F3X
+image-number: 202307319584980060
+is-individual: t
+line-number: 12
+line-number-label: Transfers from Authorized Committees
+link-id: 4080120231758587400
+load-date: 2023-08-03 04:06:26
+memo-code: X
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202307319584980057
+receipt-type: 15J
+receipt-type-desc: MEMO (FILER'S % OF CONTRIBUTION GIVEN TO JOIN
+receipt-type-full: JFC TRANSFER: TRUMP SAVE AMERICA JOINT FUNDRAISING COMMITTEE [SA12.82660633]
+recipient-committee-designation: D
+recipient-committee-type: Q
+report-type: YE
+report-year: 2022
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4080220231761881000
+tags: Donation
+title: Donation/202307319584980060
+transaction-id: SA12.80816432
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

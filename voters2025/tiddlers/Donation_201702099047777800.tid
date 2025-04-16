@@ -1,0 +1,41 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 10
+contribution-receipt-date: 2016-06-16 00:00:00
+contributor-aggregate-ytd: 10
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: AATREYEE
+contributor-last-name: EITLAND
+contributor-name: EITLAND, AATREYEE
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 33 CIDER MILL ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1148378
+filing-form: F3X
+image-number: 201702099047777800
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4021320171370640400
+load-date: 2017-05-31 13:27:14.31838
+memo-text: EARMARKED FOR THE CONNECTICUT DEMOCRATS (C00167320)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201702099047777795
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M7
+report-year: 2016
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4033020171388524500
+tags: Donation
+title: Donation/201702099047777800
+transaction-id: SA11AI_51082203
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

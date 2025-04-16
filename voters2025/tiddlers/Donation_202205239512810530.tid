@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 0.1
+contribution-receipt-date: 2022-04-14 00:00:00
+contributor-aggregate-ytd: 0.4
+contributor-city: ANDOVER
+contributor-employer: SELF
+contributor-first-name: CARRIE
+contributor-last-name: CROMPTON
+contributor-name: CROMPTON, CARRIE
+contributor-occupation: COPYEDITOR
+contributor-state: CT
+contributor-street-1: 197 HEBRON ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1597432
+filing-form: F3X
+image-number: 202205239512810530
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4052320221492844000
+load-date: 2022-06-07 03:38:08.983
+memo-text: CONTRIBUTION TO ACTBLUE
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202205239512810523
+receipt-type-full: CONTRIBUTION TO ACT BLUE
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: M5
+report-year: 2022
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4060620221496101000
+tags: Donation
+title: Donation/202205239512810530
+transaction-id: SA11AI_440685098
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

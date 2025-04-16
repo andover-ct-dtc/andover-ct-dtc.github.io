@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 10
+contribution-receipt-date: 2024-07-29 00:00:00
+contributor-aggregate-ytd: 10
+contributor-city: ANDOVER
+contributor-employer: HARTFORD HEALTHCARE
+contributor-first-name: MICHAEL
+contributor-last-name: KAUFMAN
+contributor-name: KAUFMAN, MICHAEL
+contributor-occupation: TALENT ACQUISITION
+contributor-state: CT
+contributor-street-1: 164 LAKE ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1864088
+filing-form: F3X
+image-number: 202501179742122780
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4012120251133014000
+load-date: 2025-02-07 04:05:10
+memo-text: EARMARKED FOR HARRIS VICTORY FUND (C00744946)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202501179742122789
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: M8
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4020620251153230300
+tags: Donation
+title: Donation/202501179742122780
+transaction-id: SA11AI_614149668
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

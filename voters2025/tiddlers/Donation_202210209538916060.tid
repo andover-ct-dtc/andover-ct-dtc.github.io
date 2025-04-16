@@ -1,0 +1,48 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+candidate-id: S2CT00132
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 100
+contribution-receipt-date: 2022-09-03 00:00:00
+contributor-aggregate-ytd: 250
+contributor-city: ANDOVER
+contributor-employer: NATURESCAPE, LLC
+contributor-first-name: MARCIE
+contributor-id: C00492645
+contributor-last-name: MINER
+contributor-name: MINER, MARCIE
+contributor-occupation: LANDSCAPE DESIGN
+contributor-state: CT
+contributor-street-1: 80 WEST ST
+contributor-zip: 06232
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1645815
+filing-form: F3X
+image-number: 202210209538916060
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4102120221590110000
+load-date: 2022-11-08 05:40:11
+memo-text: EARMARKED FOR FRIENDS OF CHRIS MURPHY (C00492645)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202210209538916055
+receipt-type: 24T
+receipt-type-desc: EARMARKED INTERMEDIARY TREASURY OUT
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: M10
+report-year: 2022
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4110720221610984000
+tags: Donation
+title: Donation/202210209538916060
+transaction-id: SA11AI_479238088
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00492645

@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 75
+contribution-receipt-date: 2020-10-20 00:00:00
+contributor-aggregate-ytd: 75
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: KATHLEEN
+contributor-last-name: KNOX
+contributor-name: KNOX, KATHLEEN
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 509 LAKE ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1481637
+filing-form: F3X
+image-number: 202012049355806400
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4120520201964455000
+load-date: 2021-01-05 19:01:42.498
+memo-text: EARMARKED FOR BIDEN FOR PRESIDENT (C00703975)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202012049355806385
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: 30G
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4010420211993157000
+tags: Donation
+title: Donation/202012049355806400
+transaction-id: SA11AI_330791840
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

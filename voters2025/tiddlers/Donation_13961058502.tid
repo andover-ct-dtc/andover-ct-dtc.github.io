@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00107235
+committee-name: PRICEWATERHOUSECOOPERS POLITICAL ACTION COMMITTEE I
+contribution-receipt-amount: 500
+contribution-receipt-date: 2013-01-31 00:00:00
+contributor-aggregate-ytd: 500
+contributor-city: ANDOVER
+contributor-employer: PRICEWATERHOUSECOOPERS
+contributor-first-name: FRANK
+contributor-last-name: MIDOLO
+contributor-name: MIDOLO, FRANK
+contributor-occupation: PARTNER
+contributor-state: CT
+contributor-street-1: 39 OLD FARMS RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 857627
+filing-form: F3X
+image-number: 13961058502
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4022120131183703000
+load-date: 2017-05-31 17:34:02.953375
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?13961058502
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: B
+recipient-committee-type: Q
+report-type: M2
+report-year: 2013
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4022120131183738000
+tags: Donation
+title: Donation/13961058502
+transaction-id: 49841880
+two-year-transaction-period: 2014
+type: text/vnd.tiddlywiki

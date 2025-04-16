@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 5
+contribution-receipt-date: 2020-09-22 00:00:00
+contributor-aggregate-ytd: 10.5
+contributor-city: ANDOVER
+contributor-employer: SELF EMPLOYED
+contributor-first-name: BRIAN
+contributor-last-name: RUFINI
+contributor-name: RUFINI, BRIAN
+contributor-occupation: MADICAL SALES
+contributor-state: CT
+contributor-street-1: 212 GILEAD ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1482832
+filing-form: F3X
+image-number: 202012149379788030
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4121620201974289400
+load-date: 2021-01-22 20:43:16.804
+memo-text: CONTRIBUTION TO ACTBLUE
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202012149379788042
+receipt-type-full: CONTRIBUTION TO ACT BLUE
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: M10
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4012120212121725400
+tags: Donation
+title: Donation/202012149379788030
+transaction-id: SA11AI_304958508
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

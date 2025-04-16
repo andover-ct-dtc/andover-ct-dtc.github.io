@@ -1,0 +1,40 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 37.5
+contribution-receipt-date: 2024-04-03 00:00:00
+contributor-aggregate-ytd: 116
+contributor-city: ANDOVER
+contributor-employer: SELF EMPLOYED
+contributor-first-name: LOIS
+contributor-last-name: BARRETT
+contributor-name: BARRETT, LOIS
+contributor-occupation: HOLISTIC HEALTH COACH
+contributor-state: CT
+contributor-street-1: 151 WALES RD
+contributor-zip: 062321224
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1800865
+filing-form: F3X
+image-number: 202407159653838500
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4071620241973493000
+load-date: 2024-08-01 06:28:24
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202407159653838511
+receipt-type-full: EARMARKED FOR GEORGE LOGAN FOR CONGRESS (C00784926)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: Q2
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4073120241981344300
+tags: Donation
+title: Donation/202407159653838500
+transaction-id: A46E9E36F65EC4E988E3
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 2.5
+contribution-receipt-date: 2020-09-26 00:00:00
+contributor-aggregate-ytd: 2.5
+contributor-city: ANDOVER
+contributor-employer: TRAVELERS
+contributor-first-name: SHAWN
+contributor-last-name: KELLY
+contributor-name: KELLY, SHAWN
+contributor-occupation: COMPUTER PROGRAMMER
+contributor-state: CT
+contributor-street-1: 57 LAKE RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1482832
+filing-form: F3X
+image-number: 202012149377623460
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4121620201974289400
+load-date: 2021-01-22 18:36:12.783
+memo-text: CONTRIBUTION TO ACTBLUE
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202012149377623449
+receipt-type-full: CONTRIBUTION TO ACT BLUE
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: M10
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4012120212126793700
+tags: Donation
+title: Donation/202012149377623460
+transaction-id: SA11AI_308337575
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

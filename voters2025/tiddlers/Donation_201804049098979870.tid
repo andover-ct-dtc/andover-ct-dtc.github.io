@@ -1,0 +1,41 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 4
+contribution-receipt-date: 2017-03-28 00:00:00
+contributor-aggregate-ytd: 12
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: JOAN
+contributor-last-name: FORAN
+contributor-name: FORAN, JOAN
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 143 HEBRON ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1216920
+filing-form: F3X
+image-number: 201804049098979870
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4040420181525671400
+load-date: 2018-05-06 02:45:44.23
+memo-text: EARMARKED FOR DCCC (C00000935)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201804049098979869
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M4
+report-year: 2017
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4050520181537654300
+tags: Donation
+title: Donation/201804049098979870
+transaction-id: SA11AI_75223149
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

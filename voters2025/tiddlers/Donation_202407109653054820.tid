@@ -1,0 +1,49 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+back-reference-schedule-name: SA18
+back-reference-transaction-id: SA18.118582133
+committee-id: C00828541
+committee-name: NEVER SURRENDER, INC.
+contribution-receipt-amount: 22.5
+contribution-receipt-date: 2024-05-09 00:00:00
+contributor-aggregate-ytd: 414
+contributor-city: ANDOVER
+contributor-employer: SELPH
+contributor-first-name: MICHAEL
+contributor-last-name: EINSIEDEL
+contributor-name: EINSIEDEL, MICHAEL JR
+contributor-occupation: CARPINTER
+contributor-state: CT
+contributor-street-1: 173 LONG HILL RD
+contributor-suffix: JR
+contributor-zip: 06232
+election-type: P2024
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2024
+file-number: 1795717
+filing-form: F3P
+image-number: 202407109653054820
+is-individual: t
+line-number: 18
+line-number-label: Transfers From Other Authorized Committees
+link-id: 4071120241972756000
+load-date: 2024-07-18 04:06:25
+memo-code: X
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202407109653054816
+receipt-type: 15J
+receipt-type-desc: MEMO (FILER'S % OF CONTRIBUTION GIVEN TO JOIN
+receipt-type-full: JFC TRANSFER: TRUMP SAVE AMERICA JOINT FUNDRAISING COMMITTEE
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: M6
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4071720241977242000
+tags: Donation
+title: Donation/202407109653054820
+transaction-id: SA18.118844446
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

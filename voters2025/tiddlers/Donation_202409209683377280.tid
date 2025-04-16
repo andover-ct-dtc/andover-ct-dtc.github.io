@@ -1,0 +1,44 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00580100
+committee-name: DONALD J. TRUMP FOR PRESIDENT, INC.
+contribution-receipt-amount: 35
+contribution-receipt-date: 2019-12-04 00:00:00
+contributor-aggregate-ytd: 35
+contributor-city: ANDOVER
+contributor-employer: SELF-EMPLOYED
+contributor-first-name: MICHAEL
+contributor-last-name: EINSIEDEL
+contributor-name: EINSIEDEL, MICHAEL JR
+contributor-occupation: CARPENTER
+contributor-state: CT
+contributor-street-1: 173 LONG HILL RD
+contributor-suffix: JR
+contributor-zip: 06232
+election-type: P2020
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2020
+file-number: 1817894
+filing-form: F3P
+image-number: 202409209683377280
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4092020242041101000
+load-date: 2024-09-28 04:05:50
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202409209683377279
+receipt-type-full: EARMARKED THROUGH WINRED [SA17A.4319]
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: YE
+report-year: 2019
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4092720242042177500
+tags: Donation
+title: Donation/202409209683377280
+transaction-id: SA17A.565549
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

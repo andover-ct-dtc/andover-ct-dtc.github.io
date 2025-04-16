@@ -1,0 +1,40 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 20.24
+contribution-receipt-date: 2023-08-31 00:00:00
+contributor-aggregate-ytd: 44.24
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: JO ANN
+contributor-last-name: POLZUN
+contributor-name: POLZUN, JO ANN
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 121 TOWNSEND RD
+contributor-zip: 062321414
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1751463
+filing-form: F3X
+image-number: 202401319602351300
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4020120241818221000
+load-date: 2024-03-02 03:06:10
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202401319602351308
+receipt-type-full: EARMARKED FOR COLLINS FOR CONGRESS (C00544684)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: YE
+report-year: 2023
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4022920241858985000
+tags: Donation
+title: Donation/202401319602351300
+transaction-id: ACABF2747AA3F4B1B967
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

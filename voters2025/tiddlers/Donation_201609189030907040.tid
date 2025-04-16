@@ -1,0 +1,48 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+back-reference-schedule-name: SA18
+back-reference-transaction-id: C6015141
+committee-id: C00575795
+committee-name: HILLARY FOR AMERICA
+contribution-receipt-amount: 25
+contribution-receipt-date: 2016-06-13 00:00:00
+contributor-aggregate-ytd: 275
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: SUSAN
+contributor-last-name: LOSEE
+contributor-name: LOSEE, SUSAN
+contributor-occupation: TEACHER
+contributor-state: CT
+contributor-street-1: 76 LONG HILL RD
+contributor-zip: 062321123
+election-type: P2016
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2016
+file-number: 1099613
+filing-form: F3P
+image-number: 201609189030907040
+is-individual: t
+line-number: 18
+line-number-label: Transfers From Other Authorized Committees
+link-id: 4091920161317233000
+load-date: 2017-05-31 13:27:14.31838
+memo-code: X
+memo-text: * HILLARY VICTORY FUND
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201609189030907033
+receipt-type: 15J
+receipt-type-desc: MEMO (FILER'S % OF CONTRIBUTION GIVEN TO JOIN
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: M7
+report-year: 2016
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4092020161317494000
+tags: Donation
+title: Donation/201609189030907040
+transaction-id: C6642692
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

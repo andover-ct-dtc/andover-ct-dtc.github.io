@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 5
+contribution-receipt-date: 2018-04-08 00:00:00
+contributor-aggregate-ytd: 65
+contributor-city: ANDOVER
+contributor-employer: CT REGIONAL SCHOOL DISTRICT #8
+contributor-first-name: MARIA
+contributor-last-name: TULMAN
+contributor-name: TULMAN, MARIA
+contributor-occupation: PARAPROFESSIONAL
+contributor-state: CT
+contributor-street-1: 139 HEBRON RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1233520
+filing-form: F3X
+image-number: 201805219112851070
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4052220181566018000
+load-date: 2018-05-25 02:45:20.051
+memo-text: EARMARKED FOR DEMOCRACY FOR AMERICA (C00370007)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201805219112851058
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M5
+report-year: 2018
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4052420181569355300
+tags: Donation
+title: Donation/201805219112851070
+transaction-id: SA11AI_108155094
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

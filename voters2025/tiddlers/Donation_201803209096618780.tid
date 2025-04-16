@@ -1,0 +1,40 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00632133
+committee-name: SWING LEFT
+contribution-receipt-amount: 0.9
+contribution-receipt-date: 2018-02-20 00:00:00
+contributor-aggregate-ytd: 1
+contributor-city: ANDOVER
+contributor-employer: RISE VISION
+contributor-first-name: NICHOLAS
+contributor-last-name: RIMSA
+contributor-name: RIMSA, NICHOLAS
+contributor-occupation: DESIGNER
+contributor-state: CT
+contributor-street-1: 75 SCHOOL RD
+contributor-zip: 062321526
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1214970
+filing-form: F3X
+image-number: 201803209096618780
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4032020181519043000
+load-date: 2018-03-22 03:36:58.404
+memo-text: EARMARKED FOR CA-45 DEMOCRATIC NOMINEE
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201803209096618775
+recipient-committee-designation: U
+recipient-committee-type: Q
+report-type: M3
+report-year: 2018
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4032120181519170600
+tags: Donation
+title: Donation/201803209096618780
+transaction-id: VTEFHPCNXQ1
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

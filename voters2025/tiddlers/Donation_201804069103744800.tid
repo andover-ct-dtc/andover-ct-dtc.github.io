@@ -1,0 +1,41 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 5
+contribution-receipt-date: 2017-07-02 00:00:00
+contributor-aggregate-ytd: 28
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: THOMAS
+contributor-last-name: MCBRIARTY
+contributor-name: MCBRIARTY, THOMAS
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 267 LONG HILL RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1217370
+filing-form: F3X
+image-number: 201804069103744800
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4041020181525732000
+load-date: 2018-05-09 06:36:47.232
+memo-text: EARMARKED FOR PROGRESSIVE TURNOUT PROJECT (C00580068)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201804069103744806
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M8
+report-year: 2017
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4050820181545779000
+tags: Donation
+title: Donation/201804069103744800
+transaction-id: SA11AI_86064204
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

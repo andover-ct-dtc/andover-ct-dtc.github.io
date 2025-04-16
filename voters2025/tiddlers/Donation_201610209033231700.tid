@@ -1,0 +1,42 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+conduit-committee-zip: 00000
+contribution-receipt-amount: 5
+contribution-receipt-date: 2016-09-29 00:00:00
+contributor-aggregate-ytd: 12
+contributor-city: ANDOVER
+contributor-employer: SELF
+contributor-first-name: TODD
+contributor-last-name: ELLER
+contributor-name: ELLER, TODD
+contributor-occupation: SNACK DELIVERIES
+contributor-state: CT
+contributor-street-1: 92 MERRITT VALLEY RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1111238
+filing-form: F3X
+image-number: 201610209033231700
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4102020161344359400
+load-date: 2017-05-31 13:27:14.31838
+memo-text: CONTRIBUTION TO ACTBLUE
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201610209033231720
+receipt-type-full: CONTRIBUTION TO ACT BLUE
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M10
+report-year: 2016
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4111620161348325000
+tags: Donation
+title: Donation/201610209033231700
+transaction-id: SA11AI_58776775
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

@@ -1,0 +1,42 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00035683
+committee-name: UNITED TECHNOLOGIES CORPORATION POLITICAL ACTION COMMITTEE
+contribution-receipt-amount: 125
+contribution-receipt-date: 2014-10-15 00:00:00
+contributor-aggregate-ytd: 2375
+contributor-city: ANDOVER
+contributor-employer: PRATT & WHITNEY
+contributor-first-name: THEODORE
+contributor-last-name: ADAMS
+contributor-middle-name: M
+contributor-name: ADAMS, THEODORE M
+contributor-occupation: ASSOC GEN COUNSEL,BUSINESSDEV
+contributor-state: CT
+contributor-street-1: 36 BOSTON HILL ROAD
+contributor-zip: 062321402
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 966209
+filing-form: F3X
+image-number: 14952391544
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4102320141226386400
+load-date: 2017-05-31 17:34:02.953375
+memo-text: P/R DEDUCTION ($125.00 SEMI-MONTHLY)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?14952391544
+recipient-committee-designation: B
+recipient-committee-org-type: C
+recipient-committee-type: Q
+report-type: 12G
+report-year: 2014
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4111820141231537700
+tags: Donation
+title: Donation/14952391544
+transaction-id: PR1144426736578
+two-year-transaction-period: 2014
+type: text/vnd.tiddlywiki

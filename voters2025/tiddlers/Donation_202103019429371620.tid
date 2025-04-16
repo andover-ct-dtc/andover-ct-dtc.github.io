@@ -1,0 +1,40 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 50
+contribution-receipt-date: 2020-10-03 00:00:00
+contributor-aggregate-ytd: 175
+contributor-city: ANDOVER
+contributor-employer: THE HARTFORD
+contributor-first-name: STEPHEN
+contributor-last-name: DONAHUE
+contributor-name: DONAHUE, STEPHEN
+contributor-occupation: IT/ARCHITECT
+contributor-state: CT
+contributor-street-1: 57 WALES RD
+contributor-zip: 062321221
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1502397
+filing-form: F3X
+image-number: 202103019429371620
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4030220211190415000
+load-date: 2021-03-03 14:00:56.404
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202103019429371608
+receipt-type-full: EARMARKED FOR VAN ORDEN FOR CONGRESS (C00742007)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: 12G
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4030220211193632300
+tags: Donation
+title: Donation/202103019429371620
+transaction-id: AC0F3468CFFAF4DE68DE
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

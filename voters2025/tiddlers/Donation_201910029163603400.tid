@@ -1,0 +1,49 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA17A
+back-reference-transaction-id: 11841799E
+committee-id: C00696948
+committee-name: BERNIE 2020
+contribution-receipt-amount: 27
+contribution-receipt-date: 2019-06-30 00:00:00
+contributor-aggregate-ytd: 381.64
+contributor-city: ANDOVER
+contributor-employer: MOUNT SHASTA LIBRARY
+contributor-first-name: BRIGID
+contributor-id: C00401224
+contributor-last-name: DONOHUE
+contributor-name: DONOHUE, BRIGID
+contributor-occupation: LIBRARY ASSISTANT
+contributor-state: CT
+contributor-street-1: 504 LAKE RD
+contributor-zip: 062321339
+election-type: P2020
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2020
+file-number: 1354560
+filing-form: F3P
+image-number: 201910029163603400
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4100320191673641500
+load-date: 2020-03-20 04:01:31.641
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201910029163603388
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: Q2
+report-year: 2019
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4100720191673849000
+tags: Donation
+title: Donation/201910029163603400
+transaction-id: 11841799
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

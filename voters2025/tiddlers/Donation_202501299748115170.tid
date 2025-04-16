@@ -1,0 +1,47 @@
+amendment-indicator: C
+amendment-indicator-desc: CHANGE
+committee-id: C00768689
+committee-name: MIKE FRANCE CT2
+contribution-receipt-amount: 75
+contribution-receipt-date: 2024-06-26 00:00:00
+contributor-aggregate-ytd: 285
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: JOSEPH
+contributor-last-name: POLAND
+contributor-middle-name: A
+contributor-name: POLAND, JOSEPH A MR. III
+contributor-occupation: RETIRED CHEMIST AND AIR FORCE OFFICER
+contributor-prefix: MR.
+contributor-state: CT
+contributor-street-1: PO BOX 330
+contributor-suffix: III
+contributor-zip: 062320330
+election-type: G2024
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2024
+file-number: 1868096
+filing-form: F3
+image-number: 202501299748115170
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4012920251138006000
+load-date: 2025-01-31 03:06:08
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202501299748115154
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: H
+report-type: Q2
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4013020251138567700
+tags: Donation
+title: Donation/202501299748115170
+transaction-id: AD3F5D55C38D9422AA2B
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

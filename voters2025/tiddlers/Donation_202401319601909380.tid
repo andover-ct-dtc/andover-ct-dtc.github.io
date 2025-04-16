@@ -1,0 +1,40 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 1.04
+contribution-receipt-date: 2023-08-14 00:00:00
+contributor-aggregate-ytd: 1.04
+contributor-city: ANDOVER
+contributor-employer: EMPOWER
+contributor-first-name: BAILEY
+contributor-last-name: KOHN
+contributor-name: KOHN, BAILEY
+contributor-occupation: DATA CONSULTANT
+contributor-state: CT
+contributor-street-1: 15 DOGWOOD DR
+contributor-zip: 062321128
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1751463
+filing-form: F3X
+image-number: 202401319601909380
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4020120241818221000
+load-date: 2024-03-02 04:11:44
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202401319601909387
+receipt-type-full: EARMARKED FOR HURD FOR AMERICA, INC. (C00843540)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: YE
+report-year: 2023
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4022920241868014000
+tags: Donation
+title: Donation/202401319601909380
+transaction-id: A3BD4D7F2E3D24AAB81F
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 2.5
+contribution-receipt-date: 2016-01-29 00:00:00
+contributor-aggregate-ytd: 4.5
+contributor-city: ANDOVER
+contributor-employer: TECHLINER COMPUTER SERVICES, LLC
+contributor-first-name: CATHERINE
+contributor-last-name: CREME
+contributor-name: CREME, CATHERINE
+contributor-occupation: COMPUTER TECHNICIAN
+contributor-state: CT
+contributor-street-1: 8 WOOD FERN WAY
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1051660
+filing-form: F3X
+image-number: 201602219008774050
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4022220161272587300
+load-date: 2017-05-31 13:27:14.31838
+memo-text: CONTRIBUTION TO ACTBLUE
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201602219008774059
+receipt-type-full: CONTRIBUTION TO ACT BLUE
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M2
+report-year: 2016
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4030120161273501000
+tags: Donation
+title: Donation/201602219008774050
+transaction-id: SA11AI_37372277
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

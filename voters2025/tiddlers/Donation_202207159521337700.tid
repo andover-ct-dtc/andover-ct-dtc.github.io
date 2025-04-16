@@ -1,0 +1,49 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA11AI
+back-reference-transaction-id: 13118524E
+committee-id: C00696526
+committee-name: MARK KELLY FOR SENATE
+contribution-receipt-amount: 50
+contribution-receipt-date: 2022-05-17 00:00:00
+contributor-aggregate-ytd: 550
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: BARBARA
+contributor-id: C00401224
+contributor-last-name: CLOSE
+contributor-name: CLOSE, BARBARA
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 79 GILEAD RD
+contributor-zip: 062321608
+election-type: P2022
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2022
+file-number: 1613770
+filing-form: F3
+image-number: 202207159521337700
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4071520221540559000
+load-date: 2022-07-22 03:40:19.987
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202207159521337689
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: S
+report-type: Q2
+report-year: 2022
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4072120221542934000
+tags: Donation
+title: Donation/202207159521337700
+transaction-id: 13118524
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

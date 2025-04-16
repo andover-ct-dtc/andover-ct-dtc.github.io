@@ -1,0 +1,42 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA11AI
+back-reference-transaction-id: VVC89QK55Z9E
+committee-id: C00707844
+committee-name: EDF ACTION VOTES
+contribution-receipt-amount: 15
+contribution-receipt-date: 2020-02-13 00:00:00
+contributor-aggregate-ytd: 15
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: MARIA
+contributor-last-name: TULMAN
+contributor-name: TULMAN, MARIA
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 249 HEBRON RD
+contributor-zip: 062321719
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1391260
+filing-form: F3X
+image-number: 202003209204034180
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4032020201703941600
+load-date: 2020-03-24 03:42:58.143
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?202003209204034161
+recipient-committee-designation: U
+recipient-committee-type: O
+report-type: M3
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4032320201704430000
+tags: Donation
+title: Donation/202003209204034180
+transaction-id: VVC89QK55Z9
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 2.7
+contribution-receipt-date: 2021-10-07 00:00:00
+contributor-aggregate-ytd: 2.7
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: MARCUS
+contributor-last-name: DIGGS
+contributor-name: DIGGS, MARCUS
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 5 HICKORY HILL DR
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1594564
+filing-form: F3X
+image-number: 202205149504019330
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4051620221486556000
+load-date: 2022-06-17 07:58:39.616
+memo-text: EARMARKED FOR FRIENDS OF BERNIE SANDERS (C00411330)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202205149504019328
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: YE
+report-year: 2021
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4061520221509937000
+tags: Donation
+title: Donation/202205149504019330
+transaction-id: SA11AI_411603708
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

@@ -1,0 +1,41 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 15
+contribution-receipt-date: 2016-03-30 00:00:00
+contributor-aggregate-ytd: 15
+contributor-city: ANDOVER
+contributor-employer: FRONTIER COMMUNICATIONS
+contributor-first-name: MICHAEL
+contributor-last-name: GREENHOUSE
+contributor-name: GREENHOUSE, MICHAEL
+contributor-occupation: TELECOMMUNICATIONS TECHNICIAN
+contributor-state: CT
+contributor-street-1: 155 HEBRON RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1147747
+filing-form: F3X
+image-number: 201702069042772540
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4020820171369945000
+load-date: 2017-05-31 13:27:14.31838
+memo-text: EARMARKED FOR BERNIE 2016 (C00577130)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201702069042772532
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M4
+report-year: 2016
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4030820171376984000
+tags: Donation
+title: Donation/201702069042772540
+transaction-id: SA11AI_44371506
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 25
+contribution-receipt-date: 2023-12-30 00:00:00
+contributor-aggregate-ytd: 25
+contributor-city: ANDOVER
+contributor-employer: STATE OF CONNECTICUT
+contributor-first-name: CHARLES
+contributor-last-name: CAISSE
+contributor-name: CAISSE, CHARLES
+contributor-occupation: TEACHER
+contributor-state: CT
+contributor-street-1: 184 WHEELING RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1752852
+filing-form: F3X
+image-number: 202401319608912640
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4020120241818221000
+load-date: 2024-02-28 05:26:51
+memo-text: EARMARKED FOR BIDEN VICTORY FUND (C00744946)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202401319608912637
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: YE
+report-year: 2023
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4022720241843706000
+tags: Donation
+title: Donation/202401319608912640
+transaction-id: SA11AI_562221537
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

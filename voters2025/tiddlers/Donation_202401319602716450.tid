@@ -1,0 +1,40 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 0.22
+contribution-receipt-date: 2023-09-23 00:00:00
+contributor-aggregate-ytd: 68.98
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: SANDRA
+contributor-last-name: BEERING
+contributor-name: BEERING, SANDRA
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 35 LAKE RD
+contributor-zip: 062321546
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1751463
+filing-form: F3X
+image-number: 202401319602716450
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4020120241818221000
+load-date: 2024-03-02 03:50:57
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202401319602716438
+receipt-type-full: EARMARKED FOR KEVIN MCCARTHY FOR CONGRESS (C00420935)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: YE
+report-year: 2023
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4022920241865435600
+tags: Donation
+title: Donation/202401319602716450
+transaction-id: AA522C15E474D49B1947
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

@@ -1,0 +1,46 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA11AI
+back-reference-transaction-id: 33252438E
+committee-id: C00000935
+committee-name: DCCC
+contribution-receipt-amount: 10
+contribution-receipt-date: 2020-12-31 00:00:00
+contributor-aggregate-ytd: 201
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: CAROL
+contributor-last-name: BOWEN
+contributor-name: BOWEN, CAROL
+contributor-occupation: UNEMPLOYED
+contributor-state: CT
+contributor-street-1: 173 LAKE RD
+contributor-zip: 062321547
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1506738
+filing-form: F3X
+image-number: 202103309442858720
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4033120211270419000
+load-date: 2021-04-01 06:13:57.166
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW EARMARKED THROUGH ACTBLUE
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202103309442858705
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: U
+recipient-committee-type: Y
+report-type: YE
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4040120211274171400
+tags: Donation
+title: Donation/202103309442858720
+transaction-id: 33252438
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 100
+contribution-receipt-date: 2022-11-20 00:00:00
+contributor-aggregate-ytd: 100
+contributor-city: ANDOVER
+contributor-employer: SELF
+contributor-first-name: EILEEN
+contributor-last-name: ROSS
+contributor-name: ROSS, EILEEN
+contributor-occupation: SMALL BUSINESS OWNER
+contributor-state: CT
+contributor-street-1: 92 BEAR SWAMP RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1671120
+filing-form: F3X
+image-number: 202212089553307260
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4120920221633755000
+load-date: 2023-01-05 13:43:41
+memo-text: EARMARKED FOR DEMOCRATIC VICTORY PAC- UNLIMITED (C00753558)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202212089553307251
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: 30G
+report-year: 2022
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4010420231659120600
+tags: Donation
+title: Donation/202212089553307260
+transaction-id: SA11AI_507630609
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

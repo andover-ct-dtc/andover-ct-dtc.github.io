@@ -1,0 +1,50 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+back-reference-schedule-name: SA11AI
+back-reference-transaction-id: VTE6ZFZ3X88E
+committee-id: C00630426
+committee-name: JON OSSOFF FOR CONGRESS
+contribution-receipt-amount: 50
+contribution-receipt-date: 2017-04-05 00:00:00
+contributor-aggregate-ytd: 210
+contributor-city: ANDOVER
+contributor-employer: AETNA
+contributor-first-name: SUSAN
+contributor-id: C00401224
+contributor-last-name: FREIMUTH
+contributor-name: FREIMUTH, SUSAN
+contributor-occupation: MANAGER
+contributor-state: CT
+contributor-street-1: 75 BURNAP BROOK RD
+contributor-zip: 062321205
+election-type: S2017
+election-type-full: SPECIAL
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: SPECIAL
+fec-election-year: 2017
+file-number: 1174331
+filing-form: F3
+image-number: 201707219067083550
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4072120171426356700
+load-date: 2017-08-09 05:35:12.08
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201707219067083560
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: H
+report-type: 12R
+report-year: 2017
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4080820171443428000
+tags: Donation
+title: Donation/201707219067083550
+transaction-id: VTE6ZFZ3X88
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

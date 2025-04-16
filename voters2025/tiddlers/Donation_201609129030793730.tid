@@ -1,0 +1,44 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00580100
+committee-name: DONALD J. TRUMP FOR PRESIDENT, INC.
+contribution-receipt-amount: 217.21
+contribution-receipt-date: 2016-06-06 00:00:00
+contributor-aggregate-ytd: 217.21
+contributor-city: ANDOVER
+contributor-employer: ASSOCIATED DENTAL CARE, LLC
+contributor-first-name: KRISTEN
+contributor-last-name: KILPATRICK
+contributor-name: KILPATRICK, KRISTEN
+contributor-occupation: MANAGING DIRECTOR
+contributor-state: CT
+contributor-street-1: 308 BOSTON HILL ROAD
+contributor-zip: 06232
+election-type: P2016
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2016
+file-number: 1098663
+filing-form: F3P
+image-number: 201609129030793730
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4091320161317007400
+load-date: 2017-05-31 13:27:14.31838
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201609129030793715
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: M7
+report-year: 2016
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4091320161317054500
+tags: Donation
+title: Donation/201609129030793730
+transaction-id: SA17A.640018
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

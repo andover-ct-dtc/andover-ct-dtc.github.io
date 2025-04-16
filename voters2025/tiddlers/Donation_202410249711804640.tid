@@ -1,0 +1,40 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 12.5
+contribution-receipt-date: 2024-10-15 00:00:00
+contributor-aggregate-ytd: 85.72
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: MIKE
+contributor-last-name: KOZIOL
+contributor-name: KOZIOL, MIKE
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 10 OLD FARMS RD
+contributor-zip: 062321028
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1841395
+filing-form: F3X
+image-number: 202410249711804640
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4102520242081500000
+load-date: 2024-11-02 04:39:33
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202410249711804638
+receipt-type-full: EARMARKED FOR TED CRUZ FOR SENATE (C00492785)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: 12G
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4110120241045602300
+tags: Donation
+title: Donation/202410249711804640
+transaction-id: A6EA23126825B491D91D
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 4
+contribution-receipt-date: 2022-07-08 00:00:00
+contributor-aggregate-ytd: 4
+contributor-city: ANDOVER
+contributor-employer: GOODWIN UNIVERSITY
+contributor-first-name: CHARLES
+contributor-last-name: WILCOX
+contributor-name: WILCOX, CHARLES
+contributor-occupation: ADJUNCT PROFESSOR
+contributor-state: CT
+contributor-street-1: 11 ROSE LANE
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1626598
+filing-form: F3X
+image-number: 202208209527031170
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4082420221565996000
+load-date: 2022-09-07 04:22:46.393
+memo-text: EARMARKED FOR DCCC (C00000935)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202208209527031172
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: M8
+report-year: 2022
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4090620221573799000
+tags: Donation
+title: Donation/202208209527031170
+transaction-id: SA11AI_464188381
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

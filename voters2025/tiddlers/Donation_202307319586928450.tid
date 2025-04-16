@@ -1,0 +1,40 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 17.76
+contribution-receipt-date: 2023-06-28 00:00:00
+contributor-aggregate-ytd: 77.76
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: VINCENT
+contributor-last-name: ZUJEWSKI
+contributor-name: ZUJEWSKI, VINCENT
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 28 HEBRON RD
+contributor-zip: 062321310
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1720509
+filing-form: F3X
+image-number: 202307319586928450
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4080120231758587400
+load-date: 2023-08-18 04:25:24
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202307319586928445
+receipt-type-full: EARMARKED FOR MARK LAMB FOR SENATE (C00837476)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: MY
+report-year: 2023
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4081720231794412500
+tags: Donation
+title: Donation/202307319586928450
+transaction-id: A6F1DD4F255034CA8AEC
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

@@ -1,0 +1,40 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 48.93
+contribution-receipt-date: 2024-05-30 00:00:00
+contributor-aggregate-ytd: 48.93
+contributor-city: ANDOVER
+contributor-employer: SELF EMPLOYED
+contributor-first-name: STEVE
+contributor-last-name: LOVELACE
+contributor-name: LOVELACE, STEVE
+contributor-occupation: DENTIST
+contributor-state: CT
+contributor-street-1: 308 BOSTON HILL RD
+contributor-zip: 062321423
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1800865
+filing-form: F3X
+image-number: 202407159655518240
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4071620241973493000
+load-date: 2024-08-01 07:37:15
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202407159655518240
+receipt-type-full: EARMARKED FOR TRUMP NATIONAL COMMITTEE JFC, INC. (C00873893)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: Q2
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4073120241986909000
+tags: Donation
+title: Donation/202407159655518240
+transaction-id: AEE14180B70E94373BDB
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

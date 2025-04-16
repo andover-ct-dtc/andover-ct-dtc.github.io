@@ -1,0 +1,49 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA17A
+back-reference-transaction-id: 8251338E
+committee-id: C00703975
+committee-name: BIDEN FOR PRESIDENT
+contribution-receipt-amount: 10
+contribution-receipt-date: 2020-07-26 00:00:00
+contributor-aggregate-ytd: 220
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: SHEILA
+contributor-id: C00401224
+contributor-last-name: KEARNEY
+contributor-name: KEARNEY, SHEILA
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 68 PINE RIDGE DR
+contributor-zip: 062321029
+election-type: P2020
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2020
+file-number: 1434676
+filing-form: F3P
+image-number: 202008209266533730
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4082220201829540400
+load-date: 2020-08-26 04:23:39.863
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?202008209266533740
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: M8
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4082620201830023700
+tags: Donation
+title: Donation/202008209266533730
+transaction-id: 8251338
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

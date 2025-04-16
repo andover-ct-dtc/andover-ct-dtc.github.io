@@ -1,0 +1,44 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00410233
+committee-name: COURTNEY FOR CONGRESS
+contribution-receipt-amount: 125
+contribution-receipt-date: 2018-06-30 00:00:00
+contributor-aggregate-ytd: 250
+contributor-city: ANDOVER
+contributor-employer: NONE
+contributor-first-name: SUSAN
+contributor-last-name: ENGLAND
+contributor-name: ENGLAND, SUSAN
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 27 BAILEY RD
+contributor-zip: 062321004
+election-type: G2018
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2018
+file-number: 1261469
+filing-form: F3
+image-number: 201809179121722080
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4091720181591028000
+load-date: 2018-09-18 08:10:32.808
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201809179121722083
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: H
+report-type: Q2
+report-year: 2018
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4091720181591051300
+tags: Donation
+title: Donation/201809179121722080
+transaction-id: C22848189
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

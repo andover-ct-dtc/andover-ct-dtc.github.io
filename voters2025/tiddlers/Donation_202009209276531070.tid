@@ -1,0 +1,48 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA18
+back-reference-transaction-id: 9226555
+committee-id: C00703975
+committee-name: BIDEN FOR PRESIDENT
+contribution-receipt-amount: 25
+contribution-receipt-date: 2020-06-21 00:00:00
+contributor-aggregate-ytd: 245
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: SHEILA
+contributor-last-name: KEARNEY
+contributor-name: KEARNEY, SHEILA
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 68 PINE RIDGE DR
+contributor-zip: 062321029
+election-type: P2020
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2020
+file-number: 1440320
+filing-form: F3P
+image-number: 202009209276531070
+is-individual: t
+line-number: 18
+line-number-label: Transfers From Other Authorized Committees
+link-id: 4092220201849202000
+load-date: 2020-09-30 04:31:32.173
+memo-code: X
+memo-text: * BIDEN VICTORY FUND
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?202009209276531078
+receipt-type: 15J
+receipt-type-desc: MEMO (FILER'S % OF CONTRIBUTION GIVEN TO JOIN
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: M9
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4093020201853461500
+tags: Donation
+title: Donation/202009209276531070
+transaction-id: 14079264
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

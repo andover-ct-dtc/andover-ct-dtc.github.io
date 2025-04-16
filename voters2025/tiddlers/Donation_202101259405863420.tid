@@ -1,0 +1,40 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 25
+contribution-receipt-date: 2020-07-15 00:00:00
+contributor-aggregate-ytd: 50
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: JO
+contributor-last-name: POLZUN
+contributor-name: POLZUN, JO
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 121 TOWNSEND RD
+contributor-zip: 062321414
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1490496
+filing-form: F3X
+image-number: 202101259405863420
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4012520212137769500
+load-date: 2021-02-25 14:18:53.611
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202101259405863418
+receipt-type-full: EARMARKED FOR REPUBLICAN NATIONAL COMMITTEE (C00003418)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: Q3
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4022420211186957300
+tags: Donation
+title: Donation/202101259405863420
+transaction-id: AE4D7F16C92AB4DEC991
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

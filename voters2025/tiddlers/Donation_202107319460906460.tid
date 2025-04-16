@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 15
+contribution-receipt-date: 2021-02-22 00:00:00
+contributor-aggregate-ytd: 15
+contributor-city: ANDOVER
+contributor-employer: UNITEDHEALTH GROUP
+contributor-first-name: ELIZABETH
+contributor-last-name: SMITH-FRIES
+contributor-name: SMITH-FRIES, ELIZABETH
+contributor-occupation: SOLUTION ARCHITECT
+contributor-state: CT
+contributor-street-1: 285 BOSTON HILL RD
+contributor-zip: 062321419
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1533121
+filing-form: F3X
+image-number: 202107319460906460
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4080120211324274000
+load-date: 2021-08-26 10:57:33.689
+memo-text: EARMARKED FOR POWERED BY PEOPLE - UNLIMITED (C00731042)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202107319460906456
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: MY
+report-year: 2021
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4082520211346414000
+tags: Donation
+title: Donation/202107319460906460
+transaction-id: SA11AI_376957691
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

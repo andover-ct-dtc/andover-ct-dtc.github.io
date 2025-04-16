@@ -1,0 +1,49 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+back-reference-schedule-name: SA17A
+back-reference-transaction-id: VPF7BQ5R294E
+committee-id: C00577130
+committee-name: BERNIE 2016
+contribution-receipt-amount: 12.5
+contribution-receipt-date: 2016-06-28 00:00:00
+contributor-aggregate-ytd: 225
+contributor-city: ANDOVER
+contributor-employer: NONE
+contributor-first-name: MARTI
+contributor-id: C00401224
+contributor-last-name: HARDISTY
+contributor-name: HARDISTY, MARTI
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 203 BOSTON HILL RD
+contributor-zip: 062321417
+election-type: P2016
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2016
+file-number: 1126927
+filing-form: F3P
+image-number: 201611289037507300
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4112820161351790000
+load-date: 2017-05-31 13:27:14.31838
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201611289037507284
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: M7
+report-year: 2016
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4113020161355758600
+tags: Donation
+title: Donation/201611289037507300
+transaction-id: VPF7BQ5R294
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

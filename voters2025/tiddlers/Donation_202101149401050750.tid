@@ -1,0 +1,40 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 50
+contribution-receipt-date: 2020-05-27 00:00:00
+contributor-aggregate-ytd: 50
+contributor-city: ANDOVER
+contributor-employer: INTERCOMMUNITY
+contributor-first-name: SEAN
+contributor-last-name: MURPHY
+contributor-name: MURPHY, SEAN
+contributor-occupation: DIRECTOR OF IT
+contributor-state: CT
+contributor-street-1: 654 U.S. 6
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1487725
+filing-form: F3X
+image-number: 202101149401050750
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4012020212093836300
+load-date: 2021-02-18 09:08:10.793
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202101149401050759
+receipt-type-full: EARMARKED FOR TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE (C00618371)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: Q2
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4021720211155710500
+tags: Donation
+title: Donation/202101149401050750
+transaction-id: AF621D756E45B48D8AD5
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

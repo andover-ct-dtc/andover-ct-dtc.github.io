@@ -1,0 +1,40 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 50
+contribution-receipt-date: 2020-06-10 00:00:00
+contributor-aggregate-ytd: 100
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: SAMUEL
+contributor-last-name: PRENTICE
+contributor-name: PRENTICE, SAMUEL
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 40 TIMES FARM RD
+contributor-zip: 062321031
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1487725
+filing-form: F3X
+image-number: 202101149401446600
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4012020212093836300
+load-date: 2021-02-18 08:40:07.489
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202101149401446601
+receipt-type-full: EARMARKED FOR TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE (C00618371)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: Q2
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4021720211149242000
+tags: Donation
+title: Donation/202101149401446600
+transaction-id: A079D38EBE2894D52918
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

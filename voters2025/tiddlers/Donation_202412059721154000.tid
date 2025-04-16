@@ -1,0 +1,48 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA11AI
+back-reference-transaction-id: 49177845E
+committee-id: C00659599
+committee-name: PROGRESSIVE TAKEOVER
+contribution-receipt-amount: 5
+contribution-receipt-date: 2024-11-02 00:00:00
+contributor-aggregate-ytd: 290
+contributor-city: ANDOVER
+contributor-employer: MYSELF
+contributor-first-name: SHEILA
+contributor-id: C00401224
+contributor-last-name: KEARNEY
+contributor-name: KEARNEY, SHEILA
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 68 PINE RIDGE DR
+contributor-zip: 062321029
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1856542
+filing-form: F3X
+image-number: 202412059721154000
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4120520241074549000
+load-date: 2025-01-08 03:06:02
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202412059721154000
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: U
+recipient-committee-type: N
+report-type: 30G
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4010720251127321600
+tags: Donation
+title: Donation/202412059721154000
+transaction-id: 49177845
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

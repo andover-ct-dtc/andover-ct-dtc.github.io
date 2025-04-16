@@ -1,0 +1,43 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 50
+contribution-receipt-date: 2020-11-15 00:00:00
+contributor-aggregate-ytd: 300
+contributor-city: ANDOVER
+contributor-employer: ICARE HEALTH MANAGEMENT
+contributor-first-name: MICHAEK
+contributor-id: C00547570
+contributor-last-name: PLAUSSE
+contributor-name: PLAUSSE, MICHAEK
+contributor-occupation: CFO
+contributor-state: CT
+contributor-street-1: 67 STANLEY DR
+contributor-zip: 062321036
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1502683
+filing-form: F3X
+image-number: 202103039435012260
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4030420211199093000
+load-date: 2023-09-27 13:20:46
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202103039435012255
+receipt-type-desc: EARMARKED CONTRIBUTION
+receipt-type-full: EARMARKED FOR PERDUE FOR SENATE (C00547570)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: 30G
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4030420211222038000
+tags: Donation
+title: Donation/202103039435012260
+transaction-id: AC4B449D3AEBA4F16B6F
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00547570

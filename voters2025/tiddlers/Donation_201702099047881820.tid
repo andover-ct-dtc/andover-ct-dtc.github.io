@@ -1,0 +1,41 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 6.25
+contribution-receipt-date: 2016-06-21 00:00:00
+contributor-aggregate-ytd: 6.25
+contributor-city: ANDOVER
+contributor-employer: SELF
+contributor-first-name: JAY
+contributor-last-name: KAMINS
+contributor-name: KAMINS, JAY
+contributor-occupation: DESIGNER
+contributor-state: CT
+contributor-street-1: 104 WEST STREET
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1148378
+filing-form: F3X
+image-number: 201702099047881820
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4021320171370640400
+load-date: 2017-05-31 13:27:14.31838
+memo-text: EARMARKED FOR CATHERINE CORTEZ MASTO FOR SENATE (C00575548)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201702099047881811
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M7
+report-year: 2016
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4033020171389149700
+tags: Donation
+title: Donation/201702099047881820
+transaction-id: SA11AI_51347027
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

@@ -1,0 +1,9 @@
+created: 20250416032414663
+modified: 20250416032449314
+title: $:/_/avl/core/ui/ViewTemplate/title/donation
+type: text/vnd.tiddlywiki
+
+\whitespace trim
+<h2 class="tc-title" title={{$:/language/SystemTiddler/Tooltip}}>
+<span class="tc-system-title-prefix">Donation/</span> <$text text={{{ [<currentTiddler>get[caption]removeprefix[Donation/]] }}} />
+</h2>

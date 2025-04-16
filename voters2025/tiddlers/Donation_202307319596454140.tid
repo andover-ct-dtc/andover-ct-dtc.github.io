@@ -1,0 +1,46 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA17
+back-reference-transaction-id: 10334791E
+committee-id: C00811786
+committee-name: DEMOCRACY DEFENSE FUND
+contribution-receipt-amount: 100
+contribution-receipt-date: 2023-02-28 00:00:00
+contributor-aggregate-ytd: 150
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: MARIA
+contributor-last-name: TULMAN
+contributor-name: TULMAN, MARIA
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 139 HEBRON RD
+contributor-zip: 062321505
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1720553
+filing-form: F3X
+image-number: 202307319596454140
+is-individual: t
+line-number: 17
+line-number-label: Other Federal Receipts (Dividends, Interest, etc.).
+link-id: 4080120231758587400
+load-date: 2023-08-12 04:06:10
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW CONTRIBUTION; IE-ONLY ACCOUNT
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202307319596454154
+receipt-type: 10
+receipt-type-desc: NON-FEDERAL RECEIPT FROM PERSONS
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: MY
+report-year: 2023
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4081120231788033000
+tags: Donation
+title: Donation/202307319596454140
+transaction-id: 10334791
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

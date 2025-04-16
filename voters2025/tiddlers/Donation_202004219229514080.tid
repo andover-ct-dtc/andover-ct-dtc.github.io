@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 25
+contribution-receipt-date: 2020-03-25 00:00:00
+contributor-aggregate-ytd: 75
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: KENNETH
+contributor-last-name: MARCIA
+contributor-name: MARCIA, KENNETH
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 17 LAKESIDE
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1402724
+filing-form: F3X
+image-number: 202004219229514080
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4042020201737355000
+load-date: 2020-05-15 19:51:22.065
+memo-text: EARMARKED FOR DEMOCRATIC NATIONAL COMMITTEE (C00010603)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?202004219229514081
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: M4
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4051420201749483500
+tags: Donation
+title: Donation/202004219229514080
+transaction-id: SA11AI_222176606
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

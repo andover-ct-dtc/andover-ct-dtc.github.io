@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 25
+contribution-receipt-date: 2015-12-31 00:00:00
+contributor-aggregate-ytd: 25
+contributor-city: ANDOVER
+contributor-employer: OTIS ELEVATOR COMPANY
+contributor-first-name: DESIREE
+contributor-last-name: JERRICK
+contributor-name: JERRICK, DESIREE
+contributor-occupation: DBA
+contributor-state: CT
+contributor-street-1: 75 BURNAP BROOK RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1047732
+filing-form: F3X
+image-number: 201602019006075400
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4020320161261468000
+load-date: 2017-05-31 13:27:14.31838
+memo-text: EARMARKED FOR BERNIE 2016 (C00577130)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201602019006075393
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: YE
+report-year: 2015
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4021620161265277000
+tags: Donation
+title: Donation/201602019006075400
+transaction-id: SA11AI_35417174
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

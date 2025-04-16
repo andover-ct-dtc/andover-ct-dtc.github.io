@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 10
+contribution-receipt-date: 2019-07-31 00:00:00
+contributor-aggregate-ytd: 10
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: STANLEY
+contributor-last-name: FUGER
+contributor-name: FUGER, STANLEY
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 86 JUROVATY RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1378435
+filing-form: F3X
+image-number: 202001299169902200
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4020120201686383000
+load-date: 2020-03-05 01:12:14.387
+memo-text: EARMARKED FOR TULSI NOW (C00693713)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?202001299169902204
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: YE
+report-year: 2019
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4030220201224319000
+tags: Donation
+title: Donation/202001299169902200
+transaction-id: SA11AI_169296398
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

@@ -1,0 +1,40 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 0.5
+contribution-receipt-date: 2020-10-22 00:00:00
+contributor-aggregate-ytd: 10
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: MARY
+contributor-last-name: SKINNER
+contributor-name: SKINNER, MARY
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 70 WEST ST
+contributor-zip: 062321715
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1502683
+filing-form: F3X
+image-number: 202103039432100400
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4030420211199093000
+load-date: 2021-03-05 15:44:53.526
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202103039432100420
+receipt-type-full: EARMARKED FOR TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE (C00618371)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: 30G
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4030420211214279000
+tags: Donation
+title: Donation/202103039432100400
+transaction-id: A2989D2A630204DEDA98
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

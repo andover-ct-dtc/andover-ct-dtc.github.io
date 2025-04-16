@@ -1,0 +1,49 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+back-reference-schedule-name: SA11AI
+back-reference-transaction-id: 35334950E
+committee-id: C00264697
+committee-name: FRIENDS OF SHERROD BROWN
+contribution-receipt-amount: 25
+contribution-receipt-date: 2024-09-12 00:00:00
+contributor-aggregate-ytd: 210
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: CATHERINE
+contributor-id: C00401224
+contributor-last-name: GALE
+contributor-name: GALE, CATHERINE
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 45 BIRCH DR
+contributor-zip: 062321203
+election-type: G2024
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2024
+file-number: 1878612
+filing-form: F3
+image-number: 202502259753829730
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4022620251178660000
+load-date: 2025-02-27 03:05:56
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202502259753829730
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: S
+report-type: Q3
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4022620251178720000
+tags: Donation
+title: Donation/202502259753829730
+transaction-id: 35334950
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

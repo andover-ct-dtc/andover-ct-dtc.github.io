@@ -1,0 +1,40 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 10
+contribution-receipt-date: 2022-04-20 00:00:00
+contributor-aggregate-ytd: 12
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: GARY
+contributor-last-name: GILE
+contributor-name: GILE, GARY
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 40 OAK FARMS RD
+contributor-zip: 062321424
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1672779
+filing-form: F3X
+image-number: 202212159565552400
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4121920221637720000
+load-date: 2023-01-13 04:11:00
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202212159565552400
+receipt-type-full: EARMARKED FOR LEORA LEVY FOR U.S. SENATE, INC. (C00804377)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: Q2
+report-year: 2022
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4011220231690922500
+tags: Donation
+title: Donation/202212159565552400
+transaction-id: A4145728A744B4D01AF1
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 25
+contribution-receipt-date: 2024-09-10 00:00:00
+contributor-aggregate-ytd: 50
+contributor-city: ANDOVER
+contributor-employer: KEENE STATE COLLEGE
+contributor-first-name: CHESNEY
+contributor-last-name: MCOMBER
+contributor-name: MCOMBER, CHESNEY
+contributor-occupation: PROFESSOR
+contributor-state: CT
+contributor-street-1: 85 LAKE ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1833806
+filing-form: F3X
+image-number: 202410209703515420
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4102120242075610000
+load-date: 2024-11-01 05:16:20
+memo-text: EARMARKED FOR HARRIS FOR PRESIDENT (C00703975)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202410209703515413
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: M10
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4103120241029567000
+tags: Donation
+title: Donation/202410209703515420
+transaction-id: SA11AI_636025648
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

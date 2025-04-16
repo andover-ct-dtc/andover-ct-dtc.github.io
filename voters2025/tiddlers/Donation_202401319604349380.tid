@@ -1,0 +1,40 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 10.41
+contribution-receipt-date: 2023-12-27 00:00:00
+contributor-aggregate-ytd: 30.82
+contributor-city: ANDOVER
+contributor-employer: MYSTIC LOGISTICS
+contributor-first-name: DEBORAH
+contributor-last-name: CASSELLS
+contributor-name: CASSELLS, DEBORAH
+contributor-occupation: DISPATCHER
+contributor-state: CT
+contributor-street-1: 116 WHEELING RD
+contributor-zip: 062321113
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1751463
+filing-form: F3X
+image-number: 202401319604349380
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4020120241818221000
+load-date: 2024-03-02 03:50:57
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202401319604349371
+receipt-type-full: EARMARKED FOR TRUMP SAVE AMERICA JOINT FUNDRAISING COMMITTEE (C00770941)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: YE
+report-year: 2023
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4022920241864993300
+tags: Donation
+title: Donation/202401319604349380
+transaction-id: AA058714B80164891894
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

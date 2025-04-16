@@ -1,0 +1,41 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 15
+contribution-receipt-date: 2017-09-10 00:00:00
+contributor-aggregate-ytd: 15
+contributor-city: ANDOVER
+contributor-employer: SELF
+contributor-first-name: TODD
+contributor-last-name: ELLER
+contributor-name: ELLER, TODD
+contributor-occupation: DELIVERIES
+contributor-state: CT
+contributor-street-1: 92 MERRITT VALLEY ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1218757
+filing-form: F3X
+image-number: 201804119105650500
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4041220181525803500
+load-date: 2018-05-12 04:34:10.96
+memo-text: EARMARKED FOR GILLIBRAND FOR SENATE (C00413914)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201804119105650493
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M10
+report-year: 2017
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4051120181552736000
+tags: Donation
+title: Donation/201804119105650500
+transaction-id: SA11AI_90628828
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

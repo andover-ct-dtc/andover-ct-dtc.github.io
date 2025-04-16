@@ -1,0 +1,50 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA11AI
+back-reference-transaction-id: VTR35V8ERW4E
+committee-id: C00238865
+committee-name: FRIENDS OF ROSA DELAURO
+contribution-receipt-amount: 250
+contribution-receipt-date: 2021-04-19 00:00:00
+contributor-aggregate-ytd: 250
+contributor-city: ANDOVER
+contributor-employer: PENN GLOBE
+contributor-first-name: MARCIA
+contributor-id: C00401224
+contributor-last-name: LAFEMINA
+contributor-name: LAFEMINA, MARCIA
+contributor-occupation: PRESIDENT
+contributor-state: CT
+contributor-street-1: 120 BUNKER HILL RD
+contributor-zip: 062321301
+election-type: C2022
+election-type-full: CONVENTION
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: CONVENTION
+fec-election-year: 2022
+file-number: 1527079
+filing-form: F3
+image-number: 202107159451416200
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4071620211320722000
+load-date: 2021-07-29 05:00:20.07
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202107159451416180
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: H
+report-type: Q2
+report-year: 2021
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4072920211323077600
+tags: Donation
+title: Donation/202107159451416200
+transaction-id: VTR35V8ERW4
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

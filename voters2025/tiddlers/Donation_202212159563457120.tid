@@ -1,0 +1,40 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 50
+contribution-receipt-date: 2022-02-28 00:00:00
+contributor-aggregate-ytd: 55
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: JAN
+contributor-last-name: NEUMUTH
+contributor-name: NEUMUTH, JAN
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 8 BEAR SWAMP RD
+contributor-zip: 062321102
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1672757
+filing-form: F3X
+image-number: 202212159563457120
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4121920221637720000
+load-date: 2023-01-12 05:40:37
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202212159563457126
+receipt-type-full: EARMARKED FOR JOHN KENNEDY FOR US (C00608398)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: Q1
+report-year: 2022
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4011120231684874000
+tags: Donation
+title: Donation/202212159563457120
+transaction-id: AFCF2803B2A1C424C862
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

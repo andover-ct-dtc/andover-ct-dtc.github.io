@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 1
+contribution-receipt-date: 2013-09-28 00:00:00
+contributor-aggregate-ytd: 4
+contributor-city: ANDOVER
+contributor-employer: NONE
+contributor-first-name: MICHAEL
+contributor-last-name: SANTESE
+contributor-name: SANTESE, MICHAEL
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 120 LONG HILL RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 892784
+filing-form: F3X
+image-number: 13941961223
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4101820131197485000
+load-date: 2017-05-31 17:34:02.953375
+memo-text: CONTRIBUTION TO ACTBLUE
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?13941961223
+receipt-type-full: CONTRIBUTION TO ACT BLUE
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M10
+report-year: 2013
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4031320141207529500
+tags: Donation
+title: Donation/13941961223
+transaction-id: SA11AI_12731588
+two-year-transaction-period: 2014
+type: text/vnd.tiddlywiki

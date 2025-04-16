@@ -1,0 +1,42 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00458828
+committee-name: TEAM GRAHAM, INC.
+contribution-receipt-amount: 100
+contribution-receipt-date: 2020-10-21 00:00:00
+contributor-aggregate-ytd: 300
+contributor-city: ANDOVER
+contributor-first-name: WILLIAM
+contributor-last-name: LARSON
+contributor-name: LARSON, WILLIAM
+contributor-state: CT
+contributor-street-1: 278 LAKE RD
+contributor-zip: 062321709
+election-type: G2020
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2020
+file-number: 1521067
+filing-form: F3
+image-number: 202106189449658340
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4062020211309423000
+load-date: 2021-06-30 05:50:32.311
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202106189449658342
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: S
+report-type: 30G
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4063020211313062400
+tags: Donation
+title: Donation/202106189449658340
+transaction-id: A4AF647136EE149089C6
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

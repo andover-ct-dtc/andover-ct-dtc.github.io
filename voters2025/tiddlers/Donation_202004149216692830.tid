@@ -1,0 +1,44 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00706416
+committee-name: BULLOCK FOR PRESIDENT
+contribution-receipt-amount: 5
+contribution-receipt-date: 2019-11-14 00:00:00
+contributor-aggregate-ytd: 243
+contributor-city: ANDOVER
+contributor-employer: TRAVELERS
+contributor-first-name: EDWARD
+contributor-last-name: BOSK
+contributor-name: BOSK, EDWARD
+contributor-occupation: ANAYST
+contributor-state: CT
+contributor-street-1: 5 WOODSIDE LN
+contributor-zip: 062321529
+election-type: P2020
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2020
+file-number: 1397096
+filing-form: F3P
+image-number: 202004149216692830
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4041420201735644000
+load-date: 2020-04-16 10:23:52.884
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?202004149216692823
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: YE
+report-year: 2019
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4041520201736832500
+tags: Donation
+title: Donation/202004149216692830
+transaction-id: 2026392
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

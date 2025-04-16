@@ -1,0 +1,44 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 10
+contribution-receipt-date: 2015-04-11 00:00:00
+contributor-aggregate-ytd: 10
+contributor-city: ANDOVER
+contributor-employer: NONE
+contributor-first-name: ANNE
+contributor-last-name: VAUGHAN
+contributor-name: VAUGHAN, ANNE
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 55 GILEAD RD
+contributor-zip: 06232
+election-type: R2015
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: RUNOFF
+fec-election-year: 2015
+file-number: 1024737
+filing-form: F3X
+image-number: 201509159002488480
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4091620151251928600
+load-date: 2017-05-31 13:27:14.31838
+memo-text: EARMARKED FOR DEMOCRACY FOR AMERICA (C00370007)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201509159002488483
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: 12R
+report-year: 2015
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4092420151254785000
+tags: Donation
+title: Donation/201509159002488480
+transaction-id: SA11AI_26383774
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

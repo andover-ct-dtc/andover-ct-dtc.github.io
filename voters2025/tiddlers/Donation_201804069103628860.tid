@@ -1,0 +1,41 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 5.6
+contribution-receipt-date: 2017-07-31 00:00:00
+contributor-aggregate-ytd: 30.8
+contributor-city: ANDOVER
+contributor-employer: SELF
+contributor-first-name: TODD
+contributor-last-name: ELLER
+contributor-name: ELLER, TODD
+contributor-occupation: DELIVERIES
+contributor-state: CT
+contributor-street-1: 92 MERRITT VALLEY ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1217370
+filing-form: F3X
+image-number: 201804069103628860
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4041020181525732000
+load-date: 2018-05-09 06:19:15.83
+memo-text: CONTRIBUTION TO ACTBLUE
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201804069103628869
+receipt-type-full: CONTRIBUTION TO ACT BLUE
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M8
+report-year: 2017
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4050820181545431600
+tags: Donation
+title: Donation/201804069103628860
+transaction-id: SA11AI_88065888
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

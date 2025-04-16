@@ -1,0 +1,40 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 5
+contribution-receipt-date: 2020-07-09 00:00:00
+contributor-aggregate-ytd: 5
+contributor-city: ANDOVER
+contributor-employer: AMR
+contributor-first-name: DAVID
+contributor-last-name: ROPER
+contributor-name: ROPER, DAVID
+contributor-occupation: EMS
+contributor-state: CT
+contributor-street-1: 730 EAST ST
+contributor-zip: 062321407
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1490496
+filing-form: F3X
+image-number: 202101259405696420
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4012520212137769500
+load-date: 2021-02-25 14:33:28.4
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202101259405696416
+receipt-type-full: EARMARKED FOR TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE (C00618371)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: Q3
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4022420211184796700
+tags: Donation
+title: Donation/202101259405696420
+transaction-id: AB902960A0C0244FF80A
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

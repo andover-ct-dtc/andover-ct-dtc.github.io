@@ -1,0 +1,46 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00640623
+committee-name: DOUG JONES FOR SENATE COMMITTEE
+contribution-receipt-amount: 50
+contribution-receipt-date: 2018-03-06 00:00:00
+contributor-aggregate-ytd: 250
+contributor-city: ANDOVER
+contributor-employer: TRAVELERS INSURANCE
+contributor-first-name: SCOTT
+contributor-id: C00401224
+contributor-last-name: SAUYET
+contributor-name: SAUYET, SCOTT
+contributor-occupation: COMPUTER PROGRAMER
+contributor-state: CT
+contributor-street-1: 168 BOSTON HILL RD
+contributor-zip: 062321404
+election-type: P2020
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2020
+file-number: 1240277
+filing-form: F3
+image-number: 201806190200435140
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 1062020180036828200
+load-date: 2018-06-22 09:30:08.922
+memo-text: EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201806190200435136
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: S
+report-type: Q1
+report-year: 2018
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 2062120181571072500
+tags: Donation
+title: Donation/201806190200435140
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

@@ -1,0 +1,44 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00193433
+committee-name: EMILY'S LIST
+contribution-receipt-amount: 20
+contribution-receipt-date: 2016-11-09 00:00:00
+contributor-aggregate-ytd: 220
+contributor-city: ANDOVER
+contributor-employer: AETNA
+contributor-first-name: SUSAN
+contributor-last-name: FREIMUTH
+contributor-name: FREIMUTH, SUSAN
+contributor-occupation: MANAGER
+contributor-state: CT
+contributor-street-1: 75 BURNAP BROOK RD.
+contributor-zip: 06232
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1130143
+filing-form: F3X
+image-number: 201612079037688830
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4120720161356742000
+load-date: 2017-05-31 13:27:14.31838
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201612079037688840
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: U
+recipient-committee-org-type: M
+recipient-committee-type: Q
+report-type: 30G
+report-year: 2016
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4121220161357151000
+tags: Donation
+title: Donation/201612079037688830
+transaction-id: 4890957
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

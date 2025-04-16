@@ -1,0 +1,44 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00410233
+committee-name: COURTNEY FOR CONGRESS
+contribution-receipt-amount: 100
+contribution-receipt-date: 2020-09-30 00:00:00
+contributor-aggregate-ytd: 320
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: GERRY
+contributor-last-name: WRIGHT
+contributor-name: WRIGHT, GERRY
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 407 LAKE RD
+contributor-zip: 062321532
+election-type: G2020
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2020
+file-number: 1450508
+filing-form: F3
+image-number: 202010159294423070
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4101620201857655000
+load-date: 2020-11-08 03:54:35.392
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?202010159294423059
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: H
+report-type: Q3
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4110820201893023000
+tags: Donation
+title: Donation/202010159294423070
+transaction-id: 8857233
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

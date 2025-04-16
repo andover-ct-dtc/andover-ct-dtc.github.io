@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 10
+contribution-receipt-date: 2018-03-24 00:00:00
+contributor-aggregate-ytd: 10
+contributor-city: ANDOVER
+contributor-employer: MANCH MANOR
+contributor-first-name: TAWNY
+contributor-last-name: HASSETT
+contributor-name: HASSETT, TAWNY
+contributor-occupation: NURSE
+contributor-state: CT
+contributor-street-1: 4 LAKEVIEW DRIVE
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1225971
+filing-form: F3X
+image-number: 201804209110660640
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4042020181526228000
+load-date: 2018-04-27 02:51:53.637
+memo-text: EARMARKED FOR THE CONNECTICUT DEMOCRATS (C00167320)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201804209110660642
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M4
+report-year: 2018
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4042620181528171500
+tags: Donation
+title: Donation/201804209110660640
+transaction-id: SA11AI_106854003
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

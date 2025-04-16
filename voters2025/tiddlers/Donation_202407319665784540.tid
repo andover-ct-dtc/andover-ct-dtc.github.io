@@ -1,0 +1,44 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00580100
+committee-name: DONALD J. TRUMP FOR PRESIDENT, INC.
+contribution-receipt-amount: 10
+contribution-receipt-date: 2019-01-01 00:00:00
+contributor-aggregate-ytd: 25
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: SABINA
+contributor-last-name: WILSON
+contributor-name: WILSON, SABINA
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 18 LAKEVIEW DR
+contributor-zip: 062321520
+election-type: P2020
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2020
+file-number: 1807207
+filing-form: F3P
+image-number: 202407319665784540
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4073120241981117000
+load-date: 2024-08-15 04:06:01
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202407319665784530
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: Q1
+report-year: 2019
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4081420242012919300
+tags: Donation
+title: Donation/202407319665784540
+transaction-id: SA17A.25109
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

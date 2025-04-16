@@ -1,0 +1,46 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00226522
+committee-name: RICHARD E NEAL FOR CONGRESS COMMITTEE
+contribution-receipt-amount: 250
+contribution-receipt-date: 2015-04-07 00:00:00
+contributor-aggregate-ytd: 250
+contributor-city: ANDOVER
+contributor-employer: HEALTH NEW ENGLAND
+contributor-first-name: JODY RAY
+contributor-last-name: GROSS
+contributor-name: GROSS, JODY RAY MS.
+contributor-occupation: SALES
+contributor-prefix: MS.
+contributor-state: CT
+contributor-street-1: 18 DOGWOOD DRIVE
+contributor-zip: 06232
+election-type: P2016
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2016
+file-number: 1028043
+filing-form: F3
+image-number: 201510149002860670
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4101420151255536600
+load-date: 2017-05-31 13:27:14.31838
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201510149002860671
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+receipt-type-full: CAMPAIGN CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: H
+report-type: Q2
+report-year: 2015
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4101420151255563000
+tags: Donation
+title: Donation/201510149002860670
+transaction-id: SA11AI.45013
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

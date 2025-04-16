@@ -1,0 +1,41 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 2.7
+contribution-receipt-date: 2016-03-31 00:00:00
+contributor-aggregate-ytd: 2.7
+contributor-city: ANDOVER
+contributor-employer: STOP & SHOP
+contributor-first-name: MARTIN
+contributor-last-name: MURDOCK
+contributor-name: MURDOCK, MARTIN
+contributor-occupation: DELI CLERK
+contributor-state: CT
+contributor-street-1: 181 LONG HILL RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1147747
+filing-form: F3X
+image-number: 201702069043076960
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4020820171369945000
+load-date: 2017-05-31 13:27:14.31838
+memo-text: CONTRIBUTION TO ACTBLUE
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201702069043076962
+receipt-type-full: CONTRIBUTION TO ACT BLUE
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M4
+report-year: 2016
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4030820171378814000
+tags: Donation
+title: Donation/201702069043076960
+transaction-id: SA11AI_44804663
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

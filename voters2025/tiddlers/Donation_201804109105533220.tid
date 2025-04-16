@@ -1,0 +1,47 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA12
+back-reference-transaction-id: SA12.536591
+committee-id: C00330894
+committee-name: RYAN FOR CONGRESS, INC.
+contribution-receipt-amount: 25
+contribution-receipt-date: 2018-01-18 00:00:00
+contributor-aggregate-ytd: 25
+contributor-city: ANDOVER
+contributor-employer: INFORMATION REQUESTED PER BEST EFFORTS
+contributor-first-name: RUSSELL
+contributor-last-name: MULLER
+contributor-name: MULLER, RUSSELL
+contributor-occupation: INFORMATION REQUESTED PER BEST EFFORTS
+contributor-state: CT
+contributor-street-1: P.O. BOX 267
+contributor-zip: 062320267
+election-type: P2018
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2018
+file-number: 1218298
+filing-form: F3
+image-number: 201804109105533220
+is-individual: t
+line-number: 12
+line-number-label: Transfers from authorized committees
+link-id: 4041020181525732000
+load-date: 2018-04-12 02:42:15.361
+memo-code: X
+memo-text: TRANSFER FROM TEAM RYAN
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201804109105533225
+receipt-type-full: TRANSFER
+recipient-committee-designation: P
+recipient-committee-type: H
+report-type: Q1
+report-year: 2018
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4041120181525795000
+tags: Donation
+title: Donation/201804109105533220
+transaction-id: SA.533603.9.0034
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

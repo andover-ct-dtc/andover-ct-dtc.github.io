@@ -1,0 +1,43 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00285171
+committee-name: RE-ELECT MCGOVERN COMMITTEE
+contribution-receipt-amount: 250
+contribution-receipt-date: 2015-03-09 00:00:00
+contributor-aggregate-ytd: 250
+contributor-city: ANDOVER
+contributor-first-name: JODY
+contributor-last-name: GROSS
+contributor-middle-name: RAY
+contributor-name: GROSS, JODY RAY
+contributor-state: CT
+contributor-street-1: 18 DOGWOOD DRIVE
+contributor-zip: 06232
+election-type: P2016
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2016
+file-number: 1002364
+filing-form: F3
+image-number: 15970338710
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4041320151241788000
+load-date: 2017-05-31 13:27:14.31838
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?15970338710
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: H
+report-type: Q1
+report-year: 2015
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4041420151241806300
+tags: Donation
+title: Donation/15970338710
+transaction-id: C9731084
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

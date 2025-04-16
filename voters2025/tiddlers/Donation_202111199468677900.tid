@@ -1,0 +1,43 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00042366
+committee-name: DSCC
+contribution-receipt-amount: 100
+contribution-receipt-date: 2021-10-04 00:00:00
+contributor-aggregate-ytd: 500
+contributor-city: ANDOVER
+contributor-employer: NONE
+contributor-first-name: BARBARA
+contributor-last-name: CLOSE
+contributor-name: CLOSE, BARBARA
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 79 GILEAD RD
+contributor-zip: 062321608
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1549336
+filing-form: F3X
+image-number: 202111199468677900
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4112020211378843000
+load-date: 2021-11-25 04:01:00.832
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202111199468677882
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: U
+recipient-committee-type: Y
+report-type: M11
+report-year: 2021
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4112520211379714000
+tags: Donation
+title: Donation/202111199468677900
+transaction-id: 18954313
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

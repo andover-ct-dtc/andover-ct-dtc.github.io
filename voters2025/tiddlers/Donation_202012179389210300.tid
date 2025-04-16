@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 60
+contribution-receipt-date: 2020-10-14 00:00:00
+contributor-aggregate-ytd: 160
+contributor-city: ANDOVER
+contributor-employer: STATE OF CT
+contributor-first-name: RENEE
+contributor-last-name: MCDONALD
+contributor-name: MCDONALD, RENEE
+contributor-occupation: REGISTERED NURSE
+contributor-state: CT
+contributor-street-1: 29 LONG HILL RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1483193
+filing-form: F3X
+image-number: 202012179389210300
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4121920201978218000
+load-date: 2021-02-04 11:18:08
+memo-text: EARMARKED FOR BIDEN FOR PRESIDENT (C00703975)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202012179389210312
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: 12G
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4020320212017059000
+tags: Donation
+title: Donation/202012179389210300
+transaction-id: SA11AI_325422130
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

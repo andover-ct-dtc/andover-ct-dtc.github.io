@@ -1,0 +1,44 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00000935
+committee-name: DCCC
+contribution-receipt-amount: 10
+contribution-receipt-date: 2022-11-28 00:00:00
+contributor-aggregate-ytd: 249
+contributor-city: ANDOVER
+contributor-employer: N/A
+contributor-first-name: CAROL
+contributor-last-name: BOWEN
+contributor-name: BOWEN, CAROL
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 173 LAKE RD
+contributor-zip: 062321547
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1694705
+filing-form: F3X
+image-number: 202303219579576350
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4032120231736692000
+load-date: 2023-03-24 04:06:03
+memo-text: * EARMARKED CONTRIBUTION THROUGH ACTBLUE PAC ON 11/28/2022
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202303219579576350
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: U
+recipient-committee-type: Y
+report-type: 30G
+report-year: 2022
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4032320231737589000
+tags: Donation
+title: Donation/202303219579576350
+transaction-id: 39783943
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

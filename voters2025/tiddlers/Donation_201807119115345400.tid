@@ -1,0 +1,43 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00618371
+committee-name: TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+contribution-receipt-amount: 250
+contribution-receipt-date: 2016-10-27 00:00:00
+contributor-aggregate-ytd: 250
+contributor-city: GLASTONBURY
+contributor-employer: ADAPTIVE P&O
+contributor-first-name: DAVID
+contributor-last-name: HEWETT
+contributor-name: HEWETT, DAVID
+contributor-occupation: PROSTHETIST
+contributor-state: CT
+contributor-street-1: 52 BOSTON HILL RD
+contributor-zip: 06232
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1244097
+filing-form: F3X
+image-number: 201807119115345400
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4071220181575592000
+load-date: 2018-07-13 02:49:22.757
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201807119115345418
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: J
+recipient-committee-type: N
+report-type: 30G
+report-year: 2016
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4071220181575690000
+tags: Donation
+title: Donation/201807119115345400
+transaction-id: SA11AI.1537780
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

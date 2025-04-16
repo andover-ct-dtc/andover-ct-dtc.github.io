@@ -1,0 +1,40 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 10
+contribution-receipt-date: 2020-04-28 00:00:00
+contributor-aggregate-ytd: 10
+contributor-city: ANDOVER
+contributor-employer: COPC
+contributor-first-name: WENDY
+contributor-last-name: VILLAFAE
+contributor-name: VILLAFAE, WENDY
+contributor-occupation: BILLING SPECIALIST
+contributor-state: CT
+contributor-street-1: 10 PINE RIDGE DR
+contributor-zip: 062321029
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1487725
+filing-form: F3X
+image-number: 202101149400411870
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4012020212093836300
+load-date: 2021-02-18 09:07:20.26
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202101149400411879
+receipt-type-full: EARMARKED FOR KEVIN MCCARTHY FOR CONGRESS (C00420935)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: Q2
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4021720211151351000
+tags: Donation
+title: Donation/202101149400411870
+transaction-id: A5696C9395E244381997
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

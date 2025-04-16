@@ -1,0 +1,49 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA17A
+back-reference-transaction-id: 20347283E
+committee-id: C00703975
+committee-name: HARRIS FOR PRESIDENT
+contribution-receipt-amount: 15
+contribution-receipt-date: 2024-09-04 00:00:00
+contributor-aggregate-ytd: 237.5
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: CATHERINE
+contributor-id: C00401224
+contributor-last-name: GALE
+contributor-name: GALE, CATHERINE
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 45 BIRCH DR
+contributor-zip: 062321203
+election-type: G2024
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2024
+file-number: 1833711
+filing-form: F3P
+image-number: 202410209700031260
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4102120242075612000
+load-date: 2024-10-24 04:06:25
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202410209700031274
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: M10
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4102320242079097300
+tags: Donation
+title: Donation/202410209700031260
+transaction-id: 20347283
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

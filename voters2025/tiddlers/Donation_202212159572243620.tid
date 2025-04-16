@@ -1,0 +1,40 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 25
+contribution-receipt-date: 2022-10-21 00:00:00
+contributor-aggregate-ytd: 67
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: NOREEN
+contributor-last-name: LACROIX
+contributor-name: LACROIX, NOREEN
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 123 LONG HILL RD
+contributor-zip: 062321106
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1672789
+filing-form: F3X
+image-number: 202212159572243620
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4122120221644623000
+load-date: 2023-01-19 05:21:37
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202212159572243618
+receipt-type-full: EARMARKED FOR BOLDUC 2022, INC. (C00711010)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: 30G
+report-year: 2022
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4011820231710837000
+tags: Donation
+title: Donation/202212159572243620
+transaction-id: AEA40A2B5D7DC40DC88A
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

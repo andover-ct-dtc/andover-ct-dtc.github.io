@@ -1,0 +1,45 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00575795
+committee-name: HILLARY FOR AMERICA
+contribution-receipt-amount: 250
+contribution-receipt-date: 2016-04-12 00:00:00
+contributor-aggregate-ytd: 250
+contributor-city: ANDOVER
+contributor-employer: ROBINSON & COLE LLP
+contributor-first-name: LINDA
+contributor-last-name: MCDOWELL
+contributor-middle-name: J.
+contributor-name: MCDOWELL, LINDA J.
+contributor-occupation: ATTORNEY
+contributor-state: CT
+contributor-street-1: 35 OLD FARMS RD
+contributor-zip: 062321027
+election-type: P2016
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2016
+file-number: 1091718
+filing-form: F3P
+image-number: 201607309021995230
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4080120161307392000
+load-date: 2017-05-31 13:27:14.31838
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201607309021995232
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: M5
+report-year: 2016
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4080320161308034600
+tags: Donation
+title: Donation/201607309021995230
+transaction-id: C4169156
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

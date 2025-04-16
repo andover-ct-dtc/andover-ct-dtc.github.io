@@ -1,0 +1,44 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00836916
+committee-name: TEAM KENNEDY
+contribution-receipt-amount: 272.55
+contribution-receipt-date: 2024-07-22 00:00:00
+contributor-aggregate-ytd: 272.55
+contributor-city: ANDOVER
+contributor-employer: SELF EMPLOYED
+contributor-first-name: BARBARA
+contributor-last-name: KNIGHT
+contributor-name: KNIGHT, BARBARA
+contributor-occupation: REALTOR
+contributor-state: CT
+contributor-street-1: 37 SHODDY MILL RD
+contributor-zip: 062321213
+election-type: G2024
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2024
+file-number: 1811050
+filing-form: F3P
+image-number: 202408199666440420
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4081920242014125000
+load-date: 2024-08-21 04:06:02
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202408199666440423
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: M8
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4082020242014246000
+tags: Donation
+title: Donation/202408199666440420
+transaction-id: A68A44933CF924AF6958
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

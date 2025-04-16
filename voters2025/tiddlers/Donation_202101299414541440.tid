@@ -1,0 +1,44 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+candidate-id: P80001571
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 25
+contribution-receipt-date: 2020-12-02 00:00:00
+contributor-aggregate-ytd: 482.5
+contributor-city: ANDOVER
+contributor-employer: THE HARTFORD
+contributor-first-name: STEPHEN
+contributor-id: C00580100
+contributor-last-name: DONAHUE
+contributor-name: DONAHUE, STEPHEN
+contributor-occupation: IT/ARCHITECT
+contributor-state: CT
+contributor-street-1: 57 WALES RD
+contributor-zip: 062321221
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1494216
+filing-form: F3X
+image-number: 202101299414541440
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4013120212139291600
+load-date: 2023-09-27 14:07:02
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202101299414541439
+receipt-type-desc: EARMARKED CONTRIBUTION
+receipt-type-full: EARMARKED FOR DONALD J. TRUMP FOR PRESIDENT, INC. (C00580100)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: YE
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4030920211235992000
+tags: Donation
+title: Donation/202101299414541440
+transaction-id: A748EC5870F6A48D6B6B
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00580100

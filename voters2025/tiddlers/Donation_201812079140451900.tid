@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 1.67
+contribution-receipt-date: 2018-11-03 00:00:00
+contributor-aggregate-ytd: 1.67
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: STEVEN
+contributor-last-name: SYLVESTER
+contributor-name: SYLVESTER, STEVEN
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 138 LAKE ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1300352
+filing-form: F3X
+image-number: 201812079140451900
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4120920181620675000
+load-date: 2019-01-08 15:44:35.159
+memo-text: EARMARKED FOR PROGRESSIVE CHANGE CAMPAIGN COMMITTEE (C00458000)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201812079140451891
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: 30G
+report-year: 2018
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4010720191633016000
+tags: Donation
+title: Donation/201812079140451900
+transaction-id: SA11AI_139155071
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

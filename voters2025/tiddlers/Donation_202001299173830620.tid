@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 3
+contribution-receipt-date: 2019-09-12 00:00:00
+contributor-aggregate-ytd: 3
+contributor-city: ANDOVER
+contributor-employer: AMERICAN WELL
+contributor-first-name: MICHAEL
+contributor-last-name: RUSSO
+contributor-name: RUSSO, MICHAEL
+contributor-occupation: CLIENT DIRECTOR
+contributor-state: CT
+contributor-street-1: 26 STANLEY DR
+contributor-zip: 062321036
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1378435
+filing-form: F3X
+image-number: 202001299173830620
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4020120201686383000
+load-date: 2020-03-04 21:32:31.431
+memo-text: EARMARKED FOR FRIENDS OF ANDREW YANG (C00659938)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?202001299173830609
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: YE
+report-year: 2019
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4030220201237344000
+tags: Donation
+title: Donation/202001299173830620
+transaction-id: SA11AI_176660496
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

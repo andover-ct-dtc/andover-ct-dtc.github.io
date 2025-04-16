@@ -1,0 +1,45 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+back-reference-schedule-name: SA17A
+back-reference-transaction-id: VPF7BN9R037E
+committee-id: C00577130
+committee-name: BERNIE 2016
+contribution-receipt-amount: 15
+contribution-receipt-date: 2016-03-31 00:00:00
+contributor-aggregate-ytd: 210
+contributor-city: ANDOVER
+contributor-employer: UNIVERSITY OF CONNECTICUT
+contributor-first-name: ASHLEY
+contributor-last-name: HELTON
+contributor-name: HELTON, ASHLEY
+contributor-occupation: ASSISTANT PROFESSOR
+contributor-state: CT
+contributor-street-1: 77 BEAR SWAMP RD
+contributor-zip: 062321119
+election-type: P2016
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2016
+file-number: 1077404
+filing-form: F3P
+image-number: 201606149017879140
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4061720161299100700
+load-date: 2017-05-31 13:27:14.31838
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201606149017879131
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: M4
+report-year: 2016
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4041820171399814700
+tags: Donation
+title: Donation/201606149017879140
+transaction-id: VPF7BN9R037
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

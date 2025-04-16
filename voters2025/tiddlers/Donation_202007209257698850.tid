@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 5
+contribution-receipt-date: 2020-06-25 00:00:00
+contributor-aggregate-ytd: 30
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: CHARLES
+contributor-last-name: WILCOX
+contributor-name: WILCOX, CHARLES
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 11 ROSE LANE
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1427110
+filing-form: F3X
+image-number: 202007209257698850
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4072120201792258000
+load-date: 2020-08-11 15:24:49.02
+memo-text: EARMARKED FOR BIDEN FOR PRESIDENT (C00703975)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?202007209257698862
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: M7
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4081020201825768400
+tags: Donation
+title: Donation/202007209257698850
+transaction-id: SA11AI_259784620
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

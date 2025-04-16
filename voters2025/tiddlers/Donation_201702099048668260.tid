@@ -1,0 +1,40 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 3.33
+contribution-receipt-date: 2016-07-19 00:00:00
+contributor-aggregate-ytd: 3.33
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: BARBARA
+contributor-last-name: DOPPES
+contributor-name: DOPPES, BARBARA
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 41 KINGSLEY DRIVE APT B4
+contributor-zip: 062321716
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1148387
+filing-form: F3X
+image-number: 201702099048668260
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4061420171409869000
+load-date: 2019-04-12 03:42:13.545
+memo-text: EARMARKED FOR COMMITTEE TO ELECT VAL DEMINGS (C00498980)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201702099048668266
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-year: 2016
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4033020171391412700
+tags: Donation
+title: Donation/201702099048668260
+transaction-id: SA11AI_53099668
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

@@ -1,0 +1,40 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 25
+contribution-receipt-date: 2021-02-28 00:00:00
+contributor-aggregate-ytd: 25
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: VINCENT
+contributor-last-name: ZUJEWSKI
+contributor-name: ZUJEWSKI, VINCENT
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 28 HEBRON RD
+contributor-zip: 062321310
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1552533
+filing-form: F3X
+image-number: 202112209470632300
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4122120211386231300
+load-date: 2022-01-27 11:21:24.491
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202112209470632294
+receipt-type-full: EARMARKED FOR JIM JORDAN FOR CONGRESS (C00416594)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: MY
+report-year: 2021
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4012620221390522000
+tags: Donation
+title: Donation/202112209470632300
+transaction-id: A21A0AC5F56944796A9F
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

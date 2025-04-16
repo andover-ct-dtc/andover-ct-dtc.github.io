@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 30
+contribution-receipt-date: 2021-03-26 00:00:00
+contributor-aggregate-ytd: 155
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: MARIA
+contributor-last-name: TULMAN
+contributor-name: TULMAN, MARIA
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 139 HEBRON RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1533121
+filing-form: F3X
+image-number: 202107319461234980
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4080120211324274000
+load-date: 2021-08-26 11:24:17.75
+memo-text: EARMARKED FOR STOP REPUBLICANS (C00633404)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202107319461234991
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: MY
+report-year: 2021
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4082520211349213700
+tags: Donation
+title: Donation/202107319461234980
+transaction-id: SA11AI_381960813
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

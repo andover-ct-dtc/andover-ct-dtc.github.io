@@ -1,0 +1,47 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00003418
+committee-name: REPUBLICAN NATIONAL COMMITTEE
+contribution-receipt-amount: 75
+contribution-receipt-date: 2020-08-20 00:00:00
+contributor-aggregate-ytd: 270
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: CURTIS
+contributor-last-name: DOWLING
+contributor-middle-name: W.
+contributor-name: DOWLING, CURTIS W. MR.
+contributor-occupation: RETIRED
+contributor-prefix: MR.
+contributor-state: CT
+contributor-street-1: 389 LAKE RD
+contributor-zip: 062321515
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1458288
+filing-form: F3X
+image-number: 202010209297838800
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4102120201882237400
+load-date: 2020-11-20 09:01:29.316
+memo-code: X
+memo-text: BEST EFFORTS UPDATE OF DONOR INFORMATION
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?202010209297838782
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: U
+recipient-committee-type: Y
+report-type: M10
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4111920201957496300
+tags: Donation
+title: Donation/202010209297838800
+transaction-id: 2020M10L11BE0123
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

@@ -1,0 +1,40 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 21.07
+contribution-receipt-date: 2024-03-22 00:00:00
+contributor-aggregate-ytd: 21.07
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: JO ANN
+contributor-last-name: POLZUN
+contributor-name: POLZUN, JO ANN
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 121 TOWNSEND RD
+contributor-zip: 062321414
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1774913
+filing-form: F3X
+image-number: 202404159629947200
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4041620241895800000
+load-date: 2024-04-24 04:52:01
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202404159629947202
+receipt-type-full: EARMARKED FOR TRUMP SAVE AMERICA JOINT FUNDRAISING COMMITTEE (C00770941)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: Q1
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4042320241904065000
+tags: Donation
+title: Donation/202404159629947200
+transaction-id: A5B670D207327466A956
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

@@ -1,0 +1,45 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00637660
+committee-name: FRIENDS OF RANDY WADKINS
+contribution-receipt-amount: 100
+contribution-receipt-date: 2018-04-04 00:00:00
+contributor-aggregate-ytd: 225
+contributor-city: ANDOVER
+contributor-employer: UNIVERSITY OF CONNECTICUT
+contributor-first-name: JAMES
+contributor-last-name: COLE
+contributor-name: COLE, JAMES
+contributor-occupation: PROFESSOR
+contributor-state: CT
+contributor-street-1: 83 SCHOOL ROAD
+contributor-zip: 06232
+election-type: P2018
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2018
+file-number: 1242775
+filing-form: F3
+image-number: 201807099115259070
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4070920181575456000
+load-date: 2018-07-11 02:45:21.305
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201807099115259068
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+receipt-type-full: CROWDPAC DONATION
+recipient-committee-designation: P
+recipient-committee-type: H
+report-type: 12P
+report-year: 2018
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4071020181575500300
+tags: Donation
+title: Donation/201807099115259070
+transaction-id: SA11AI.6479
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

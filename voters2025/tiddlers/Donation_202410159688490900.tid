@@ -1,0 +1,48 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA11AI
+back-reference-transaction-id: SA11AI.125612479
+committee-id: C00873893
+committee-name: TRUMP NATIONAL COMMITTEE JFC, INC.
+contribution-receipt-amount: 100
+contribution-receipt-date: 2024-08-02 00:00:00
+contributor-aggregate-ytd: 247
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: MICHAEL
+contributor-id: C00694323
+contributor-last-name: EMERLING
+contributor-name: EMERLING, MICHAEL
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 50 LAKESIDE DR
+contributor-zip: 06232
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1828532
+filing-form: F3X
+image-number: 202410159688490900
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4101620242069881300
+load-date: 2024-10-19 04:34:42
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202410159688490897
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+receipt-type-full: EARMARKED THROUGH WINRED
+recipient-committee-designation: J
+recipient-committee-type: N
+report-type: Q3
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4101820242074174000
+tags: Donation
+title: Donation/202410159688490900
+transaction-id: SA11AI.125677668
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00694323

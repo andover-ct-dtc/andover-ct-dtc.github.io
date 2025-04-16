@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 10
+contribution-receipt-date: 2024-09-02 00:00:00
+contributor-aggregate-ytd: 110
+contributor-city: ANDOVER
+contributor-employer: AFT CT
+contributor-first-name: KRISTINE
+contributor-last-name: METCALF
+contributor-name: METCALF, KRISTINE
+contributor-occupation: ADMIN ASSNT
+contributor-state: CT
+contributor-street-1: 43 PINE RIDGE DRIVE
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1833806
+filing-form: F3X
+image-number: 202410209703555460
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4102120242075610000
+load-date: 2024-11-01 05:13:55
+memo-text: EARMARKED FOR HARRIS VICTORY FUND (C00744946)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202410209703555451
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: M10
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4103120241029771000
+tags: Donation
+title: Donation/202410209703555460
+transaction-id: SA11AI_631432554
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

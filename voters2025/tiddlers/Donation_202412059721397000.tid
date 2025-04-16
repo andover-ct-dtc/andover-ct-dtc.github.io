@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 50
+contribution-receipt-date: 2024-11-03 00:00:00
+contributor-aggregate-ytd: 50
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: ANNAMARIE
+contributor-last-name: ANDREWS
+contributor-name: ANDREWS, ANNAMARIE
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 335 LAKE RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1857001
+filing-form: F3X
+image-number: 202412059721397000
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4120620241074931000
+load-date: 2024-12-18 03:06:00
+memo-text: EARMARKED FOR FRIENDS OF CHRIS MURPHY (C00492645)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202412059721396993
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: 30G
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4121720241077818000
+tags: Donation
+title: Donation/202412059721397000
+transaction-id: SA11AI_671890759
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

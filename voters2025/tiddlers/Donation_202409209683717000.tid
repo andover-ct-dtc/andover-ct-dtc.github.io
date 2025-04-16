@@ -1,0 +1,49 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA17A
+back-reference-transaction-id: 18692467E
+committee-id: C00703975
+committee-name: HARRIS FOR PRESIDENT
+contribution-receipt-amount: 500
+contribution-receipt-date: 2024-08-22 00:00:00
+contributor-aggregate-ytd: 500
+contributor-city: ANDOVER
+contributor-employer: STATE OF CT
+contributor-first-name: HUGH
+contributor-id: C00401224
+contributor-last-name: BLUMENFELD
+contributor-name: BLUMENFELD, HUGH
+contributor-occupation: PHYSICIAN
+contributor-state: CT
+contributor-street-1: 115 LAKESIDE DR
+contributor-zip: 062321535
+election-type: G2024
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2024
+file-number: 1817925
+filing-form: F3P
+image-number: 202409209683717000
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4092120242041247000
+load-date: 2024-10-02 05:50:00
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202409209683716984
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: M9
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4100120242067626500
+tags: Donation
+title: Donation/202409209683717000
+transaction-id: 18692467
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 15
+contribution-receipt-date: 2020-03-23 00:00:00
+contributor-aggregate-ytd: 45
+contributor-city: ANDOVER
+contributor-employer: BREATHING ROOM YOGA CENTER
+contributor-first-name: HALEY
+contributor-last-name: PROTO
+contributor-name: PROTO, HALEY
+contributor-occupation: MANAGER
+contributor-state: CT
+contributor-street-1: 76 LONG HILL ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1402724
+filing-form: F3X
+image-number: 202004219229858080
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4042020201737355000
+load-date: 2020-05-15 15:17:00.559
+memo-text: EARMARKED FOR BERNIE 2020 (C00696948)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?202004219229858094
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: M4
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4051420201750691300
+tags: Donation
+title: Donation/202004219229858080
+transaction-id: SA11AI_221737177
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

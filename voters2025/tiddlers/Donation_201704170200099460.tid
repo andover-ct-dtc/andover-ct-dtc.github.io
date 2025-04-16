@@ -1,0 +1,48 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00492645
+committee-name: FRIENDS OF CHRIS MURPHY
+contribution-receipt-amount: 50
+contribution-receipt-date: 2017-02-23 00:00:00
+contributor-aggregate-ytd: 250
+contributor-city: ANDOVER
+contributor-employer: AETNA
+contributor-first-name: SUSAN
+contributor-id: C00401224
+contributor-last-name: FREIMUTH
+contributor-name: FREIMUTH, SUSAN
+contributor-occupation: MANAGER
+contributor-state: CT
+contributor-street-1: 75 EURNAP BROOK RD
+contributor-zip: 06232
+election-type: C2018
+election-type-full: CONVENTION
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: CONVENTION
+fec-election-year: 2018
+file-number: 1159969
+filing-form: F3
+image-number: 201704170200099460
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 1102620170035951200
+load-date: 2017-10-27 04:13:14.19
+memo-text: EARMARKED CONTRIBUTION: SEE BELOW
+original-sub-id: 2042420171400295700
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201704170200099448
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: S
+report-type: Q1
+report-year: 2017
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 1102620170035954600
+tags: Donation
+title: Donation/201704170200099460
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

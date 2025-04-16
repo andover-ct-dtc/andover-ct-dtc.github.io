@@ -1,0 +1,48 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+back-reference-schedule-name: SA18
+back-reference-transaction-id: C11051131
+committee-id: C00575795
+committee-name: HILLARY FOR AMERICA
+contribution-receipt-amount: 20
+contribution-receipt-date: 2016-09-17 00:00:00
+contributor-aggregate-ytd: 252
+contributor-city: ANDOVER
+contributor-employer: SELF-EMPLOYED
+contributor-first-name: TODD
+contributor-last-name: ELLER
+contributor-name: ELLER, TODD
+contributor-occupation: SNACK DELIVERIES
+contributor-state: CT
+contributor-street-1: 92 MERRITT VALLEY RD
+contributor-zip: 062321327
+election-type: G2016
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2016
+file-number: 1137625
+filing-form: F3P
+image-number: 201701099041161860
+is-individual: t
+line-number: 18
+line-number-label: Transfers From Other Authorized Committees
+link-id: 4010920171359608000
+load-date: 2017-05-31 13:27:14.31838
+memo-code: X
+memo-text: * HILLARY VICTORY FUND
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201701099041161844
+receipt-type: 15J
+receipt-type-desc: MEMO (FILER'S % OF CONTRIBUTION GIVEN TO JOIN
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: M10
+report-year: 2016
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4011120171366250000
+tags: Donation
+title: Donation/201701099041161860
+transaction-id: C11904574
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

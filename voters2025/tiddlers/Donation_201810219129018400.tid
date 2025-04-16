@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 100
+contribution-receipt-date: 2018-09-19 00:00:00
+contributor-aggregate-ytd: 100
+contributor-city: ANDOVER
+contributor-employer: TOWN OF MANCHESTER
+contributor-first-name: DOUGLAS
+contributor-last-name: MCDONOUGH
+contributor-name: MCDONOUGH, DOUGLAS
+contributor-occupation: LIBRARIAN
+contributor-state: CT
+contributor-street-1: 280 HEBRON ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1277598
+filing-form: F3X
+image-number: 201810219129018400
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4102220181600355300
+load-date: 2018-10-31 14:00:31.32
+memo-text: EARMARKED FOR DSCC (C00042366)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201810219129018404
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M10
+report-year: 2018
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4103020181605522400
+tags: Donation
+title: Donation/201810219129018400
+transaction-id: SA11AI_126697648
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

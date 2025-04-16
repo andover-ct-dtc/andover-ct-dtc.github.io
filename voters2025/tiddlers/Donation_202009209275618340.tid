@@ -1,0 +1,51 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA11AI
+back-reference-transaction-id: SA11C.95108124364285
+committee-id: C00003418
+committee-name: REPUBLICAN NATIONAL COMMITTEE
+contribution-receipt-amount: 100
+contribution-receipt-date: 2020-08-12 00:00:00
+contributor-aggregate-ytd: 305.42
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: MARGARET
+contributor-id: C00694323
+contributor-last-name: HOHENGARTEN
+contributor-middle-name: R.
+contributor-name: HOHENGARTEN, MARGARET R. MS.
+contributor-occupation: RETIRED
+contributor-prefix: MS.
+contributor-state: CT
+contributor-street-1: P.O. BOX 236
+contributor-zip: 062320236
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1440221
+filing-form: F3X
+image-number: 202009209275618340
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4092120201849178600
+load-date: 2020-10-16 04:02:57.983
+memo-text: EARMARKED FROM WINRED
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?202009209275618330
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+receipt-type-full: CONTRIBUTION
+recipient-committee-designation: U
+recipient-committee-type: Y
+report-type: M9
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4101620201857859600
+tags: Donation
+title: Donation/202009209275618340
+transaction-id: SA11A.95133833
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00694323

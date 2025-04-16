@@ -1,0 +1,48 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00547893
+committee-name: ELISE FOR CONGRESS
+contribution-receipt-amount: 75
+contribution-receipt-date: 2024-09-13 00:00:00
+contributor-aggregate-ytd: 210
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: JOSEPH
+contributor-last-name: POLAND
+contributor-middle-name: A.
+contributor-name: POLAND, JOSEPH A. MR. III
+contributor-occupation: RETIRED
+contributor-prefix: MR.
+contributor-state: CT
+contributor-street-1: P.O. BOX 330
+contributor-suffix: III
+contributor-zip: 062320330
+election-type: G2024
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2024
+file-number: 1827062
+filing-form: F3
+image-number: 202410159686070750
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4101520242069565400
+load-date: 2024-10-24 04:06:25
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202410159686070754
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+receipt-type-full: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: H
+report-type: Q3
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4102320242078873600
+tags: Donation
+title: Donation/202410159686070750
+transaction-id: SA11A.1571143
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

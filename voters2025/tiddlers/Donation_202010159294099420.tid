@@ -1,0 +1,49 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA11AI
+back-reference-transaction-id: VVC3HSSPH36E
+committee-id: C00696153
+committee-name: JAIME HARRISON FOR US SENATE
+contribution-receipt-amount: 25
+contribution-receipt-date: 2020-09-16 00:00:00
+contributor-aggregate-ytd: 250
+contributor-city: ANDOVER
+contributor-employer: SELF-EMPLOYED
+contributor-first-name: BRIAN
+contributor-id: C00401224
+contributor-last-name: RUFINI
+contributor-name: RUFINI, BRIAN
+contributor-occupation: MADICAL SALES
+contributor-state: CT
+contributor-street-1: 212 GILEAD RD
+contributor-zip: 062321603
+election-type: G2020
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2020
+file-number: 1449356
+filing-form: F3
+image-number: 202010159294099420
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4101620201857654300
+load-date: 2020-12-05 04:02:15.006
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?202010159294099417
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: S
+report-type: Q3
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4120520201965826000
+tags: Donation
+title: Donation/202010159294099420
+transaction-id: VVC3HSSPH36
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

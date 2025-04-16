@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 2
+contribution-receipt-date: 2023-07-19 00:00:00
+contributor-aggregate-ytd: 2
+contributor-city: ANDOVER
+contributor-employer: RANDSTAD USA
+contributor-first-name: BARBARA
+contributor-last-name: DOPPES
+contributor-name: DOPPES, BARBARA
+contributor-occupation: WAREHOUSE ASSOCIATE
+contributor-state: CT
+contributor-street-1: 1339 TOLLAND TURNPIKE
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1752852
+filing-form: F3X
+image-number: 202401319609496200
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4020120241818221000
+load-date: 2024-02-28 03:16:22
+memo-text: CONTRIBUTION TO ACTBLUE
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202401319609496205
+receipt-type-full: CONTRIBUTION TO ACT BLUE
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: YE
+report-year: 2023
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4022720241828011500
+tags: Donation
+title: Donation/202401319609496200
+transaction-id: SA11AI_537602637
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

@@ -1,0 +1,46 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00035683
+committee-name: RAYTHEON TECHNOLOGIES CORPORATION PAC (FORMERLY UTC PAC)
+contribution-receipt-amount: 30
+contribution-receipt-date: 2019-09-30 00:00:00
+contributor-aggregate-ytd: 270
+contributor-city: ANDOVER
+contributor-employer: CLIMATE CONTROLS & SECURITY
+contributor-first-name: DOUGLAS
+contributor-last-name: SMITH
+contributor-middle-name: C
+contributor-name: SMITH, DOUGLAS C
+contributor-occupation: EH&S GNRLIST - EXEC
+contributor-state: CT
+contributor-street-1: 86 WINDRUSH LANE
+contributor-zip: 062321610
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1359776
+filing-form: F3X
+image-number: 201910189165055040
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4101820191674584600
+load-date: 2019-10-25 04:12:00.82
+memo-text: P/R DEDUCTION ($15.00 SEMI-MONTHLY)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201910189165055031
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: B
+recipient-committee-org-type: C
+recipient-committee-type: Q
+report-type: M10
+report-year: 2019
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4102420191675327500
+tags: Donation
+title: Donation/201910189165055040
+transaction-id: PR1143842867154
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 1
+contribution-receipt-date: 2022-07-02 00:00:00
+contributor-aggregate-ytd: 9.5
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: DESIREE
+contributor-last-name: JERRICK
+contributor-name: JERRICK, DESIREE
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 75 BURNAP BROOK RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1626598
+filing-form: F3X
+image-number: 202208209526347870
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4082420221565996000
+load-date: 2022-09-07 03:57:49.642
+memo-text: CONTRIBUTION TO ACTBLUE
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202208209526347860
+receipt-type-full: CONTRIBUTION TO ACT BLUE
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: M8
+report-year: 2022
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4090620221570425000
+tags: Donation
+title: Donation/202208209526347870
+transaction-id: SA11AI_462950015
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

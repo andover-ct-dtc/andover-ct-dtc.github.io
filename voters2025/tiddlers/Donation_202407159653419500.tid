@@ -1,0 +1,49 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA11AI
+back-reference-transaction-id: 19626009E
+committee-id: C00492645
+committee-name: FRIENDS OF CHRIS MURPHY
+contribution-receipt-amount: 50
+contribution-receipt-date: 2024-06-30 00:00:00
+contributor-aggregate-ytd: 750
+contributor-city: ANDOVER
+contributor-employer: NATURESCAPE LLC
+contributor-first-name: MARCIE
+contributor-id: C00401224
+contributor-last-name: MINER
+contributor-name: MINER, MARCIE
+contributor-occupation: SELF EMPLOYED
+contributor-state: CT
+contributor-street-1: 80 WEST ST
+contributor-zip: 062321715
+election-type: G2024
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2024
+file-number: 1799198
+filing-form: F3
+image-number: 202407159653419500
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4071520241972990500
+load-date: 2024-07-24 04:06:31
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202407159653419483
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: S
+report-type: Q2
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4072320241978526700
+tags: Donation
+title: Donation/202407159653419500
+transaction-id: 19626009
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

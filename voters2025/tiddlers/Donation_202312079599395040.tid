@@ -1,0 +1,43 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00833392
+committee-name: NIKKI HALEY FOR PRESIDENT INC.
+contribution-receipt-amount: 150
+contribution-receipt-date: 2023-09-20 00:00:00
+contributor-aggregate-ytd: 265
+contributor-city: ANDOVER
+contributor-first-name: WILLIAM
+contributor-last-name: LARSON
+contributor-name: LARSON, WILLIAM
+contributor-state: CT
+contributor-street-1: 278 LAKE RD.
+contributor-zip: 062321709
+election-type: P2024
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2024
+file-number: 1737984
+filing-form: F3P
+image-number: 202312079599395040
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4120820231812122000
+load-date: 2023-12-14 03:07:04
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202312079599395050
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+receipt-type-full: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: Q3
+report-year: 2023
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4121320231812292000
+tags: Donation
+title: Donation/202312079599395040
+transaction-id: SA17A.1655136
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

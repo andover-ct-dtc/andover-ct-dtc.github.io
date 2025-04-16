@@ -1,0 +1,35 @@
+created: 20250416015027546
+modified: 20250416023251369
+tags: 
+title: $:/_/avl/meta/tiddlers/filter2
+type: text/vnd.tiddlywiki
+
+Voter
+Voter/28
+Voter/27
+Voter/9330692
+Voter/277
+Voter/282
+Donation
+Donation/13020471277
+Donation/13940362336
+Donation/202501319752318620
+Donation/202410249714791360
+Donation/202001319184975780a
+Donation/202012049358207000
+Donation/201804059101295330
+Address
+Address/67
+Address/1967
+$:/_/avl/config/ViewTemplateTitleFilters/address
+$:/_/avl/config/ViewTemplateTitleFilters/caption
+$:/_/avl/config/ViewTemplateTitleFilters/voter
+$:/_/avl/core/ui/ViewTemplate/title/caption
+$:/_/avl/core/ui/ViewTemplate/title/address
+$:/_/avl/core/ui/ViewTemplate/title/voter
+$:/_/avl/styles/css
+$:/_/avl/templates/Address
+$:/_/avl/templates/Donation
+$:/_/avl/templates/Voter
+$:/_/avl/templates/donation/no-name
+

@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 28
+contribution-receipt-date: 2022-04-11 00:00:00
+contributor-aggregate-ytd: 38
+contributor-city: ANDOVER
+contributor-employer: HOP ENERGY
+contributor-first-name: CHARLES
+contributor-last-name: CAISSE
+contributor-name: CAISSE, CHARLES
+contributor-occupation: SALESPERSON
+contributor-state: CT
+contributor-street-1: 184 WHEELING ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1597432
+filing-form: F3X
+image-number: 202205239512748500
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4052320221492844000
+load-date: 2022-06-07 03:45:29.581
+memo-text: EARMARKED FOR TIM RYAN FOR OHIO (C00777771)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202205239512748512
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: M5
+report-year: 2022
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4060620221495914000
+tags: Donation
+title: Donation/202205239512748500
+transaction-id: SA11AI_440301289
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

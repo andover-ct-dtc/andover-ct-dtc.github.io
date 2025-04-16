@@ -1,0 +1,40 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 50
+contribution-receipt-date: 2022-02-09 00:00:00
+contributor-aggregate-ytd: 50
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: VINCENT
+contributor-last-name: ZUJEWSKI
+contributor-name: ZUJEWSKI, VINCENT
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 28 HEBRON RD
+contributor-zip: 062321310
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1672757
+filing-form: F3X
+image-number: 202212159563130200
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4121920221637720000
+load-date: 2023-01-12 04:41:44
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202212159563130205
+receipt-type-full: EARMARKED FOR JOHN KENNEDY FOR US (C00608398)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: Q1
+report-year: 2022
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4011120231683856400
+tags: Donation
+title: Donation/202212159563130200
+transaction-id: A9ABB946AF32C47DF884
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

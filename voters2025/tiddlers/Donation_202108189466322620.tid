@@ -1,0 +1,42 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00712257
+committee-name: CUMMINGS FOR CONGRESS
+contribution-receipt-amount: 76
+contribution-receipt-date: 2020-10-24 00:00:00
+contributor-aggregate-ytd: 201
+contributor-city: ANDOVER
+contributor-first-name: JOSEPH
+contributor-last-name: POLAND
+contributor-name: POLAND, JOSEPH
+contributor-state: CT
+contributor-street-1: 300 LAKE RD
+contributor-zip: 06232
+election-type: G2020
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2020
+file-number: 1535169
+filing-form: F3
+image-number: 202108189466322620
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4081920211328399000
+load-date: 2021-08-21 04:52:21.43
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202108189466322610
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: H
+report-type: 30G
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4082120211329751600
+tags: Donation
+title: Donation/202108189466322620
+transaction-id: SA11AI.427156
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

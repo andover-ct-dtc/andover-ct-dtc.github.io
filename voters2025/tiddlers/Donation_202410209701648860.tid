@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 5
+contribution-receipt-date: 2024-09-17 00:00:00
+contributor-aggregate-ytd: 5
+contributor-city: ANDOVER
+contributor-employer: SELF
+contributor-first-name: CARRIE
+contributor-last-name: CROMPTON
+contributor-name: CROMPTON, CARRIE
+contributor-occupation: COPYEDITOR
+contributor-state: CT
+contributor-street-1: 197 HEBRON ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1833806
+filing-form: F3X
+image-number: 202410209701648860
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4102120242075610000
+load-date: 2024-11-01 04:40:42
+memo-text: EARMARKED FOR VINDMAN FOR CONGRESS (C00856955)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202410209701648860
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: M10
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4103120241020093000
+tags: Donation
+title: Donation/202410209701648860
+transaction-id: SA11AI_640009424
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

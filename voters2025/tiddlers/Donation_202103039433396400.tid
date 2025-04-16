@@ -1,0 +1,43 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 15
+contribution-receipt-date: 2020-10-31 00:00:00
+contributor-aggregate-ytd: 1100
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: VINCENT
+contributor-id: C00726117
+contributor-last-name: ZUJEWSKI
+contributor-name: ZUJEWSKI, VINCENT
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 28 HEBRON RD
+contributor-zip: 062321310
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1502683
+filing-form: F3X
+image-number: 202103039433396400
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4030420211199093000
+load-date: 2023-09-27 13:00:47
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202103039433396421
+receipt-type-desc: EARMARKED CONTRIBUTION
+receipt-type-full: EARMARKED FOR KIM KLACIK FOR CONGRESS (C00726117)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: 30G
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4030420211219162000
+tags: Donation
+title: Donation/202103039433396400
+transaction-id: A89B1875EF8E149E0BB9
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00726117

@@ -1,0 +1,45 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00330894
+committee-name: RYAN FOR CONGRESS, INC.
+contribution-receipt-amount: 100
+contribution-receipt-date: 2018-01-31 00:00:00
+contributor-aggregate-ytd: 200
+contributor-city: ANDOVER
+contributor-employer: INFORMATION REQUESTED PER BEST EFFORTS
+contributor-first-name: WILLIAM
+contributor-last-name: LARSON
+contributor-middle-name: J.
+contributor-name: LARSON, WILLIAM J. MR
+contributor-occupation: INFORMATION REQUESTED PER BEST EFFORTS
+contributor-prefix: MR
+contributor-state: CT
+contributor-street-1: 278 LAKE ROAD
+contributor-zip: 062321709
+election-type: P2018
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2018
+file-number: 1218298
+filing-form: F3
+image-number: 201804109105531520
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4041020181525732000
+load-date: 2018-04-12 02:41:46.768
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201804109105531517
+receipt-type-full: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: H
+report-type: Q1
+report-year: 2018
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4041120181525789700
+tags: Donation
+title: Donation/201804109105531520
+transaction-id: SA11A.537356
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

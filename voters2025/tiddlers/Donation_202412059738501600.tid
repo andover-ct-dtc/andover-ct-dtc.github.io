@@ -1,0 +1,49 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA17A
+back-reference-transaction-id: 36165816E
+committee-id: C00703975
+committee-name: HARRIS FOR PRESIDENT
+contribution-receipt-amount: 50
+contribution-receipt-date: 2024-11-03 00:00:00
+contributor-aggregate-ytd: 350
+contributor-city: ANDOVER
+contributor-employer: CCMC
+contributor-first-name: LINDA
+contributor-id: C00401224
+contributor-last-name: CAISSE
+contributor-name: CAISSE, LINDA
+contributor-occupation: ANALYST
+contributor-state: CT
+contributor-street-1: 184 WHEELING RD
+contributor-zip: 062321113
+election-type: G2024
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2024
+file-number: 1858333
+filing-form: F3P
+image-number: 202412059738501600
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4120620241074933000
+load-date: 2024-12-19 03:06:15
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202412059738501589
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: 30G
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4121820241107912700
+tags: Donation
+title: Donation/202412059738501600
+transaction-id: 36165816
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00401224

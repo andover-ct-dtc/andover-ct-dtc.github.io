@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 2.5
+contribution-receipt-date: 2020-08-05 00:00:00
+contributor-aggregate-ytd: 2.5
+contributor-city: ANDOVER
+contributor-employer: UCONN
+contributor-first-name: ANDY
+contributor-last-name: KELLY
+contributor-name: KELLY, ANDY
+contributor-occupation: ENGINEER
+contributor-state: CT
+contributor-street-1: 78 JUROVATY RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1482644
+filing-form: F3X
+image-number: 202012119368518100
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4121520201974019000
+load-date: 2021-01-13 11:49:55.681
+memo-text: EARMARKED FOR FRIENDS OF CHRIS MURPHY (C00492645)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202012119368518107
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: M9
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4011220212069331000
+tags: Donation
+title: Donation/202012119368518100
+transaction-id: SA11AI_273493832
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

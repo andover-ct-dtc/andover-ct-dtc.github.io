@@ -1,0 +1,42 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00075820
+committee-name: NRCC
+contribution-receipt-amount: 41
+contribution-receipt-date: 2014-09-10 00:00:00
+contributor-aggregate-ytd: 241
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: RUSSELL
+contributor-last-name: MULLER
+contributor-middle-name: J.
+contributor-name: MULLER, RUSSELL J. MR.
+contributor-occupation: RETIRED
+contributor-prefix: MR.
+contributor-state: CT
+contributor-street-1: P.O. BOX 267
+contributor-zip: 062320267
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 963039
+filing-form: F3X
+image-number: 14951840402
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4102020141226193400
+load-date: 2017-05-31 17:34:02.953375
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?14951840402
+receipt-type-full: CONTRIBUTION
+recipient-committee-designation: U
+recipient-committee-type: Y
+report-type: M10
+report-year: 2014
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4102120141226280400
+tags: Donation
+title: Donation/14951840402
+transaction-id: SA11.15612266
+two-year-transaction-period: 2014
+type: text/vnd.tiddlywiki

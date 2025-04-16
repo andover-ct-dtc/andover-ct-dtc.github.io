@@ -1,0 +1,47 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA11AI
+back-reference-transaction-id: 8231050E
+committee-id: C00736876
+committee-name: WARNOCK FOR GEORGIA
+contribution-receipt-amount: 50
+contribution-receipt-date: 2022-10-19 00:00:00
+contributor-aggregate-ytd: 925
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: MARIA
+contributor-last-name: TULMAN
+contributor-name: TULMAN, MARIA
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 139 HEBRON RD
+contributor-zip: 062321505
+election-type: G2022
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2022
+file-number: 1697616
+filing-form: F3
+image-number: 202304129580125100
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4041320231738853000
+load-date: 2023-04-14 04:05:58
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202304129580125101
+receipt-type: 15E
+receipt-type-desc: EARMARKED CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: S
+report-type: 12R
+report-year: 2022
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4041320231740589000
+tags: Donation
+title: Donation/202304129580125100
+transaction-id: 8231050
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

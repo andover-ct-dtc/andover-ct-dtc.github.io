@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 50
+contribution-receipt-date: 2016-02-10 00:00:00
+contributor-aggregate-ytd: 100
+contributor-city: ANDOVER
+contributor-employer: SELF EMPLOYED
+contributor-first-name: BRIAN
+contributor-last-name: RUFINI
+contributor-name: RUFINI, BRIAN
+contributor-occupation: MADICAL SALES
+contributor-state: CT
+contributor-street-1: 212 GILEAD ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1056917
+filing-form: F3X
+image-number: 201603209010476100
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4032120161276542000
+load-date: 2017-05-31 13:27:14.31838
+memo-text: EARMARKED FOR BERNIE 2016 (C00577130)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201603209010476099
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M3
+report-year: 2016
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4032920161281010000
+tags: Donation
+title: Donation/201603209010476100
+transaction-id: SA11AI_38544744
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

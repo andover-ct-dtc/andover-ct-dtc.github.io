@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 1
+contribution-receipt-date: 2014-08-22 00:00:00
+contributor-aggregate-ytd: 1
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: JULIA HAVERL
+contributor-last-name: HAVERL
+contributor-name: HAVERL, JULIA HAVERL
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: P. O. BOX 267
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 952738
+filing-form: F3X
+image-number: 14977609753
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4092920141223673000
+load-date: 2017-05-31 17:34:02.953375
+memo-text: CONTRIBUTION TO ACTBLUE
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?14977609753
+receipt-type-full: CONTRIBUTION TO ACT BLUE
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M9
+report-year: 2014
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4100820141224285000
+tags: Donation
+title: Donation/14977609753
+transaction-id: SA11AI_19170657
+two-year-transaction-period: 2014
+type: text/vnd.tiddlywiki

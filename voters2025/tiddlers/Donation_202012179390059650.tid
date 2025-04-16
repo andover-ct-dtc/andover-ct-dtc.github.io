@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 15
+contribution-receipt-date: 2020-10-08 00:00:00
+contributor-aggregate-ytd: 15
+contributor-city: ANDOVER
+contributor-employer: THE VILLAGE FOR FAMILIES AND CHILDREN
+contributor-first-name: REBECCA
+contributor-last-name: ST. LOUIS
+contributor-name: ST. LOUIS, REBECCA
+contributor-occupation: HUMAN SERVICES
+contributor-state: CT
+contributor-street-1: 34 STANLEY DRIVE
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1483193
+filing-form: F3X
+image-number: 202012179390059650
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4121920201978218000
+load-date: 2021-02-04 10:34:40.661
+memo-text: EARMARKED FOR ALEXANDRIA OCASIO-CORTEZ FOR CONGRESS (C00639591)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202012179390059649
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: 12G
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4020320212012205000
+tags: Donation
+title: Donation/202012179390059650
+transaction-id: SA11AI_319746988
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

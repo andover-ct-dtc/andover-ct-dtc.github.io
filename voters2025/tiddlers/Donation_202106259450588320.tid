@@ -1,0 +1,44 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00003418
+committee-name: REPUBLICAN NATIONAL COMMITTEE
+contribution-receipt-amount: 35
+contribution-receipt-date: 2020-11-24 00:00:00
+contributor-aggregate-ytd: 377.25
+contributor-city: ANDOVER
+contributor-employer: SKYLINE BUILDER INS
+contributor-first-name: BOB
+contributor-last-name: MANGILLO
+contributor-name: MANGILLO, BOB
+contributor-occupation: SELF-EMPLOYED
+contributor-state: CT
+contributor-street-1: P.O. BOX 142
+contributor-zip: 062320142
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1521562
+filing-form: F3X
+image-number: 202106259450588320
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4062620211311693000
+load-date: 2021-06-30 05:51:29.493
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202106259450588324
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+receipt-type-full: CONTRIBUTION
+recipient-committee-designation: U
+recipient-committee-type: Y
+report-type: YE
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4063020211317979600
+tags: Donation
+title: Donation/202106259450588320
+transaction-id: SA11A.102773857
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

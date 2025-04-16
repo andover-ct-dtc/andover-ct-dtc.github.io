@@ -1,0 +1,41 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 6
+contribution-receipt-date: 2017-12-16 00:00:00
+contributor-aggregate-ytd: 56
+contributor-city: ANDOVER
+contributor-employer: AMERICAN SCHOOL FOR THE DEAF
+contributor-first-name: ANNA
+contributor-last-name: ANDREWS
+contributor-name: ANDREWS, ANNA
+contributor-occupation: TEACHER
+contributor-state: CT
+contributor-street-1: 335 LAKE RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1224416
+filing-form: F3X
+image-number: 201804179109142750
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4041720181525985000
+load-date: 2018-05-15 03:11:23.788
+memo-text: EARMARKED FOR FRIENDS OF CHRIS MURPHY (C00492645)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201804179109142743
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: YE
+report-year: 2017
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4051420181562209000
+tags: Donation
+title: Donation/201804179109142750
+transaction-id: SA11AI_98740891
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

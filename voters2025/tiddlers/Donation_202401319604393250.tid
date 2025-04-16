@@ -1,0 +1,40 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 9.9
+contribution-receipt-date: 2023-12-29 00:00:00
+contributor-aggregate-ytd: 54.24
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: JO ANN
+contributor-last-name: POLZUN
+contributor-name: POLZUN, JO ANN
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 121 TOWNSEND RD
+contributor-zip: 062321414
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1751463
+filing-form: F3X
+image-number: 202401319604393250
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4020120241818221000
+load-date: 2024-03-02 03:28:44
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202401319604393235
+receipt-type-full: EARMARKED FOR HELLFIRE PAC (C00807412)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: YE
+report-year: 2023
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4022920241863229400
+tags: Donation
+title: Donation/202401319604393250
+transaction-id: A2EBBAB4057CA45769DA
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

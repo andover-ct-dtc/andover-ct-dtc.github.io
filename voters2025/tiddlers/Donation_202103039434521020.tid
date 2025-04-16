@@ -1,0 +1,40 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 50
+contribution-receipt-date: 2020-11-09 00:00:00
+contributor-aggregate-ytd: 150
+contributor-city: ANDOVER
+contributor-employer: MOW
+contributor-first-name: DANNY
+contributor-last-name: STEYNE
+contributor-name: STEYNE, DANNY
+contributor-occupation: PASTOR
+contributor-state: CT
+contributor-street-1: 80 SHODDY MILL RD
+contributor-zip: 062321201
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1502683
+filing-form: F3X
+image-number: 202103039434521020
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4030420211199093000
+load-date: 2021-03-05 14:57:44.736
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202103039434521012
+receipt-type-full: EARMARKED FOR TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE (C00618371)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: 30G
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4030420211212847600
+tags: Donation
+title: Donation/202103039434521020
+transaction-id: A0D7BD7BD2B804940AF6
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

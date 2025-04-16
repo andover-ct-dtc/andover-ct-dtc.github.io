@@ -1,0 +1,45 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+back-reference-schedule-name: SA11AI
+back-reference-transaction-id: 800614E
+committee-id: C00702381
+committee-name: JOHN WALSH FOR COLORADO
+contribution-receipt-amount: 1
+contribution-receipt-date: 2019-04-24 00:00:00
+contributor-aggregate-ytd: 1
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: STEVEN
+contributor-last-name: SYLVESTER
+contributor-name: SYLVESTER, STEVEN
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 138 LAKE RD
+contributor-zip: 062321508
+election-type: P2020
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2020
+file-number: 1349443
+filing-form: F3
+image-number: 201908229163099840
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4082220191664227300
+load-date: 2019-08-24 03:56:00.496
+memo-text: * EARMARKED CONTRIBUTION: SEE BELOW
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201908229163099839
+recipient-committee-designation: P
+recipient-committee-type: S
+report-type: Q2
+report-year: 2019
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4082320191672055000
+tags: Donation
+title: Donation/201908229163099840
+transaction-id: 800614
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

@@ -1,0 +1,48 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+back-reference-schedule-name: SA18
+back-reference-transaction-id: SA18.122675616
+committee-id: C00828541
+committee-name: NEVER SURRENDER, INC.
+contribution-receipt-amount: 0.68
+contribution-receipt-date: 2024-06-30 00:00:00
+contributor-aggregate-ytd: 424.15
+contributor-city: ANDOVER
+contributor-employer: MYSTIC LOGISTICS
+contributor-first-name: DEBORAH
+contributor-last-name: CASSELLS
+contributor-name: CASSELLS, DEBORAH
+contributor-occupation: DISPATCHER
+contributor-state: CT
+contributor-street-1: 116 WHEELING RD
+contributor-zip: 06232
+election-type: P2024
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2024
+file-number: 1810271
+filing-form: F3P
+image-number: 202408159666232450
+is-individual: t
+line-number: 18
+line-number-label: Transfers From Other Authorized Committees
+link-id: 4081620242013422000
+load-date: 2024-08-17 04:07:01
+memo-code: X
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202408159666232463
+receipt-type: 15J
+receipt-type-desc: MEMO (FILER'S % OF CONTRIBUTION GIVEN TO JOIN
+receipt-type-full: JFC TRANSFER: TRUMP NATIONAL COMMITTEE JFC, INC.
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: M7
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4081620242013552600
+tags: Donation
+title: Donation/202408159666232450
+transaction-id: SA18.123510000
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

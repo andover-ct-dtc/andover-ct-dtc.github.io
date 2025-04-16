@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 1
+contribution-receipt-date: 2022-01-14 00:00:00
+contributor-aggregate-ytd: 1
+contributor-city: ANDOVER
+contributor-employer: SELF
+contributor-first-name: CARRIE
+contributor-last-name: CROMPTON
+contributor-name: CROMPTON, CARRIE
+contributor-occupation: COPYEDITOR
+contributor-state: CT
+contributor-street-1: 197 HEBRON ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1571224
+filing-form: F3X
+image-number: 202202209492084380
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4022120221409207300
+load-date: 2022-03-04 03:42:18.382
+memo-text: EARMARKED FOR DCCC (C00000935)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202202209492084373
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: M2
+report-year: 2022
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4030320221454581000
+tags: Donation
+title: Donation/202202209492084380
+transaction-id: SA11AI_426220159
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

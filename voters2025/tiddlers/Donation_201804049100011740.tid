@@ -1,0 +1,41 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 15
+contribution-receipt-date: 2017-04-14 00:00:00
+contributor-aggregate-ytd: 15
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: THOMAS
+contributor-last-name: ANDERSON
+contributor-name: ANDERSON, THOMAS
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 34 WHEELING RD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1216926
+filing-form: F3X
+image-number: 201804049100011740
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4040420181525671400
+load-date: 2018-05-04 03:00:26.666
+memo-text: EARMARKED FOR DCCC (C00000935)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201804049100011742
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M5
+report-year: 2017
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4050320181533553000
+tags: Donation
+title: Donation/201804049100011740
+transaction-id: SA11AI_77134957
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

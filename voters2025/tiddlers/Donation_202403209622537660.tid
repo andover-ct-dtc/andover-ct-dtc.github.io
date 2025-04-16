@@ -1,0 +1,44 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00836916
+committee-name: TEAM KENNEDY
+contribution-receipt-amount: 26.06
+contribution-receipt-date: 2024-02-25 00:00:00
+contributor-aggregate-ytd: 243.87
+contributor-city: ANDOVER
+contributor-employer: ATHENA HOSPICE
+contributor-first-name: STEVEN
+contributor-last-name: BARRETT
+contributor-name: BARRETT, STEVEN
+contributor-occupation: REGISTERED NURSE
+contributor-state: CT
+contributor-street-1: 151 WALES RD
+contributor-zip: 062321224
+election-type: P2024
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2024
+file-number: 1765182
+filing-form: F3P
+image-number: 202403209622537660
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4032020241885318000
+load-date: 2024-03-22 04:06:29
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202403209622537648
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: M3
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4032120241885435400
+tags: Donation
+title: Donation/202403209622537660
+transaction-id: A5684B805038C4F6CB3F
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

@@ -1,0 +1,47 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA18
+back-reference-transaction-id: 27117234
+committee-id: C00703975
+committee-name: BIDEN FOR PRESIDENT
+contribution-receipt-amount: 100
+contribution-receipt-date: 2020-10-14 00:00:00
+contributor-aggregate-ytd: 100
+contributor-city: ANDOVER
+contributor-employer: INFORMATION REQUESTED
+contributor-first-name: LINDA
+contributor-last-name: MCDOWELL
+contributor-middle-name: J
+contributor-name: MCDOWELL, LINDA J
+contributor-occupation: INFORMATION REQUESTED
+contributor-state: CT
+contributor-street-1: 35 OLD FARMS RD
+contributor-zip: 062321027
+election-type: G2020
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2020
+file-number: 1481223
+filing-form: F3P
+image-number: 202012039342473150
+is-individual: t
+line-number: 18
+line-number-label: Transfers From Other Authorized Committees
+link-id: 4120520201964457000
+load-date: 2020-12-11 04:46:17.818
+memo-code: X
+memo-text: * BIDEN VICTORY FUND
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?202012039342473163
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: 30G
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4121120201971705300
+tags: Donation
+title: Donation/202012039342473150
+transaction-id: 28462788
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

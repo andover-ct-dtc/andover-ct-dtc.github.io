@@ -1,0 +1,40 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 52.05
+contribution-receipt-date: 2024-02-13 00:00:00
+contributor-aggregate-ytd: 156.15
+contributor-city: ANDOVER
+contributor-employer: MOUNTAIN OF WORSHIP
+contributor-first-name: DANNY
+contributor-last-name: STEYNE
+contributor-name: STEYNE, DANNY
+contributor-occupation: SENIOR PASTOR
+contributor-state: CT
+contributor-street-1: 80 SHODDY MILL RD
+contributor-zip: 062321201
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1774913
+filing-form: F3X
+image-number: 202404159629010560
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4041620241895800000
+load-date: 2024-04-24 04:29:01
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202404159629010550
+receipt-type-full: EARMARKED FOR TRUMP SAVE AMERICA JOINT FUNDRAISING COMMITTEE (C00770941)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: Q1
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4042320241901014000
+tags: Donation
+title: Donation/202404159629010560
+transaction-id: A5A876DD304384990950
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

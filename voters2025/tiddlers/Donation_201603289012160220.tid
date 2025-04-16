@@ -1,0 +1,46 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00573519
+committee-name: CARSON AMERICA
+contribution-receipt-amount: 25
+contribution-receipt-date: 2015-11-30 00:00:00
+contributor-aggregate-ytd: 260
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: VINCENT
+contributor-last-name: ZUJEWSKI
+contributor-name: ZUJEWSKI, VINCENT
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 28 HEBRON ROAD
+contributor-zip: 062321310
+election-type: P2016
+election-type-full: PRIMARY
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2016
+file-number: 1057553
+filing-form: F3P
+image-number: 201603289012160220
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4032920161277067000
+load-date: 2017-05-31 13:27:14.31838
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201603289012160221
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+receipt-type-full: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: YE
+report-year: 2015
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4032920161281809000
+tags: Donation
+title: Donation/201603289012160220
+transaction-id: SA17.998475
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

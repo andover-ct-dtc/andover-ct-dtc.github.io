@@ -1,0 +1,40 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00000935
+committee-name: DCCC
+contribution-receipt-amount: 75
+contribution-receipt-date: 2016-09-07 00:00:00
+contributor-aggregate-ytd: 281
+contributor-city: ANDOVER
+contributor-employer: N/A
+contributor-first-name: JULIA
+contributor-last-name: HAVERL
+contributor-middle-name: A.
+contributor-name: HAVERL, JULIA A.
+contributor-occupation: UNEMPLOYED
+contributor-state: CT
+contributor-street-1: PO BOX 267
+contributor-zip: 062320267
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1166132
+filing-form: F3X
+image-number: 201706169056559200
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4061620171409939000
+load-date: 2017-06-17 04:45:37.234
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201706169056559197
+recipient-committee-designation: U
+recipient-committee-type: Y
+report-type: M10
+report-year: 2016
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4061620171410025000
+tags: Donation
+title: Donation/201706169056559200
+transaction-id: VT4C3RW65N8
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

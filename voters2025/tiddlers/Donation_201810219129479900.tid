@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 5
+contribution-receipt-date: 2018-09-28 00:00:00
+contributor-aggregate-ytd: 5
+contributor-city: ANDOVER
+contributor-employer: MANSFIELD CT BOARD OF ED.
+contributor-first-name: JANICE
+contributor-last-name: WILCOX
+contributor-name: WILCOX, JANICE
+contributor-occupation: PARAEDUCATOR
+contributor-state: CT
+contributor-street-1: 11 ROSE LANE
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1277598
+filing-form: F3X
+image-number: 201810219129479900
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4102220181600355300
+load-date: 2018-10-31 13:49:16.805
+memo-text: EARMARKED FOR NUTMEG PAC (C00492983)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201810219129479898
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: W
+report-type: M10
+report-year: 2018
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4103020181608023600
+tags: Donation
+title: Donation/201810219129479900
+transaction-id: SA11AI_128273560
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki

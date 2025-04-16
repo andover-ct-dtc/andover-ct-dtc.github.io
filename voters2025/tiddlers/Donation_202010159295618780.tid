@@ -1,0 +1,47 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA12
+back-reference-transaction-id: SA12.23585
+committee-id: C00714865
+committee-name: BETH VAN DUYNE FOR CONGRESS
+contribution-receipt-amount: 24.99
+contribution-receipt-date: 2020-09-26 00:00:00
+contributor-aggregate-ytd: 24.99
+contributor-city: ANDOVER
+contributor-employer: NONE
+contributor-first-name: VINCENT
+contributor-last-name: ZUJEWSKI
+contributor-name: ZUJEWSKI, VINCENT
+contributor-occupation: NONE
+contributor-state: CT
+contributor-street-1: 28 HEBRON ROAD
+contributor-zip: 06232
+election-type: G2020
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: GENERAL
+fec-election-year: 2020
+file-number: 1452541
+filing-form: F3
+image-number: 202010159295618780
+is-individual: t
+line-number: 12
+line-number-label: Transfers from authorized committees
+link-id: 4101620201858578400
+load-date: 2020-12-04 04:32:38.575
+memo-code: X
+memo-text: JFC ATTRIB: TEXAS RELOADED
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?202010159295618790
+receipt-type-full: TRANSFER
+recipient-committee-designation: P
+recipient-committee-type: H
+report-type: Q3
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4120420201964410000
+tags: Donation
+title: Donation/202010159295618780
+transaction-id: SA12.28343
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

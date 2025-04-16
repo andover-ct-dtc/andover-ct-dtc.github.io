@@ -1,0 +1,50 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+back-reference-schedule-name: SA12
+back-reference-transaction-id: SA12.94284179
+committee-id: C00003418
+committee-name: REPUBLICAN NATIONAL COMMITTEE
+contribution-receipt-amount: 8.75
+contribution-receipt-date: 2020-06-23 00:00:00
+contributor-aggregate-ytd: 237.25
+contributor-city: ANDOVER
+contributor-employer: SKYLINE BUILDER INS
+contributor-first-name: BOB
+contributor-last-name: MANGILLO
+contributor-middle-name: A.
+contributor-name: MANGILLO, BOB A. MR.
+contributor-occupation: SELF-EMPLOYED
+contributor-prefix: MR.
+contributor-state: CT
+contributor-street-1: P.O. BOX 142
+contributor-zip: 062320142
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1440221
+filing-form: F3X
+image-number: 202009209275754100
+is-individual: t
+line-number: 12
+line-number-label: Transfers from Authorized Committees
+link-id: 4092120201849178600
+load-date: 2020-10-16 04:32:47.051
+memo-code: X
+memo-text: TRANSFER FROM TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?202009209275754124
+receipt-type: 15J
+receipt-type-desc: MEMO (FILER'S % OF CONTRIBUTION GIVEN TO JOIN
+receipt-type-full: CONTRIBUTION
+recipient-committee-designation: U
+recipient-committee-type: Y
+report-type: M9
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4101620201858272000
+tags: Donation
+title: Donation/202009209275754100
+transaction-id: SA.91113841.1.TM30
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

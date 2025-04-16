@@ -1,0 +1,41 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00401224
+committee-name: ACTBLUE
+contribution-receipt-amount: 12.5
+contribution-receipt-date: 2021-10-28 00:00:00
+contributor-aggregate-ytd: 12.5
+contributor-city: ANDOVER
+contributor-employer: NOT EMPLOYED
+contributor-first-name: PAMELA
+contributor-last-name: WEATHERS
+contributor-name: WEATHERS, PAMELA
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 55 GILEAD ROAD
+contributor-zip: 06232
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1594564
+filing-form: F3X
+image-number: 202205149507833470
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4051620221486556000
+load-date: 2022-06-17 06:02:00.037
+memo-text: EARMARKED FOR BLUMENTHAL FOR CONNECTICUT (C00492991)
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202205149507833466
+receipt-type-full: EARMARK
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: YE
+report-year: 2021
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4061520221511108000
+tags: Donation
+title: Donation/202205149507833470
+transaction-id: SA11AI_414745438
+two-year-transaction-period: 2022
+type: text/vnd.tiddlywiki

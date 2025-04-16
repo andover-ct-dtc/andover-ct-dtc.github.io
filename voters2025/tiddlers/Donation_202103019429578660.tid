@@ -1,0 +1,40 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 0.75
+contribution-receipt-date: 2020-10-06 00:00:00
+contributor-aggregate-ytd: 15
+contributor-city: ANDOVER
+contributor-employer: SELF-EMPLOYED
+contributor-first-name: WLADYSLAW
+contributor-last-name: MIAZGA
+contributor-name: MIAZGA, WLADYSLAW
+contributor-occupation: TILE INSTALLATION
+contributor-state: CT
+contributor-street-1: 44 BIRCH DR
+contributor-zip: 062321202
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1502397
+filing-form: F3X
+image-number: 202103019429578660
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4030220211190415000
+load-date: 2021-03-04 09:04:39.377
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202103019429578666
+receipt-type-full: EARMARKED FOR TRUMP MAKE AMERICA GREAT AGAIN COMMITTEE (C00618371)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: 12G
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4030220211194284500
+tags: Donation
+title: Donation/202103019429578660
+transaction-id: A7ADB6DF987794A029A7
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

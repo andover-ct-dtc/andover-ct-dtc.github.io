@@ -1,0 +1,43 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00580100
+committee-name: DONALD J. TRUMP FOR PRESIDENT, INC.
+contribution-receipt-amount: 42
+contribution-receipt-date: 2020-04-23 00:00:00
+contributor-aggregate-ytd: 84
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: CHRIS
+contributor-last-name: HOULE
+contributor-name: HOULE, CHRIS
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 220 BUNKER HILL RD
+contributor-zip: 06232
+election-type: P2020
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2020
+file-number: 1882706
+filing-form: F3P
+image-number: 202503289754721540
+is-individual: t
+line-number: 17A
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4032920251181687000
+load-date: 2025-04-02 04:05:58
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202503289754721547
+receipt-type-full: EARMARKED THROUGH WINRED [SA17A.4797]
+recipient-committee-designation: P
+recipient-committee-type: P
+report-type: M5
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4040120251182268000
+tags: Donation
+title: Donation/202503289754721540
+transaction-id: SA17A.197503
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

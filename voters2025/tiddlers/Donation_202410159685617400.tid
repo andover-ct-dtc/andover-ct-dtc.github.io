@@ -1,0 +1,43 @@
+amendment-indicator: N
+amendment-indicator-desc: NO CHANGE
+committee-id: C00042366
+committee-name: DSCC
+contribution-receipt-amount: 50
+contribution-receipt-date: 2024-07-31 00:00:00
+contributor-aggregate-ytd: 222.5
+contributor-city: ANDOVER
+contributor-employer: NONE
+contributor-first-name: CATHERINE
+contributor-last-name: GALE
+contributor-name: GALE, CATHERINE
+contributor-occupation: NOT EMPLOYED
+contributor-state: CT
+contributor-street-1: 45 BIRCH DR
+contributor-zip: 062321203
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1826278
+filing-form: F3X
+image-number: 202410159685617400
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4101520242069571000
+load-date: 2024-10-31 04:05:58
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202410159685617396
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: U
+recipient-committee-type: Y
+report-type: M8
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4103020241011365000
+tags: Donation
+title: Donation/202410159685617400
+transaction-id: 25365529
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

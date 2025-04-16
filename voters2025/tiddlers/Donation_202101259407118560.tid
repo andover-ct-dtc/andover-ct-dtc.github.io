@@ -1,0 +1,44 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+candidate-id: S4CO00395
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 8.5
+contribution-receipt-date: 2020-08-19 00:00:00
+contributor-aggregate-ytd: 347
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: NOREEN
+contributor-id: C00492454
+contributor-last-name: LACROIX
+contributor-name: LACROIX, NOREEN
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 123 LONG HILL RD
+contributor-zip: 062321106
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1490496
+filing-form: F3X
+image-number: 202101259407118560
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4012520212137769500
+load-date: 2023-09-27 10:48:45
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202101259407118545
+receipt-type-desc: EARMARKED CONTRIBUTION
+receipt-type-full: EARMARKED FOR CORY GARDNER FOR SENATE (C00492454)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: Q3
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4022420211179696000
+tags: Donation
+title: Donation/202101259407118560
+transaction-id: A475E4165A1F0459FA54
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki
+unused-contbr-id: C00492454

@@ -1,0 +1,46 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00035683
+committee-name: UNITED TECHNOLOGIES CORPORATION POLITICAL ACTION COMMITTEE
+contribution-receipt-amount: 30
+contribution-receipt-date: 2016-09-30 00:00:00
+contributor-aggregate-ytd: 270
+contributor-city: ANDOVER
+contributor-employer: CLIMATE CONTROLS & SECURITY
+contributor-first-name: DOUGLAS
+contributor-last-name: SMITH
+contributor-middle-name: C
+contributor-name: SMITH, DOUGLAS C
+contributor-occupation: VP, WORLDWIDE EH&S
+contributor-state: CT
+contributor-street-1: 86 WINDRUSH LANE
+contributor-zip: 062321610
+election-type: P
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+file-number: 1105177
+filing-form: F3X
+image-number: 201610139032410560
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4101320161340899000
+load-date: 2017-05-31 13:27:14.31838
+memo-text: P/R DEDUCTION ($15.00 SEMI-MONTHLY)
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201610139032410549
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: B
+recipient-committee-org-type: C
+recipient-committee-type: Q
+report-type: M10
+report-year: 2016
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4101320161343692000
+tags: Donation
+title: Donation/201610139032410560
+transaction-id: PR1143842849833
+two-year-transaction-period: 2016
+type: text/vnd.tiddlywiki

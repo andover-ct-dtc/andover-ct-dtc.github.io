@@ -1,0 +1,40 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 37
+contribution-receipt-date: 2020-03-21 00:00:00
+contributor-aggregate-ytd: 79
+contributor-city: ANDOVER
+contributor-employer: RETIRED
+contributor-first-name: SABINA
+contributor-last-name: WILSON
+contributor-name: WILSON, SABINA
+contributor-occupation: RETIRED
+contributor-state: CT
+contributor-street-1: 18 LAKEVIEW DR
+contributor-zip: 062321520
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1485991
+filing-form: F3X
+image-number: 202101079397020770
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4011120212068200000
+load-date: 2021-02-12 04:59:42.309
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202101079397020776
+receipt-type-full: EARMARKED FOR DONALD J. TRUMP FOR PRESIDENT, INC. (C00580100)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: Q1
+report-year: 2020
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4021120211137576400
+tags: Donation
+title: Donation/202101079397020770
+transaction-id: A13CF7C0B2FE24653A0E
+two-year-transaction-period: 2020
+type: text/vnd.tiddlywiki

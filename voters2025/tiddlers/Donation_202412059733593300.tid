@@ -1,0 +1,40 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00694323
+committee-name: WINRED
+contribution-receipt-amount: 10.41
+contribution-receipt-date: 2024-11-06 00:00:00
+contributor-aggregate-ytd: 1251.84
+contributor-city: ANDOVER
+contributor-employer: MYSTIC LOGISTICS
+contributor-first-name: DEBORAH
+contributor-last-name: CASSELLS
+contributor-name: CASSELLS, DEBORAH
+contributor-occupation: DISPATCHER
+contributor-state: CT
+contributor-street-1: 116 WHEELING RD
+contributor-zip: 062321113
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+file-number: 1858245
+filing-form: F3X
+image-number: 202412059733593300
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 4120620241074931000
+load-date: 2024-12-20 03:52:25
+pdf-url: https://docquery.fec.gov/cgi-bin/fecimg/?202412059733593305
+receipt-type-full: EARMARKED FOR REPUBLICAN NATIONAL COMMITTEE (C00003418)
+recipient-committee-designation: U
+recipient-committee-type: V
+report-type: 30G
+report-year: 2024
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 4121920241115507000
+tags: Donation
+title: Donation/202412059733593300
+transaction-id: A22BD3730A33F4943B40
+two-year-transaction-period: 2024
+type: text/vnd.tiddlywiki

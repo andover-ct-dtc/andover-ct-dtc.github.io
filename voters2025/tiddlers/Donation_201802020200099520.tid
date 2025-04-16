@@ -1,0 +1,42 @@
+amendment-indicator: A
+amendment-indicator-desc: ADD
+committee-id: C00411660
+committee-name: COMMITTEE TO ELECT CHRIS MURPHY
+contribution-receipt-amount: 50
+contribution-receipt-date: 2017-12-31 00:00:00
+contributor-aggregate-ytd: 250
+contributor-city: ANDOVER
+contributor-first-name: LINDA
+contributor-last-name: MCDOWELL
+contributor-name: MCDOWELL, LINDA
+contributor-state: CT
+contributor-street-1: 35 OLD FARMS RD
+contributor-zip: 062321027
+election-type: P2018
+election-type-full: CONVENTION
+entity-type: IND
+entity-type-desc: INDIVIDUAL
+fec-election-type-desc: PRIMARY
+fec-election-year: 2018
+file-number: 1207097
+filing-form: F3
+image-number: 201802020200099520
+is-individual: t
+line-number: 11AI
+line-number-label: Contributions From Individuals/Persons Other Than Political Committees
+link-id: 1020520180036287600
+load-date: 2018-02-27 03:47:20.573
+pdf-url: http://docquery.fec.gov/cgi-bin/fecimg/?201802020200099505
+receipt-type: 15
+receipt-type-desc: CONTRIBUTION
+recipient-committee-designation: P
+recipient-committee-type: H
+report-type: YE
+report-year: 2017
+schedule-type: SA
+schedule-type-full: ITEMIZED RECEIPTS
+sub-id: 2022620181515932200
+tags: Donation
+title: Donation/201802020200099520
+two-year-transaction-period: 2018
+type: text/vnd.tiddlywiki
