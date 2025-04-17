@@ -1,0 +1,20 @@
+caption: Committees
+created: 20250416233045636
+modified: 20250417002608895
+tags: TableOfContents
+title: Committee
+type: text/vnd.tiddlywiki
+
+<table class="zebra">
+<tr><th>Committee</th><th style="width: 20em">Persuasion</th></tr>
+<$list filter="[tag[Committee]!has[draft.of]]">
+<tr>
+  <td><$link>{{!!caption}}</$link></td>
+  <td>
+    <$radio field="persuasion" value="Liberal"> Liberal</$radio> &nbsp;
+    <$radio field="persuasion" value="Unknown"> Unknown</$radio>  &nbsp;
+    <$radio field="persuasion" value="Conservative"> Conservative</$radio>  &nbsp;
+  </td>
+</tr>
+</$list>
+</table>

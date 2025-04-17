@@ -1,0 +1,24 @@
+code-body: yes
+created: 20250417000125905
+modified: 20250417000517384
+tags: 
+title: $:/_/avl/templates/donation/no-committee
+type: text/vnd.tiddlywiki
+
+<$let 
+  firstname={{!!contributor-first-name}}
+  lastname={{!!contributor-last-name}}
+  voter={{{ 
+    [tag[Voter]] 
+    :filter[get[first-name]uppercase[]match<firstname>] 
+    :filter[get[last-name]uppercase[]match<lastname>] 
+  }}}
+>
+<$link to=<<currentTiddler>> ><$text text= {{{ [{!!contribution-receipt-date}search-replace:g:regexp[\D],[]addsuffix[000]format:date[MMM DD, YYYY]] }}} /></$link> : <% if [<voter>!match[]] %>
+    <$link to=<<voter>> >{{!!contributor-first-name}} {{!!contributor-last-name}} </$link>
+  <% else %>
+    {{!!contributor-first-name}} {{!!contributor-last-name}}
+<% endif %> :
+<% if [{!!memo-text}!match[]] %> {{!!memo-text}} : <% endif %>
+$<$text text = {{{ [{!!contribution-receipt-amount}fixed[2]] }}} />
+</$let>

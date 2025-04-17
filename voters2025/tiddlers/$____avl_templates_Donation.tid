@@ -1,13 +1,20 @@
 created: 20250415220920692
-modified: 20250416021050478
+modified: 20250417001049001
 tags: $:/tags/ViewTemplate
 title: $:/_/avl/templates/Donation
 type: text/vnd.tiddlywiki
 
 <% if [<currentTiddler>tag[Donation]] %>
 <$let 
-  voter={{{ [tag[Voter]] :filter[get[first-name]uppercase[]match{!!contributor-first-name}] :filter[get[last-name]uppercase[]match{!!contributor-last-name}] }}}
+  firstname={{!!contributor-first-name}}
+  lastname={{!!contributor-last-name}}
+  voter={{{ 
+    [tag[Voter]] 
+    :filter[get[first-name]uppercase[]match<firstname>] 
+    :filter[get[last-name]uppercase[]match<lastname>] 
+  }}}
 >
+
 
 ; Transaction Id
 : {{!!transaction-id}}

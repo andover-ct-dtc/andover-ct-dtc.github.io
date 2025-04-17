@@ -32,6 +32,8 @@ dlcchd-sup: 89.43
 dlccsd-sup: 94.27
 dnc-dem-party-support: 97.78
 dnc-malaise: 32.71
+draft.of: Voter/28
+draft.title: Voter/28
 edu-target: 77.13
 first-name: Scott
 hdsup: 78.74
@@ -43,7 +45,7 @@ m-state: CT
 m-zip4: 1404
 m-zip5: 06232
 middle-name: David
-modified: 20250417024021769
+modified: 20250417024025400
 party: D
 preferred-email: scott@sauyet.com
 preferred-phone: 860-335-2869
@@ -52,7 +54,7 @@ sex: M
 state: CT
 suffix: 
 tags: Voter
-title: Voter/28
+title: Draft of 'Voter/28'
 tnt: 96.08
 type: text/vnd.tiddlywiki
 voter-file-vanid: 28

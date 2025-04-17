@@ -1,0 +1,17 @@
+created: 20250417000718788
+modified: 20250417002217733
+tags: $:/tags/ViewTemplate
+title: $:/_/avl/templates/Committee
+type: text/vnd.tiddlywiki
+
+<% if [<currentTiddler>tag[Committee]] %>
+
+!!! Persuasion: <$view field="persuasion">Unknown</$view>
+
+<ul>
+<$list filter="[tag[Donation]committee-name{!!caption}!sort[contribution-receipt-date]]" >
+<li><$transclude tiddler="$:/_/avl/templates/donation/full" /></li>
+</$list>
+</ul>
+
+<% endif %>

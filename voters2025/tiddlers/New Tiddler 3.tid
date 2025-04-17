@@ -1,0 +1,13 @@
+created: 20250416223748195
+modified: 20250416232720622
+tags: 
+title: New Tiddler 3
+type: text/vnd.tiddlywiki
+
+<$button>Create Committees
+  <$list filter=[tag[Donation]get[committee-name]unique[]]>
+    <$action-sendmessage $message="tm-new-tiddler" title={{{ [<currentTiddler>addprefix[Committee/]] }}} tags="Committee" caption=<<currentTiddler>> />
+  </$list>
+</$button>
+
+
