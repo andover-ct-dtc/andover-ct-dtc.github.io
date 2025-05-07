@@ -21,6 +21,7 @@ caption: Voter/Donald Keener
 choice-support: 73.89
 city: Andover
 clarity-nat-to: 98.96
+created: 20250418022630427
 ct02courtney-support: 95.00
 ct05hayes-support: 
 dga-lamont-support: 90.24
@@ -42,6 +43,8 @@ m-state: CT
 m-zip4: 1416
 m-zip5: 06232
 middle-name: L
+modified: 20250418022630427
+on-dtc: yes
 party: D
 preferred-email: 
 preferred-phone: 717-825-7190

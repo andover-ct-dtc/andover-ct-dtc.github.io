@@ -1,7 +1,7 @@
 created: 20250320022510602
-modified: 20250321014923291
-tags: $:/tags/Global
-title: New Tiddler 1
+modified: 20250503221627382
+tags: $:/tags/Global [[Tech Details]]
+title: Sample Queries
 type: text/vnd.tiddlywiki
 
 \procedure show-filter(flt)

@@ -1,10 +1,10 @@
 caption: Registered Voters
 created: 20241118170010458
-modified: 20250416022932079
+modified: 20250503231435829
 tags: TableOfContents
 title: Voter
 type: text/vnd.tiddlywiki
 
-<div class="multi col12">
-<ul><$list filter="[tag[Voter]!has[draft.of]sort[suffix]sort[first-name]sort[last-name]]"><li><$link>{{!!first-name}} {{!!last-name}} {{!!suffix}}</$link></li></$list></ul>
+<div class="multi col16">
+<ul><$list filter="[tag[Voter]!has[draft.of]sort[suffix]sort[first-name]sort[last-name]]"><li><$link><<score "75%">> {{!!first-name}} {{!!last-name}} {{!!suffix}}</$link></li></$list></ul>
 </div>

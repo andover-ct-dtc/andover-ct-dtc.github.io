@@ -1,7 +1,0 @@
-created: 20250321013916114
-modified: 20250321014900679
-tags: 
-title: New Tiddler 2
-type: text/vnd.tiddlywiki
-
-<<list-links filter:"[tag[Voter]sex[F]party[D]] :filter[get[age]compare::lteq[50]] :filter[get[address-id]addprefix[Address/]street-name[Lake Rd]]" >>

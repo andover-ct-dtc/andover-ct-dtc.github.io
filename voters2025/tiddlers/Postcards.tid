@@ -1,21 +1,5 @@
-created: 20250414012149820
-modified: 20250414035713596
-tags: 
+created: 20250503213039991
+modified: 20250503213049791
+tags: [[Defending Democracy Forum]]
 title: Postcards
 type: text/vnd.tiddlywiki
-
-!! 30 Strong Dem Women Under 25 - 40
-
-<<list-links filter:"[tag[Voter]] :filter[sex[F]] :filter[get[age]compare:number:gteq[25]]  :filter[get[age]compare:number:lteq[40]]  +[!sort[dnc-dem-party-support]] +[first[30]] +[sort[first-name]sort[last-name]]" >>
-
-!! 20 Strong Dem Women 41+
-
-<<list-links filter:"[tag[Voter]] :filter[!contains:text[No Card]] :filter[sex[F]] :filter[get[age]compare:number:gteq[41]] +[!sort[dnc-dem-party-support]] +[first[20]] +[sort[first-name]sort[last-name]]" >>
-
-!! 15 Strong Dem Men Under 25 - 40
-
-<<list-links filter:"[tag[Voter]] :filter[sex[M]] :filter[get[age]compare:number:gteq[25]]  :filter[get[age]compare:number:lteq[40]]  +[!sort[dnc-dem-party-support]] +[first[15]] +[sort[first-name]sort[last-name]]" >>
-
-!! 10 Strong Dem Men 41+
-
-<<list-links filter:"[tag[Voter]] :filter[!contains:text[No Card]] :filter[sex[M]] :filter[get[age]compare:number:gteq[41]] +[!sort[dnc-dem-party-support]] +[first[10]] +[sort[first-name]sort[last-name]]" >>

@@ -1,0 +1,9 @@
+created: 20250503222236981
+modified: 20250503232152379
+tags: $:/tags/Global
+title: $:/_/avl/procedures/score
+type: text/vnd.tiddlywiki
+
+\procedure score(size: "125%")
+<div class="circled" style=`background: rgb(${ [[100]subtract{!!dnc-dem-party-support}] }$%, 0%, ${[{!!dnc-dem-party-support}]}$%); font-size:$(size)$;`><$text text = {{{ [{!!dnc-dem-party-support}multiply[10]round[]divide[10]] }}} /></div>
+\end

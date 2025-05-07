@@ -1,5 +1,5 @@
 created: 20241118192632422
-modified: 20241124182914391
+modified: 20250503233148623
 tags: $:/tags/Stylesheet
 title: $:/_/avl/styles/css
 type: text/vnd.tiddlywiki
@@ -15,4 +15,23 @@ table.zebra {
 .short-number {width: 4em; border: .2em solid <<colour modal-footer-border>>;}
 table.multi {
   td[colspan="5"] {background: #0000ff33; font-size: 150%; font-weight: 600; padding: 1em 1em .5em;}
+}
+
+table.postcards {
+  td.voters {
+    font-size: 90%;
+    ul {column-count: 2; list-style: none;}
+  }
+}
+
+.circled {
+  display: inline-block;
+  width: fit-content;
+  min-width: 2rem;
+  padding: 0.5rem;
+  align-items: center;  
+  justify-content: center;
+  aspect-ratio: 1 / 1;
+  border-radius: 50%;  
+  color: white;
 }

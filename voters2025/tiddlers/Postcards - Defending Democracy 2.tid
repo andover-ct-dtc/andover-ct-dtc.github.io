@@ -1,0 +1,26 @@
+caption: DDF - Postcards 2
+created: 20250418180422464
+modified: 20250503220954817
+skip: 10
+tags: Postcards
+title: Postcards - Defending Democracy 2
+type: text/vnd.tiddlywiki
+
+<$let start = {{!!skip}} >
+<table class="postcards">
+<tr><th></th><th style="width: 12em;">Address</th><th>Resident Voter(s)</th></tr>
+<$list filter="[enlist{$:/_/avl/data/address-scores!!text}butfirst{!!skip}first[10]]" counter="count">
+<tr>
+  <td><$text text={{{ [<start>add<count>] }}} /></td>
+  <td>{{{ [{!!address}] }}}<br/>Andover CT 06232</td>
+  <td class="voters">
+    <ul>
+<$list filter=[tag[Voter]address-id{!!address-id}sort[suffix]sort[first-name]sort[last-name]]>
+      <li><$link>{{!!first-name}} {{!!last-name}}</$link>&nbsp;({{!!sex}}&nbsp;-&nbsp;{{!!age}})</li>
+</$list>
+    </ul>
+  </td>
+</tr>
+</$list>
+</table>
+</$let>

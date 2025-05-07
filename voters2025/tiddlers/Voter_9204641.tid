@@ -21,6 +21,7 @@ caption: Voter/Michael Beckwith
 choice-support: 78.39
 city: Andover
 clarity-nat-to: 94.37
+created: 20250418022050348
 ct02courtney-support: 94.80
 ct05hayes-support: 
 dga-lamont-support: 81.92
@@ -42,6 +43,8 @@ m-state: CT
 m-zip4: 1512
 m-zip5: 06232
 middle-name: Sherman
+modified: 20250418022050348
+on-dtc: yes
 party: D
 preferred-email: 
 preferred-phone: 860-885-9701

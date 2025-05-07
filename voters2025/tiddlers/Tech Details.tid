@@ -1,0 +1,7 @@
+created: 20250503221552778
+modified: 20250503221716736
+tags: TableOfContents
+title: Tech Details
+type: text/vnd.tiddlywiki
+
+<<list-links filter:"[tag<currentTiddler>]">>

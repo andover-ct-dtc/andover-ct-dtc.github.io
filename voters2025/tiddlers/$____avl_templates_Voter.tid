@@ -1,13 +1,15 @@
 created: 20241119024530343
-modified: 20250415231337181
+modified: 20250503232332884
 tags: $:/tags/ViewTemplate
 title: $:/_/avl/templates/Voter
 type: text/vnd.tiddlywiki
 
 <% if [<currentTiddler>tag[Voter]] %>
 
+<div style="float: right;"><<score "150%">></div>
+
 ; Name
-: {{!!first-name}} {{!!last-name}}
+: {{!!first-name}} {{!!last-name}}<% if [{!!on-dtc}match[yes]] %> (DTC Member}<% endif %>
 
 ; Id
 : <$text text={{{ [{!!title}removeprefix[Voter/]] }}} />

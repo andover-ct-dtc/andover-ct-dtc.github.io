@@ -43,7 +43,8 @@ m-state: CT
 m-zip4: 1404
 m-zip5: 06232
 middle-name: David
-modified: 20250417024021769
+modified: 20250503222848472
+on-dtc: yes
 party: D
 preferred-email: scott@sauyet.com
 preferred-phone: 860-335-2869
@@ -58,11 +59,3 @@ type: text/vnd.tiddlywiki
 voter-file-vanid: 28
 zip4: 1404
 zip5: 06232
-
-<$let 
-  first={{{ [{!!first-name}uppercase[]] }}}
-  last={{{ [{!!last-name}uppercase[]] }}} 
-  lib-donation-total = {{{ [tag[Donation]contributor-first-name<first>contributor-last-name<last>!sort[contribution-receipt-date]] :[filter[get[committee-name]addprefixe[Commitee]persuasion[Liberal]] }}}
->
-<<lilst-links filter:"[enlist<lib-donation-total>" >>
-</$let>

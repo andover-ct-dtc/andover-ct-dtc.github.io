@@ -1,6 +1,5 @@
 created: 20231011011938835
-modified: 20241119042230907
-revision: 0
+modified: 20250504140652479
 tags: TableOfContents
 title: Search Voters
 type: text/vnd.tiddlywiki
@@ -12,7 +11,7 @@ type: text/vnd.tiddlywiki
 <h3>Names</h3>
 </$list>
 <div style="margin-left:1em;">
-<li><$link to=<<currentTiddler>>>{{!!caption}}</$link></li></div>
+<li><$link to=<<currentTiddler>>>{{!!caption}}</$link> ({{!!title}})</li></div>
 </$list>
 <br/>
 

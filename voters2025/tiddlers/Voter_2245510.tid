@@ -21,6 +21,7 @@ caption: Voter/Anne Creme
 choice-support: 81.24
 city: Andover
 clarity-nat-to: 95.05
+created: 20250418022228426
 ct02courtney-support: 97.60
 ct05hayes-support: 
 dga-lamont-support: 88.95
@@ -42,6 +43,8 @@ m-state: CT
 m-zip4: 1132
 m-zip5: 06232
 middle-name: Peterson
+modified: 20250504140329606
+on-dtc: yes
 party: D
 preferred-email: 
 preferred-phone: 860-742-8002
