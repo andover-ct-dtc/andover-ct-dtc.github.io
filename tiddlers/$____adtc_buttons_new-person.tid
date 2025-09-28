@@ -1,8 +1,7 @@
 caption: New Person
 created: 20230703182839243
 description: Create a new Person
-modified: 20230906182110433
-revision: 0
+modified: 20250928143624206
 tags: 
 title: $:/_/adtc/buttons/new-person
 type: text/vnd.tiddlywiki
@@ -11,10 +10,14 @@ type: text/vnd.tiddlywiki
 <$action-sendmessage $message="tm-new-tiddler"
   title="New Person"
   tags="Person"
+  address=""
+  avatar=""
   first-name=""
   last-name=""
   email=""
-  party="" />
+  party=""
+  phone=""
+/>
 \end
 
 <$button actions=<<new-person-action>> tooltip={{$:/_/adtc/buttons/new-person!!description}} aria-label={{$:/_/adtc/buttons/new-person!!caption}} >

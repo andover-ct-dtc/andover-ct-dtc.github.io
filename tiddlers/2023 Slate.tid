@@ -1,7 +1,6 @@
 created: 20230823184446659
-modified: 20231110215359988
-revision: 2
-tags: TableOfContents
+modified: 20250928190611253
+tags: 
 title: 2023 Slate
 type: text/vnd.tiddlywiki
 
@@ -21,9 +20,9 @@ These are the candidates for the November 2023 election.  You can also view the 
     <$list filter='[tag[Elected Positions]org-type[elected]]' variable="pos">
       <tr>
          <th>{{{ [<pos>get[title]] }}}</th>
-        <$list filter="[tag[Party]] :filter[all[tiddlers]tag[Candidacy]party<currentTiddler>]" variable="party">
+        <$list filter="[tag[Party]] :filter[all[tiddlers]tag[Candidacy]contest[2023-General]party<currentTiddler>]" variable="party">
           <td class={{{ [<party>get[title]] }}}>
-            <$list filter="[tag[Candidacy]!has[draft.of]party<party>organization<pos>] +[sortsub:string<by-last>]" variable="candidacy"><$list filter="[<candidacy>get[name]]" >
+            <$list filter="[tag[Candidacy]!has[draft.of]contest[2023-General]party<party>organization<pos>] +[sortsub:string<by-last>]" variable="candidacy"><$list filter="[<candidacy>get[name]]" >
               <$transclude $variable="results" candidacy=<<candidacy>> />
               <$link>
                 {{{ [<currentTiddler>] }}} 

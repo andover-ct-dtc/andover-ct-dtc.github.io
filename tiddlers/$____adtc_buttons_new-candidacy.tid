@@ -1,8 +1,7 @@
 caption: New Candidacy
 created: 20230913192337335
 description: Create a new Candidacy
-modified: 20230918012748452
-revision: 0
+modified: 20250928142653024
 tags: 
 title: $:/_/adtc/buttons/new-candidacy
 type: text/vnd.tiddlywiki
@@ -12,7 +11,7 @@ type: text/vnd.tiddlywiki
   title="New candidacy"
   tags="Candidacy"
   caption=""
-  contest="2023-General"
+  contest="2025-General"
   name=""
   organization=""
   party="" />

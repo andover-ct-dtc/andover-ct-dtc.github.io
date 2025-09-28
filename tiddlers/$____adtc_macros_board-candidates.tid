@@ -1,6 +1,5 @@
 created: 20230912194910364
-modified: 20231110180011781
-revision: 0
+modified: 20250928191207996
 tags: $:/tags/Macro
 title: $:/_/adtc/macros/board-candidates
 type: text/vnd.tiddlywiki
@@ -10,18 +9,18 @@ type: text/vnd.tiddlywiki
 <$let title=<<currentTiddler>> >
 <table class="candidates">
   <thead>
-    <tr><$list filter="[tag[Party]] :filter[all[tiddlers]tag[Candidacy]party<currentTiddler>]"><th class={{!!title}}>{{!!title}}</th></$list></tr>
+    <tr><$list filter="[tag[Party]] :filter[all[tiddlers]tag[Candidacy]contest{$:/_/adtc/data/current-contest}party<currentTiddler>]"><th class={{!!title}}>{{!!title}}</th></$list></tr>
   </thead>
   <tbody>
   <tr>
-<$list filter="[tag[Party]] :filter[all[tiddlers]tag[Candidacy]party<currentTiddler>]" variable="party">
+<$list filter="[tag[Party]] :filter[all[tiddlers]tag[Candidacy]contest{$:/_/adtc/data/current-contest}party<currentTiddler>]" variable="party">
     <td class={{{ [<party>get[title]] }}}>
-<$list filter="[tag[Candidacy]!has[draft.of]party<party>organization<title>] +[sortsub:string<by-last>]" variable="candidacy"><$list filter="[<candidacy>get[name]]" variable="person" >
+<$list filter="[tag[Candidacy]!has[draft.of]contest{$:/_/adtc/data/current-contest}party<party>organization<title>] +[sortsub:string<by-last>]" variable="candidacy"><$list filter="[<candidacy>get[name]]" variable="person" >
        <$transclude $variable="results" candidacy=<<candidacy>> />
       <$link>{{{ [<person>] }}} 
          <$list filter="[<person>has[avatar]]"><$image class="mini avatar" source={{{ [<person>get[avatar]] }}} /></$list>
       </$link>
-      <$list filter="[[$:/status/IsReaderMode]!text[yes]]" variable="_"><small><$button><$action-sendmessage $message="tm-edit-tiddler" $param={{{ [tag[Candidacy]name<person>organization<title>] }}} />edit</$button></small></$list><br/>
+      <$list filter="[[$:/status/IsReaderMode]!text[yes]]" variable="_"><small><$button><$action-sendmessage $message="tm-edit-tiddler" $param={{{ [tag[Candidacy]contest{$:/_/adtc/data/current-contest}name<person>organization<title>] }}} />edit</$button></small></$list><br/>
 </$list></$list>
     </td>
 </$list>
