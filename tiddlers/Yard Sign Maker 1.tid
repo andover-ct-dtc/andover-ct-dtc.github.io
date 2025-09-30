@@ -1,0 +1,60 @@
+code-body: yes
+created: 20250930215201653
+creator: CrossEye
+modified: 20250930215203669
+modifier: CrossEye
+tags: $:/tags/Global
+title: Yard Sign Maker 1
+type: text/vnd.tiddlywiki
+
+\whitespace trim
+
+\procedure yard-sign(config)
+<h2>here</h2>
+<$let
+  type=     {{{ [<config>jsonget[type]]  }}}
+  position= {{{ [<config>jsonget[position],[text]]  }}} positionX = {{{ [<config>jsonget[position],[xOffset]] }}}
+  footer=   {{{ [<config>jsonget[footer],[text]]    }}} footerX= {{{ [<config>jsonget[footer],[xOffset]] }}}
+ >
+<div style="background: black; padding: 2em;">
+<svg width="480" height="360" viewBox="0 0 480 360">
+  <style>
+    .footer {font: bold 52px serif; fill: #C02032;}
+    .position {font: 23px sans-serif; fill: #fff;}
+    .name3 {font: bold 50px serif; fill: #fff;}
+  </style>
+  <rect x="0" y="0" width="480" height="360"
+    style=`fill: #C21E37; stroke-width: 1; stroke: #C21E37;`
+  />
+  <rect x="12" y="12" width="456" height="336"
+    style=`fill: #10059F; stroke-width: 1; stroke: #10059F;`
+  />
+  <rect x="12" y="278" width="456" height="70"
+    style=`fill: white; stroke-width: 1; stroke: #white;`
+  />
+  <path fill="#DB0426" stroke="#DB0426" stroke-linejoin="round" stroke-width="5"
+             d="m240,210 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
+  />
+  <rect x="30" y="230" width="160" height="3"
+    style=`fill: #DB0426; stroke-width: 1; stroke: #DB0426;`
+  />
+  <rect x="290" y="230" width="160" height="3"
+    style=`fill: #DB0426; stroke-width: 1; stroke: #DB0426;`
+  />
+  <text x=<<footerX>> y="330" class="footer"><<footer>></text>
+  <text x=<<positionX>> y="265" class="position"><<position>></text>
+
+  <% if [<type>match[3-name]] %>
+    <$let 
+      name1= {{{ [<config>jsonget[names],[0],[name]] }}} name1x = {{{ [<config>jsonget[names],[0],[xOffset]] }}}
+      name2= {{{ [<config>jsonget[names],[1],[name]] }}} name2x = {{{ [<config>jsonget[names],[1],[xOffset]] }}}
+      name3= {{{ [<config>jsonget[names],[2],[name]] }}} name3x = {{{ [<config>jsonget[names],[2],[xOffset]] }}}
+    >
+      <text x=<<name1x>> y="80" class="name3"><<name1>></text>
+      <text x=<<name2x>> y="135" class="name3"><<name2>></text>
+      <text x=<<name3x>> y="190" class="name3"><<name3>></text>
+    </$let>
+  <% endif %>
+</svg>
+</div>
+\end

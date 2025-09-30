@@ -1,7 +1,5 @@
-created: 20210313151934570
-modified: 20230429182124966
-revision: 0
+created: 20250318115359222
+modified: 20250930221147529
 title: $:/layout
-type: text/vnd.tiddlywiki
 
-$:/layout/MoveToTop
+$:/_/adtc/layouts/move-to-top

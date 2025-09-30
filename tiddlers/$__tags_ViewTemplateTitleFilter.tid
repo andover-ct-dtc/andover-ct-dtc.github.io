@@ -1,6 +1,3 @@
-created: 20230830142822879
-list: $:/_/adtc/config/ViewTemplateTitleFilters/voter $:/_/adtc/config/ViewTemplateTitleFilters/address $:/config/ViewTemplateTitleFilters/system $:/_/adtc/config/ViewTemplateTitleFilters/caption $:/config/ViewTemplateTitleFilters/default
-modified: 20231025144932029
-revision: 0
+list: $:/config/ViewTemplateTitleFilters/system $:/_/my/config/ViewTemplateTitleFilters/caption $:/config/ViewTemplateTitleFilters/default
+tags: 
 title: $:/tags/ViewTemplateTitleFilter
-type: text/vnd.tiddlywiki

@@ -2,6 +2,7 @@ caption: New Person
 created: 20230703182839243
 description: Create a new Person
 modified: 20250928143624206
+revision: 0
 tags: 
 title: $:/_/adtc/buttons/new-person
 type: text/vnd.tiddlywiki
