@@ -1,10 +1,9 @@
 created: 20231011001257272
-modified: 20231011003308167
-revision: 0
+modified: 20251001015750942
 title: $:/_/adtc/core/ui/ViewTemplate/title/voter
 type: text/vnd.tiddlywiki
 
 \whitespace trim
 <h2 class="tc-title" title={{$:/language/SystemTiddler/Tooltip}}>
-<span class="tc-system-title-prefix">Voters/</span> <$text text={{{ [<currentTiddler>get[caption]removeprefix[Voters/]] }}} />
+<span class="tc-system-title-prefix"><$text text="$:/AndoverCT/Voter/"/></span> <$text text={{{ [<currentTiddler>get[caption]removeprefix[$:/AndoverCT/Voter/]]  }}} />
 </h2>

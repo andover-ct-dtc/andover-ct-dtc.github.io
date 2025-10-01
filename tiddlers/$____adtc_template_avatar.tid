@@ -1,11 +1,10 @@
 created: 20230823134408314
-modified: 20250928181428944
-revision: 0
+modified: 20251001002422367
 tags: 
 title: $:/_/adtc/template/avatar
 type: text/vnd.tiddlywiki
 
-<$list filter="[<currentTiddler>has[avatar]" variable="_">
+<$list filter="[<currentTiddler>has[avatar]]" variable="_">
 <div class="avatar"><$image source={{{ [<currentTiddler>get[avatar]] }}} /></div>
 {{||$:/core/ui/ViewTemplate/body/default}}
 </$list>

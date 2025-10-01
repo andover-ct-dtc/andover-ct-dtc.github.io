@@ -1,7 +1,0 @@
-created: 20250930215430049
-modified: 20250930215448704
-tags: 
-title: New Tiddler
-type: text/vnd.tiddlywiki
-
-<<test-proc """foo bar""" >>
