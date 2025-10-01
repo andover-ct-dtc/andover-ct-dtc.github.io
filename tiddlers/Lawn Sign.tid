@@ -1,13 +1,12 @@
 caption: Lawn Signs
 created: 20230923215616289
-modified: 20251001030751419
+modified: 20251001172559251
+revision: 0
 tags: Data
 title: Lawn Sign
 type: text/vnd.tiddlywiki
 
-\define sign-link() <td><$link><$transclude $tiddler=<<currentTiddler>> $mode="block"/> </$link></td>
-
-''Note'': //There's some bug in the right column for the new generated signs for 2025.  I'll investigate at some point.//
+\define sign-link() <td><$link><$transclude $tiddler=<<currentTiddler>>/> </$link></td>
 
 <table class="signs">
 <$list filter="[all[tiddlers]] :filter[tag[Lawn Sign]contest{$:/_/adtc/data/current-contest}]" counter="counter">
@@ -17,8 +16,7 @@ type: text/vnd.tiddlywiki
     <h2><$link to={{!!organization}}/></h2>
     <<list-links filter:"[enlist{!!names}]" >>
   </td>
-  <$list filter="[<counter>remainder[2]!match[1]]" variable="_"><<sign-link>></$list>
+  <$list filter="[<counter>remainder[2]!match[1]]" variable="_"><<sign-link>></$list> 
 </tr>
 </$list>
 </table>
-

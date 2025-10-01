@@ -5,6 +5,7 @@ description: Emphasises individual tiddlers
 name: Snow White
 plugin-priority: 0
 plugin-type: theme
+revision: 0
 title: $:/themes/tiddlywiki/snowwhite
 type: application/json
 version: 5.3.8

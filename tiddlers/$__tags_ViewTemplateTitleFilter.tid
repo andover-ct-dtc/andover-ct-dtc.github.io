@@ -1,3 +1,4 @@
 list: $:/config/ViewTemplateTitleFilters/system $:/_/my/config/ViewTemplateTitleFilters/caption $:/config/ViewTemplateTitleFilters/default
+revision: 0
 tags: 
 title: $:/tags/ViewTemplateTitleFilter

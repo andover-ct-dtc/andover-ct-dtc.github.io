@@ -1,6 +1,7 @@
 created: 20230830142431524
 list-before: $:/config/ViewTemplateTitleFilters/default
 modified: 20250930233730298
+revision: 0
 tags: 
 title: $:/_/adtc/core/ui/ViewTemplate/title/caption
 type: text/vnd.tiddlywiki
