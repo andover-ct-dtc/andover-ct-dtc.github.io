@@ -1,16 +1,15 @@
 created: 20230912011039606
-modified: 20250930234210639
-revision: 0
+modified: 20251002012818319
 tags: $:/tags/Macro
 title: $:/_/adtc/macros/signs
 type: text/vnd.tiddlywiki
 
 \define signs-details()
   <$let title=<<currentTiddler>> >
-  <$list filter="[all[tiddlers]] :filter[get[organization]match<title>] :filter[tag[Lawn Sign]] +[first[]]" variable="_">
+  <$list filter="[tag[Lawn Sign]contest{$:/_/adtc/data/current-contest}] :filter[get[organization]match<title>] +[first[]]" variable="_">
     <details class="signs">
       <summary>@@font-size:125%;Lawn Signs@@</summary>
-      <$list filter="[all[tiddlers]] :filter[get[organization]match<title>] :filter[tag[Lawn Sign]]  ">
+      <$list filter="[tag[Lawn Sign]contest{$:/_/adtc/data/current-contest}] :filter[get[organization]match<title>]   ">
         <br/><$link><$transclude tiddler=<<currentTiddler>> /> </$link><br/>
       </$list>
     </details>

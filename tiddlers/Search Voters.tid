@@ -1,9 +1,9 @@
 created: 20231011011938835
-modified: 20231026163602781
-revision: 0
+modified: 20251002022708368
 tags: TableOfContents
 title: Search Voters
 type: text/vnd.tiddlywiki
+
 
 <$edit-text tiddler="$:/temp/Voters/searchstrings" field=search placeholder="Enter name or address..." tag=input/><br/><br/><br/>
 <$list filter="[{$:/temp/Voters/searchstrings!!search}minlength{$:/config/Search/MinLength}limit[1]]" emptyMessage="""<div class="tc-search-results">{{$:/language/Search/Search/TooShort}}</div>""" variable="listItem">
@@ -15,7 +15,6 @@ type: text/vnd.tiddlywiki
 <li><$link to=<<currentTiddler>>>{{!!full-name}}</$link></li></div>
 </$list>
 <br/>
-
 <$list filter="[all[tiddlers+shadows]tag[Address]search:address{$:/temp/Voters/searchstrings!!search}nsort[street-number]sort[street]]" emptyMessage="No matching addresses found" counter="counter">
 <$list filter="[<counter>match[1]]" variable="_">
 <h3>Addresses</h3>

@@ -1,0 +1,9 @@
+created: 20251001233207821
+modified: 20251001233525687
+tags: 
+title: New Tiddler
+type: text/vnd.tiddlywiki
+
+<$button>Delete postcards
+<$list filter="[tag[Postcard]]"><$action-deletetiddler $tiddler=<<currentTiddler>>/></$list>
+</$button>
