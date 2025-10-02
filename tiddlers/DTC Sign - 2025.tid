@@ -1,0 +1,20 @@
+contest: 2025-General
+created: 20251002031834251
+creator: CrossEye
+modified: 20251002032853548
+modifier: CrossEye
+names: 
+organization: Democratic Town Committee
+tags: [[Lawn Sign]]
+title: DTC Sign - 2025
+type: text/vnd.tiddlywiki
+
+<<lawn-sign """{
+  "type": "2-line",
+  "footer": {"text": "Vote Democratic!", "xOffset": "50"},
+  "position": {"text": "", "xOffset": "325"},
+  "lines": [
+    {"text": "Values", "xOffset": "105"},
+    {"text": "Matter!", "xOffset": "85"}
+  ]
+}""">>

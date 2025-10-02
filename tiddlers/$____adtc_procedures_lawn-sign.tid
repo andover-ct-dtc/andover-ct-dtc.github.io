@@ -1,9 +1,8 @@
 code-body: yes
 created: 20250930215201653
 creator: CrossEye
-modified: 20251001145918947
+modified: 20251002032759004
 modifier: CrossEye
-revision: 0
 tags: $:/tags/Global
 title: $:/_/adtc/procedures/lawn-sign
 type: text/vnd.tiddlywiki
@@ -23,6 +22,7 @@ type: text/vnd.tiddlywiki
     .name3 {font: bold 50px serif; fill: #fff;}
     .first-name {font: bold 60px serif; fill: #fff;}
     .last-name {font: bold 110px serif; fill: #fff;}
+    .first-line, .second-line {font: bold 90px serif; fill: #fff;}
   </style>
   <rect x="0" y="0" width="480" height="360"
     style=`fill: #C21E37; stroke-width: 1; stroke: #C21E37;`
@@ -62,6 +62,14 @@ type: text/vnd.tiddlywiki
     >
       <text x=<<firstX>> y="90" class="first-name"><<first>></text>
       <text x=<<lastX>> y="180" class="last-name"><<last>></text>
+    </$let>
+  <% elseif [<type>match[2-line]] %>
+    <$let 
+      line1= {{{ [<config>jsonget[lines],[0],[text]] }}} line1X = {{{ [<config>jsonget[lines],[0],[xOffset]] }}}
+      line2= {{{ [<config>jsonget[lines],[1],[text]] }}} line2X = {{{ [<config>jsonget[lines],[1],[xOffset]] }}}
+    >
+      <text x=<<line1X>> y="100" class="first-line"><<line1>></text>
+      <text x=<<line2X>> y="190" class="second-line"><<line2>></text>
     </$let>
   <% endif %>
 </svg>
