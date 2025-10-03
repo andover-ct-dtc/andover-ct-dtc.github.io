@@ -1,6 +1,5 @@
 created: 20230817151520063
-modified: 20231110174902312
-revision: 0
+modified: 20251003214641151
 tags: $:/tags/ViewTemplate
 title: $:/_/adtc/templates/person
 type: text/vnd.tiddlywiki
@@ -38,10 +37,10 @@ type: text/vnd.tiddlywiki
     </$list>
   </$list>
   
-  <$list filter="[tag[Candidacy]name<currentTiddler>first[]]" variable="___">
+  <$list filter="[tag[Candidacy]contest{$:/_/adtc/data/current-contest}name<currentTiddler>first[]]" variable="___">
     <br/>
     <dt>Candidacies</dt>
-      <$list filter="[tag[Candidacy]name<currentTiddler>!is[draft]]">
+      <$list filter="[tag[Candidacy]contest{$:/_/adtc/data/current-contest}name<currentTiddler>!is[draft]]">
         <dd>
           <$transclude $variable="results" candidacy=<<currentTiddler>> /> {{{ [{!!organization}] }}} (endorsing party: {{{ [{!!party}] }}}): {{!!contest}}
           <$list filter="[[$:/status/IsReaderMode]!text[yes]]" variable="_"><small><$button><$action-sendmessage $message="tm-edit-tiddler" />edit</$button></small></$list>
