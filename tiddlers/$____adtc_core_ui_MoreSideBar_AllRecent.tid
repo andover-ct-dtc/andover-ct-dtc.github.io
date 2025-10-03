@@ -1,0 +1,9 @@
+caption: Everything ↓
+created: 20251003031011730
+list-after: $:/core/ui/MoreSideBar/System
+modified: 20251003034315393
+tags: $:/tags/MoreSideBar
+title: $:/_/adtc/core/ui/MoreSideBar/AllRecent
+type: text/vnd.tiddlywiki
+
+<$list filter="[all[tiddlers]] -$:/StoryList -$:/HistoryList -[prefix[$:/temp/]] -[prefix[$:/config/]] -[prefix[$:/state/]] +[!sort[modified]]" template="$:/core/ui/ListItemTemplate"/>

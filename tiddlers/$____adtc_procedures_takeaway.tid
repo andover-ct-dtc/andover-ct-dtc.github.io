@@ -1,0 +1,24 @@
+created: 20251003025328775
+modified: 20251003160424563
+tags: $:/tags/Global
+title: $:/_/adtc/procedures/takeaway
+type: text/vnd.tiddlywiki
+
+\procedure takeaway(nbr)
+<div class="takeaway">
+<$list filter="[<nbr>addprefix[Takeaway/]get[people]enlist-input[]]" join=", "><$link/></$list>:
+<$wikify name="text" mode="inline" output="html" text={{{ [<nbr>addprefix[Takeaway/]get[text]] }}}>
+<% if [<nbr>addprefix[Takeaway/]completed[yes]] %>
+~~<<text>>~~ ✔ <$text text={{{ [<nbr>addprefix[Takeaway/]get[resolution]] }}} />
+<% else %>
+<<text>>
+<% endif %>
+</$wikify>
+</div>
+\end takeaway
+
+----------
+
+<<takeaway 1>>
+
+<<takeaway 5>>

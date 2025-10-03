@@ -1,0 +1,25 @@
+code-body: yes
+created: 20251003011653387
+list-before: $:/core/ui/ViewTemplate/body
+modified: 20251003154353370
+tags: 
+title: $:/_/adtc/templates/takeaway
+type: text/vnd.tiddlywiki
+
+; <% if [enlist{!!people}count[]match[1]] %>Person<% else %>People<% endif %>
+: <br/><$list filter=[enlist{!!people}] join=", "><$link/></$list>
+
+; Action
+: {{||$:/core/ui/ViewTemplate/body/default}}
+
+; Agreed
+: <br/>{{||$:/_/adtc/templates/date}}<br/><br/>
+
+; Completed? 
+: <br/><$radio field="completed" value="yes"> Yes</$radio> &nbsp; <$radio field="completed" value="no"> No</$radio>
+
+<% if [<currentTiddler>completed[yes]] %>
+
+; Resolution
+: <br/><div class="tc-edit-max-width"><$edit-text field="resolution" tag="textarea"/></div>
+<% endif %>

@@ -1,0 +1,8 @@
+created: 20251003013244300
+list-before: 
+modified: 20251003013532165
+tags: $:/tags/ViewTemplateBodyFilter
+title: $:/_/adtc/config/ViewTemplateBodyFilters/takeaway
+type: text/vnd.tiddlywiki
+
+[<currentTiddler>tag[Takeaway]then[$:/_/adtc/templates/takeaway]]

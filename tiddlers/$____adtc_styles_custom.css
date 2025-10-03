@@ -48,3 +48,6 @@ table.signs, table.signs td {border: none; padding-bottom: 2em;}
 ul.residents {list-style: none; padding-left: 1em;}
 
 .brochure-only {display: none;}
+
+div.takeaway {background: #efe; border: 1px solid #999; margin-left: 1.5em; padding: .5em;}
+li div.takeaway {margin-left: 0;}

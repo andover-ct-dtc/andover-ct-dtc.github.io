@@ -1,0 +1,8 @@
+code-body: yes
+created: 20251003021329202
+modified: 20251003023854454
+tags: 
+title: $:/_/adtc/templates/date
+type: text/vnd.tiddlywiki
+
+<$text text={{{ [{!!date}addsuffix[170000000]search-replace:g:regexp[\D],[]format:date[MMM DD, YYYY]] }}}  />
