@@ -36,6 +36,7 @@ img.mini.avatar {border-radius: 50%; width: 2em; border: 1px solid #ccc; vertica
 dd.signs img, table.signs img, details.signs img {width: 20em;}
 dd.signs svg, table.signs svg, details.signs svg {width: 20em;}
 .sign-org {margin-left: 2em;}
+dd.tasks ul {padding-left: 0; list-style: none;}
 
 table.signs ul {padding-inline-start: 1em;}
 table.signs tr:nth-child(2n) svg {direction: ltr;}

@@ -1,5 +1,5 @@
 created: 20230817151520063
-modified: 20251003214641151
+modified: 20251004142532675
 tags: $:/tags/ViewTemplate
 title: $:/_/adtc/templates/person
 type: text/vnd.tiddlywiki
@@ -46,6 +46,20 @@ type: text/vnd.tiddlywiki
           <$list filter="[[$:/status/IsReaderMode]!text[yes]]" variable="_"><small><$button><$action-sendmessage $message="tm-edit-tiddler" />edit</$button></small></$list>
         </dd> 
       </$list>
+  </$list>
+
+  <$list filter="[tag[Takeaway]contains:people<currentTiddler>] +[first[]]" variable="_"> 
+    <br/>
+    <dt>Tasks</dt>
+    <dd class="tasks"><ul>
+      <$list filter="[tag[Takeaway]contains:people<currentTiddler>!completed[yes]!sortan[]]">
+         <li><$link><$transclude $variable="takeaway" $mode ="block" nbr={{{ [<currentTiddler>removeprefix[Takeaway/]] }}} /></$link></li>
+      </$list>
+    </ul><details><summary>Completed</summary><ul>
+      <$list filter="[tag[Takeaway]contains:people<currentTiddler>completed[yes]!sortan[]]">
+         <li><$link><$transclude $variable="takeaway" $mode ="block" nbr={{{ [<currentTiddler>removeprefix[Takeaway/]] }}} /></$link></li>
+      </$list>
+    </ul></details></dd>
   </$list>
 
   <$list filter="[all[tiddlers]contains:names<currentTiddler>] :filter[tag[Lawn Sign]] +[first[]]" variable="_"> 
