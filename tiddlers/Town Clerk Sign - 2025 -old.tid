@@ -1,0 +1,20 @@
+contest: 2025-General
+created: 20251001022937450
+creator: CrossEye
+modified: 20251005031445100
+modifier: CrossEye
+names: [[Jayne Jurovaty]]
+organization: Town Clerk
+tags: [[Lawn Sign Old]]
+title: Town Clerk Sign - 2025 -old
+type: text/vnd.tiddlywiki
+
+<<lawn-sign-old """{
+  "type": "1-name",
+  "footer": {"text": "Vote Democratic!", "xOffset": "50"},
+  "position": {"text": "Town Clerk", "xOffset": "325"},
+  "name": {
+    "first": {"text": "Jayne", "xOffset": "45"},
+    "last": {"text": "Jurovaty", "xOffset": "25"}
+  }
+}""">>

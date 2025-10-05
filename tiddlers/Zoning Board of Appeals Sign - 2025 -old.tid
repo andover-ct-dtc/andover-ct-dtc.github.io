@@ -1,0 +1,20 @@
+contest: 2025-General
+created: 20251002190225821
+creator: CrossEye
+modified: 20251005032921195
+modifier: CrossEye
+names: [[Michael Greenhouse]] [[Julia Haverl]]
+organization: Zoning Board of Appeals
+tags: [[Lawn Sign Old Demo]]
+title: Zoning Board of Appeals Sign - 2025 -old
+type: text/vnd.tiddlywiki
+
+<<lawn-sign-old """{
+  "type": "2-name",
+  "footer": {"text": "Vote Democratic!", "xOffset": "50"},
+  "position": {"text": "Zoning Appeals", "xOffset": "290"},
+  "names": [
+    {"name": "Michael Greenhouse", "xOffset": "20"},
+    {"name": "Julia Haverl", "xOffset": "100"}
+  ]
+}""">>

@@ -1,21 +1,33 @@
 contest: 2025-General
-created: 20251002031834251
+created: 20251005020634094
 creator: CrossEye
-modified: 20251002032853548
+modified: 20251005031827311
 modifier: CrossEye
 names: 
 organization: Democratic Town Committee
-revision: 0
 tags: [[Lawn Sign]]
 title: DTC Sign - 2025
 type: text/vnd.tiddlywiki
 
-<<lawn-sign """{
-  "type": "2-line",
-  "footer": {"text": "Vote Democratic!", "xOffset": "50"},
-  "position": {"text": "", "xOffset": "325"},
-  "lines": [
-    {"text": "Values", "xOffset": "105"},
-    {"text": "Matter!", "xOffset": "85"}
-  ]
-}""">>
+<svg width="480" height="360" viewBox="0 0 480 360">
+  <style>
+    .footer {font: bold 52px serif; fill: #C02032;}
+    .position {font: 23px sans-serif; fill: #fff;}
+    .name2 {font: bold 50px serif; fill: #fff;}
+    .name3 {font: bold 50px serif; fill: #fff;}
+    .first-name {font: bold 60px serif; fill: #fff;}
+    .last-name {font: bold 110px serif; fill: #fff;}
+    .first-line, .second-line {font: bold 90px serif; fill: #fff;}
+  </style>
+  <rect x="0" y="0" width="480" height="360" style="fill: #C21E37; stroke-width: 1; stroke: #C21E37;"></rect>
+  <rect x="12" y="12" width="456" height="336" style="fill: #10059F; stroke-width: 1; stroke: #10059F;"></rect>
+  <rect x="12" y="278" width="456" height="70" style="fill: white; stroke-width: 1; stroke: white;"></rect>
+  <path fill="#DB0426" stroke="#DB0426" stroke-linejoin="round" stroke-width="5"
+        d="m240,210 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"></path>
+  <rect x="30" y="230" width="160" height="3" style="fill: #DB0426; stroke-width: 1; stroke: #DB0426;"></rect>
+  <rect x="290" y="230" width="160" height="3" style="fill: #DB0426; stroke-width: 1; stroke: #DB0426;"></rect>
+  <text x="50" y="330" class="footer">Vote Democratic!</text>
+  <text x="325" y="265" class="position"></text>
+  <text x="105" y="100" class="first-line">Values</text>
+  <text x="85" y="190" class="second-line">Matter!</text>
+</svg>

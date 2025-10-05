@@ -1,0 +1,21 @@
+contest: 2025-General
+created: 20250930232117552
+creator: CrossEye
+modified: 20251005030228535
+modifier: CrossEye
+names: [[Michael Beckwith]] [[Gerry Cremé]] [[Sharon St. Rock]]
+organization: Board of Education
+tags: [[Lawn Sign Old]]
+title: Board of Education Sign - 2025 -old
+type: text/vnd.tiddlywiki
+
+<<lawn-sign-old """{
+  "type": "3-name",
+  "footer": {"text": "Vote Democratic!", "xOffset": "50"},
+  "position": {"text": "Board of Education", "xOffset": "265"},
+  "names": [
+    {"name": "Michael Beckwith", "xOffset": "48"},
+    {"name": "Gerry Cremé", "xOffset": "90"},
+    {"name": "Sharon St. Rock", "xOffset": "68"}
+  ]
+}""">>

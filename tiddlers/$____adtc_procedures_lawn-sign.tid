@@ -1,9 +1,8 @@
-code-body: yes
-created: 20250930215201653
+code-body: no
+created: 20251005020241093
 creator: CrossEye
-modified: 20251002191542997
+modified: 20251005032156251
 modifier: CrossEye
-revision: 0
 tags: $:/tags/Global
 title: $:/_/adtc/procedures/lawn-sign
 type: text/vnd.tiddlywiki
@@ -19,7 +18,7 @@ type: text/vnd.tiddlywiki
 <svg width="480" height="360" viewBox="0 0 480 360" xmlns="http://www.w3.org/2000/svg" >
   <style>
     .footer {font: bold 52px serif; fill: #C02032;}
-    .position {font: 23px sans-serif; fill: #fff;}
+    .position {font: 30px sans-serif; fill: #fff;}
     .name2 {font: bold 50px serif; fill: #fff;}
     .name3 {font: bold 50px serif; fill: #fff;}
     .first-name {font: bold 60px serif; fill: #fff;}
@@ -35,6 +34,9 @@ type: text/vnd.tiddlywiki
   <rect x="12" y="278" width="456" height="70"
     style=`fill: white; stroke-width: 1; stroke: white;`
   />
+
+<% if [<type>match[2-line]] %>
+
   <path fill="#DB0426" stroke="#DB0426" stroke-linejoin="round" stroke-width="5"
              d="m240,210 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
   />
@@ -44,8 +46,22 @@ type: text/vnd.tiddlywiki
   <rect x="290" y="230" width="160" height="3"
     style=`fill: #DB0426; stroke-width: 1; stroke: #DB0426;`
   />
+
+<% else %>
+  <path fill="#DB0426" stroke="#DB0426" stroke-linejoin="round" stroke-width="5"
+             d="m107,210 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
+  />
+  <rect x="30" y="230" width="40" height="3"
+    style=`fill: #DB0426; stroke-width: 1; stroke: #DB0426;`
+  />
+  <rect x="140" y="230" width="40" height="3"
+    style=`fill: #DB0426; stroke-width: 1; stroke: #DB0426;`
+  />
+
+<% endif %>
+
   <text x=<<footerX>> y="330" class="footer"><<footer>></text>
-  <text x=<<positionX>> y="265" class="position"><<position>></text>
+  <text x=<<positionX>> y="245" class="position"><<position>></text>
 
   <% if [<type>match[3-name]] %>
     <$let 
@@ -84,3 +100,6 @@ type: text/vnd.tiddlywiki
   <% endif %>
 </svg>
 \end
+
+
+{{Lawn Sign}}

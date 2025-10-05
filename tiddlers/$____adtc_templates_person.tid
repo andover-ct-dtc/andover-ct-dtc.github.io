@@ -1,5 +1,5 @@
 created: 20230817151520063
-modified: 20251004144817971
+modified: 20251005030348876
 tags: $:/tags/ViewTemplate
 title: $:/_/adtc/templates/person
 type: text/vnd.tiddlywiki
@@ -51,22 +51,22 @@ type: text/vnd.tiddlywiki
   <$list filter="[tag[Takeaway]contains:people<currentTiddler>] +[first[]]" variable="_"> 
     <br/>
     <dt>Tasks</dt>
-    <dd class="tasks"><ul>
+    <dd class="tasks"><details open><summary>Not ccompleted</summary><ul>
       <$list filter="[tag[Takeaway]contains:people<currentTiddler>!completed[yes]!sortan[]]">
          <li><$link><$transclude $variable="takeaway" $mode ="block" nbr={{{ [<currentTiddler>removeprefix[Takeaway/]] }}} /></$link></li>
       </$list>
-    </ul><$list filter="[tag[Takeaway]contains:people<currentTiddler>completed[yes]] +[first[]]" variable="__"><details><summary>Completed</summary><ul>
+    </ul></details><$list filter="[tag[Takeaway]contains:people<currentTiddler>completed[yes]] +[first[]]" variable="__"><details><summary>Completed</summary><ul>
       <$list filter="[tag[Takeaway]contains:people<currentTiddler>completed[yes]!sortan[]]">
          <li><$link><$transclude $variable="takeaway" $mode ="block" nbr={{{ [<currentTiddler>removeprefix[Takeaway/]] }}} /></$link></li>
       </$list>
     </ul></details></$list></dd>
   </$list>
 
-  <$list filter="[all[tiddlers]contains:names<currentTiddler>] :filter[tag[Lawn Sign]] +[first[]]" variable="_"> 
+  <$list filter="[tag[Lawn Sign Old]contains:names<currentTiddler>contest{$:/_/adtc/data/current-contest}] +[first[]]" variable="_"> 
     <br/>
     <dt>Lawn Signs</dt>
     <dd class="signs">
-      <$list filter="[all[tiddlers]contains:names<currentTiddler>] :filter[tag[Lawn Sign]]"><$link><$transclude tiddler=<<currentTiddler>> /> </$link><br/>
+      <$list filter="[tag[Lawn Sign Old]contains:names<currentTiddler>contest{$:/_/adtc/data/current-contest}]"><$link><$transclude tiddler=<<currentTiddler>> /> </$link><br/>
       </$list>
     </dd>
   </$list>

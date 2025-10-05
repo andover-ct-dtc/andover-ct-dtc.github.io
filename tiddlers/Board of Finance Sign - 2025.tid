@@ -1,11 +1,10 @@
 contest: 2025-General
-created: 20250930182337978
+created: 20251005020517883
 creator: CrossEye
-modified: 20251002012436281
+modified: 20251005031818199
 modifier: CrossEye
 names: [[Nicholas Clark]] [[Robert England]] [[Heather Van Cara]]
 organization: Board of Finance
-revision: 0
 tags: [[Lawn Sign]]
 title: Board of Finance Sign - 2025
 type: text/vnd.tiddlywiki
@@ -13,7 +12,7 @@ type: text/vnd.tiddlywiki
 <<lawn-sign """{
   "type": "3-name",
   "footer": {"text": "Vote Democratic!", "xOffset": "50"},
-  "position": {"text": "Board of Finance", "xOffset": "280"},
+  "position": {"text": "Board of Finance", "xOffset": "210"},
   "names": [
     {"name": "Nicholas Clark", "xOffset": "75"},
     {"name": "Robert England", "xOffset": "65"},

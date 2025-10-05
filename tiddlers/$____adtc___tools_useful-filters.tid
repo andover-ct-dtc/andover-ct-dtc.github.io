@@ -1,0 +1,34 @@
+created: 20251004200435542
+modified: 20251005015615477
+tags: 
+title: $:/_/adtc/_/tools/useful-filters
+type: text/vnd.tiddlywiki
+
+\procedure copy-block(title, text)
+@@float:right;<$button message="tm-copy-to-clipboard" param=<<text>>>Copy to clipboard</$button>@@
+<h2><<title>></h2>
+<pre><$text text=<<text>> /></pre>
+\end
+
+<$let
+  by-last ="[{!!last-name}] [{!!first-name}] +[join[, ]]"
+  email ="[{!!first-name}]  [[ ]] [{!!last-name}]  [[ <]] [{!!email}] [[>]]+[join[]]"
+>
+
+<$let dtc-members={{{ [tag[Position]organization[Democratic Town Committee]get[name]] +[sortsub:string<by-last>format:titlelist[]] +[join[ ]] }}} > 
+  <$transclude $variable="copy-block" $mode="block" title="All DTC Members, as TW list string" text=<<dtc-members>> />
+</$let>
+
+<$let dtc-emails={{{ [tag[Position]organization[Democratic Town Committee]get[name]] +[sortsub:string<by-last>] :map[subfilter<email>] +[join[, ]] }}} >
+  <$transclude $variable="copy-block" $mode="block" title="DTC Member Emails" text=<<dtc-emails>> />
+</$let>
+
+<$let candidates={{{ [tag[Candidacy]contest{$:/_/adtc/data/current-contest}] :filter[get[party]match[Democratic]] :map[get[name]] +[unique[]] +[sort[last-name]format:titlelist[]join[ ]] }}} >
+  <$transclude $variable="copy-block" $mode="block" title="Candidates as TW list string" text=<<candidates>> />
+</$let>
+
+<$let candidate-emails={{{ [tag[Candidacy]contest{$:/_/adtc/data/current-contest}] :filter[get[party]match[Democratic]] :map[get[name]] +[unique[]] +[sort[last-name]] :map[subfilter<email>] +[join[, ]] }}} >
+  <$transclude $variable="copy-block" $mode="block" title="Candidates Emails" text=<<candidate-emails>> />
+</$let>
+
+</$let>
