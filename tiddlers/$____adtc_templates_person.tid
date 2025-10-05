@@ -1,5 +1,5 @@
 created: 20230817151520063
-modified: 20251005030348876
+modified: 20251005120832046
 tags: $:/tags/ViewTemplate
 title: $:/_/adtc/templates/person
 type: text/vnd.tiddlywiki
@@ -62,11 +62,11 @@ type: text/vnd.tiddlywiki
     </ul></details></$list></dd>
   </$list>
 
-  <$list filter="[tag[Lawn Sign Old]contains:names<currentTiddler>contest{$:/_/adtc/data/current-contest}] +[first[]]" variable="_"> 
+  <$list filter="[tag[Lawn Sign]contains:names<currentTiddler>contest{$:/_/adtc/data/current-contest}] +[first[]]" variable="_"> 
     <br/>
     <dt>Lawn Signs</dt>
     <dd class="signs">
-      <$list filter="[tag[Lawn Sign Old]contains:names<currentTiddler>contest{$:/_/adtc/data/current-contest}]"><$link><$transclude tiddler=<<currentTiddler>> /> </$link><br/>
+      <$list filter="[tag[Lawn Sign]contains:names<currentTiddler>contest{$:/_/adtc/data/current-contest}]"><$link><$transclude tiddler=<<currentTiddler>> /> </$link><br/>
       </$list>
     </dd>
   </$list>
