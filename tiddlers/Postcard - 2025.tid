@@ -1,5 +1,5 @@
 created: 20251006180350732
-modified: 20251006205242564
+modified: 20251006212656619
 tags: Postcard
 title: Postcard - 2025
 type: text/vnd.tiddlywiki
@@ -13,7 +13,7 @@ type: text/vnd.tiddlywiki
       .text-subheader {font: bold 20px serif; fill: #C02032;}
       .first-line, .second-line {font: bold 75px serif; fill: #fff;}
       .position {font: bold 13px serif; fill: #10059F}
-      .name {font: normal 13px serif; fill: #10059F}
+      .name {font: bold 13px serif; fill: #10059F}
     }
   </style>
   <rect x="0" y="0" width="588" height="388" style="fill: #C21E37; stroke-width: 1; stroke: #C21E37;"></rect>
