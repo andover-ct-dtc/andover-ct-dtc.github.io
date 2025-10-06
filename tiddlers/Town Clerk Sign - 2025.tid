@@ -1,7 +1,7 @@
 contest: 2025-General
-created: 20251005020745470
+created: 20251005120907483
 creator: CrossEye
-modified: 20251005031901825
+modified: 20251006124607622
 modifier: CrossEye
 names: [[Jayne Jurovaty]]
 organization: Town Clerk
@@ -14,7 +14,7 @@ type: text/vnd.tiddlywiki
   "footer": {"text": "Vote Democratic!", "xOffset": "50"},
   "position": {"text": "Town Clerk", "xOffset": "230"},
   "name": {
-    "first": {"text": "Jayne", "xOffset": "45"},
+    "first": {"text": "Jayne", "xOffset": "160"},
     "last": {"text": "Jurovaty", "xOffset": "25"}
   }
 }""">>
