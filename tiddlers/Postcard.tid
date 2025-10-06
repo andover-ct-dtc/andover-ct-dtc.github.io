@@ -1,0 +1,12 @@
+caption: Postcards
+contest: 2025-General
+created: 20251006204328227
+modified: 20251006204841681
+tags: TableOfContents
+title: Postcard
+type: text/vnd.tiddlywiki
+
+<$list filter="[tag[Postcard]!is[draft]]">
+<h2><$link><$view field="caption"><$view field="title"/></$view></$link></h2>
+<$transclude $mode="block" />
+</$list>

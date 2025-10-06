@@ -1,0 +1,80 @@
+created: 20251006180350732
+modified: 20251006205242564
+tags: Postcard
+title: Postcard - 2025
+type: text/vnd.tiddlywiki
+
+<svg class="postcard" width="588" height="388" viewBox="0 0 588 388">
+  <style>
+    .postcard {
+      .footer {font: bold 52px serif; fill: #C02032;}
+      .footer.extra {font: bold 52px serif; fill: #10059f;}
+      .text-header {font: bold 40px serif; fill: #C02032;}
+      .text-subheader {font: bold 20px serif; fill: #C02032;}
+      .first-line, .second-line {font: bold 75px serif; fill: #fff;}
+      .position {font: bold 13px serif; fill: #10059F}
+      .name {font: normal 13px serif; fill: #10059F}
+    }
+  </style>
+  <rect x="0" y="0" width="588" height="388" style="fill: #C21E37; stroke-width: 1; stroke: #C21E37;"></rect>
+  <rect x="12" y="12" width="564" height="364" style="fill: #10059F; stroke-width: 1; stroke: #10059F;"></rect>
+  <rect x="12" y="320" width="564" height="56" style="fill: white; stroke-width: 1; stroke: white;"></rect>
+  <rect x="300" y="12" width="276" height="350" style="fill: white; stroke-width: 1; stroke: white"></rect>
+  <rect x="300" y="313" width="276" height="6" style="fill: #10059f; stroke-width: 1; stroke: #10059f"></rect>
+
+  <path fill="#DB0426" stroke="#DB0426" stroke-linejoin="round" stroke-width="5"
+        d="m150,260 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"></path>
+  <rect x="55" y="280" width="55" height="3" style="fill: #DB0426; stroke-width: 1; stroke: #DB0426;"></rect>
+  <rect x="190" y="280" width="55" height="3" style="fill: #DB0426; stroke-width: 1; stroke: #DB0426;"></rect>
+
+  <text x="50" y="120" class="first-line">Values</text>
+  <text x="35" y="220" class="second-line">Matter!</text>
+  <text x="60" y="365" class="footer">Vote Democratic!</text>
+  <text x="470" y="365" class="footer extra"> 🗹</text>
+
+  <text x="330" y="50" class="text-header">Vote Nov 4!</text>
+  <text x="320" y="76" class="text-subheader">(Early Voting 10/20 - 11/2)</text>
+
+  <text x="310" y="106" class="position">Town Clerk</text> 
+  <text x="460" y="106" class="name">Jayne Jurovaty</text>
+
+  <rect x="310" y="110" width="256" height=".125" style="fill: #DB0426; stroke-width: .125; stroke: #DB0426;"></rect>
+
+  <text x="310" y="123" class="position">Board of Finance</text> 
+  <text x="460" y="123" class="name">Nicholas Clark</text>
+  <text x="460" y="138" class="name">Robert England</text>
+  <text x="460" y="153" class="name">Heather Van Cara</text>
+
+  <rect x="310" y="158" width="256" height=".125" style="fill: #DB0426; stroke-width: .125; stroke: #DB0426;"></rect>
+
+  <text x="310" y="170" class="position">Board of Education</text> 
+  <text x="460" y="170" class="name">Michael Beckwith</text>
+  <text x="460" y="185" class="name">Gerry Cremé</text>
+  <text x="460" y="200" class="name">Sharon St. Rock</text>
+
+   <rect x="310" y="206" width="256" height=".125" style="fill: #DB0426; stroke-width: .125; stroke: #DB0426;"></rect>
+
+  <text x="310" y="217" class="position">Fire Commission</text> 
+  <text x="460" y="217" class="name">Scott Yeomans</text>
+
+   <rect x="310" y="221" width="256" height=".125" style="fill: #DB0426; stroke-width: .125; stroke: #DB0426;"></rect>
+
+  <text x="310" y="234" class="position">Planning and Zoning</text> 
+  <text x="460" y="234" class="name">Patrick Dougherty</text>
+
+   <rect x="310" y="238" width="256" height=".125" style="fill: #DB0426; stroke-width: .125; stroke: #DB0426;"></rect>
+
+  <text x="310" y="251" class="position">P & Z Alt</text> 
+  <text x="460" y="251" class="name">Jay Kamins</text>
+
+   <rect x="310" y="259" width="256" height=".125" style="fill: #DB0426; stroke-width: .125; stroke: #DB0426;"></rect>
+
+  <text x="310" y="272" class="position">Zoning Board of Appeals</text> 
+  <text x="460" y="272" class="name">Michael Greenhouse</text>
+  <text x="460" y="287" class="name">Julia Haverl</text>
+
+   <rect x="310" y="296" width="256" height=".125" style="fill: #DB0426; stroke-width: .125; stroke: #DB0426;"></rect>
+
+  <text x="310" y="309" class="position">ZBA Alt</text>
+  <text x="460" y="309" class="name">Jeff Ballard</text>
+</svg>

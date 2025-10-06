@@ -1,0 +1,13 @@
+created: 20251006173517744
+modified: 20251006204642171
+tags: Postcard
+title: Postcard - 2025 - With Bleed Borders
+type: text/vnd.tiddlywiki
+
+<svg width="612" height="412" viewBox="0 0 612 412">
+  <rect x="0" y="0" width="612" height="412" style="fill: #C21E37; stroke-width: 1; stroke: #C21E37;"></rect>
+  <g transform="translate(12,12)">
+  {{Postcard - 2025}}
+  </g>
+ 
+</svg>
