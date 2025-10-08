@@ -58,10 +58,19 @@ const addAddresses = (voters, addresses = voters.reduce((a, v, i) => ({...a, [v[
   ...Object.values(addresses)
 ]
 
+const removeNonAndover = (voters) => voters.filter(v => v.city=="Andover")
+
+const fieldsToKeep = (["title", "tags", "caption", "voter-file-vanid", "last-name", "first-name", "middle-name", "suffix", "age", "party", "sex", "preferred-email", "preferred-phone", "address", "city", "state", "zip5", "zip4", "address-id", "dnc-dem-party-support", "general24", "general22", "general20", "general18", "general16", "general14", "general12", "general10", "general08", "general06", "municipal23", "municipal21", "municipal19", "municipal17", "municipal15", "municipal13", "municipal11", "municipal09", "municipal07"])
+const removeUnnecessaryFields = (keep) => (xs) => xs .map (
+  x => Object.fromEntries(Object.entries(x).filter(([k, v]) => keep.includes(k)))
+)
+
 const main = (infile, outfile) =>
   readFile(infile, { encoding: 'utf8' })
     .then(convert)
+    .then(removeNonAndover)
     .then(addAddresses)
+    .then(removeUnnecessaryFields(fieldsToKeep))
     .then((s) => JSON.stringify(s, null, 4))
     .then((json) => writeFile(outfile, json)) 
 
