@@ -1,10 +1,7 @@
 created: 20251001233207821
-modified: 20251001233525687
-revision: 0
+modified: 20251006223151218
 tags: 
 title: New Tiddler
 type: text/vnd.tiddlywiki
 
-<$button>Delete postcards
-<$list filter="[tag[Postcard]]"><$action-deletetiddler $tiddler=<<currentTiddler>>/></$list>
-</$button>
+<<list-links filter:"[all[tiddlers+shadows]tag[Voter]party[Democratic]]" >>

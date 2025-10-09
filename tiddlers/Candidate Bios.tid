@@ -1,6 +1,5 @@
 created: 20230824003531699
-modified: 20250928212948121
-revision: 0
+modified: 20251007230228757
 tags: TableOfContents
 title: Candidate Bios
 type: text/vnd.tiddlywiki
@@ -16,7 +15,7 @@ type: text/vnd.tiddlywiki
   <div class="avatar"><$image source={{{ [<currentTiddler>get[avatar]] }}} /></div>
   <$list filter="[<currentTiddler>has[text]]">
   </$list>
-  <h3 style="text-align: right; font-style: italic; margin-top: -1em; font-size: 80%;">Candidate for <$text text={{{ [tag[Candidacy]] :filter[get[name]match<cand>] :map[get[organization]] +[join[ and ]] }}}/> </h3>
+  <h3 style="text-align: right; font-style: italic; margin-top: -1em; font-size: 80%;">Candidate for <$text text={{{ [tag[Candidacy]contest{$:/_/adtc/data/current-contest}] :filter[get[name]match<cand>] :map[get[organization]] +[join[ and ]] }}}/> </h3>
   <$transclude mode="block"/>
   </$list>
   <$list filter="[<currentTiddler>!has[text]]"><br/><br/><br/>@@color:red;(need bio)@@</$list>

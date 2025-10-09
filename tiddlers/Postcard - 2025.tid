@@ -1,5 +1,5 @@
 created: 20251006180350732
-modified: 20251006212656619
+modified: 20251007233559103
 tags: Postcard
 title: Postcard - 2025
 type: text/vnd.tiddlywiki
@@ -7,13 +7,13 @@ type: text/vnd.tiddlywiki
 <svg class="postcard" width="588" height="388" viewBox="0 0 588 388">
   <style>
     .postcard {
-      .footer {font: bold 52px serif; fill: #C02032;}
-      .footer.extra {font: bold 52px serif; fill: #10059f;}
-      .text-header {font: bold 40px serif; fill: #C02032;}
-      .text-subheader {font: bold 20px serif; fill: #C02032;}
-      .first-line, .second-line {font: bold 75px serif; fill: #fff;}
-      .position {font: bold 13px serif; fill: #10059F}
-      .name {font: bold 13px serif; fill: #10059F}
+      .footer {font: bold 52px "Times New Roman"; fill: #C02032;}
+      .footer.extra {font: bold 52px "Times New Roman"; fill: #10059f;}
+      .text-header {font: bold 40px "Times New Roman"; fill: #C02032;}
+      .text-subheader {font: bold 20px "Times New Roman"; fill: #C02032;}
+      .first-line, .second-line {font: bold 75px "Times New Roman"; fill: #fff;}
+      .position {font: bold 13px "Times New Roman"; fill: #10059F}
+      .name {font: bold 13px "Times New Roman"; fill: #10059F}
     }
   </style>
   <rect x="0" y="0" width="588" height="388" style="fill: #C21E37; stroke-width: 1; stroke: #C21E37;"></rect>
@@ -22,8 +22,7 @@ type: text/vnd.tiddlywiki
   <rect x="300" y="12" width="276" height="350" style="fill: white; stroke-width: 1; stroke: white"></rect>
   <rect x="300" y="313" width="276" height="6" style="fill: #10059f; stroke-width: 1; stroke: #10059f"></rect>
 
-  <path fill="#DB0426" stroke="#DB0426" stroke-linejoin="round" stroke-width="5"
-        d="m150,260 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"></path>
+  <path fill="#DB0426" stroke="#DB0426" stroke-linejoin="round" stroke-width="5" d="m150,260 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"></path>
   <rect x="55" y="280" width="55" height="3" style="fill: #DB0426; stroke-width: 1; stroke: #DB0426;"></rect>
   <rect x="190" y="280" width="55" height="3" style="fill: #DB0426; stroke-width: 1; stroke: #DB0426;"></rect>
 
@@ -64,7 +63,7 @@ type: text/vnd.tiddlywiki
 
    <rect x="310" y="238" width="256" height=".125" style="fill: #DB0426; stroke-width: .125; stroke: #DB0426;"></rect>
 
-  <text x="310" y="251" class="position">P & Z Alt</text> 
+  <text x="310" y="251" class="position">P &amp; Z Alt</text> 
   <text x="460" y="251" class="name">Jay Kamins</text>
 
    <rect x="310" y="259" width="256" height=".125" style="fill: #DB0426; stroke-width: .125; stroke: #DB0426;"></rect>
