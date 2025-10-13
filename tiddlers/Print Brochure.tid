@@ -1,5 +1,5 @@
 created: 20231018025409623
-modified: 20251005015657346
+modified: 20251013030708205
 tags: TableOfContents
 title: Print Brochure
 type: text/vnd.tiddlywiki
@@ -19,6 +19,14 @@ type: text/vnd.tiddlywiki
 </div>
 </$let>
 </$list>
+<div class="brochure-page page-15">
+<p class="values">Values</p>
+<p class="matter">Matter!</p>
+</div>
+<div class="brochure-page page-16">
+<p class="vote">Vote</p>
+<p class="democratic">Decmocratic!</p>
+</div>
 </div>
 
 <style>
@@ -57,6 +65,9 @@ type: text/vnd.tiddlywiki
 .print-brochure span.brochure-only {display: inline;}
 .print-brochure div.brochure-only {display: block;}
 .brochure-page .skip-in-brochure {display: none;}
+
+.print-brochure .brochure-page.page-15, .print-brochure .brochure-page.page-16 {text-align: center; font-size: 200%; border: 15px solid blue; padding-top: 3em; margin-top: .5em; font-weight: bold;}
+
 
 @media print {
   div.tc-titlebar, div.tc-subtitle, div.tc-tags-wrapper {display: none;}
