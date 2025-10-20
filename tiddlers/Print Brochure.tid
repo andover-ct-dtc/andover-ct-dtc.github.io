@@ -1,5 +1,5 @@
 created: 20231018025409623
-modified: 20251017010243229
+modified: 20251018203523049
 tags: TableOfContents
 title: Print Brochure
 type: text/vnd.tiddlywiki
@@ -11,7 +11,7 @@ type: text/vnd.tiddlywiki
 <$list filter="[tag[Candidacy]contest{$:/_/adtc/data/current-contest}] :filter[get[party]match[Democratic]] :map[get[name]] +[unique[]] +[sort[last-name]]" counter="counter">
 <$let cand=<<currentTiddler>> >
 <div class={{{ [<counter>add[1]addprefix[brochure-page page-]] }}} >
-<h3>{{!!title}} <span class="role">(<$text text = {{{ [tag[Candidacy]] :filter[get[name]match<cand>] :map[get[organization]] :map[{Organization Abbreviations}jsonget<currentTiddler>] +[sort[]] +[join[, ]] }}} />)</span></h3>
+<h3>{{!!title}} <span class="role">(<$text text = {{{ [tag[Candidacy]contest{$:/_/adtc/data/current-contest}] :filter[get[name]match<cand>] :map[get[organization]] :map[{Organization Abbreviations}jsonget<currentTiddler>] +[sort[]] +[join[, ]] }}} />)</span></h3>
 <$list filter="[<currentTiddler>has[avatar]" variable="_">
 <div class="avatar"><$image source={{{ [<currentTiddler>get[avatar]] }}} /></div>
 </$list>
