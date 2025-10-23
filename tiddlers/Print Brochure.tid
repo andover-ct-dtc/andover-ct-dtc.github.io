@@ -1,5 +1,5 @@
 created: 20231018025409623
-modified: 20251018203523049
+modified: 20251022000935640
 tags: TableOfContents
 title: Print Brochure
 type: text/vnd.tiddlywiki
@@ -11,7 +11,7 @@ type: text/vnd.tiddlywiki
 <$list filter="[tag[Candidacy]contest{$:/_/adtc/data/current-contest}] :filter[get[party]match[Democratic]] :map[get[name]] +[unique[]] +[sort[last-name]]" counter="counter">
 <$let cand=<<currentTiddler>> >
 <div class={{{ [<counter>add[1]addprefix[brochure-page page-]] }}} >
-<h3>{{!!title}} <span class="role">(<$text text = {{{ [tag[Candidacy]contest{$:/_/adtc/data/current-contest}] :filter[get[name]match<cand>] :map[get[organization]] :map[{Organization Abbreviations}jsonget<currentTiddler>] +[sort[]] +[join[, ]] }}} />)</span></h3>
+<h3>{{!!title}} <span class="role">(<$text text = {{{ [tag[Candidacy]contest{$:/_/adtc/data/current-contest}] :filter[get[name]match<cand>] :map[get[organization]] :map[{Organization Abbreviations}jsonget<currentTiddler>] +[unique[]sort[]] +[join[, ]] }}} />)</span></h3>
 <$list filter="[<currentTiddler>has[avatar]" variable="_">
 <div class="avatar"><$image source={{{ [<currentTiddler>get[avatar]] }}} /></div>
 </$list>
@@ -25,17 +25,21 @@ type: text/vnd.tiddlywiki
 </div>
 <div class="brochure-page page-16">
 <p class="vote">Vote</p>
-<p class="democratic">Decmocratic!</p>
+<p class="democratic">Democratic!</p>
+<div class="spacer">&nbsp;</div>
+<p class="attribution">Paid for by the Andover</p>
+<p class="attribution">Democratic Town Committee</p>
+<p class="attribution">Linda Armstrong, Treasurer</p>
 </div>
 </div>
 
 <style>
-.brochure-page {width: 2.75in; height: 4.25in; overflow: hidden; padding:.125in; font-size: 8pt; line-height: 1; position: relative;}
+.brochure-page {width: 2.75in; height: 4.25in; overflow: hidden; padding:.125in; font-size: 8pt; line-height: 1; font-weight: bold; position: relative;}
 .brochure-page h1, .brochure-page h2  {text-align: center; font-weight: bold;}
 .brochure-page p.overview {text-align: center; font-size: 125%;}
 .brochure-page .logo {text-align: center;}
 .brochure-page .logo img {width: 75%; margin: 0 auto;}
-.brochure-page h3 {margin-top: -.1in; line-height: 1; font-size: 175%;}
+.brochure-page h3 {margin-top: -.1in; line-height: 1; font-size: 175%; font-weight: 500;}
 .brochure-page .role {font-size: .75em; font-style: italic;}
 .brochure-page div.avatar {margin-left: 0;}
 .brochure-page .avatar img {width: 1.25in;}
@@ -66,7 +70,11 @@ type: text/vnd.tiddlywiki
 .print-brochure div.brochure-only {display: block;}
 .brochure-page .skip-in-brochure {display: none;}
 
-.print-brochure .brochure-page.page-15, .print-brochure .brochure-page.page-16 {text-align: center; font-size: 200%; border: 15px solid blue; padding-top: 3em; margin-top: .5em; font-weight: bold;}
+.print-brochure .brochure-page.page-15, .print-brochure .brochure-page.page-16 {
+  text-align: center; font-size: 200%; border: 15px solid blue; padding-top: 3em; margin-top: .5em; font-weight: bold;
+  .attribution {font-size: 42%; line-height: .4; font-weight: normal;}
+  .spacer {margin-top: 1.5em;}
+}
 
 
 @media print {
