@@ -1,3 +1,9 @@
+created: 20230818010833230
+modified: 20260115232522798
+tags: $:/tags/Stylesheet
+title: $:/_/adtc/styles/custom
+type: text/vnd.tiddlywiki
+
 table.boards th.board-header { background-color: transparent; text-align: left; font-size: 1.25em; padding: 1.25em 0.125em 0.5em;}
 .doc-icon svg {width: 1em; height: 1em; vertical-align: middle;}
 a .doc-icon svg {fill: #5778d8;}
@@ -50,5 +56,29 @@ ul.residents {list-style: none; padding-left: 1em;}
 
 .brochure-only {display: none;}
 
+.dateline {text-align: center; font-style: italic;}
+
 div.takeaway {background: #efe; border: 1px solid #999; margin-left: 1.5em; padding: .5em;}
 li div.takeaway {margin-left: 0;}
+
+@media print {
+  h2, h3 {page-break-after: avoid;}
+  h2.tx-title {margin-bottom: .5in;}
+  h2 {margin-top: .5in;}
+  .tc-tags-wrapper {display: none;}
+  .tc-tiddler-body {text-align: justify;}
+  a, a.tc-tiddlylink, a.tc-tiddlylink-external, a.tc-tiddlylink-external:visited {
+    text-decoration: none; 
+    color: <<colour foreground>>;
+  }
+  .tc-story-river {margin-left: .125in; margin-right: .125in;}
+  .tc-subtitle {display: none;}
+  .titlebar {text-align: center; margin: auto;}
+}
+@page {
+  size: 8.5in 11in; 
+  margin: .75in;
+}
+@page {@bottom-center {content: counter(page);}}
+@page:first {margin-top: 1in;}
+
