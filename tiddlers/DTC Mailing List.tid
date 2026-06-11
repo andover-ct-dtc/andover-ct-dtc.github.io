@@ -1,10 +1,12 @@
+caption: Andover DTC Mailing List
 created: 20240322013330242
-modified: 20251003212505260
+modified: 20260513233408365
 tags: TableOfContents
 title: DTC Mailing List
 type: text/vnd.tiddlywiki
 
 <!-- TODO: Add checkboxes for fields to in/exclude in lists -->
+<hr/>
 <$let by-last ="[{!!last-name}] [{!!first-name}] +[join[, ]]", by-person-last="[get[name]get[last-name]] [get[name]get[first-name]] +[join[, ]]">
 <$list filter="[tag[Position]organization[Democratic Town Committee]]  +[sortsub:string<by-person-last>]"><$let person={{!!name}} >
 <br/>
@@ -13,5 +15,6 @@ type: text/vnd.tiddlywiki
 Andover, CT 06232<br/>
 <$text text={{{ [<person>get[phone]] }}} /><br/>
 <$text text={{{ [<person>get[email]] }}} /><br/>
+<br/><hr/>
 </$let></$list>
 </$let>
